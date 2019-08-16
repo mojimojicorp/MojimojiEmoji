@@ -1,5 +1,7 @@
 # Emoji Extension
 
+![](https://img.shields.io/badge/language-javascript-red.svg)
+
 Emoji Extension application for whale browser.
 
 ## Resources
