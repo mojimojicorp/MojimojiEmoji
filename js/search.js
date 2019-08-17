@@ -12,5 +12,4 @@ document.getElementById("searchInput").addEventListener("change", function() {
       list[i].style.display = "none";
     }
   }
-  console.log();
 });
