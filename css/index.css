@@ -42,6 +42,12 @@ p {
   height: 45px;
   display: grid;
   grid-template-columns: repeat(9, 1fr);
+  justify-items: center;
+  align-items: center;
+}
+
+.emoji-nav a:link {
+  color: #8b8e91;
 }
 
 .emoji-search {
@@ -51,14 +57,35 @@ p {
 }
 
 .emoji-list {
-  background-color: blue;
-
   height: 310px;
   overflow: scroll;
   display: flex;
   flex-direction: column;
 }
 
+.emoji-span-container {
+  display: grid;
+  grid-template-columns: repeat(10, 1fr);
+  font-size: 22px;
+  justify-items: center;
+  align-items: center;
+}
+
+.intercom-emoji-picker-group-title {
+  font-size: 16px;
+  font-weight: 600;
+  color: #d8dde0;
+  padding-left: 10px;
+  margin-bottom: 15px;
+}
+.intercom-emoji-picker-group-title i {
+  margin-right: 5px;
+  font-size: 14px;
+}
+
+.emoji-span-container span {
+  height: 40px;
+}
 .container .footer {
   background-color: #bdc3c7;
   height: 55px;
