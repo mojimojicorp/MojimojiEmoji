@@ -7,6 +7,7 @@ Emoji Extension application for whale browser.
 ## Resources
 
 - [Whale developers](https://developers.whale.naver.com/)
+- [Font Awesome](https://fontawesome.com/)
 
 ## Contributing
 
