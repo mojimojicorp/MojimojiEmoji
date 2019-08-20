@@ -8,6 +8,7 @@ Emoji Extension application for whale browser.
 
 - [Whale developers](https://developers.whale.naver.com/)
 - [Font Awesome](https://fontawesome.com/)
+- [Twemoji](https://twemoji.twitter.com)
 
 ## Contributing
 
