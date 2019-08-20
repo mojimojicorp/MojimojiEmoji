@@ -4,7 +4,7 @@ $.getJSON("../emoji.json", async function(emoji) {
   await (function() {
     emoji.forEach(async function(data) {
       var span = document.createElement("span");
-      span.setAttribute("class", "emoji");
+      span.setAttribute("class", "emoji-span");
       span.setAttribute("title", data.name);
       span.textContent = data.char;
 
