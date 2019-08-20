@@ -119,6 +119,10 @@ p {
   height: 40px;
 }
 
+.emoji-span-container span img {
+  height: 30px;
+}
+
 .group-title {
   font-size: 16px;
   font-weight: 600;

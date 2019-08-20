@@ -28,4 +28,9 @@ $.getJSON("../emoji.json", function(emoji) {
       await groups[8].appendChild(span);
     }
   });
+
+  twemoji.parse(document.body, {
+    folder: "../svg",
+    ext: ".svg"
+  });
 });
