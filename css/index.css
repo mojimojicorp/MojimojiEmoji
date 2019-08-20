@@ -141,15 +141,16 @@ p {
   float: left;
   width: 280px;
   height: 40px;
+}
+
+#copy_group {
+  width: 270px;
+  height: 40px;
+  padding-left: 10px;
   border: none;
   border-radius: 5px;
-  font-size: 25px;
+  font-size: 16px;
   background-color: white;
-  overflow: scroll;
-  overflow-y: hidden;
-  overflow-x: scroll;
-  display: flex;
-  flex-direction: column;
 }
 
 #copy_btn {
@@ -158,10 +159,11 @@ p {
   color: white;
   display: inline;
   border: none;
+  border-radius: 5px;
   height: 40px;
   width: 90px;
   margin-left: 10px;
+  font-size: 15px;
   font-weight: 600;
-  border-radius: 10px;
   cursor: pointer;
 }

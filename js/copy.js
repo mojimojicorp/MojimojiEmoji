@@ -15,9 +15,9 @@ function copy() {
       "click",
       function() {
         var img = element.querySelectorAll(".emoji")[0];
-        let content = document.getElementById("copy_group").innerHTML;
+        let content = document.getElementById("copy_group").value;
         content = content.concat(img.alt);
-        document.getElementById("copy_group").innerHTML = content;
+        document.getElementById("copy_group").value = content;
       },
       false
     );
