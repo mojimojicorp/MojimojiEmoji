@@ -1,14 +1,14 @@
 [
   {
-    "codes": "1F604",
-    "char": "😄",
-    "name": "grinning face with smiling eyes",
-    "category": "people"
-  },
-  {
     "codes": "1F600",
     "char": "😀",
     "name": "grinning face",
+    "category": "people"
+  },
+  {
+    "codes": "1F604",
+    "char": "😄",
+    "name": "grinning face with smiling eyes",
     "category": "people"
   },
   {
@@ -1659,18 +1659,6 @@
     "codes": "1F4AA 1F3FF",
     "char": "💪🏿",
     "name": "flexed biceps: dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F9BE",
-    "char": "🦾",
-    "name": "mechanical arm",
-    "category": "people"
-  },
-  {
-    "codes": "1F9BF",
-    "char": "🦿",
-    "name": "mechanical leg",
     "category": "people"
   },
   { "codes": "1F9B5", "char": "🦵", "name": "leg", "category": "people" },
@@ -4977,48 +4965,6 @@
     "category": "people"
   },
   {
-    "codes": "1F574 FE0F",
-    "char": "🕴️",
-    "name": "man in suit levitating",
-    "category": "people"
-  },
-  {
-    "codes": "1F574",
-    "char": "🕴",
-    "name": "man in suit levitating",
-    "category": "people"
-  },
-  {
-    "codes": "1F574 1F3FB",
-    "char": "🕴🏻",
-    "name": "man in suit levitating: light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F574 1F3FC",
-    "char": "🕴🏼",
-    "name": "man in suit levitating: medium-light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F574 1F3FD",
-    "char": "🕴🏽",
-    "name": "man in suit levitating: medium skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F574 1F3FE",
-    "char": "🕴🏾",
-    "name": "man in suit levitating: medium-dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F574 1F3FF",
-    "char": "🕴🏿",
-    "name": "man in suit levitating: dark skin tone",
-    "category": "people"
-  },
-  {
     "codes": "1F46F",
     "char": "👯",
     "name": "people with bunny ears",
@@ -7385,12 +7331,6 @@
   },
   { "codes": "26BE", "char": "⚾", "name": "baseball", "category": "activity" },
   {
-    "codes": "1F94E",
-    "char": "🥎",
-    "name": "softball",
-    "category": "activity"
-  },
-  {
     "codes": "1F3C0",
     "char": "🏀",
     "name": "basketball",
@@ -7547,7 +7487,6 @@
     "name": "joystick",
     "category": "activity"
   },
-  { "codes": "1F579", "char": "🕹", "name": "joystick", "category": "activity" },
   {
     "codes": "1F3B0",
     "char": "🎰",
@@ -7814,7 +7753,6 @@
     "name": "hot springs",
     "category": "places"
   },
-  { "codes": "2668", "char": "♨", "name": "hot springs", "category": "places" },
   {
     "codes": "1F3A0",
     "char": "🎠",
@@ -7914,19 +7852,7 @@
     "name": "police car",
     "category": "places"
   },
-  {
-    "codes": "1F694",
-    "char": "🚔",
-    "name": "oncoming police car",
-    "category": "places"
-  },
   { "codes": "1F695", "char": "🚕", "name": "taxi", "category": "places" },
-  {
-    "codes": "1F696",
-    "char": "🚖",
-    "name": "oncoming taxi",
-    "category": "places"
-  },
   {
     "codes": "1F697",
     "char": "🚗",
@@ -7957,69 +7883,11 @@
     "name": "articulated lorry",
     "category": "places"
   },
-  { "codes": "1F69C", "char": "🚜", "name": "tractor", "category": "places" },
-  {
-    "codes": "1F3CE FE0F",
-    "char": "🏎️",
-    "name": "racing car",
-    "category": "places"
-  },
-  { "codes": "1F3CE", "char": "🏎", "name": "racing car", "category": "places" },
-  {
-    "codes": "1F3CD FE0F",
-    "char": "🏍️",
-    "name": "motorcycle",
-    "category": "places"
-  },
-  { "codes": "1F3CD", "char": "🏍", "name": "motorcycle", "category": "places" },
-  {
-    "codes": "1F6F5",
-    "char": "🛵",
-    "name": "motor scooter",
-    "category": "places"
-  },
-  {
-    "codes": "1F9BD",
-    "char": "🦽",
-    "name": "manual wheelchair",
-    "category": "places"
-  },
-  {
-    "codes": "1F9BC",
-    "char": "🦼",
-    "name": "motorized wheelchair",
-    "category": "places"
-  },
-  {
-    "codes": "1F6FA",
-    "char": "🛺",
-    "name": "auto rickshaw",
-    "category": "places"
-  },
   { "codes": "1F6B2", "char": "🚲", "name": "bicycle", "category": "places" },
   {
     "codes": "1F6F4",
     "char": "🛴",
     "name": "kick scooter",
-    "category": "places"
-  },
-  {
-    "codes": "1F6F9",
-    "char": "🛹",
-    "name": "skateboard",
-    "category": "places"
-  },
-  { "codes": "1F68F", "char": "🚏", "name": "bus stop", "category": "places" },
-  {
-    "codes": "1F6E3 FE0F",
-    "char": "🛣️",
-    "name": "motorway",
-    "category": "places"
-  },
-  {
-    "codes": "1F6E4 FE0F",
-    "char": "🛤️",
-    "name": "railway track",
     "category": "places"
   },
   { "codes": "26FD", "char": "⛽", "name": "fuel pump", "category": "places" },
@@ -8057,14 +7925,12 @@
     "name": "passenger ship",
     "category": "places"
   },
-  { "codes": "26F4 FE0F", "char": "⛴️", "name": "ferry", "category": "places" },
   {
     "codes": "1F6E5 FE0F",
     "char": "🛥️",
     "name": "motor boat",
     "category": "places"
   },
-  { "codes": "1F6E5", "char": "🛥", "name": "motor boat", "category": "places" },
   { "codes": "1F6A2", "char": "🚢", "name": "ship", "category": "places" },
   {
     "codes": "2708 FE0F",
@@ -8151,12 +8017,6 @@
   {
     "codes": "1F570 FE0F",
     "char": "🕰️",
-    "name": "mantelpiece clock",
-    "category": "places"
-  },
-  {
-    "codes": "1F570",
-    "char": "🕰",
     "name": "mantelpiece clock",
     "category": "places"
   },
@@ -8311,20 +8171,6 @@
     "name": "sunglasses",
     "category": "objects"
   },
-  {
-    "codes": "1F576",
-    "char": "🕶",
-    "name": "sunglasses",
-    "category": "objects"
-  },
-  { "codes": "1F97D", "char": "🥽", "name": "goggles", "category": "objects" },
-  { "codes": "1F97C", "char": "🥼", "name": "lab coat", "category": "objects" },
-  {
-    "codes": "1F9BA",
-    "char": "🦺",
-    "name": "safety vest",
-    "category": "objects"
-  },
   { "codes": "1F454", "char": "👔", "name": "necktie", "category": "objects" },
   { "codes": "1F455", "char": "👕", "name": "t-shirt", "category": "objects" },
   { "codes": "1F456", "char": "👖", "name": "jeans", "category": "objects" },
@@ -8333,8 +8179,6 @@
   { "codes": "1F9E5", "char": "🧥", "name": "coat", "category": "objects" },
   { "codes": "1F9E6", "char": "🧦", "name": "socks", "category": "objects" },
   { "codes": "1F457", "char": "👗", "name": "dress", "category": "objects" },
-  { "codes": "1F458", "char": "👘", "name": "kimono", "category": "objects" },
-  { "codes": "1F97B", "char": "🥻", "name": "sari", "category": "objects" },
   {
     "codes": "1FA71",
     "char": "🩱",
@@ -8366,12 +8210,6 @@
   {
     "codes": "1F6CD FE0F",
     "char": "🛍️",
-    "name": "shopping bags",
-    "category": "objects"
-  },
-  {
-    "codes": "1F6CD",
-    "char": "🛍",
     "name": "shopping bags",
     "category": "objects"
   },
@@ -8629,14 +8467,12 @@
     "name": "printer",
     "category": "objects"
   },
-  { "codes": "1F5A8", "char": "🖨", "name": "printer", "category": "objects" },
   {
     "codes": "2328 FE0F",
     "char": "⌨️",
     "name": "keyboard",
     "category": "objects"
   },
-  { "codes": "2328", "char": "⌨", "name": "keyboard", "category": "objects" },
   {
     "codes": "1F5B1 FE0F",
     "char": "🖱️",
@@ -9091,7 +8927,6 @@
     "name": "scissors",
     "category": "objects"
   },
-  { "codes": "2702", "char": "✂", "name": "scissors", "category": "objects" },
   {
     "codes": "1F5C3 FE0F",
     "char": "🗃️",
@@ -9107,12 +8942,6 @@
   {
     "codes": "1F5D1 FE0F",
     "char": "🗑️",
-    "name": "wastebasket",
-    "category": "objects"
-  },
-  {
-    "codes": "1F5D1",
-    "char": "🗑",
     "name": "wastebasket",
     "category": "objects"
   },
