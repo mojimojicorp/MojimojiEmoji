@@ -115,25 +115,38 @@ p {
   align-items: center;
   cursor: pointer;
 }
+.emoji-span-container span {
+  height: 40px;
+}
 
-.intercom-emoji-picker-group-title {
+.group-title {
   font-size: 16px;
   font-weight: 600;
   color: #d8dde0;
   padding-left: 10px;
   margin-bottom: 15px;
 }
-.intercom-emoji-picker-group-title i {
+.group-title i {
   margin-right: 5px;
   font-size: 14px;
 }
 
-.emoji-span-container span {
-  height: 40px;
-}
 .container .footer {
   background-color: #bdc3c7;
   height: 55px;
   display: grid;
   grid-template-columns: 1fr 1fr;
+}
+
+.status {
+  vertical-align: middle;
+  padding-top:6px;
+  padding-left:10px;
+}
+
+.status_child {
+  width:150%;
+  height:40px;
+  border:1px;
+  background-color:white;
 }
