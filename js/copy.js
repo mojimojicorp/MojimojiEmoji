@@ -19,3 +19,10 @@ function copy() {
     });
 }
 
+const btn = document.getElementById('copy_btn');
+new Clipboard(btn, {
+    text: function () {
+        const content = document.getElementById('copy_group');
+        return content.innerHTML;
+    }
+});
