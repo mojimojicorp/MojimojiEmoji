@@ -61,3 +61,6 @@
 # 3D Images
 *.3dm
 *.max
+
+#node_modules
+node_modules
