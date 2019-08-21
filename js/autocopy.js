@@ -30,3 +30,9 @@ function autocopy() {
       });
     });
 }
+
+
+const reset = document.getElementById("reset_btn");
+reset.addEventListener("click", function(){
+    document.getElementById("copy_group").value = '';
+}, false);
