@@ -1,4 +1,15 @@
+function getRecent() {
+  let groups = document.getElementsByClassName("emoji-span-container");
+  let recentGroup = groups[0];
+
+  let recent = localStorage.getItem("recent");
+
+  console.log(recent);
+}
+
 $.getJSON("../emoji.json", async function(emoji) {
+  getRecent();
+
   var groups = document.getElementsByClassName("emoji-span-container");
 
   await (function() {
