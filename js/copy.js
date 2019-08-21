@@ -58,6 +58,7 @@ function copy() {
         let name = img.parentElement.getAttribute("title");
         let char = img.alt;
         store(name, char);
+        getRecent();
 
         let content = document.getElementById("copy_group").value;
         content = content.concat(img.alt);

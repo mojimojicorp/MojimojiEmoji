@@ -1,10 +1,25 @@
 function getRecent() {
   let groups = document.getElementsByClassName("emoji-span-container");
   let recentGroup = groups[0];
+  recentGroup.innerHTML = "";
 
   let recent = localStorage.getItem("recent");
+  const parsedRecent = JSON.parse(recent);
+  parsedRecent.reverse();
 
-  console.log(recent);
+  parsedRecent.forEach(function(data) {
+    var span = document.createElement("span");
+    span.setAttribute("class", "emoji-span");
+    span.setAttribute("title", data.name);
+    span.textContent = data.char;
+
+    recentGroup.appendChild(span);
+  });
+
+  twemoji.parse(document.body, {
+    folder: "../svg",
+    ext: ".svg"
+  });
 }
 
 $.getJSON("../emoji.json", async function(emoji) {
