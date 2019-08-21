@@ -36,12 +36,6 @@
     "category": "people"
   },
   {
-    "codes": "1F923",
-    "char": "🤣",
-    "name": "rolling on the floor laughing",
-    "category": "people"
-  },
-  {
     "codes": "1F602",
     "char": "😂",
     "name": "face with tears of joy",
@@ -51,12 +45,6 @@
     "codes": "1F642",
     "char": "🙂",
     "name": "slightly smiling face",
-    "category": "people"
-  },
-  {
-    "codes": "1F643",
-    "char": "🙃",
-    "name": "upside-down face",
     "category": "people"
   },
   {
@@ -72,21 +60,9 @@
     "category": "people"
   },
   {
-    "codes": "1F970",
-    "char": "🥰",
-    "name": "smiling face with hearts",
-    "category": "people"
-  },
-  {
     "codes": "1F60D",
     "char": "😍",
     "name": "smiling face with heart-eyes",
-    "category": "people"
-  },
-  {
-    "codes": "1F929",
-    "char": "🤩",
-    "name": "star-struck",
     "category": "people"
   },
   {
@@ -125,53 +101,10 @@
     "name": "winking face with tongue",
     "category": "people"
   },
-  { "codes": "1F92A", "char": "🤪", "name": "zany face", "category": "people" },
   {
     "codes": "1F61D",
     "char": "😝",
     "name": "squinting face with tongue",
-    "category": "people"
-  },
-  {
-    "codes": "1F911",
-    "char": "🤑",
-    "name": "money-mouth face",
-    "category": "people"
-  },
-  {
-    "codes": "1F917",
-    "char": "🤗",
-    "name": "hugging face",
-    "category": "people"
-  },
-  {
-    "codes": "1F92D",
-    "char": "🤭",
-    "name": "face with hand over mouth",
-    "category": "people"
-  },
-  {
-    "codes": "1F92B",
-    "char": "🤫",
-    "name": "shushing face",
-    "category": "people"
-  },
-  {
-    "codes": "1F914",
-    "char": "🤔",
-    "name": "thinking face",
-    "category": "people"
-  },
-  {
-    "codes": "1F910",
-    "char": "🤐",
-    "name": "zipper-mouth face",
-    "category": "people"
-  },
-  {
-    "codes": "1F928",
-    "char": "🤨",
-    "name": "face with raised eyebrow",
     "category": "people"
   },
   {
@@ -199,21 +132,9 @@
     "category": "people"
   },
   {
-    "codes": "1F644",
-    "char": "🙄",
-    "name": "face with rolling eyes",
-    "category": "people"
-  },
-  {
     "codes": "1F62C",
     "char": "😬",
     "name": "grimacing face",
-    "category": "people"
-  },
-  {
-    "codes": "1F925",
-    "char": "🤥",
-    "name": "lying face",
     "category": "people"
   },
   {
@@ -247,47 +168,9 @@
     "category": "people"
   },
   {
-    "codes": "1F912",
-    "char": "🤒",
-    "name": "face with thermometer",
-    "category": "people"
-  },
-  {
-    "codes": "1F915",
-    "char": "🤕",
-    "name": "face with head-bandage",
-    "category": "people"
-  },
-  {
-    "codes": "1F922",
-    "char": "🤢",
-    "name": "nauseated face",
-    "category": "people"
-  },
-  {
-    "codes": "1F92E",
-    "char": "🤮",
-    "name": "face vomiting",
-    "category": "people"
-  },
-  {
-    "codes": "1F927",
-    "char": "🤧",
-    "name": "sneezing face",
-    "category": "people"
-  },
-  { "codes": "1F975", "char": "🥵", "name": "hot face", "category": "people" },
-  { "codes": "1F976", "char": "🥶", "name": "cold face", "category": "people" },
-  {
     "codes": "1F635",
     "char": "😵",
     "name": "dizzy face",
-    "category": "people"
-  },
-  {
-    "codes": "1F92F",
-    "char": "🤯",
-    "name": "exploding head",
     "category": "people"
   },
   {
@@ -308,7 +191,6 @@
     "name": "smiling face with sunglasses",
     "category": "people"
   },
-  { "codes": "1F913", "char": "🤓", "name": "nerd face", "category": "people" },
   {
     "codes": "1F615",
     "char": "😕",
@@ -343,12 +225,6 @@
     "codes": "1F633",
     "char": "😳",
     "name": "flushed face",
-    "category": "people"
-  },
-  {
-    "codes": "1F97A",
-    "char": "🥺",
-    "name": "pleading face",
     "category": "people"
   },
   {
@@ -436,12 +312,6 @@
     "category": "people"
   },
   {
-    "codes": "1F92C",
-    "char": "🤬",
-    "name": "face with symbols on mouth",
-    "category": "people"
-  },
-  {
     "codes": "1F608",
     "char": "😈",
     "name": "smiling face with horns",
@@ -449,21 +319,9 @@
   },
   { "codes": "1F480", "char": "💀", "name": "skull", "category": "people" },
   {
-    "codes": "2620 FE0F",
-    "char": "☠️",
-    "name": "skull and crossbones",
-    "category": "people"
-  },
-  {
     "codes": "1F4A9",
     "char": "💩",
     "name": "pile of poo",
-    "category": "people"
-  },
-  {
-    "codes": "1F921",
-    "char": "🤡",
-    "name": "clown face",
     "category": "people"
   },
   { "codes": "1F479", "char": "👹", "name": "ogre", "category": "people" },
@@ -531,84 +389,6 @@
     "category": "people"
   },
   {
-    "codes": "1F91A",
-    "char": "🤚",
-    "name": "raised back of hand",
-    "category": "people"
-  },
-  {
-    "codes": "1F91A 1F3FB",
-    "char": "🤚🏻",
-    "name": "raised back of hand: light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F91A 1F3FC",
-    "char": "🤚🏼",
-    "name": "raised back of hand: medium-light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F91A 1F3FD",
-    "char": "🤚🏽",
-    "name": "raised back of hand: medium skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F91A 1F3FE",
-    "char": "🤚🏾",
-    "name": "raised back of hand: medium-dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F91A 1F3FF",
-    "char": "🤚🏿",
-    "name": "raised back of hand: dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F590 FE0F",
-    "char": "🖐️",
-    "name": "hand with fingers splayed",
-    "category": "people"
-  },
-  {
-    "codes": "1F590",
-    "char": "🖐",
-    "name": "hand with fingers splayed",
-    "category": "people"
-  },
-  {
-    "codes": "1F590 1F3FB",
-    "char": "🖐🏻",
-    "name": "hand with fingers splayed: light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F590 1F3FC",
-    "char": "🖐🏼",
-    "name": "hand with fingers splayed: medium-light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F590 1F3FD",
-    "char": "🖐🏽",
-    "name": "hand with fingers splayed: medium skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F590 1F3FE",
-    "char": "🖐🏾",
-    "name": "hand with fingers splayed: medium-dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F590 1F3FF",
-    "char": "🖐🏿",
-    "name": "hand with fingers splayed: dark skin tone",
-    "category": "people"
-  },
-  {
     "codes": "270B",
     "char": "✋",
     "name": "raised hand",
@@ -644,42 +424,6 @@
     "name": "raised hand: dark skin tone",
     "category": "people"
   },
-  {
-    "codes": "1F596",
-    "char": "🖖",
-    "name": "vulcan salute",
-    "category": "people"
-  },
-  {
-    "codes": "1F596 1F3FB",
-    "char": "🖖🏻",
-    "name": "vulcan salute: light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F596 1F3FC",
-    "char": "🖖🏼",
-    "name": "vulcan salute: medium-light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F596 1F3FD",
-    "char": "🖖🏽",
-    "name": "vulcan salute: medium skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F596 1F3FE",
-    "char": "🖖🏾",
-    "name": "vulcan salute: medium-dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F596 1F3FF",
-    "char": "🖖🏿",
-    "name": "vulcan salute: dark skin tone",
-    "category": "people"
-  },
   { "codes": "1F44C", "char": "👌", "name": "OK hand", "category": "people" },
   {
     "codes": "1F44C 1F3FB",
@@ -712,50 +456,8 @@
     "category": "people"
   },
   {
-    "codes": "1F90F",
-    "char": "🤏",
-    "name": "pinching hand",
-    "category": "people"
-  },
-  {
-    "codes": "1F90F 1F3FB",
-    "char": "🤏🏻",
-    "name": "pinching hand: light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F90F 1F3FC",
-    "char": "🤏🏼",
-    "name": "pinching hand: medium-light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F90F 1F3FD",
-    "char": "🤏🏽",
-    "name": "pinching hand: medium skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F90F 1F3FE",
-    "char": "🤏🏾",
-    "name": "pinching hand: medium-dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F90F 1F3FF",
-    "char": "🤏🏿",
-    "name": "pinching hand: dark skin tone",
-    "category": "people"
-  },
-  {
     "codes": "270C FE0F",
     "char": "✌️",
-    "name": "victory hand",
-    "category": "people"
-  },
-  {
-    "codes": "270C",
-    "char": "✌",
     "name": "victory hand",
     "category": "people"
   },
@@ -787,150 +489,6 @@
     "codes": "270C 1F3FF",
     "char": "✌🏿",
     "name": "victory hand: dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F91E",
-    "char": "🤞",
-    "name": "crossed fingers",
-    "category": "people"
-  },
-  {
-    "codes": "1F91E 1F3FB",
-    "char": "🤞🏻",
-    "name": "crossed fingers: light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F91E 1F3FC",
-    "char": "🤞🏼",
-    "name": "crossed fingers: medium-light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F91E 1F3FD",
-    "char": "🤞🏽",
-    "name": "crossed fingers: medium skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F91E 1F3FE",
-    "char": "🤞🏾",
-    "name": "crossed fingers: medium-dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F91E 1F3FF",
-    "char": "🤞🏿",
-    "name": "crossed fingers: dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F91F",
-    "char": "🤟",
-    "name": "love-you gesture",
-    "category": "people"
-  },
-  {
-    "codes": "1F91F 1F3FB",
-    "char": "🤟🏻",
-    "name": "love-you gesture: light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F91F 1F3FC",
-    "char": "🤟🏼",
-    "name": "love-you gesture: medium-light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F91F 1F3FD",
-    "char": "🤟🏽",
-    "name": "love-you gesture: medium skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F91F 1F3FE",
-    "char": "🤟🏾",
-    "name": "love-you gesture: medium-dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F91F 1F3FF",
-    "char": "🤟🏿",
-    "name": "love-you gesture: dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F918",
-    "char": "🤘",
-    "name": "sign of the horns",
-    "category": "people"
-  },
-  {
-    "codes": "1F918 1F3FB",
-    "char": "🤘🏻",
-    "name": "sign of the horns: light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F918 1F3FC",
-    "char": "🤘🏼",
-    "name": "sign of the horns: medium-light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F918 1F3FD",
-    "char": "🤘🏽",
-    "name": "sign of the horns: medium skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F918 1F3FE",
-    "char": "🤘🏾",
-    "name": "sign of the horns: medium-dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F918 1F3FF",
-    "char": "🤘🏿",
-    "name": "sign of the horns: dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F919",
-    "char": "🤙",
-    "name": "call me hand",
-    "category": "people"
-  },
-  {
-    "codes": "1F919 1F3FB",
-    "char": "🤙🏻",
-    "name": "call me hand: light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F919 1F3FC",
-    "char": "🤙🏼",
-    "name": "call me hand: medium-light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F919 1F3FD",
-    "char": "🤙🏽",
-    "name": "call me hand: medium skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F919 1F3FE",
-    "char": "🤙🏾",
-    "name": "call me hand: medium-dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F919 1F3FF",
-    "char": "🤙🏿",
-    "name": "call me hand: dark skin tone",
     "category": "people"
   },
   {
@@ -1039,42 +597,6 @@
     "codes": "1F446 1F3FF",
     "char": "👆🏿",
     "name": "backhand index pointing up: dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F595",
-    "char": "🖕",
-    "name": "middle finger",
-    "category": "people"
-  },
-  {
-    "codes": "1F595 1F3FB",
-    "char": "🖕🏻",
-    "name": "middle finger: light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F595 1F3FC",
-    "char": "🖕🏼",
-    "name": "middle finger: medium-light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F595 1F3FD",
-    "char": "🖕🏽",
-    "name": "middle finger: medium skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F595 1F3FE",
-    "char": "🖕🏾",
-    "name": "middle finger: medium-dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F595 1F3FF",
-    "char": "🖕🏿",
-    "name": "middle finger: dark skin tone",
     "category": "people"
   },
   {
@@ -1295,78 +817,6 @@
     "category": "people"
   },
   {
-    "codes": "1F91B",
-    "char": "🤛",
-    "name": "left-facing fist",
-    "category": "people"
-  },
-  {
-    "codes": "1F91B 1F3FB",
-    "char": "🤛🏻",
-    "name": "left-facing fist: light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F91B 1F3FC",
-    "char": "🤛🏼",
-    "name": "left-facing fist: medium-light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F91B 1F3FD",
-    "char": "🤛🏽",
-    "name": "left-facing fist: medium skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F91B 1F3FE",
-    "char": "🤛🏾",
-    "name": "left-facing fist: medium-dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F91B 1F3FF",
-    "char": "🤛🏿",
-    "name": "left-facing fist: dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F91C",
-    "char": "🤜",
-    "name": "right-facing fist",
-    "category": "people"
-  },
-  {
-    "codes": "1F91C 1F3FB",
-    "char": "🤜🏻",
-    "name": "right-facing fist: light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F91C 1F3FC",
-    "char": "🤜🏼",
-    "name": "right-facing fist: medium-light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F91C 1F3FD",
-    "char": "🤜🏽",
-    "name": "right-facing fist: medium skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F91C 1F3FE",
-    "char": "🤜🏾",
-    "name": "right-facing fist: medium-dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F91C 1F3FF",
-    "char": "🤜🏿",
-    "name": "right-facing fist: dark skin tone",
-    "category": "people"
-  },
-  {
     "codes": "1F44F",
     "char": "👏",
     "name": "clapping hands",
@@ -1475,43 +925,6 @@
     "category": "people"
   },
   {
-    "codes": "1F932",
-    "char": "🤲",
-    "name": "palms up together",
-    "category": "people"
-  },
-  {
-    "codes": "1F932 1F3FB",
-    "char": "🤲🏻",
-    "name": "palms up together: light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F932 1F3FC",
-    "char": "🤲🏼",
-    "name": "palms up together: medium-light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F932 1F3FD",
-    "char": "🤲🏽",
-    "name": "palms up together: medium skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F932 1F3FE",
-    "char": "🤲🏾",
-    "name": "palms up together: medium-dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F932 1F3FF",
-    "char": "🤲🏿",
-    "name": "palms up together: dark skin tone",
-    "category": "people"
-  },
-  { "codes": "1F91D", "char": "🤝", "name": "handshake", "category": "people" },
-  {
     "codes": "1F64F",
     "char": "🙏",
     "name": "folded hands",
@@ -1545,48 +958,6 @@
     "codes": "1F64F 1F3FF",
     "char": "🙏🏿",
     "name": "folded hands: dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "270D FE0F",
-    "char": "✍️",
-    "name": "writing hand",
-    "category": "people"
-  },
-  {
-    "codes": "270D",
-    "char": "✍",
-    "name": "writing hand",
-    "category": "people"
-  },
-  {
-    "codes": "270D 1F3FB",
-    "char": "✍🏻",
-    "name": "writing hand: light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "270D 1F3FC",
-    "char": "✍🏼",
-    "name": "writing hand: medium-light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "270D 1F3FD",
-    "char": "✍🏽",
-    "name": "writing hand: medium skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "270D 1F3FE",
-    "char": "✍🏾",
-    "name": "writing hand: medium-dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "270D 1F3FF",
-    "char": "✍🏿",
-    "name": "writing hand: dark skin tone",
     "category": "people"
   },
   {
@@ -1661,68 +1032,6 @@
     "name": "flexed biceps: dark skin tone",
     "category": "people"
   },
-  { "codes": "1F9B5", "char": "🦵", "name": "leg", "category": "people" },
-  {
-    "codes": "1F9B5 1F3FB",
-    "char": "🦵🏻",
-    "name": "leg: light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F9B5 1F3FC",
-    "char": "🦵🏼",
-    "name": "leg: medium-light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F9B5 1F3FD",
-    "char": "🦵🏽",
-    "name": "leg: medium skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F9B5 1F3FE",
-    "char": "🦵🏾",
-    "name": "leg: medium-dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F9B5 1F3FF",
-    "char": "🦵🏿",
-    "name": "leg: dark skin tone",
-    "category": "people"
-  },
-  { "codes": "1F9B6", "char": "🦶", "name": "foot", "category": "people" },
-  {
-    "codes": "1F9B6 1F3FB",
-    "char": "🦶🏻",
-    "name": "foot: light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F9B6 1F3FC",
-    "char": "🦶🏼",
-    "name": "foot: medium-light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F9B6 1F3FD",
-    "char": "🦶🏽",
-    "name": "foot: medium skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F9B6 1F3FE",
-    "char": "🦶🏾",
-    "name": "foot: medium-dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F9B6 1F3FF",
-    "char": "🦶🏿",
-    "name": "foot: dark skin tone",
-    "category": "people"
-  },
   { "codes": "1F442", "char": "👂", "name": "ear", "category": "people" },
   {
     "codes": "1F442 1F3FB",
@@ -1752,42 +1061,6 @@
     "codes": "1F442 1F3FF",
     "char": "👂🏿",
     "name": "ear: dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F9BB",
-    "char": "🦻",
-    "name": "ear with hearing aid",
-    "category": "people"
-  },
-  {
-    "codes": "1F9BB 1F3FB",
-    "char": "🦻🏻",
-    "name": "ear with hearing aid: light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F9BB 1F3FC",
-    "char": "🦻🏼",
-    "name": "ear with hearing aid: medium-light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F9BB 1F3FD",
-    "char": "🦻🏽",
-    "name": "ear with hearing aid: medium skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F9BB 1F3FE",
-    "char": "🦻🏾",
-    "name": "ear with hearing aid: medium-dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F9BB 1F3FF",
-    "char": "🦻🏿",
-    "name": "ear with hearing aid: dark skin tone",
     "category": "people"
   },
   { "codes": "1F443", "char": "👃", "name": "nose", "category": "people" },
@@ -1821,12 +1094,7 @@
     "name": "nose: dark skin tone",
     "category": "people"
   },
-  { "codes": "1F9E0", "char": "🧠", "name": "brain", "category": "people" },
-  { "codes": "1F9B7", "char": "🦷", "name": "tooth", "category": "people" },
-  { "codes": "1F9B4", "char": "🦴", "name": "bone", "category": "people" },
   { "codes": "1F440", "char": "👀", "name": "eyes", "category": "people" },
-  { "codes": "1F441 FE0F", "char": "👁️", "name": "eye", "category": "people" },
-  { "codes": "1F441", "char": "👁", "name": "eye", "category": "people" },
   { "codes": "1F445", "char": "👅", "name": "tongue", "category": "people" },
   { "codes": "1F444", "char": "👄", "name": "mouth", "category": "people" },
   { "codes": "1F476", "char": "👶", "name": "baby", "category": "people" },
@@ -1860,7 +1128,6 @@
     "name": "baby: dark skin tone",
     "category": "people"
   },
-  { "codes": "1F9D2", "char": "🧒", "name": "child", "category": "people" },
   {
     "codes": "1F9D2 1F3FB",
     "char": "🧒🏻",
@@ -1953,43 +1220,6 @@
     "name": "girl: dark skin tone",
     "category": "people"
   },
-  { "codes": "1F9D1", "char": "🧑", "name": "person", "category": "people" },
-  {
-    "codes": "1F9D1 1F3FB",
-    "char": "🧑🏻",
-    "name": "person: light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F9D1 1F3FC",
-    "char": "🧑🏼",
-    "name": "person: medium-light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F9D1 1F3FD",
-    "char": "🧑🏽",
-    "name": "person: medium skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F9D1 1F3FE",
-    "char": "🧑🏾",
-    "name": "person: medium-dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F9D1 1F3FF",
-    "char": "🧑🏿",
-    "name": "person: dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F471",
-    "char": "👱",
-    "name": "person: blond hair",
-    "category": "people"
-  },
   {
     "codes": "1F471 1F3FB",
     "char": "👱🏻",
@@ -2051,186 +1281,6 @@
     "name": "man: dark skin tone",
     "category": "people"
   },
-  {
-    "codes": "1F9D4",
-    "char": "🧔",
-    "name": "man: beard",
-    "category": "people"
-  },
-  {
-    "codes": "1F9D4 1F3FB",
-    "char": "🧔🏻",
-    "name": "man: light skin tone, beard",
-    "category": "people"
-  },
-  {
-    "codes": "1F9D4 1F3FC",
-    "char": "🧔🏼",
-    "name": "man: medium-light skin tone, beard",
-    "category": "people"
-  },
-  {
-    "codes": "1F9D4 1F3FD",
-    "char": "🧔🏽",
-    "name": "man: medium skin tone, beard",
-    "category": "people"
-  },
-  {
-    "codes": "1F9D4 1F3FE",
-    "char": "🧔🏾",
-    "name": "man: medium-dark skin tone, beard",
-    "category": "people"
-  },
-  {
-    "codes": "1F9D4 1F3FF",
-    "char": "🧔🏿",
-    "name": "man: dark skin tone, beard",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 200D 1F9B0",
-    "char": "👨‍🦰",
-    "name": "man: red hair",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 1F3FB 200D 1F9B0",
-    "char": "👨🏻‍🦰",
-    "name": "man: light skin tone, red hair",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 1F3FC 200D 1F9B0",
-    "char": "👨🏼‍🦰",
-    "name": "man: medium-light skin tone, red hair",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 1F3FD 200D 1F9B0",
-    "char": "👨🏽‍🦰",
-    "name": "man: medium skin tone, red hair",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 1F3FE 200D 1F9B0",
-    "char": "👨🏾‍🦰",
-    "name": "man: medium-dark skin tone, red hair",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 1F3FF 200D 1F9B0",
-    "char": "👨🏿‍🦰",
-    "name": "man: dark skin tone, red hair",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 200D 1F9B1",
-    "char": "👨‍🦱",
-    "name": "man: curly hair",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 1F3FB 200D 1F9B1",
-    "char": "👨🏻‍🦱",
-    "name": "man: light skin tone, curly hair",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 1F3FC 200D 1F9B1",
-    "char": "👨🏼‍🦱",
-    "name": "man: medium-light skin tone, curly hair",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 1F3FD 200D 1F9B1",
-    "char": "👨🏽‍🦱",
-    "name": "man: medium skin tone, curly hair",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 1F3FE 200D 1F9B1",
-    "char": "👨🏾‍🦱",
-    "name": "man: medium-dark skin tone, curly hair",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 1F3FF 200D 1F9B1",
-    "char": "👨🏿‍🦱",
-    "name": "man: dark skin tone, curly hair",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 200D 1F9B3",
-    "char": "👨‍🦳",
-    "name": "man: white hair",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 1F3FB 200D 1F9B3",
-    "char": "👨🏻‍🦳",
-    "name": "man: light skin tone, white hair",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 1F3FC 200D 1F9B3",
-    "char": "👨🏼‍🦳",
-    "name": "man: medium-light skin tone, white hair",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 1F3FD 200D 1F9B3",
-    "char": "👨🏽‍🦳",
-    "name": "man: medium skin tone, white hair",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 1F3FE 200D 1F9B3",
-    "char": "👨🏾‍🦳",
-    "name": "man: medium-dark skin tone, white hair",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 1F3FF 200D 1F9B3",
-    "char": "👨🏿‍🦳",
-    "name": "man: dark skin tone, white hair",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 200D 1F9B2",
-    "char": "👨‍🦲",
-    "name": "man: bald",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 1F3FB 200D 1F9B2",
-    "char": "👨🏻‍🦲",
-    "name": "man: light skin tone, bald",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 1F3FC 200D 1F9B2",
-    "char": "👨🏼‍🦲",
-    "name": "man: medium-light skin tone, bald",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 1F3FD 200D 1F9B2",
-    "char": "👨🏽‍🦲",
-    "name": "man: medium skin tone, bald",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 1F3FE 200D 1F9B2",
-    "char": "👨🏾‍🦲",
-    "name": "man: medium-dark skin tone, bald",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 1F3FF 200D 1F9B2",
-    "char": "👨🏿‍🦲",
-    "name": "man: dark skin tone, bald",
-    "category": "people"
-  },
   { "codes": "1F469", "char": "👩", "name": "woman", "category": "people" },
   {
     "codes": "1F469 1F3FB",
@@ -2260,186 +1310,6 @@
     "codes": "1F469 1F3FF",
     "char": "👩🏿",
     "name": "woman: dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 200D 1F9B0",
-    "char": "👩‍🦰",
-    "name": "woman: red hair",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 1F3FB 200D 1F9B0",
-    "char": "👩🏻‍🦰",
-    "name": "woman: light skin tone, red hair",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 1F3FC 200D 1F9B0",
-    "char": "👩🏼‍🦰",
-    "name": "woman: medium-light skin tone, red hair",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 1F3FD 200D 1F9B0",
-    "char": "👩🏽‍🦰",
-    "name": "woman: medium skin tone, red hair",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 1F3FE 200D 1F9B0",
-    "char": "👩🏾‍🦰",
-    "name": "woman: medium-dark skin tone, red hair",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 1F3FF 200D 1F9B0",
-    "char": "👩🏿‍🦰",
-    "name": "woman: dark skin tone, red hair",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 200D 1F9B1",
-    "char": "👩‍🦱",
-    "name": "woman: curly hair",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 1F3FB 200D 1F9B1",
-    "char": "👩🏻‍🦱",
-    "name": "woman: light skin tone, curly hair",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 1F3FC 200D 1F9B1",
-    "char": "👩🏼‍🦱",
-    "name": "woman: medium-light skin tone, curly hair",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 1F3FD 200D 1F9B1",
-    "char": "👩🏽‍🦱",
-    "name": "woman: medium skin tone, curly hair",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 1F3FE 200D 1F9B1",
-    "char": "👩🏾‍🦱",
-    "name": "woman: medium-dark skin tone, curly hair",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 1F3FF 200D 1F9B1",
-    "char": "👩🏿‍🦱",
-    "name": "woman: dark skin tone, curly hair",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 200D 1F9B3",
-    "char": "👩‍🦳",
-    "name": "woman: white hair",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 1F3FB 200D 1F9B3",
-    "char": "👩🏻‍🦳",
-    "name": "woman: light skin tone, white hair",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 1F3FC 200D 1F9B3",
-    "char": "👩🏼‍🦳",
-    "name": "woman: medium-light skin tone, white hair",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 1F3FD 200D 1F9B3",
-    "char": "👩🏽‍🦳",
-    "name": "woman: medium skin tone, white hair",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 1F3FE 200D 1F9B3",
-    "char": "👩🏾‍🦳",
-    "name": "woman: medium-dark skin tone, white hair",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 1F3FF 200D 1F9B3",
-    "char": "👩🏿‍🦳",
-    "name": "woman: dark skin tone, white hair",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 200D 1F9B2",
-    "char": "👩‍🦲",
-    "name": "woman: bald",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 1F3FB 200D 1F9B2",
-    "char": "👩🏻‍🦲",
-    "name": "woman: light skin tone, bald",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 1F3FC 200D 1F9B2",
-    "char": "👩🏼‍🦲",
-    "name": "woman: medium-light skin tone, bald",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 1F3FD 200D 1F9B2",
-    "char": "👩🏽‍🦲",
-    "name": "woman: medium skin tone, bald",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 1F3FE 200D 1F9B2",
-    "char": "👩🏾‍🦲",
-    "name": "woman: medium-dark skin tone, bald",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 1F3FF 200D 1F9B2",
-    "char": "👩🏿‍🦲",
-    "name": "woman: dark skin tone, bald",
-    "category": "people"
-  },
-  {
-    "codes": "1F9D3",
-    "char": "🧓",
-    "name": "older person",
-    "category": "people"
-  },
-  {
-    "codes": "1F9D3 1F3FB",
-    "char": "🧓🏻",
-    "name": "older person: light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F9D3 1F3FC",
-    "char": "🧓🏼",
-    "name": "older person: medium-light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F9D3 1F3FD",
-    "char": "🧓🏽",
-    "name": "older person: medium skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F9D3 1F3FE",
-    "char": "🧓🏾",
-    "name": "older person: medium-dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F9D3 1F3FF",
-    "char": "🧓🏿",
-    "name": "older person: dark skin tone",
     "category": "people"
   },
   { "codes": "1F474", "char": "👴", "name": "old man", "category": "people" },
@@ -2721,12 +1591,6 @@
     "category": "people"
   },
   {
-    "codes": "1F9CF",
-    "char": "🧏",
-    "name": "deaf person",
-    "category": "people"
-  },
-  {
     "codes": "1F647",
     "char": "🙇",
     "name": "person bowing",
@@ -2763,1242 +1627,6 @@
     "category": "people"
   },
   {
-    "codes": "1F926",
-    "char": "🤦",
-    "name": "person facepalming",
-    "category": "people"
-  },
-  {
-    "codes": "1F926 1F3FB",
-    "char": "🤦🏻",
-    "name": "person facepalming: light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F926 1F3FC",
-    "char": "🤦🏼",
-    "name": "person facepalming: medium-light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F926 1F3FD",
-    "char": "🤦🏽",
-    "name": "person facepalming: medium skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F926 1F3FE",
-    "char": "🤦🏾",
-    "name": "person facepalming: medium-dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F926 1F3FF",
-    "char": "🤦🏿",
-    "name": "person facepalming: dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F937",
-    "char": "🤷",
-    "name": "person shrugging",
-    "category": "people"
-  },
-  {
-    "codes": "1F937 1F3FB",
-    "char": "🤷🏻",
-    "name": "person shrugging: light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F937 1F3FC",
-    "char": "🤷🏼",
-    "name": "person shrugging: medium-light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F937 1F3FD",
-    "char": "🤷🏽",
-    "name": "person shrugging: medium skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F937 1F3FE",
-    "char": "🤷🏾",
-    "name": "person shrugging: medium-dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F937 1F3FF",
-    "char": "🤷🏿",
-    "name": "person shrugging: dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 200D 2695 FE0F",
-    "char": "👨‍⚕️",
-    "name": "man health worker",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 200D 2695",
-    "char": "👨‍⚕",
-    "name": "man health worker",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 1F3FB 200D 2695 FE0F",
-    "char": "👨🏻‍⚕️",
-    "name": "man health worker: light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 1F3FB 200D 2695",
-    "char": "👨🏻‍⚕",
-    "name": "man health worker: light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 1F3FC 200D 2695 FE0F",
-    "char": "👨🏼‍⚕️",
-    "name": "man health worker: medium-light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 1F3FC 200D 2695",
-    "char": "👨🏼‍⚕",
-    "name": "man health worker: medium-light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 1F3FD 200D 2695 FE0F",
-    "char": "👨🏽‍⚕️",
-    "name": "man health worker: medium skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 1F3FD 200D 2695",
-    "char": "👨🏽‍⚕",
-    "name": "man health worker: medium skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 1F3FE 200D 2695 FE0F",
-    "char": "👨🏾‍⚕️",
-    "name": "man health worker: medium-dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 1F3FE 200D 2695",
-    "char": "👨🏾‍⚕",
-    "name": "man health worker: medium-dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 1F3FF 200D 2695 FE0F",
-    "char": "👨🏿‍⚕️",
-    "name": "man health worker: dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 1F3FF 200D 2695",
-    "char": "👨🏿‍⚕",
-    "name": "man health worker: dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 200D 2695 FE0F",
-    "char": "👩‍⚕️",
-    "name": "woman health worker",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 200D 2695",
-    "char": "👩‍⚕",
-    "name": "woman health worker",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 1F3FB 200D 2695 FE0F",
-    "char": "👩🏻‍⚕️",
-    "name": "woman health worker: light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 1F3FB 200D 2695",
-    "char": "👩🏻‍⚕",
-    "name": "woman health worker: light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 1F3FC 200D 2695 FE0F",
-    "char": "👩🏼‍⚕️",
-    "name": "woman health worker: medium-light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 1F3FC 200D 2695",
-    "char": "👩🏼‍⚕",
-    "name": "woman health worker: medium-light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 1F3FD 200D 2695 FE0F",
-    "char": "👩🏽‍⚕️",
-    "name": "woman health worker: medium skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 1F3FD 200D 2695",
-    "char": "👩🏽‍⚕",
-    "name": "woman health worker: medium skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 1F3FE 200D 2695 FE0F",
-    "char": "👩🏾‍⚕️",
-    "name": "woman health worker: medium-dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 1F3FE 200D 2695",
-    "char": "👩🏾‍⚕",
-    "name": "woman health worker: medium-dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 1F3FF 200D 2695 FE0F",
-    "char": "👩🏿‍⚕️",
-    "name": "woman health worker: dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 1F3FF 200D 2695",
-    "char": "👩🏿‍⚕",
-    "name": "woman health worker: dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 200D 1F393",
-    "char": "👨‍🎓",
-    "name": "man student",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 1F3FB 200D 1F393",
-    "char": "👨🏻‍🎓",
-    "name": "man student: light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 1F3FC 200D 1F393",
-    "char": "👨🏼‍🎓",
-    "name": "man student: medium-light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 1F3FD 200D 1F393",
-    "char": "👨🏽‍🎓",
-    "name": "man student: medium skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 1F3FE 200D 1F393",
-    "char": "👨🏾‍🎓",
-    "name": "man student: medium-dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 1F3FF 200D 1F393",
-    "char": "👨🏿‍🎓",
-    "name": "man student: dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 200D 1F393",
-    "char": "👩‍🎓",
-    "name": "woman student",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 1F3FB 200D 1F393",
-    "char": "👩🏻‍🎓",
-    "name": "woman student: light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 1F3FC 200D 1F393",
-    "char": "👩🏼‍🎓",
-    "name": "woman student: medium-light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 1F3FD 200D 1F393",
-    "char": "👩🏽‍🎓",
-    "name": "woman student: medium skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 1F3FE 200D 1F393",
-    "char": "👩🏾‍🎓",
-    "name": "woman student: medium-dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 1F3FF 200D 1F393",
-    "char": "👩🏿‍🎓",
-    "name": "woman student: dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 200D 1F3EB",
-    "char": "👨‍🏫",
-    "name": "man teacher",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 1F3FB 200D 1F3EB",
-    "char": "👨🏻‍🏫",
-    "name": "man teacher: light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 1F3FC 200D 1F3EB",
-    "char": "👨🏼‍🏫",
-    "name": "man teacher: medium-light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 1F3FD 200D 1F3EB",
-    "char": "👨🏽‍🏫",
-    "name": "man teacher: medium skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 1F3FE 200D 1F3EB",
-    "char": "👨🏾‍🏫",
-    "name": "man teacher: medium-dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 1F3FF 200D 1F3EB",
-    "char": "👨🏿‍🏫",
-    "name": "man teacher: dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 200D 1F3EB",
-    "char": "👩‍🏫",
-    "name": "woman teacher",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 1F3FB 200D 1F3EB",
-    "char": "👩🏻‍🏫",
-    "name": "woman teacher: light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 1F3FC 200D 1F3EB",
-    "char": "👩🏼‍🏫",
-    "name": "woman teacher: medium-light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 1F3FD 200D 1F3EB",
-    "char": "👩🏽‍🏫",
-    "name": "woman teacher: medium skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 1F3FE 200D 1F3EB",
-    "char": "👩🏾‍🏫",
-    "name": "woman teacher: medium-dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 1F3FF 200D 1F3EB",
-    "char": "👩🏿‍🏫",
-    "name": "woman teacher: dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 200D 2696 FE0F",
-    "char": "👨‍⚖️",
-    "name": "man judge",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 1F3FB 200D 2696 FE0F",
-    "char": "👨🏻‍⚖️",
-    "name": "man judge: light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 1F3FC 200D 2696 FE0F",
-    "char": "👨🏼‍⚖️",
-    "name": "man judge: medium-light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 1F3FC 200D 2696",
-    "char": "👨🏼‍⚖",
-    "name": "man judge: medium-light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 1F3FD 200D 2696 FE0F",
-    "char": "👨🏽‍⚖️",
-    "name": "man judge: medium skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 1F3FE 200D 2696 FE0F",
-    "char": "👨🏾‍⚖️",
-    "name": "man judge: medium-dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 1F3FF 200D 2696 FE0F",
-    "char": "👨🏿‍⚖️",
-    "name": "man judge: dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 200D 2696 FE0F",
-    "char": "👩‍⚖️",
-    "name": "woman judge",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 1F3FB 200D 2696 FE0F",
-    "char": "👩🏻‍⚖️",
-    "name": "woman judge: light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 1F3FC 200D 2696 FE0F",
-    "char": "👩🏼‍⚖️",
-    "name": "woman judge: medium-light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 1F3FC 200D 2696",
-    "char": "👩🏼‍⚖",
-    "name": "woman judge: medium-light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 1F3FD 200D 2696 FE0F",
-    "char": "👩🏽‍⚖️",
-    "name": "woman judge: medium skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 1F3FE 200D 2696 FE0F",
-    "char": "👩🏾‍⚖️",
-    "name": "woman judge: medium-dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 1F3FF 200D 2696 FE0F",
-    "char": "👩🏿‍⚖️",
-    "name": "woman judge: dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 200D 1F33E",
-    "char": "👨‍🌾",
-    "name": "man farmer",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 1F3FB 200D 1F33E",
-    "char": "👨🏻‍🌾",
-    "name": "man farmer: light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 1F3FC 200D 1F33E",
-    "char": "👨🏼‍🌾",
-    "name": "man farmer: medium-light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 1F3FD 200D 1F33E",
-    "char": "👨🏽‍🌾",
-    "name": "man farmer: medium skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 1F3FE 200D 1F33E",
-    "char": "👨🏾‍🌾",
-    "name": "man farmer: medium-dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 1F3FF 200D 1F33E",
-    "char": "👨🏿‍🌾",
-    "name": "man farmer: dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 200D 1F33E",
-    "char": "👩‍🌾",
-    "name": "woman farmer",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 1F3FB 200D 1F33E",
-    "char": "👩🏻‍🌾",
-    "name": "woman farmer: light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 1F3FC 200D 1F33E",
-    "char": "👩🏼‍🌾",
-    "name": "woman farmer: medium-light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 1F3FD 200D 1F33E",
-    "char": "👩🏽‍🌾",
-    "name": "woman farmer: medium skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 1F3FE 200D 1F33E",
-    "char": "👩🏾‍🌾",
-    "name": "woman farmer: medium-dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 1F3FF 200D 1F33E",
-    "char": "👩🏿‍🌾",
-    "name": "woman farmer: dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 200D 1F527",
-    "char": "👨‍🔧",
-    "name": "man mechanic",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 1F3FB 200D 1F527",
-    "char": "👨🏻‍🔧",
-    "name": "man mechanic: light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 1F3FC 200D 1F527",
-    "char": "👨🏼‍🔧",
-    "name": "man mechanic: medium-light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 1F3FD 200D 1F527",
-    "char": "👨🏽‍🔧",
-    "name": "man mechanic: medium skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 1F3FE 200D 1F527",
-    "char": "👨🏾‍🔧",
-    "name": "man mechanic: medium-dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 1F3FF 200D 1F527",
-    "char": "👨🏿‍🔧",
-    "name": "man mechanic: dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 200D 1F527",
-    "char": "👩‍🔧",
-    "name": "woman mechanic",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 1F3FB 200D 1F527",
-    "char": "👩🏻‍🔧",
-    "name": "woman mechanic: light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 1F3FC 200D 1F527",
-    "char": "👩🏼‍🔧",
-    "name": "woman mechanic: medium-light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 1F3FD 200D 1F527",
-    "char": "👩🏽‍🔧",
-    "name": "woman mechanic: medium skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 1F3FE 200D 1F527",
-    "char": "👩🏾‍🔧",
-    "name": "woman mechanic: medium-dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 1F3FF 200D 1F527",
-    "char": "👩🏿‍🔧",
-    "name": "woman mechanic: dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 200D 1F3ED",
-    "char": "👨‍🏭",
-    "name": "man factory worker",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 1F3FB 200D 1F3ED",
-    "char": "👨🏻‍🏭",
-    "name": "man factory worker: light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 1F3FC 200D 1F3ED",
-    "char": "👨🏼‍🏭",
-    "name": "man factory worker: medium-light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 1F3FD 200D 1F3ED",
-    "char": "👨🏽‍🏭",
-    "name": "man factory worker: medium skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 1F3FE 200D 1F3ED",
-    "char": "👨🏾‍🏭",
-    "name": "man factory worker: medium-dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 1F3FF 200D 1F3ED",
-    "char": "👨🏿‍🏭",
-    "name": "man factory worker: dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 200D 1F3ED",
-    "char": "👩‍🏭",
-    "name": "woman factory worker",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 1F3FB 200D 1F3ED",
-    "char": "👩🏻‍🏭",
-    "name": "woman factory worker: light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 1F3FC 200D 1F3ED",
-    "char": "👩🏼‍🏭",
-    "name": "woman factory worker: medium-light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 1F3FD 200D 1F3ED",
-    "char": "👩🏽‍🏭",
-    "name": "woman factory worker: medium skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 1F3FE 200D 1F3ED",
-    "char": "👩🏾‍🏭",
-    "name": "woman factory worker: medium-dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 1F3FF 200D 1F3ED",
-    "char": "👩🏿‍🏭",
-    "name": "woman factory worker: dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 200D 1F4BC",
-    "char": "👨‍💼",
-    "name": "man office worker",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 1F3FB 200D 1F4BC",
-    "char": "👨🏻‍💼",
-    "name": "man office worker: light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 1F3FC 200D 1F4BC",
-    "char": "👨🏼‍💼",
-    "name": "man office worker: medium-light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 1F3FD 200D 1F4BC",
-    "char": "👨🏽‍💼",
-    "name": "man office worker: medium skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 1F3FE 200D 1F4BC",
-    "char": "👨🏾‍💼",
-    "name": "man office worker: medium-dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 1F3FF 200D 1F4BC",
-    "char": "👨🏿‍💼",
-    "name": "man office worker: dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 200D 1F4BC",
-    "char": "👩‍💼",
-    "name": "woman office worker",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 1F3FB 200D 1F4BC",
-    "char": "👩🏻‍💼",
-    "name": "woman office worker: light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 1F3FC 200D 1F4BC",
-    "char": "👩🏼‍💼",
-    "name": "woman office worker: medium-light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 1F3FD 200D 1F4BC",
-    "char": "👩🏽‍💼",
-    "name": "woman office worker: medium skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 1F3FE 200D 1F4BC",
-    "char": "👩🏾‍💼",
-    "name": "woman office worker: medium-dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 1F3FF 200D 1F4BC",
-    "char": "👩🏿‍💼",
-    "name": "woman office worker: dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 200D 1F52C",
-    "char": "👨‍🔬",
-    "name": "man scientist",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 1F3FB 200D 1F52C",
-    "char": "👨🏻‍🔬",
-    "name": "man scientist: light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 1F3FC 200D 1F52C",
-    "char": "👨🏼‍🔬",
-    "name": "man scientist: medium-light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 1F3FD 200D 1F52C",
-    "char": "👨🏽‍🔬",
-    "name": "man scientist: medium skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 1F3FE 200D 1F52C",
-    "char": "👨🏾‍🔬",
-    "name": "man scientist: medium-dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 1F3FF 200D 1F52C",
-    "char": "👨🏿‍🔬",
-    "name": "man scientist: dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 200D 1F52C",
-    "char": "👩‍🔬",
-    "name": "woman scientist",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 1F3FB 200D 1F52C",
-    "char": "👩🏻‍🔬",
-    "name": "woman scientist: light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 1F3FC 200D 1F52C",
-    "char": "👩🏼‍🔬",
-    "name": "woman scientist: medium-light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 1F3FD 200D 1F52C",
-    "char": "👩🏽‍🔬",
-    "name": "woman scientist: medium skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 1F3FE 200D 1F52C",
-    "char": "👩🏾‍🔬",
-    "name": "woman scientist: medium-dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 1F3FF 200D 1F52C",
-    "char": "👩🏿‍🔬",
-    "name": "woman scientist: dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 200D 1F4BB",
-    "char": "👨‍💻",
-    "name": "man technologist",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 1F3FB 200D 1F4BB",
-    "char": "👨🏻‍💻",
-    "name": "man technologist: light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 1F3FC 200D 1F4BB",
-    "char": "👨🏼‍💻",
-    "name": "man technologist: medium-light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 1F3FD 200D 1F4BB",
-    "char": "👨🏽‍💻",
-    "name": "man technologist: medium skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 1F3FE 200D 1F4BB",
-    "char": "👨🏾‍💻",
-    "name": "man technologist: medium-dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 1F3FF 200D 1F4BB",
-    "char": "👨🏿‍💻",
-    "name": "man technologist: dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 200D 1F4BB",
-    "char": "👩‍💻",
-    "name": "woman technologist",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 1F3FB 200D 1F4BB",
-    "char": "👩🏻‍💻",
-    "name": "woman technologist: light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 1F3FC 200D 1F4BB",
-    "char": "👩🏼‍💻",
-    "name": "woman technologist: medium-light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 1F3FD 200D 1F4BB",
-    "char": "👩🏽‍💻",
-    "name": "woman technologist: medium skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 1F3FE 200D 1F4BB",
-    "char": "👩🏾‍💻",
-    "name": "woman technologist: medium-dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 1F3FF 200D 1F4BB",
-    "char": "👩🏿‍💻",
-    "name": "woman technologist: dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 200D 1F3A4",
-    "char": "👨‍🎤",
-    "name": "man singer",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 1F3FB 200D 1F3A4",
-    "char": "👨🏻‍🎤",
-    "name": "man singer: light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 1F3FC 200D 1F3A4",
-    "char": "👨🏼‍🎤",
-    "name": "man singer: medium-light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 1F3FD 200D 1F3A4",
-    "char": "👨🏽‍🎤",
-    "name": "man singer: medium skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 1F3FE 200D 1F3A4",
-    "char": "👨🏾‍🎤",
-    "name": "man singer: medium-dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 1F3FF 200D 1F3A4",
-    "char": "👨🏿‍🎤",
-    "name": "man singer: dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 200D 1F3A4",
-    "char": "👩‍🎤",
-    "name": "woman singer",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 1F3FB 200D 1F3A4",
-    "char": "👩🏻‍🎤",
-    "name": "woman singer: light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 1F3FC 200D 1F3A4",
-    "char": "👩🏼‍🎤",
-    "name": "woman singer: medium-light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 1F3FD 200D 1F3A4",
-    "char": "👩🏽‍🎤",
-    "name": "woman singer: medium skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 1F3FE 200D 1F3A4",
-    "char": "👩🏾‍🎤",
-    "name": "woman singer: medium-dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 1F3FF 200D 1F3A4",
-    "char": "👩🏿‍🎤",
-    "name": "woman singer: dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 200D 1F3A8",
-    "char": "👨‍🎨",
-    "name": "man artist",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 1F3FB 200D 1F3A8",
-    "char": "👨🏻‍🎨",
-    "name": "man artist: light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 1F3FC 200D 1F3A8",
-    "char": "👨🏼‍🎨",
-    "name": "man artist: medium-light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 1F3FD 200D 1F3A8",
-    "char": "👨🏽‍🎨",
-    "name": "man artist: medium skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 1F3FE 200D 1F3A8",
-    "char": "👨🏾‍🎨",
-    "name": "man artist: medium-dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 1F3FF 200D 1F3A8",
-    "char": "👨🏿‍🎨",
-    "name": "man artist: dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 200D 1F3A8",
-    "char": "👩‍🎨",
-    "name": "woman artist",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 1F3FB 200D 1F3A8",
-    "char": "👩🏻‍🎨",
-    "name": "woman artist: light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 1F3FC 200D 1F3A8",
-    "char": "👩🏼‍🎨",
-    "name": "woman artist: medium-light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 1F3FD 200D 1F3A8",
-    "char": "👩🏽‍🎨",
-    "name": "woman artist: medium skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 1F3FE 200D 1F3A8",
-    "char": "👩🏾‍🎨",
-    "name": "woman artist: medium-dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 1F3FF 200D 1F3A8",
-    "char": "👩🏿‍🎨",
-    "name": "woman artist: dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 200D 2708 FE0F",
-    "char": "👨‍✈️",
-    "name": "man pilot",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 1F3FB 200D 2708 FE0F",
-    "char": "👨🏻‍✈️",
-    "name": "man pilot: light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 1F3FC 200D 2708 FE0F",
-    "char": "👨🏼‍✈️",
-    "name": "man pilot: medium-light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 1F3FD 200D 2708 FE0F",
-    "char": "👨🏽‍✈️",
-    "name": "man pilot: medium skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 1F3FE 200D 2708 FE0F",
-    "char": "👨🏾‍✈️",
-    "name": "man pilot: medium-dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 1F3FF 200D 2708 FE0F",
-    "char": "👨🏿‍✈️",
-    "name": "man pilot: dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 200D 2708 FE0F",
-    "char": "👩‍✈️",
-    "name": "woman pilot",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 1F3FB 200D 2708 FE0F",
-    "char": "👩🏻‍✈️",
-    "name": "woman pilot: light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 1F3FC 200D 2708 FE0F",
-    "char": "👩🏼‍✈️",
-    "name": "woman pilot: medium-light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 1F3FD 200D 2708 FE0F",
-    "char": "👩🏽‍✈️",
-    "name": "woman pilot: medium skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 1F3FE 200D 2708 FE0F",
-    "char": "👩🏾‍✈️",
-    "name": "woman pilot: medium-dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 1F3FF 200D 2708 FE0F",
-    "char": "👩🏿‍✈️",
-    "name": "woman pilot: dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 200D 1F680",
-    "char": "👨‍🚀",
-    "name": "man astronaut",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 1F3FB 200D 1F680",
-    "char": "👨🏻‍🚀",
-    "name": "man astronaut: light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 1F3FC 200D 1F680",
-    "char": "👨🏼‍🚀",
-    "name": "man astronaut: medium-light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 1F3FD 200D 1F680",
-    "char": "👨🏽‍🚀",
-    "name": "man astronaut: medium skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 1F3FE 200D 1F680",
-    "char": "👨🏾‍🚀",
-    "name": "man astronaut: medium-dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 1F3FF 200D 1F680",
-    "char": "👨🏿‍🚀",
-    "name": "man astronaut: dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 200D 1F680",
-    "char": "👩‍🚀",
-    "name": "woman astronaut",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 1F3FB 200D 1F680",
-    "char": "👩🏻‍🚀",
-    "name": "woman astronaut: light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 1F3FC 200D 1F680",
-    "char": "👩🏼‍🚀",
-    "name": "woman astronaut: medium-light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 1F3FD 200D 1F680",
-    "char": "👩🏽‍🚀",
-    "name": "woman astronaut: medium skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 1F3FE 200D 1F680",
-    "char": "👩🏾‍🚀",
-    "name": "woman astronaut: medium-dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 1F3FF 200D 1F680",
-    "char": "👩🏿‍🚀",
-    "name": "woman astronaut: dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 200D 1F692",
-    "char": "👨‍🚒",
-    "name": "man firefighter",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 1F3FB 200D 1F692",
-    "char": "👨🏻‍🚒",
-    "name": "man firefighter: light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 1F3FC 200D 1F692",
-    "char": "👨🏼‍🚒",
-    "name": "man firefighter: medium-light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 1F3FD 200D 1F692",
-    "char": "👨🏽‍🚒",
-    "name": "man firefighter: medium skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 1F3FE 200D 1F692",
-    "char": "👨🏾‍🚒",
-    "name": "man firefighter: medium-dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 1F3FF 200D 1F692",
-    "char": "👨🏿‍🚒",
-    "name": "man firefighter: dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 200D 1F692",
-    "char": "👩‍🚒",
-    "name": "woman firefighter",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 1F3FB 200D 1F692",
-    "char": "👩🏻‍🚒",
-    "name": "woman firefighter: light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 1F3FC 200D 1F692",
-    "char": "👩🏼‍🚒",
-    "name": "woman firefighter: medium-light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 1F3FD 200D 1F692",
-    "char": "👩🏽‍🚒",
-    "name": "woman firefighter: medium skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 1F3FE 200D 1F692",
-    "char": "👩🏾‍🚒",
-    "name": "woman firefighter: medium-dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 1F3FF 200D 1F692",
-    "char": "👩🏿‍🚒",
-    "name": "woman firefighter: dark skin tone",
-    "category": "people"
-  },
-  {
     "codes": "1F46E",
     "char": "👮",
     "name": "police officer",
@@ -4032,43 +1660,6 @@
     "codes": "1F46E 1F3FF",
     "char": "👮🏿",
     "name": "police officer: dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F575 FE0F",
-    "char": "🕵️",
-    "name": "detective",
-    "category": "people"
-  },
-  { "codes": "1F575", "char": "🕵", "name": "detective", "category": "people" },
-  {
-    "codes": "1F575 1F3FB",
-    "char": "🕵🏻",
-    "name": "detective: light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F575 1F3FC",
-    "char": "🕵🏼",
-    "name": "detective: medium-light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F575 1F3FD",
-    "char": "🕵🏽",
-    "name": "detective: medium skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F575 1F3FE",
-    "char": "🕵🏾",
-    "name": "detective: medium-dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F575 1F3FF",
-    "char": "🕵🏿",
-    "name": "detective: dark skin tone",
     "category": "people"
   },
   { "codes": "1F482", "char": "💂", "name": "guard", "category": "people" },
@@ -4136,37 +1727,6 @@
     "codes": "1F477 1F3FF",
     "char": "👷🏿",
     "name": "construction worker: dark skin tone",
-    "category": "people"
-  },
-  { "codes": "1F934", "char": "🤴", "name": "prince", "category": "people" },
-  {
-    "codes": "1F934 1F3FB",
-    "char": "🤴🏻",
-    "name": "prince: light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F934 1F3FC",
-    "char": "🤴🏼",
-    "name": "prince: medium-light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F934 1F3FD",
-    "char": "🤴🏽",
-    "name": "prince: medium skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F934 1F3FE",
-    "char": "🤴🏾",
-    "name": "prince: medium-dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F934 1F3FF",
-    "char": "🤴🏿",
-    "name": "prince: dark skin tone",
     "category": "people"
   },
   { "codes": "1F478", "char": "👸", "name": "princess", "category": "people" },
@@ -4273,78 +1833,6 @@
     "category": "people"
   },
   {
-    "codes": "1F9D5",
-    "char": "🧕",
-    "name": "woman with headscarf",
-    "category": "people"
-  },
-  {
-    "codes": "1F9D5 1F3FB",
-    "char": "🧕🏻",
-    "name": "woman with headscarf: light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F9D5 1F3FC",
-    "char": "🧕🏼",
-    "name": "woman with headscarf: medium-light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F9D5 1F3FD",
-    "char": "🧕🏽",
-    "name": "woman with headscarf: medium skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F9D5 1F3FE",
-    "char": "🧕🏾",
-    "name": "woman with headscarf: medium-dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F9D5 1F3FF",
-    "char": "🧕🏿",
-    "name": "woman with headscarf: dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F935",
-    "char": "🤵",
-    "name": "man in tuxedo",
-    "category": "people"
-  },
-  {
-    "codes": "1F935 1F3FB",
-    "char": "🤵🏻",
-    "name": "man in tuxedo: light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F935 1F3FC",
-    "char": "🤵🏼",
-    "name": "man in tuxedo: medium-light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F935 1F3FD",
-    "char": "🤵🏽",
-    "name": "man in tuxedo: medium skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F935 1F3FE",
-    "char": "🤵🏾",
-    "name": "man in tuxedo: medium-dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F935 1F3FF",
-    "char": "🤵🏿",
-    "name": "man in tuxedo: dark skin tone",
-    "category": "people"
-  },
-  {
     "codes": "1F470",
     "char": "👰",
     "name": "bride with veil",
@@ -4378,78 +1866,6 @@
     "codes": "1F470 1F3FF",
     "char": "👰🏿",
     "name": "bride with veil: dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F930",
-    "char": "🤰",
-    "name": "pregnant woman",
-    "category": "people"
-  },
-  {
-    "codes": "1F930 1F3FB",
-    "char": "🤰🏻",
-    "name": "pregnant woman: light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F930 1F3FC",
-    "char": "🤰🏼",
-    "name": "pregnant woman: medium-light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F930 1F3FD",
-    "char": "🤰🏽",
-    "name": "pregnant woman: medium skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F930 1F3FE",
-    "char": "🤰🏾",
-    "name": "pregnant woman: medium-dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F930 1F3FF",
-    "char": "🤰🏿",
-    "name": "pregnant woman: dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F931",
-    "char": "🤱",
-    "name": "breast-feeding",
-    "category": "people"
-  },
-  {
-    "codes": "1F931 1F3FB",
-    "char": "🤱🏻",
-    "name": "breast-feeding: light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F931 1F3FC",
-    "char": "🤱🏼",
-    "name": "breast-feeding: medium-light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F931 1F3FD",
-    "char": "🤱🏽",
-    "name": "breast-feeding: medium skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F931 1F3FE",
-    "char": "🤱🏾",
-    "name": "breast-feeding: medium-dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F931 1F3FF",
-    "char": "🤱🏿",
-    "name": "breast-feeding: dark skin tone",
     "category": "people"
   },
   {
@@ -4524,266 +1940,6 @@
     "name": "Santa Claus: dark skin tone",
     "category": "people"
   },
-  {
-    "codes": "1F936",
-    "char": "🤶",
-    "name": "Mrs. Claus",
-    "category": "people"
-  },
-  {
-    "codes": "1F936 1F3FB",
-    "char": "🤶🏻",
-    "name": "Mrs. Claus: light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F936 1F3FC",
-    "char": "🤶🏼",
-    "name": "Mrs. Claus: medium-light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F936 1F3FD",
-    "char": "🤶🏽",
-    "name": "Mrs. Claus: medium skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F936 1F3FE",
-    "char": "🤶🏾",
-    "name": "Mrs. Claus: medium-dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F936 1F3FF",
-    "char": "🤶🏿",
-    "name": "Mrs. Claus: dark skin tone",
-    "category": "people"
-  },
-  { "codes": "1F9B8", "char": "🦸", "name": "superhero", "category": "people" },
-  {
-    "codes": "1F9B8 1F3FB",
-    "char": "🦸🏻",
-    "name": "superhero: light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F9B8 1F3FC",
-    "char": "🦸🏼",
-    "name": "superhero: medium-light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F9B8 1F3FD",
-    "char": "🦸🏽",
-    "name": "superhero: medium skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F9B8 1F3FE",
-    "char": "🦸🏾",
-    "name": "superhero: medium-dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F9B8 1F3FF",
-    "char": "🦸🏿",
-    "name": "superhero: dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F9B9",
-    "char": "🦹",
-    "name": "supervillain",
-    "category": "people"
-  },
-  {
-    "codes": "1F9B9 1F3FB",
-    "char": "🦹🏻",
-    "name": "supervillain: light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F9B9 1F3FC",
-    "char": "🦹🏼",
-    "name": "supervillain: medium-light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F9B9 1F3FD",
-    "char": "🦹🏽",
-    "name": "supervillain: medium skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F9B9 1F3FE",
-    "char": "🦹🏾",
-    "name": "supervillain: medium-dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F9B9 1F3FF",
-    "char": "🦹🏿",
-    "name": "supervillain: dark skin tone",
-    "category": "people"
-  },
-  { "codes": "1F9D9", "char": "🧙", "name": "mage", "category": "people" },
-  {
-    "codes": "1F9D9 1F3FB",
-    "char": "🧙🏻",
-    "name": "mage: light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F9D9 1F3FC",
-    "char": "🧙🏼",
-    "name": "mage: medium-light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F9D9 1F3FD",
-    "char": "🧙🏽",
-    "name": "mage: medium skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F9D9 1F3FE",
-    "char": "🧙🏾",
-    "name": "mage: medium-dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F9D9 1F3FF",
-    "char": "🧙🏿",
-    "name": "mage: dark skin tone",
-    "category": "people"
-  },
-  { "codes": "1F9DA", "char": "🧚", "name": "fairy", "category": "people" },
-  {
-    "codes": "1F9DA 1F3FB",
-    "char": "🧚🏻",
-    "name": "fairy: light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F9DA 1F3FC",
-    "char": "🧚🏼",
-    "name": "fairy: medium-light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F9DA 1F3FD",
-    "char": "🧚🏽",
-    "name": "fairy: medium skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F9DA 1F3FE",
-    "char": "🧚🏾",
-    "name": "fairy: medium-dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F9DA 1F3FF",
-    "char": "🧚🏿",
-    "name": "fairy: dark skin tone",
-    "category": "people"
-  },
-  { "codes": "1F9DB", "char": "🧛", "name": "vampire", "category": "people" },
-  {
-    "codes": "1F9DB 1F3FB",
-    "char": "🧛🏻",
-    "name": "vampire: light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F9DB 1F3FC",
-    "char": "🧛🏼",
-    "name": "vampire: medium-light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F9DB 1F3FD",
-    "char": "🧛🏽",
-    "name": "vampire: medium skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F9DB 1F3FE",
-    "char": "🧛🏾",
-    "name": "vampire: medium-dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F9DB 1F3FF",
-    "char": "🧛🏿",
-    "name": "vampire: dark skin tone",
-    "category": "people"
-  },
-  { "codes": "1F9DC", "char": "🧜", "name": "merperson", "category": "people" },
-  {
-    "codes": "1F9DC 1F3FB",
-    "char": "🧜🏻",
-    "name": "merperson: light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F9DC 1F3FC",
-    "char": "🧜🏼",
-    "name": "merperson: medium-light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F9DC 1F3FD",
-    "char": "🧜🏽",
-    "name": "merperson: medium skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F9DC 1F3FE",
-    "char": "🧜🏾",
-    "name": "merperson: medium-dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F9DC 1F3FF",
-    "char": "🧜🏿",
-    "name": "merperson: dark skin tone",
-    "category": "people"
-  },
-  { "codes": "1F9DD", "char": "🧝", "name": "elf", "category": "people" },
-  {
-    "codes": "1F9DD 1F3FB",
-    "char": "🧝🏻",
-    "name": "elf: light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F9DD 1F3FC",
-    "char": "🧝🏼",
-    "name": "elf: medium-light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F9DD 1F3FD",
-    "char": "🧝🏽",
-    "name": "elf: medium skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F9DD 1F3FE",
-    "char": "🧝🏾",
-    "name": "elf: medium-dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F9DD 1F3FF",
-    "char": "🧝🏿",
-    "name": "elf: dark skin tone",
-    "category": "people"
-  },
-  { "codes": "1F9DE", "char": "🧞", "name": "genie", "category": "people" },
-  { "codes": "1F9DF", "char": "🧟", "name": "zombie", "category": "people" },
   {
     "codes": "1F486",
     "char": "💆",
@@ -4929,42 +2085,6 @@
     "category": "people"
   },
   {
-    "codes": "1F57A",
-    "char": "🕺",
-    "name": "man dancing",
-    "category": "people"
-  },
-  {
-    "codes": "1F57A 1F3FB",
-    "char": "🕺🏻",
-    "name": "man dancing: light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F57A 1F3FC",
-    "char": "🕺🏼",
-    "name": "man dancing: medium-light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F57A 1F3FD",
-    "char": "🕺🏽",
-    "name": "man dancing: medium skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F57A 1F3FE",
-    "char": "🕺🏾",
-    "name": "man dancing: medium-dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F57A 1F3FF",
-    "char": "🕺🏿",
-    "name": "man dancing: dark skin tone",
-    "category": "people"
-  },
-  {
     "codes": "1F46F",
     "char": "👯",
     "name": "people with bunny ears",
@@ -5004,48 +2124,6 @@
     "codes": "1F3C2 1F3FF",
     "char": "🏂🏿",
     "name": "snowboarder: dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F3CC FE0F",
-    "char": "🏌️",
-    "name": "person golfing",
-    "category": "people"
-  },
-  {
-    "codes": "1F3CC",
-    "char": "🏌",
-    "name": "person golfing",
-    "category": "people"
-  },
-  {
-    "codes": "1F3CC 1F3FB",
-    "char": "🏌🏻",
-    "name": "person golfing: light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F3CC 1F3FC",
-    "char": "🏌🏼",
-    "name": "person golfing: medium-light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F3CC 1F3FD",
-    "char": "🏌🏽",
-    "name": "person golfing: medium skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F3CC 1F3FE",
-    "char": "🏌🏾",
-    "name": "person golfing: medium-dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F3CC 1F3FF",
-    "char": "🏌🏿",
-    "name": "person golfing: dark skin tone",
     "category": "people"
   },
   {
@@ -5121,48 +2199,6 @@
     "category": "people"
   },
   {
-    "codes": "1F3CB FE0F",
-    "char": "🏋️",
-    "name": "person lifting weights",
-    "category": "people"
-  },
-  {
-    "codes": "1F3CB",
-    "char": "🏋",
-    "name": "person lifting weights",
-    "category": "people"
-  },
-  {
-    "codes": "1F3CB 1F3FB",
-    "char": "🏋🏻",
-    "name": "person lifting weights: light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F3CB 1F3FC",
-    "char": "🏋🏼",
-    "name": "person lifting weights: medium-light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F3CB 1F3FD",
-    "char": "🏋🏽",
-    "name": "person lifting weights: medium skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F3CB 1F3FE",
-    "char": "🏋🏾",
-    "name": "person lifting weights: medium-dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F3CB 1F3FF",
-    "char": "🏋🏿",
-    "name": "person lifting weights: dark skin tone",
-    "category": "people"
-  },
-  {
     "codes": "1F6B4",
     "char": "🚴",
     "name": "person biking",
@@ -5199,48 +2235,6 @@
     "category": "people"
   },
   {
-    "codes": "1F938",
-    "char": "🤸",
-    "name": "person cartwheeling",
-    "category": "people"
-  },
-  {
-    "codes": "1F938 1F3FB",
-    "char": "🤸🏻",
-    "name": "person cartwheeling: light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F938 1F3FC",
-    "char": "🤸🏼",
-    "name": "person cartwheeling: medium-light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F938 1F3FD",
-    "char": "🤸🏽",
-    "name": "person cartwheeling: medium skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F938 1F3FE",
-    "char": "🤸🏾",
-    "name": "person cartwheeling: medium-dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F938 1F3FF",
-    "char": "🤸🏿",
-    "name": "person cartwheeling: dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F93C",
-    "char": "🤼",
-    "name": "people wrestling",
-    "category": "people"
-  },
-  {
     "codes": "1F6C0",
     "char": "🛀",
     "name": "person taking bath",
@@ -5274,138 +2268,6 @@
     "codes": "1F6C0 1F3FF",
     "char": "🛀🏿",
     "name": "person taking bath: dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F6CC",
-    "char": "🛌",
-    "name": "person in bed",
-    "category": "people"
-  },
-  {
-    "codes": "1F6CC 1F3FB",
-    "char": "🛌🏻",
-    "name": "person in bed: light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F6CC 1F3FC",
-    "char": "🛌🏼",
-    "name": "person in bed: medium-light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F6CC 1F3FD",
-    "char": "🛌🏽",
-    "name": "person in bed: medium skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F6CC 1F3FE",
-    "char": "🛌🏾",
-    "name": "person in bed: medium-dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F6CC 1F3FF",
-    "char": "🛌🏿",
-    "name": "person in bed: dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F9D1 200D 1F91D 200D 1F9D1",
-    "char": "🧑‍🤝‍🧑",
-    "name": "people holding hands",
-    "category": "people"
-  },
-  {
-    "codes": "1F9D1 1F3FB 200D 1F91D 200D 1F9D1 1F3FB",
-    "char": "🧑🏻‍🤝‍🧑🏻",
-    "name": "people holding hands: light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F9D1 1F3FC 200D 1F91D 200D 1F9D1 1F3FB",
-    "char": "🧑🏼‍🤝‍🧑🏻",
-    "name": "people holding hands: medium-light skin tone, light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F9D1 1F3FC 200D 1F91D 200D 1F9D1 1F3FC",
-    "char": "🧑🏼‍🤝‍🧑🏼",
-    "name": "people holding hands: medium-light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F9D1 1F3FD 200D 1F91D 200D 1F9D1 1F3FB",
-    "char": "🧑🏽‍🤝‍🧑🏻",
-    "name": "people holding hands: medium skin tone, light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F9D1 1F3FD 200D 1F91D 200D 1F9D1 1F3FC",
-    "char": "🧑🏽‍🤝‍🧑🏼",
-    "name": "people holding hands: medium skin tone, medium-light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F9D1 1F3FD 200D 1F91D 200D 1F9D1 1F3FD",
-    "char": "🧑🏽‍🤝‍🧑🏽",
-    "name": "people holding hands: medium skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F9D1 1F3FE 200D 1F91D 200D 1F9D1 1F3FB",
-    "char": "🧑🏾‍🤝‍🧑🏻",
-    "name": "people holding hands: medium-dark skin tone, light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F9D1 1F3FE 200D 1F91D 200D 1F9D1 1F3FC",
-    "char": "🧑🏾‍🤝‍🧑🏼",
-    "name": "people holding hands: medium-dark skin tone, medium-light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F9D1 1F3FE 200D 1F91D 200D 1F9D1 1F3FD",
-    "char": "🧑🏾‍🤝‍🧑🏽",
-    "name": "people holding hands: medium-dark skin tone, medium skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F9D1 1F3FE 200D 1F91D 200D 1F9D1 1F3FE",
-    "char": "🧑🏾‍🤝‍🧑🏾",
-    "name": "people holding hands: medium-dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F9D1 1F3FF 200D 1F91D 200D 1F9D1 1F3FB",
-    "char": "🧑🏿‍🤝‍🧑🏻",
-    "name": "people holding hands: dark skin tone, light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F9D1 1F3FF 200D 1F91D 200D 1F9D1 1F3FC",
-    "char": "🧑🏿‍🤝‍🧑🏼",
-    "name": "people holding hands: dark skin tone, medium-light skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F9D1 1F3FF 200D 1F91D 200D 1F9D1 1F3FD",
-    "char": "🧑🏿‍🤝‍🧑🏽",
-    "name": "people holding hands: dark skin tone, medium skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F9D1 1F3FF 200D 1F91D 200D 1F9D1 1F3FE",
-    "char": "🧑🏿‍🤝‍🧑🏾",
-    "name": "people holding hands: dark skin tone, medium-dark skin tone",
-    "category": "people"
-  },
-  {
-    "codes": "1F9D1 1F3FF 200D 1F91D 200D 1F9D1 1F3FF",
-    "char": "🧑🏿‍🤝‍🧑🏿",
-    "name": "people holding hands: dark skin tone",
     "category": "people"
   },
   {
@@ -5757,205 +2619,7 @@
     "category": "people"
   },
   { "codes": "1F48F", "char": "💏", "name": "kiss", "category": "people" },
-  {
-    "codes": "1F469 200D 2764 FE0F 200D 1F48B 200D 1F468",
-    "char": "👩‍❤️‍💋‍👨",
-    "name": "kiss: woman, man",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 200D 2764 FE0F 200D 1F48B 200D 1F468",
-    "char": "👨‍❤️‍💋‍👨",
-    "name": "kiss: man, man",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 200D 2764 FE0F 200D 1F48B 200D 1F469",
-    "char": "👩‍❤️‍💋‍👩",
-    "name": "kiss: woman, woman",
-    "category": "people"
-  },
-  {
-    "codes": "1F491",
-    "char": "💑",
-    "name": "couple with heart",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 200D 2764 FE0F 200D 1F468",
-    "char": "👩‍❤️‍👨",
-    "name": "couple with heart: woman, man",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 200D 2764 FE0F 200D 1F468",
-    "char": "👨‍❤️‍👨",
-    "name": "couple with heart: man, man",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 200D 2764 FE0F 200D 1F469",
-    "char": "👩‍❤️‍👩",
-    "name": "couple with heart: woman, woman",
-    "category": "people"
-  },
   { "codes": "1F46A", "char": "👪", "name": "family", "category": "people" },
-  {
-    "codes": "1F468 200D 1F469 200D 1F466",
-    "char": "👨‍👩‍👦",
-    "name": "family: man, woman, boy",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 200D 1F469 200D 1F467",
-    "char": "👨‍👩‍👧",
-    "name": "family: man, woman, girl",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 200D 1F469 200D 1F467 200D 1F466",
-    "char": "👨‍👩‍👧‍👦",
-    "name": "family: man, woman, girl, boy",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 200D 1F469 200D 1F466 200D 1F466",
-    "char": "👨‍👩‍👦‍👦",
-    "name": "family: man, woman, boy, boy",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 200D 1F469 200D 1F467 200D 1F467",
-    "char": "👨‍👩‍👧‍👧",
-    "name": "family: man, woman, girl, girl",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 200D 1F468 200D 1F466",
-    "char": "👨‍👨‍👦",
-    "name": "family: man, man, boy",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 200D 1F468 200D 1F467",
-    "char": "👨‍👨‍👧",
-    "name": "family: man, man, girl",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 200D 1F468 200D 1F467 200D 1F466",
-    "char": "👨‍👨‍👧‍👦",
-    "name": "family: man, man, girl, boy",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 200D 1F468 200D 1F466 200D 1F466",
-    "char": "👨‍👨‍👦‍👦",
-    "name": "family: man, man, boy, boy",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 200D 1F468 200D 1F467 200D 1F467",
-    "char": "👨‍👨‍👧‍👧",
-    "name": "family: man, man, girl, girl",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 200D 1F469 200D 1F466",
-    "char": "👩‍👩‍👦",
-    "name": "family: woman, woman, boy",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 200D 1F469 200D 1F467",
-    "char": "👩‍👩‍👧",
-    "name": "family: woman, woman, girl",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 200D 1F469 200D 1F467 200D 1F466",
-    "char": "👩‍👩‍👧‍👦",
-    "name": "family: woman, woman, girl, boy",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 200D 1F469 200D 1F466 200D 1F466",
-    "char": "👩‍👩‍👦‍👦",
-    "name": "family: woman, woman, boy, boy",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 200D 1F469 200D 1F467 200D 1F467",
-    "char": "👩‍👩‍👧‍👧",
-    "name": "family: woman, woman, girl, girl",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 200D 1F466",
-    "char": "👨‍👦",
-    "name": "family: man, boy",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 200D 1F466 200D 1F466",
-    "char": "👨‍👦‍👦",
-    "name": "family: man, boy, boy",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 200D 1F467",
-    "char": "👨‍👧",
-    "name": "family: man, girl",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 200D 1F467 200D 1F466",
-    "char": "👨‍👧‍👦",
-    "name": "family: man, girl, boy",
-    "category": "people"
-  },
-  {
-    "codes": "1F468 200D 1F467 200D 1F467",
-    "char": "👨‍👧‍👧",
-    "name": "family: man, girl, girl",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 200D 1F466",
-    "char": "👩‍👦",
-    "name": "family: woman, boy",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 200D 1F466 200D 1F466",
-    "char": "👩‍👦‍👦",
-    "name": "family: woman, boy, boy",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 200D 1F467",
-    "char": "👩‍👧",
-    "name": "family: woman, girl",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 200D 1F467 200D 1F466",
-    "char": "👩‍👧‍👦",
-    "name": "family: woman, girl, boy",
-    "category": "people"
-  },
-  {
-    "codes": "1F469 200D 1F467 200D 1F467",
-    "char": "👩‍👧‍👧",
-    "name": "family: woman, girl, girl",
-    "category": "people"
-  },
-  {
-    "codes": "1F5E3 FE0F",
-    "char": "🗣️",
-    "name": "speaking head",
-    "category": "people"
-  },
   {
     "codes": "1F464",
     "char": "👤",
@@ -6011,17 +2675,12 @@
     "category": "nature"
   },
   { "codes": "1F412", "char": "🐒", "name": "monkey", "category": "nature" },
-  { "codes": "1F98D", "char": "🦍", "name": "gorilla", "category": "nature" },
-  { "codes": "1F9A7", "char": "🦧", "name": "orangutan", "category": "nature" },
   { "codes": "1F436", "char": "🐶", "name": "dog face", "category": "nature" },
   { "codes": "1F415", "char": "🐕", "name": "dog", "category": "nature" },
   { "codes": "1F429", "char": "🐩", "name": "poodle", "category": "nature" },
   { "codes": "1F43A", "char": "🐺", "name": "wolf", "category": "nature" },
-  { "codes": "1F98A", "char": "🦊", "name": "fox", "category": "nature" },
-  { "codes": "1F99D", "char": "🦝", "name": "raccoon", "category": "nature" },
   { "codes": "1F431", "char": "🐱", "name": "cat face", "category": "nature" },
   { "codes": "1F408", "char": "🐈", "name": "cat", "category": "nature" },
-  { "codes": "1F981", "char": "🦁", "name": "lion", "category": "nature" },
   {
     "codes": "1F42F",
     "char": "🐯",
@@ -6037,9 +2696,6 @@
     "category": "nature"
   },
   { "codes": "1F40E", "char": "🐎", "name": "horse", "category": "nature" },
-  { "codes": "1F984", "char": "🦄", "name": "unicorn", "category": "nature" },
-  { "codes": "1F993", "char": "🦓", "name": "zebra", "category": "nature" },
-  { "codes": "1F98C", "char": "🦌", "name": "deer", "category": "nature" },
   { "codes": "1F42E", "char": "🐮", "name": "cow face", "category": "nature" },
   { "codes": "1F402", "char": "🐂", "name": "ox", "category": "nature" },
   {
@@ -6057,15 +2713,7 @@
   { "codes": "1F411", "char": "🐑", "name": "ewe", "category": "nature" },
   { "codes": "1F410", "char": "🐐", "name": "goat", "category": "nature" },
   { "codes": "1F42A", "char": "🐪", "name": "camel", "category": "nature" },
-  { "codes": "1F999", "char": "🦙", "name": "llama", "category": "nature" },
-  { "codes": "1F992", "char": "🦒", "name": "giraffe", "category": "nature" },
   { "codes": "1F418", "char": "🐘", "name": "elephant", "category": "nature" },
-  {
-    "codes": "1F98F",
-    "char": "🦏",
-    "name": "rhinoceros",
-    "category": "nature"
-  },
   {
     "codes": "1F42D",
     "char": "🐭",
@@ -6081,28 +2729,15 @@
     "category": "nature"
   },
   { "codes": "1F407", "char": "🐇", "name": "rabbit", "category": "nature" },
-  {
-    "codes": "1F43F FE0F",
-    "char": "🐿️",
-    "name": "chipmunk",
-    "category": "nature"
-  },
-  { "codes": "1F994", "char": "🦔", "name": "hedgehog", "category": "nature" },
-  { "codes": "1F987", "char": "🦇", "name": "bat", "category": "nature" },
   { "codes": "1F43B", "char": "🐻", "name": "bear", "category": "nature" },
   { "codes": "1F428", "char": "🐨", "name": "koala", "category": "nature" },
   { "codes": "1F43C", "char": "🐼", "name": "panda", "category": "nature" },
-  { "codes": "1F9A5", "char": "🦥", "name": "sloth", "category": "nature" },
-  { "codes": "1F9A8", "char": "🦨", "name": "skunk", "category": "nature" },
-  { "codes": "1F998", "char": "🦘", "name": "kangaroo", "category": "nature" },
-  { "codes": "1F9A1", "char": "🦡", "name": "badger", "category": "nature" },
   {
     "codes": "1F43E",
     "char": "🐾",
     "name": "paw prints",
     "category": "nature"
   },
-  { "codes": "1F983", "char": "🦃", "name": "turkey", "category": "nature" },
   { "codes": "1F414", "char": "🐔", "name": "chicken", "category": "nature" },
   { "codes": "1F413", "char": "🐓", "name": "rooster", "category": "nature" },
   {
@@ -6125,14 +2760,6 @@
   },
   { "codes": "1F426", "char": "🐦", "name": "bird", "category": "nature" },
   { "codes": "1F427", "char": "🐧", "name": "penguin", "category": "nature" },
-  { "codes": "1F54A FE0F", "char": "🕊️", "name": "dove", "category": "nature" },
-  { "codes": "1F985", "char": "🦅", "name": "eagle", "category": "nature" },
-  { "codes": "1F986", "char": "🦆", "name": "duck", "category": "nature" },
-  { "codes": "1F9A2", "char": "🦢", "name": "swan", "category": "nature" },
-  { "codes": "1F989", "char": "🦉", "name": "owl", "category": "nature" },
-  { "codes": "1F9A9", "char": "🦩", "name": "flamingo", "category": "nature" },
-  { "codes": "1F99A", "char": "🦚", "name": "peacock", "category": "nature" },
-  { "codes": "1F99C", "char": "🦜", "name": "parrot", "category": "nature" },
   { "codes": "1F438", "char": "🐸", "name": "frog", "category": "nature" },
   { "codes": "1F40A", "char": "🐊", "name": "crocodile", "category": "nature" },
   { "codes": "1F422", "char": "🐢", "name": "turtle", "category": "nature" },
@@ -6144,8 +2771,6 @@
     "category": "nature"
   },
   { "codes": "1F409", "char": "🐉", "name": "dragon", "category": "nature" },
-  { "codes": "1F995", "char": "🦕", "name": "sauropod", "category": "nature" },
-  { "codes": "1F996", "char": "🦖", "name": "T-Rex", "category": "nature" },
   {
     "codes": "1F433",
     "char": "🐳",
@@ -6175,21 +2800,7 @@
     "name": "lady beetle",
     "category": "nature"
   },
-  { "codes": "1F997", "char": "🦗", "name": "cricket", "category": "nature" },
-  {
-    "codes": "1F577 FE0F",
-    "char": "🕷️",
-    "name": "spider",
-    "category": "nature"
-  },
-  {
-    "codes": "1F578 FE0F",
-    "char": "🕸️",
-    "name": "spider web",
-    "category": "nature"
-  },
-  { "codes": "1F982", "char": "🦂", "name": "scorpion", "category": "nature" },
-  { "codes": "1F99F", "char": "🦟", "name": "mosquito", "category": "nature" },
+
   { "codes": "1F490", "char": "💐", "name": "bouquet", "category": "nature" },
   {
     "codes": "1F338",
@@ -6203,19 +2814,7 @@
     "name": "white flower",
     "category": "nature"
   },
-  {
-    "codes": "1F3F5 FE0F",
-    "char": "🏵️",
-    "name": "rosette",
-    "category": "nature"
-  },
   { "codes": "1F339", "char": "🌹", "name": "rose", "category": "nature" },
-  {
-    "codes": "1F940",
-    "char": "🥀",
-    "name": "wilted flower",
-    "category": "nature"
-  },
   { "codes": "1F33A", "char": "🌺", "name": "hibiscus", "category": "nature" },
   { "codes": "1F33B", "char": "🌻", "name": "sunflower", "category": "nature" },
   { "codes": "1F33C", "char": "🌼", "name": "blossom", "category": "nature" },
@@ -6346,19 +2945,7 @@
     "name": "sun with face",
     "category": "nature"
   },
-  {
-    "codes": "1F321 FE0F",
-    "char": "🌡️",
-    "name": "thermometer",
-    "category": "nature"
-  },
   { "codes": "2600 FE0F", "char": "☀️", "name": "sun", "category": "nature" },
-  {
-    "codes": "1FA90",
-    "char": "🪐",
-    "name": "ringed planet",
-    "category": "nature"
-  },
   { "codes": "2B50", "char": "⭐", "name": "star", "category": "nature" },
   {
     "codes": "1F31F",
@@ -6380,55 +2967,6 @@
     "name": "sun behind cloud",
     "category": "nature"
   },
-  {
-    "codes": "26C8 FE0F",
-    "char": "⛈️",
-    "name": "cloud with lightning and rain",
-    "category": "nature"
-  },
-  {
-    "codes": "1F324 FE0F",
-    "char": "🌤️",
-    "name": "sun behind small cloud",
-    "category": "nature"
-  },
-  {
-    "codes": "1F325 FE0F",
-    "char": "🌥️",
-    "name": "sun behind large cloud",
-    "category": "nature"
-  },
-  {
-    "codes": "1F326 FE0F",
-    "char": "🌦️",
-    "name": "sun behind rain cloud",
-    "category": "nature"
-  },
-  {
-    "codes": "1F327 FE0F",
-    "char": "🌧️",
-    "name": "cloud with rain",
-    "category": "nature"
-  },
-  {
-    "codes": "1F328 FE0F",
-    "char": "🌨️",
-    "name": "cloud with snow",
-    "category": "nature"
-  },
-  {
-    "codes": "1F329 FE0F",
-    "char": "🌩️",
-    "name": "cloud with lightning",
-    "category": "nature"
-  },
-  {
-    "codes": "1F32A FE0F",
-    "char": "🌪️",
-    "name": "tornado",
-    "category": "nature"
-  },
-  { "codes": "1F32B FE0F", "char": "🌫️", "name": "fog", "category": "nature" },
   { "codes": "1F300", "char": "🌀", "name": "cyclone", "category": "nature" },
   { "codes": "1F308", "char": "🌈", "name": "rainbow", "category": "nature" },
   {
@@ -6438,21 +2976,9 @@
     "category": "nature"
   },
   {
-    "codes": "2602 FE0F",
-    "char": "☂️",
-    "name": "umbrella",
-    "category": "nature"
-  },
-  {
     "codes": "2614",
     "char": "☔",
     "name": "umbrella with rain drops",
-    "category": "nature"
-  },
-  {
-    "codes": "26F1 FE0F",
-    "char": "⛱️",
-    "name": "umbrella on ground",
     "category": "nature"
   },
   {
@@ -6468,18 +2994,11 @@
     "category": "nature"
   },
   {
-    "codes": "2603 FE0F",
-    "char": "☃️",
-    "name": "snowman",
-    "category": "nature"
-  },
-  {
     "codes": "26C4",
     "char": "⛄",
     "name": "snowman without snow",
     "category": "nature"
   },
-  { "codes": "2604 FE0F", "char": "☄️", "name": "comet", "category": "nature" },
   { "codes": "1F525", "char": "🔥", "name": "fire", "category": "nature" },
   { "codes": "1F4A7", "char": "💧", "name": "droplet", "category": "nature" },
   {
@@ -6531,12 +3050,6 @@
     "category": "foodAndDrink"
   },
   {
-    "codes": "1F96D",
-    "char": "🥭",
-    "name": "mango",
-    "category": "foodAndDrink"
-  },
-  {
     "codes": "1F34E",
     "char": "🍎",
     "name": "red apple",
@@ -6573,27 +3086,9 @@
     "category": "foodAndDrink"
   },
   {
-    "codes": "1F95D",
-    "char": "🥝",
-    "name": "kiwi fruit",
-    "category": "foodAndDrink"
-  },
-  {
     "codes": "1F345",
     "char": "🍅",
     "name": "tomato",
-    "category": "foodAndDrink"
-  },
-  {
-    "codes": "1F965",
-    "char": "🥥",
-    "name": "coconut",
-    "category": "foodAndDrink"
-  },
-  {
-    "codes": "1F951",
-    "char": "🥑",
-    "name": "avocado",
     "category": "foodAndDrink"
   },
   {
@@ -6603,75 +3098,15 @@
     "category": "foodAndDrink"
   },
   {
-    "codes": "1F954",
-    "char": "🥔",
-    "name": "potato",
-    "category": "foodAndDrink"
-  },
-  {
-    "codes": "1F955",
-    "char": "🥕",
-    "name": "carrot",
-    "category": "foodAndDrink"
-  },
-  {
     "codes": "1F33D",
     "char": "🌽",
     "name": "ear of corn",
     "category": "foodAndDrink"
   },
   {
-    "codes": "1F336 FE0F",
-    "char": "🌶️",
-    "name": "hot pepper",
-    "category": "foodAndDrink"
-  },
-  {
-    "codes": "1F336",
-    "char": "🌶",
-    "name": "hot pepper",
-    "category": "foodAndDrink"
-  },
-  {
-    "codes": "1F952",
-    "char": "🥒",
-    "name": "cucumber",
-    "category": "foodAndDrink"
-  },
-  {
-    "codes": "1F96C",
-    "char": "🥬",
-    "name": "leafy green",
-    "category": "foodAndDrink"
-  },
-  {
-    "codes": "1F966",
-    "char": "🥦",
-    "name": "broccoli",
-    "category": "foodAndDrink"
-  },
-  {
-    "codes": "1F9C4",
-    "char": "🧄",
-    "name": "garlic",
-    "category": "foodAndDrink"
-  },
-  {
-    "codes": "1F9C5",
-    "char": "🧅",
-    "name": "onion",
-    "category": "foodAndDrink"
-  },
-  {
     "codes": "1F344",
     "char": "🍄",
     "name": "mushroom",
-    "category": "foodAndDrink"
-  },
-  {
-    "codes": "1F95C",
-    "char": "🥜",
-    "name": "peanuts",
     "category": "foodAndDrink"
   },
   {
@@ -6687,48 +3122,6 @@
     "category": "foodAndDrink"
   },
   {
-    "codes": "1F950",
-    "char": "🥐",
-    "name": "croissant",
-    "category": "foodAndDrink"
-  },
-  {
-    "codes": "1F956",
-    "char": "🥖",
-    "name": "baguette bread",
-    "category": "foodAndDrink"
-  },
-  {
-    "codes": "1F968",
-    "char": "🥨",
-    "name": "pretzel",
-    "category": "foodAndDrink"
-  },
-  {
-    "codes": "1F96F",
-    "char": "🥯",
-    "name": "bagel",
-    "category": "foodAndDrink"
-  },
-  {
-    "codes": "1F95E",
-    "char": "🥞",
-    "name": "pancakes",
-    "category": "foodAndDrink"
-  },
-  {
-    "codes": "1F9C7",
-    "char": "🧇",
-    "name": "waffle",
-    "category": "foodAndDrink"
-  },
-  {
-    "codes": "1F9C0",
-    "char": "🧀",
-    "name": "cheese wedge",
-    "category": "foodAndDrink"
-  },
-  {
     "codes": "1F356",
     "char": "🍖",
     "name": "meat on bone",
@@ -6738,18 +3131,6 @@
     "codes": "1F357",
     "char": "🍗",
     "name": "poultry leg",
-    "category": "foodAndDrink"
-  },
-  {
-    "codes": "1F969",
-    "char": "🥩",
-    "name": "cut of meat",
-    "category": "foodAndDrink"
-  },
-  {
-    "codes": "1F953",
-    "char": "🥓",
-    "name": "bacon",
     "category": "foodAndDrink"
   },
   {
@@ -6771,43 +3152,6 @@
     "category": "foodAndDrink"
   },
   {
-    "codes": "1F32D",
-    "char": "🌭",
-    "name": "hot dog",
-    "category": "foodAndDrink"
-  },
-  {
-    "codes": "1F96A",
-    "char": "🥪",
-    "name": "sandwich",
-    "category": "foodAndDrink"
-  },
-  {
-    "codes": "1F32E",
-    "char": "🌮",
-    "name": "taco",
-    "category": "foodAndDrink"
-  },
-  {
-    "codes": "1F32F",
-    "char": "🌯",
-    "name": "burrito",
-    "category": "foodAndDrink"
-  },
-  {
-    "codes": "1F959",
-    "char": "🥙",
-    "name": "stuffed flatbread",
-    "category": "foodAndDrink"
-  },
-  {
-    "codes": "1F9C6",
-    "char": "🧆",
-    "name": "falafel",
-    "category": "foodAndDrink"
-  },
-  { "codes": "1F95A", "char": "🥚", "name": "egg", "category": "foodAndDrink" },
-  {
     "codes": "1F373",
     "char": "🍳",
     "name": "cooking",
@@ -6823,36 +3167,6 @@
     "codes": "1F372",
     "char": "🍲",
     "name": "pot of food",
-    "category": "foodAndDrink"
-  },
-  {
-    "codes": "1F963",
-    "char": "🥣",
-    "name": "bowl with spoon",
-    "category": "foodAndDrink"
-  },
-  {
-    "codes": "1F957",
-    "char": "🥗",
-    "name": "green salad",
-    "category": "foodAndDrink"
-  },
-  {
-    "codes": "1F37F",
-    "char": "🍿",
-    "name": "popcorn",
-    "category": "foodAndDrink"
-  },
-  {
-    "codes": "1F9C8",
-    "char": "🧈",
-    "name": "butter",
-    "category": "foodAndDrink"
-  },
-  {
-    "codes": "1F96B",
-    "char": "🥫",
-    "name": "canned food",
     "category": "foodAndDrink"
   },
   {
@@ -6928,63 +3242,9 @@
     "category": "foodAndDrink"
   },
   {
-    "codes": "1F96E",
-    "char": "🥮",
-    "name": "moon cake",
-    "category": "foodAndDrink"
-  },
-  {
     "codes": "1F361",
     "char": "🍡",
     "name": "dango",
-    "category": "foodAndDrink"
-  },
-  {
-    "codes": "1F95F",
-    "char": "🥟",
-    "name": "dumpling",
-    "category": "foodAndDrink"
-  },
-  {
-    "codes": "1F960",
-    "char": "🥠",
-    "name": "fortune cookie",
-    "category": "foodAndDrink"
-  },
-  {
-    "codes": "1F961",
-    "char": "🥡",
-    "name": "takeout box",
-    "category": "foodAndDrink"
-  },
-  {
-    "codes": "1F980",
-    "char": "🦀",
-    "name": "crab",
-    "category": "foodAndDrink"
-  },
-  {
-    "codes": "1F99E",
-    "char": "🦞",
-    "name": "lobster",
-    "category": "foodAndDrink"
-  },
-  {
-    "codes": "1F990",
-    "char": "🦐",
-    "name": "shrimp",
-    "category": "foodAndDrink"
-  },
-  {
-    "codes": "1F991",
-    "char": "🦑",
-    "name": "squid",
-    "category": "foodAndDrink"
-  },
-  {
-    "codes": "1F9AA",
-    "char": "🦪",
-    "name": "oyster",
     "category": "foodAndDrink"
   },
   {
@@ -7030,13 +3290,6 @@
     "category": "foodAndDrink"
   },
   {
-    "codes": "1F9C1",
-    "char": "🧁",
-    "name": "cupcake",
-    "category": "foodAndDrink"
-  },
-  { "codes": "1F967", "char": "🥧", "name": "pie", "category": "foodAndDrink" },
-  {
     "codes": "1F36B",
     "char": "🍫",
     "name": "chocolate bar",
@@ -7073,12 +3326,6 @@
     "category": "foodAndDrink"
   },
   {
-    "codes": "1F95B",
-    "char": "🥛",
-    "name": "glass of milk",
-    "category": "foodAndDrink"
-  },
-  {
     "codes": "2615",
     "char": "☕",
     "name": "hot beverage",
@@ -7094,12 +3341,6 @@
     "codes": "1F376",
     "char": "🍶",
     "name": "sake",
-    "category": "foodAndDrink"
-  },
-  {
-    "codes": "1F37E",
-    "char": "🍾",
-    "name": "bottle with popping cork",
     "category": "foodAndDrink"
   },
   {
@@ -7133,70 +3374,15 @@
     "category": "foodAndDrink"
   },
   {
-    "codes": "1F942",
-    "char": "🥂",
-    "name": "clinking glasses",
-    "category": "foodAndDrink"
-  },
-  {
-    "codes": "1F943",
-    "char": "🥃",
-    "name": "tumbler glass",
-    "category": "foodAndDrink"
-  },
-  {
-    "codes": "1F964",
-    "char": "🥤",
-    "name": "cup with straw",
-    "category": "foodAndDrink"
-  },
-  {
-    "codes": "1F9C3",
-    "char": "🧃",
-    "name": "beverage box",
-    "category": "foodAndDrink"
-  },
-  { "codes": "1F9C9", "char": "🧉", "name": "mate", "category": "foodAndDrink" },
-  {
-    "codes": "1F9CA",
-    "char": "🧊",
-    "name": "ice cube",
-    "category": "foodAndDrink"
-  },
-  {
-    "codes": "1F962",
-    "char": "🥢",
-    "name": "chopsticks",
-    "category": "foodAndDrink"
-  },
-  {
-    "codes": "1F37D FE0F",
-    "char": "🍽️",
-    "name": "fork and knife with plate",
-    "category": "foodAndDrink"
-  },
-  {
     "codes": "1F374",
     "char": "🍴",
     "name": "fork and knife",
     "category": "foodAndDrink"
   },
   {
-    "codes": "1F944",
-    "char": "🥄",
-    "name": "spoon",
-    "category": "foodAndDrink"
-  },
-  {
     "codes": "1F52A",
     "char": "🔪",
     "name": "kitchen knife",
-    "category": "foodAndDrink"
-  },
-  {
-    "codes": "1F3FA",
-    "char": "🏺",
-    "name": "amphora",
     "category": "foodAndDrink"
   },
   {
@@ -7221,12 +3407,6 @@
     "codes": "1F387",
     "char": "🎇",
     "name": "sparkler",
-    "category": "activity"
-  },
-  {
-    "codes": "1F9E8",
-    "char": "🧨",
-    "name": "firecracker",
     "category": "activity"
   },
   { "codes": "2728", "char": "✨", "name": "sparkles", "category": "activity" },
@@ -7274,55 +3454,7 @@
     "name": "wrapped gift",
     "category": "activity"
   },
-  {
-    "codes": "1F397 FE0F",
-    "char": "🎗️",
-    "name": "reminder ribbon",
-    "category": "activity"
-  },
-  {
-    "codes": "1F39F FE0F",
-    "char": "🎟️",
-    "name": "admission tickets",
-    "category": "activity"
-  },
-  {
-    "codes": "1F39F",
-    "char": "🎟",
-    "name": "admission tickets",
-    "category": "activity"
-  },
-  {
-    "codes": "1F396 FE0F",
-    "char": "🎖️",
-    "name": "military medal",
-    "category": "activity"
-  },
   { "codes": "1F3C6", "char": "🏆", "name": "trophy", "category": "activity" },
-  {
-    "codes": "1F3C5",
-    "char": "🏅",
-    "name": "sports medal",
-    "category": "activity"
-  },
-  {
-    "codes": "1F947",
-    "char": "🥇",
-    "name": "1st place medal",
-    "category": "activity"
-  },
-  {
-    "codes": "1F948",
-    "char": "🥈",
-    "name": "2nd place medal",
-    "category": "activity"
-  },
-  {
-    "codes": "1F949",
-    "char": "🥉",
-    "name": "3rd place medal",
-    "category": "activity"
-  },
   {
     "codes": "26BD",
     "char": "⚽",
@@ -7334,12 +3466,6 @@
     "codes": "1F3C0",
     "char": "🏀",
     "name": "basketball",
-    "category": "activity"
-  },
-  {
-    "codes": "1F3D0",
-    "char": "🏐",
-    "name": "volleyball",
     "category": "activity"
   },
   {
@@ -7355,67 +3481,7 @@
     "category": "activity"
   },
   { "codes": "1F3BE", "char": "🎾", "name": "tennis", "category": "activity" },
-  {
-    "codes": "1F94F",
-    "char": "🥏",
-    "name": "flying disc",
-    "category": "activity"
-  },
   { "codes": "1F3B3", "char": "🎳", "name": "bowling", "category": "activity" },
-  {
-    "codes": "1F3CF",
-    "char": "🏏",
-    "name": "cricket game",
-    "category": "activity"
-  },
-  {
-    "codes": "1F3D1",
-    "char": "🏑",
-    "name": "field hockey",
-    "category": "activity"
-  },
-  {
-    "codes": "1F3D2",
-    "char": "🏒",
-    "name": "ice hockey",
-    "category": "activity"
-  },
-  {
-    "codes": "1F94D",
-    "char": "🥍",
-    "name": "lacrosse",
-    "category": "activity"
-  },
-  {
-    "codes": "1F3D3",
-    "char": "🏓",
-    "name": "ping pong",
-    "category": "activity"
-  },
-  {
-    "codes": "1F3F8",
-    "char": "🏸",
-    "name": "badminton",
-    "category": "activity"
-  },
-  {
-    "codes": "1F94A",
-    "char": "🥊",
-    "name": "boxing glove",
-    "category": "activity"
-  },
-  {
-    "codes": "1F94B",
-    "char": "🥋",
-    "name": "martial arts uniform",
-    "category": "activity"
-  },
-  {
-    "codes": "1F945",
-    "char": "🥅",
-    "name": "goal net",
-    "category": "activity"
-  },
   {
     "codes": "26F3",
     "char": "⛳",
@@ -7423,22 +3489,9 @@
     "category": "activity"
   },
   {
-    "codes": "26F8 FE0F",
-    "char": "⛸️",
-    "name": "ice skate",
-    "category": "activity"
-  },
-  { "codes": "26F8", "char": "⛸", "name": "ice skate", "category": "activity" },
-  {
     "codes": "1F3A3",
     "char": "🎣",
     "name": "fishing pole",
-    "category": "activity"
-  },
-  {
-    "codes": "1F93F",
-    "char": "🤿",
-    "name": "diving mask",
     "category": "activity"
   },
   {
@@ -7448,21 +3501,14 @@
     "category": "activity"
   },
   { "codes": "1F3BF", "char": "🎿", "name": "skis", "category": "activity" },
-  { "codes": "1F6F7", "char": "🛷", "name": "sled", "category": "activity" },
-  {
-    "codes": "1F94C",
-    "char": "🥌",
-    "name": "curling stone",
-    "category": "activity"
-  },
+
   {
     "codes": "1F3AF",
     "char": "🎯",
     "name": "direct hit",
     "category": "activity"
   },
-  { "codes": "1FA80", "char": "🪀", "name": "yo-yo", "category": "activity" },
-  { "codes": "1FA81", "char": "🪁", "name": "kite", "category": "activity" },
+
   {
     "codes": "1F3B1",
     "char": "🎱",
@@ -7482,12 +3528,6 @@
     "category": "activity"
   },
   {
-    "codes": "1F579 FE0F",
-    "char": "🕹️",
-    "name": "joystick",
-    "category": "activity"
-  },
-  {
     "codes": "1F3B0",
     "char": "🎰",
     "name": "slot machine",
@@ -7497,24 +3537,6 @@
     "codes": "1F3B2",
     "char": "🎲",
     "name": "game die",
-    "category": "activity"
-  },
-  {
-    "codes": "1F9E9",
-    "char": "🧩",
-    "name": "puzzle piece",
-    "category": "activity"
-  },
-  {
-    "codes": "1F9F8",
-    "char": "🧸",
-    "name": "teddy bear",
-    "category": "activity"
-  },
-  {
-    "codes": "265F FE0F",
-    "char": "♟️",
-    "name": "chess pawn",
     "category": "activity"
   },
   { "codes": "1F0CF", "char": "🃏", "name": "joker", "category": "activity" },
@@ -7537,19 +3559,12 @@
     "category": "activity"
   },
   {
-    "codes": "1F5BC FE0F",
-    "char": "🖼️",
-    "name": "framed picture",
-    "category": "activity"
-  },
-  {
     "codes": "1F3A8",
     "char": "🎨",
     "name": "artist palette",
     "category": "activity"
   },
-  { "codes": "1F9F5", "char": "🧵", "name": "thread", "category": "activity" },
-  { "codes": "1F9F6", "char": "🧶", "name": "yarn", "category": "activity" },
+
   {
     "codes": "1F30F",
     "char": "🌏",
@@ -7562,77 +3577,11 @@
     "name": "globe with meridians",
     "category": "places"
   },
-  {
-    "codes": "1F5FA FE0F",
-    "char": "🗺️",
-    "name": "world map",
-    "category": "places"
-  },
-  {
-    "codes": "1F3D4 FE0F",
-    "char": "🏔️",
-    "name": "snow-capped mountain",
-    "category": "places"
-  },
-  {
-    "codes": "26F0 FE0F",
-    "char": "⛰️",
-    "name": "mountain",
-    "category": "places"
-  },
   { "codes": "1F30B", "char": "🌋", "name": "volcano", "category": "places" },
   {
     "codes": "1F5FB",
     "char": "🗻",
     "name": "mount fuji",
-    "category": "places"
-  },
-  {
-    "codes": "1F3D5 FE0F",
-    "char": "🏕️",
-    "name": "camping",
-    "category": "places"
-  },
-  {
-    "codes": "1F3D6 FE0F",
-    "char": "🏖️",
-    "name": "beach with umbrella",
-    "category": "places"
-  },
-  {
-    "codes": "1F3DC FE0F",
-    "char": "🏜️",
-    "name": "desert",
-    "category": "places"
-  },
-  {
-    "codes": "1F3DD FE0F",
-    "char": "🏝️",
-    "name": "desert island",
-    "category": "places"
-  },
-  {
-    "codes": "1F3DE FE0F",
-    "char": "🏞️",
-    "name": "national park",
-    "category": "places"
-  },
-  {
-    "codes": "1F3DB FE0F",
-    "char": "🏛️",
-    "name": "classical building",
-    "category": "places"
-  },
-  {
-    "codes": "1F3D8 FE0F",
-    "char": "🏘️",
-    "name": "houses",
-    "category": "places"
-  },
-  {
-    "codes": "1F3DA FE0F",
-    "char": "🏚️",
-    "name": "derelict house",
     "category": "places"
   },
   { "codes": "1F3E0", "char": "🏠", "name": "house", "category": "places" },
@@ -7698,20 +3647,6 @@
     "category": "places"
   },
   { "codes": "26EA", "char": "⛪", "name": "church", "category": "places" },
-  { "codes": "1F54C", "char": "🕌", "name": "mosque", "category": "places" },
-  {
-    "codes": "1F6D5",
-    "char": "🛕",
-    "name": "hindu temple",
-    "category": "places"
-  },
-  { "codes": "1F54D", "char": "🕍", "name": "synagogue", "category": "places" },
-  {
-    "codes": "26E9 FE0F",
-    "char": "⛩️",
-    "name": "shinto shrine",
-    "category": "places"
-  },
   { "codes": "26F2", "char": "⛲", "name": "fountain", "category": "places" },
   { "codes": "26FA", "char": "⛺", "name": "tent", "category": "places" },
   { "codes": "1F301", "char": "🌁", "name": "foggy", "category": "places" },
@@ -7719,12 +3654,6 @@
     "codes": "1F303",
     "char": "🌃",
     "name": "night with stars",
-    "category": "places"
-  },
-  {
-    "codes": "1F3D9 FE0F",
-    "char": "🏙️",
-    "name": "cityscape",
     "category": "places"
   },
   {
@@ -7884,12 +3813,6 @@
     "category": "places"
   },
   { "codes": "1F6B2", "char": "🚲", "name": "bicycle", "category": "places" },
-  {
-    "codes": "1F6F4",
-    "char": "🛴",
-    "name": "kick scooter",
-    "category": "places"
-  },
   { "codes": "26FD", "char": "⛽", "name": "fuel pump", "category": "places" },
   {
     "codes": "1F6A8",
@@ -7917,20 +3840,7 @@
   },
   { "codes": "2693", "char": "⚓", "name": "anchor", "category": "places" },
   { "codes": "26F5", "char": "⛵", "name": "sailboat", "category": "places" },
-  { "codes": "1F6F6", "char": "🛶", "name": "canoe", "category": "places" },
   { "codes": "1F6A4", "char": "🚤", "name": "speedboat", "category": "places" },
-  {
-    "codes": "1F6F3 FE0F",
-    "char": "🛳️",
-    "name": "passenger ship",
-    "category": "places"
-  },
-  {
-    "codes": "1F6E5 FE0F",
-    "char": "🛥️",
-    "name": "motor boat",
-    "category": "places"
-  },
   { "codes": "1F6A2", "char": "🚢", "name": "ship", "category": "places" },
   {
     "codes": "2708 FE0F",
@@ -7970,18 +3880,6 @@
   },
   { "codes": "1F680", "char": "🚀", "name": "rocket", "category": "places" },
   {
-    "codes": "1F6F8",
-    "char": "🛸",
-    "name": "flying saucer",
-    "category": "places"
-  },
-  {
-    "codes": "1F6CE FE0F",
-    "char": "🛎️",
-    "name": "bellhop bell",
-    "category": "places"
-  },
-  {
     "codes": "231B",
     "char": "⌛",
     "name": "hourglass done",
@@ -7998,26 +3896,6 @@
     "codes": "23F0",
     "char": "⏰",
     "name": "alarm clock",
-    "category": "places"
-  },
-  {
-    "codes": "23F1 FE0F",
-    "char": "⏱️",
-    "name": "stopwatch",
-    "category": "places"
-  },
-  { "codes": "23F1", "char": "⏱", "name": "stopwatch", "category": "places" },
-  {
-    "codes": "23F2 FE0F",
-    "char": "⏲️",
-    "name": "timer clock",
-    "category": "places"
-  },
-  { "codes": "23F2", "char": "⏲", "name": "timer clock", "category": "places" },
-  {
-    "codes": "1F570 FE0F",
-    "char": "🕰️",
-    "name": "mantelpiece clock",
     "category": "places"
   },
   {
@@ -8165,33 +4043,10 @@
     "category": "places"
   },
   { "codes": "1F453", "char": "👓", "name": "glasses", "category": "objects" },
-  {
-    "codes": "1F576 FE0F",
-    "char": "🕶️",
-    "name": "sunglasses",
-    "category": "objects"
-  },
   { "codes": "1F454", "char": "👔", "name": "necktie", "category": "objects" },
   { "codes": "1F455", "char": "👕", "name": "t-shirt", "category": "objects" },
   { "codes": "1F456", "char": "👖", "name": "jeans", "category": "objects" },
-  { "codes": "1F9E3", "char": "🧣", "name": "scarf", "category": "objects" },
-  { "codes": "1F9E4", "char": "🧤", "name": "gloves", "category": "objects" },
-  { "codes": "1F9E5", "char": "🧥", "name": "coat", "category": "objects" },
-  { "codes": "1F9E6", "char": "🧦", "name": "socks", "category": "objects" },
   { "codes": "1F457", "char": "👗", "name": "dress", "category": "objects" },
-  {
-    "codes": "1FA71",
-    "char": "🩱",
-    "name": "one-piece swimsuit",
-    "category": "objects"
-  },
-  {
-    "codes": "1FA72",
-    "char": "🩲",
-    "name": "swim brief",
-    "category": "objects"
-  },
-  { "codes": "1FA73", "char": "🩳", "name": "shorts", "category": "objects" },
   { "codes": "1F459", "char": "👙", "name": "bikini", "category": "objects" },
   {
     "codes": "1F45A",
@@ -8205,12 +4060,6 @@
     "codes": "1F45D",
     "char": "👝",
     "name": "clutch bag",
-    "category": "objects"
-  },
-  {
-    "codes": "1F6CD FE0F",
-    "char": "🛍️",
-    "name": "shopping bags",
     "category": "objects"
   },
   { "codes": "1F392", "char": "🎒", "name": "backpack", "category": "objects" },
@@ -8227,18 +4076,6 @@
     "category": "objects"
   },
   {
-    "codes": "1F97E",
-    "char": "🥾",
-    "name": "hiking boot",
-    "category": "objects"
-  },
-  {
-    "codes": "1F97F",
-    "char": "🥿",
-    "name": "flat shoe",
-    "category": "objects"
-  },
-  {
     "codes": "1F460",
     "char": "👠",
     "name": "high-heeled shoe",
@@ -8248,12 +4085,6 @@
     "codes": "1F461",
     "char": "👡",
     "name": "woman’s sandal",
-    "category": "objects"
-  },
-  {
-    "codes": "1FA70",
-    "char": "🩰",
-    "name": "ballet shoes",
     "category": "objects"
   },
   {
@@ -8274,24 +4105,6 @@
     "codes": "1F393",
     "char": "🎓",
     "name": "graduation cap",
-    "category": "objects"
-  },
-  {
-    "codes": "1F9E2",
-    "char": "🧢",
-    "name": "billed cap",
-    "category": "objects"
-  },
-  {
-    "codes": "26D1 FE0F",
-    "char": "⛑️",
-    "name": "rescue worker’s helmet",
-    "category": "objects"
-  },
-  {
-    "codes": "1F4FF",
-    "char": "📿",
-    "name": "prayer beads",
     "category": "objects"
   },
   { "codes": "1F484", "char": "💄", "name": "lipstick", "category": "objects" },
@@ -8370,18 +4183,6 @@
     "category": "objects"
   },
   {
-    "codes": "1F399 FE0F",
-    "char": "🎙️",
-    "name": "studio microphone",
-    "category": "objects"
-  },
-  {
-    "codes": "1F39A FE0F",
-    "char": "🎚️",
-    "name": "level slider",
-    "category": "objects"
-  },
-  {
     "codes": "1F3A4",
     "char": "🎤",
     "name": "microphone",
@@ -8409,8 +4210,6 @@
   },
   { "codes": "1F3BA", "char": "🎺", "name": "trumpet", "category": "objects" },
   { "codes": "1F3BB", "char": "🎻", "name": "violin", "category": "objects" },
-  { "codes": "1FA95", "char": "🪕", "name": "banjo", "category": "objects" },
-  { "codes": "1F941", "char": "🥁", "name": "drum", "category": "objects" },
   {
     "codes": "1F4F1",
     "char": "📱",
@@ -8453,36 +4252,6 @@
     "codes": "1F4BB",
     "char": "💻",
     "name": "laptop computer",
-    "category": "objects"
-  },
-  {
-    "codes": "1F5A5 FE0F",
-    "char": "🖥️",
-    "name": "desktop computer",
-    "category": "objects"
-  },
-  {
-    "codes": "1F5A8 FE0F",
-    "char": "🖨️",
-    "name": "printer",
-    "category": "objects"
-  },
-  {
-    "codes": "2328 FE0F",
-    "char": "⌨️",
-    "name": "keyboard",
-    "category": "objects"
-  },
-  {
-    "codes": "1F5B1 FE0F",
-    "char": "🖱️",
-    "name": "computer mouse",
-    "category": "objects"
-  },
-  {
-    "codes": "1F5B2 FE0F",
-    "char": "🖲️",
-    "name": "trackball",
     "category": "objects"
   },
   {
@@ -8537,12 +4306,6 @@
   },
   { "codes": "1F4F7", "char": "📷", "name": "camera", "category": "objects" },
   {
-    "codes": "1F4F8",
-    "char": "📸",
-    "name": "camera with flash",
-    "category": "objects"
-  },
-  {
     "codes": "1F4F9",
     "char": "📹",
     "name": "video camera",
@@ -8564,12 +4327,6 @@
     "codes": "1F50E",
     "char": "🔎",
     "name": "magnifying glass tilted right",
-    "category": "objects"
-  },
-  {
-    "codes": "1F56F FE0F",
-    "char": "🕯️",
-    "name": "candle",
     "category": "objects"
   },
   {
@@ -8649,24 +4406,12 @@
     "category": "objects"
   },
   {
-    "codes": "1F5DE FE0F",
-    "char": "🗞️",
-    "name": "rolled-up newspaper",
-    "category": "objects"
-  },
-  {
     "codes": "1F4D1",
     "char": "📑",
     "name": "bookmark tabs",
     "category": "objects"
   },
   { "codes": "1F516", "char": "🔖", "name": "bookmark", "category": "objects" },
-  {
-    "codes": "1F3F7 FE0F",
-    "char": "🏷️",
-    "name": "label",
-    "category": "objects"
-  },
   {
     "codes": "1F4B0",
     "char": "💰",
@@ -8709,7 +4454,6 @@
     "name": "credit card",
     "category": "objects"
   },
-  { "codes": "1F9FE", "char": "🧾", "name": "receipt", "category": "objects" },
   {
     "codes": "1F4B9",
     "char": "💹",
@@ -8786,12 +4530,6 @@
   },
   { "codes": "1F4EE", "char": "📮", "name": "postbox", "category": "objects" },
   {
-    "codes": "1F5F3 FE0F",
-    "char": "🗳️",
-    "name": "ballot box with ballot",
-    "category": "objects"
-  },
-  {
     "codes": "270F FE0F",
     "char": "✏️",
     "name": "pencil",
@@ -8801,25 +4539,6 @@
     "codes": "2712 FE0F",
     "char": "✒️",
     "name": "black nib",
-    "category": "objects"
-  },
-  {
-    "codes": "1F58B FE0F",
-    "char": "🖋️",
-    "name": "fountain pen",
-    "category": "objects"
-  },
-  { "codes": "1F58A FE0F", "char": "🖊️", "name": "pen", "category": "objects" },
-  {
-    "codes": "1F58C FE0F",
-    "char": "🖌️",
-    "name": "paintbrush",
-    "category": "objects"
-  },
-  {
-    "codes": "1F58D FE0F",
-    "char": "🖍️",
-    "name": "crayon",
     "category": "objects"
   },
   { "codes": "1F4DD", "char": "📝", "name": "memo", "category": "objects" },
@@ -8841,31 +4560,7 @@
     "name": "open file folder",
     "category": "objects"
   },
-  {
-    "codes": "1F5C2 FE0F",
-    "char": "🗂️",
-    "name": "card index dividers",
-    "category": "objects"
-  },
   { "codes": "1F4C5", "char": "📅", "name": "calendar", "category": "objects" },
-  {
-    "codes": "1F4C6",
-    "char": "📆",
-    "name": "tear-off calendar",
-    "category": "objects"
-  },
-  {
-    "codes": "1F5D2 FE0F",
-    "char": "🗒️",
-    "name": "spiral notepad",
-    "category": "objects"
-  },
-  {
-    "codes": "1F5D3 FE0F",
-    "char": "🗓️",
-    "name": "spiral calendar",
-    "category": "objects"
-  },
   {
     "codes": "1F4C7",
     "char": "📇",
@@ -8927,24 +4622,6 @@
     "name": "scissors",
     "category": "objects"
   },
-  {
-    "codes": "1F5C3 FE0F",
-    "char": "🗃️",
-    "name": "card file box",
-    "category": "objects"
-  },
-  {
-    "codes": "1F5C4 FE0F",
-    "char": "🗄️",
-    "name": "file cabinet",
-    "category": "objects"
-  },
-  {
-    "codes": "1F5D1 FE0F",
-    "char": "🗑️",
-    "name": "wastebasket",
-    "category": "objects"
-  },
   { "codes": "1F512", "char": "🔒", "name": "locked", "category": "objects" },
   { "codes": "1F513", "char": "🔓", "name": "unlocked", "category": "objects" },
   {
@@ -8960,63 +4637,9 @@
     "category": "objects"
   },
   { "codes": "1F511", "char": "🔑", "name": "key", "category": "objects" },
-  {
-    "codes": "1F5DD FE0F",
-    "char": "🗝️",
-    "name": "old key",
-    "category": "objects"
-  },
   { "codes": "1F528", "char": "🔨", "name": "hammer", "category": "objects" },
-  { "codes": "1FA93", "char": "🪓", "name": "axe", "category": "objects" },
-  { "codes": "26CF FE0F", "char": "⛏️", "name": "pick", "category": "objects" },
-  {
-    "codes": "2692 FE0F",
-    "char": "⚒️",
-    "name": "hammer and pick",
-    "category": "objects"
-  },
-  {
-    "codes": "1F6E0 FE0F",
-    "char": "🛠️",
-    "name": "hammer and wrench",
-    "category": "objects"
-  },
-  {
-    "codes": "1F5E1 FE0F",
-    "char": "🗡️",
-    "name": "dagger",
-    "category": "objects"
-  },
-  {
-    "codes": "2694 FE0F",
-    "char": "⚔️",
-    "name": "crossed swords",
-    "category": "objects"
-  },
   { "codes": "1F52B", "char": "🔫", "name": "pistol", "category": "objects" },
-  {
-    "codes": "1F3F9",
-    "char": "🏹",
-    "name": "bow and arrow",
-    "category": "objects"
-  },
-  { "codes": "2699 FE0F", "char": "⚙️", "name": "gear", "category": "objects" },
-  {
-    "codes": "2696 FE0F",
-    "char": "⚖️",
-    "name": "balance scale",
-    "category": "objects"
-  },
   { "codes": "1F517", "char": "🔗", "name": "link", "category": "objects" },
-  { "codes": "1F9F0", "char": "🧰", "name": "toolbox", "category": "objects" },
-  { "codes": "1F9F2", "char": "🧲", "name": "magnet", "category": "objects" },
-  {
-    "codes": "1F9EA",
-    "char": "🧪",
-    "name": "test tube",
-    "category": "objects"
-  },
-  { "codes": "1F9EC", "char": "🧬", "name": "dna", "category": "objects" },
   {
     "codes": "1F52C",
     "char": "🔬",
@@ -9036,70 +4659,11 @@
     "category": "objects"
   },
   { "codes": "1F489", "char": "💉", "name": "syringe", "category": "objects" },
-  {
-    "codes": "1FA78",
-    "char": "🩸",
-    "name": "drop of blood",
-    "category": "objects"
-  },
   { "codes": "1F48A", "char": "💊", "name": "pill", "category": "objects" },
-  {
-    "codes": "1FA79",
-    "char": "🩹",
-    "name": "adhesive bandage",
-    "category": "objects"
-  },
-  {
-    "codes": "1FA7A",
-    "char": "🩺",
-    "name": "stethoscope",
-    "category": "objects"
-  },
   { "codes": "1F6AA", "char": "🚪", "name": "door", "category": "objects" },
-  { "codes": "1F6CF FE0F", "char": "🛏️", "name": "bed", "category": "objects" },
-  {
-    "codes": "1F6CB FE0F",
-    "char": "🛋️",
-    "name": "couch and lamp",
-    "category": "objects"
-  },
-  { "codes": "1FA91", "char": "🪑", "name": "chair", "category": "objects" },
   { "codes": "1F6BD", "char": "🚽", "name": "toilet", "category": "objects" },
   { "codes": "1F6BF", "char": "🚿", "name": "shower", "category": "objects" },
   { "codes": "1F6C1", "char": "🛁", "name": "bathtub", "category": "objects" },
-  { "codes": "1FA92", "char": "🪒", "name": "razor", "category": "objects" },
-  {
-    "codes": "1F9F4",
-    "char": "🧴",
-    "name": "lotion bottle",
-    "category": "objects"
-  },
-  {
-    "codes": "1F9F7",
-    "char": "🧷",
-    "name": "safety pin",
-    "category": "objects"
-  },
-  { "codes": "1F9F9", "char": "🧹", "name": "broom", "category": "objects" },
-  { "codes": "1F9FA", "char": "🧺", "name": "basket", "category": "objects" },
-  {
-    "codes": "1F9FB",
-    "char": "🧻",
-    "name": "roll of paper",
-    "category": "objects"
-  },
-  {
-    "codes": "1F9EF",
-    "char": "🧯",
-    "name": "fire extinguisher",
-    "category": "objects"
-  },
-  {
-    "codes": "1F6D2",
-    "char": "🛒",
-    "name": "shopping cart",
-    "category": "objects"
-  },
   {
     "codes": "1F6AC",
     "char": "🚬",
@@ -9111,12 +4675,6 @@
     "codes": "2764 FE0F",
     "char": "❤️",
     "name": "red heart",
-    "category": "symbols"
-  },
-  {
-    "codes": "1F9E1",
-    "char": "🧡",
-    "name": "orange heart",
     "category": "symbols"
   },
   {
@@ -9141,24 +4699,6 @@
     "codes": "1F49C",
     "char": "💜",
     "name": "purple heart",
-    "category": "symbols"
-  },
-  {
-    "codes": "1F90E",
-    "char": "🤎",
-    "name": "brown heart",
-    "category": "symbols"
-  },
-  {
-    "codes": "1F5A4",
-    "char": "🖤",
-    "name": "black heart",
-    "category": "symbols"
-  },
-  {
-    "codes": "1F90D",
-    "char": "🤍",
-    "name": "white heart",
     "category": "symbols"
   },
   {
@@ -9222,12 +4762,6 @@
     "category": "symbols"
   },
   {
-    "codes": "2763 FE0F",
-    "char": "❣️",
-    "name": "heart exclamation",
-    "category": "symbols"
-  },
-  {
     "codes": "1F494",
     "char": "💔",
     "name": "broken heart",
@@ -9264,35 +4798,11 @@
     "name": "dashing away",
     "category": "symbols"
   },
-  {
-    "codes": "1F573 FE0F",
-    "char": "🕳️",
-    "name": "hole",
-    "category": "symbols"
-  },
   { "codes": "1F4A3", "char": "💣", "name": "bomb", "category": "symbols" },
   {
     "codes": "1F4AC",
     "char": "💬",
     "name": "speech balloon",
-    "category": "symbols"
-  },
-  {
-    "codes": "1F441 FE0F 200D 1F5E8 FE0F",
-    "char": "👁️‍🗨️",
-    "name": "eye in speech bubble",
-    "category": "symbols"
-  },
-  {
-    "codes": "1F5E8 FE0F",
-    "char": "🗨️",
-    "name": "left speech bubble",
-    "category": "symbols"
-  },
-  {
-    "codes": "1F5EF FE0F",
-    "char": "🗯️",
-    "name": "right anger bubble",
     "category": "symbols"
   },
   {
@@ -9570,45 +5080,9 @@
     "category": "symbols"
   },
   {
-    "codes": "23ED FE0F",
-    "char": "⏭️",
-    "name": "next track button",
-    "category": "symbols"
-  },
-  {
-    "codes": "23ED",
-    "char": "⏭",
-    "name": "next track button",
-    "category": "symbols"
-  },
-  {
-    "codes": "23EF FE0F",
-    "char": "⏯️",
-    "name": "play or pause button",
-    "category": "symbols"
-  },
-  {
-    "codes": "23EF",
-    "char": "⏯",
-    "name": "play or pause button",
-    "category": "symbols"
-  },
-  {
     "codes": "23EA",
     "char": "⏪",
     "name": "fast reverse button",
-    "category": "symbols"
-  },
-  {
-    "codes": "23EE FE0F",
-    "char": "⏮️",
-    "name": "last track button",
-    "category": "symbols"
-  },
-  {
-    "codes": "23EE",
-    "char": "⏮",
-    "name": "last track button",
     "category": "symbols"
   },
   {
@@ -9633,48 +5107,6 @@
     "codes": "23EC",
     "char": "⏬",
     "name": "fast down button",
-    "category": "symbols"
-  },
-  {
-    "codes": "23F8 FE0F",
-    "char": "⏸️",
-    "name": "pause button",
-    "category": "symbols"
-  },
-  {
-    "codes": "23F8",
-    "char": "⏸",
-    "name": "pause button",
-    "category": "symbols"
-  },
-  {
-    "codes": "23F9 FE0F",
-    "char": "⏹️",
-    "name": "stop button",
-    "category": "symbols"
-  },
-  {
-    "codes": "23F9",
-    "char": "⏹",
-    "name": "stop button",
-    "category": "symbols"
-  },
-  {
-    "codes": "23FA FE0F",
-    "char": "⏺️",
-    "name": "record button",
-    "category": "symbols"
-  },
-  {
-    "codes": "23FA",
-    "char": "⏺",
-    "name": "record button",
-    "category": "symbols"
-  },
-  {
-    "codes": "23CF FE0F",
-    "char": "⏏️",
-    "name": "eject button",
     "category": "symbols"
   },
   { "codes": "1F3A6", "char": "🎦", "name": "cinema", "category": "symbols" },
@@ -9709,27 +5141,9 @@
     "category": "symbols"
   },
   {
-    "codes": "2695 FE0F",
-    "char": "⚕️",
-    "name": "medical symbol",
-    "category": "symbols"
-  },
-  {
-    "codes": "267E FE0F",
-    "char": "♾️",
-    "name": "infinity",
-    "category": "symbols"
-  },
-  {
     "codes": "267B FE0F",
     "char": "♻️",
     "name": "recycling symbol",
-    "category": "symbols"
-  },
-  {
-    "codes": "269C FE0F",
-    "char": "⚜️",
-    "name": "fleur-de-lis",
     "category": "symbols"
   },
   {
@@ -9847,39 +5261,9 @@
     "category": "symbols"
   },
   {
-    "codes": "1F7E0",
-    "char": "🟠",
-    "name": "orange circle",
-    "category": "symbols"
-  },
-  {
-    "codes": "1F7E1",
-    "char": "🟡",
-    "name": "yellow circle",
-    "category": "symbols"
-  },
-  {
-    "codes": "1F7E2",
-    "char": "🟢",
-    "name": "green circle",
-    "category": "symbols"
-  },
-  {
     "codes": "1F535",
     "char": "🔵",
     "name": "blue circle",
-    "category": "symbols"
-  },
-  {
-    "codes": "1F7E3",
-    "char": "🟣",
-    "name": "purple circle",
-    "category": "symbols"
-  },
-  {
-    "codes": "1F7E4",
-    "char": "🟤",
-    "name": "brown circle",
     "category": "symbols"
   },
   {
@@ -9892,48 +5276,6 @@
     "codes": "26AA",
     "char": "⚪",
     "name": "white circle",
-    "category": "symbols"
-  },
-  {
-    "codes": "1F7E5",
-    "char": "🟥",
-    "name": "red square",
-    "category": "symbols"
-  },
-  {
-    "codes": "1F7E7",
-    "char": "🟧",
-    "name": "orange square",
-    "category": "symbols"
-  },
-  {
-    "codes": "1F7E8",
-    "char": "🟨",
-    "name": "yellow square",
-    "category": "symbols"
-  },
-  {
-    "codes": "1F7E9",
-    "char": "🟩",
-    "name": "green square",
-    "category": "symbols"
-  },
-  {
-    "codes": "1F7E6",
-    "char": "🟦",
-    "name": "blue square",
-    "category": "symbols"
-  },
-  {
-    "codes": "1F7EA",
-    "char": "🟪",
-    "name": "purple square",
-    "category": "symbols"
-  },
-  {
-    "codes": "1F7EB",
-    "char": "🟫",
-    "name": "brown square",
     "category": "symbols"
   },
   {
@@ -10050,305 +5392,10 @@
     "name": "crossed flags",
     "category": "flags"
   },
-  { "codes": "1F3F4", "char": "🏴", "name": "black flag", "category": "flags" },
   {
-    "codes": "1F3F3 FE0F",
-    "char": "🏳️",
-    "name": "white flag",
-    "category": "flags"
-  },
-  {
-    "codes": "1F3F3 FE0F 200D 1F308",
-    "char": "🏳️‍🌈",
-    "name": "rainbow flag",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1E6 1F1E8",
-    "char": "🇦🇨",
-    "name": "flag: Ascension Island",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1E6 1F1E9",
-    "char": "🇦🇩",
-    "name": "flag: Andorra",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1E6 1F1EA",
-    "char": "🇦🇪",
-    "name": "flag: United Arab Emirates",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1E6 1F1EB",
-    "char": "🇦🇫",
-    "name": "flag: Afghanistan",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1E6 1F1EC",
-    "char": "🇦🇬",
-    "name": "flag: Antigua & Barbuda",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1E6 1F1EE",
-    "char": "🇦🇮",
-    "name": "flag: Anguilla",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1E6 1F1F1",
-    "char": "🇦🇱",
-    "name": "flag: Albania",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1E6 1F1F2",
-    "char": "🇦🇲",
-    "name": "flag: Armenia",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1E6 1F1F4",
-    "char": "🇦🇴",
-    "name": "flag: Angola",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1E6 1F1F6",
-    "char": "🇦🇶",
-    "name": "flag: Antarctica",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1E6 1F1F7",
-    "char": "🇦🇷",
-    "name": "flag: Argentina",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1E6 1F1F8",
-    "char": "🇦🇸",
-    "name": "flag: American Samoa",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1E6 1F1F9",
-    "char": "🇦🇹",
-    "name": "flag: Austria",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1E6 1F1FA",
-    "char": "🇦🇺",
-    "name": "flag: Australia",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1E6 1F1FC",
-    "char": "🇦🇼",
-    "name": "flag: Aruba",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1E6 1F1FD",
-    "char": "🇦🇽",
-    "name": "flag: Åland Islands",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1E6 1F1FF",
-    "char": "🇦🇿",
-    "name": "flag: Azerbaijan",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1E7 1F1E6",
-    "char": "🇧🇦",
-    "name": "flag: Bosnia & Herzegovina",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1E7 1F1E7",
-    "char": "🇧🇧",
-    "name": "flag: Barbados",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1E7 1F1E9",
-    "char": "🇧🇩",
-    "name": "flag: Bangladesh",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1E7 1F1EA",
-    "char": "🇧🇪",
-    "name": "flag: Belgium",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1E7 1F1EB",
-    "char": "🇧🇫",
-    "name": "flag: Burkina Faso",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1E7 1F1EC",
-    "char": "🇧🇬",
-    "name": "flag: Bulgaria",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1E7 1F1ED",
-    "char": "🇧🇭",
-    "name": "flag: Bahrain",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1E7 1F1EE",
-    "char": "🇧🇮",
-    "name": "flag: Burundi",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1E7 1F1EF",
-    "char": "🇧🇯",
-    "name": "flag: Benin",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1E7 1F1F1",
-    "char": "🇧🇱",
-    "name": "flag: St. Barthélemy",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1E7 1F1F2",
-    "char": "🇧🇲",
-    "name": "flag: Bermuda",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1E7 1F1F3",
-    "char": "🇧🇳",
-    "name": "flag: Brunei",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1E7 1F1F4",
-    "char": "🇧🇴",
-    "name": "flag: Bolivia",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1E7 1F1F6",
-    "char": "🇧🇶",
-    "name": "flag: Caribbean Netherlands",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1E7 1F1F7",
-    "char": "🇧🇷",
-    "name": "flag: Brazil",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1E7 1F1F8",
-    "char": "🇧🇸",
-    "name": "flag: Bahamas",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1E7 1F1F9",
-    "char": "🇧🇹",
-    "name": "flag: Bhutan",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1E7 1F1FB",
-    "char": "🇧🇻",
-    "name": "flag: Bouvet Island",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1E7 1F1FC",
-    "char": "🇧🇼",
-    "name": "flag: Botswana",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1E7 1F1FE",
-    "char": "🇧🇾",
-    "name": "flag: Belarus",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1E7 1F1FF",
-    "char": "🇧🇿",
-    "name": "flag: Belize",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1E8 1F1E6",
-    "char": "🇨🇦",
-    "name": "flag: Canada",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1E8 1F1E8",
-    "char": "🇨🇨",
-    "name": "flag: Cocos (Keeling) Islands",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1E8 1F1E9",
-    "char": "🇨🇩",
-    "name": "flag: Congo - Kinshasa",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1E8 1F1EB",
-    "char": "🇨🇫",
-    "name": "flag: Central African Republic",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1E8 1F1EC",
-    "char": "🇨🇬",
-    "name": "flag: Congo - Brazzaville",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1E8 1F1ED",
-    "char": "🇨🇭",
-    "name": "flag: Switzerland",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1E8 1F1EE",
-    "char": "🇨🇮",
-    "name": "flag: Côte d’Ivoire",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1E8 1F1F0",
-    "char": "🇨🇰",
-    "name": "flag: Cook Islands",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1E8 1F1F1",
-    "char": "🇨🇱",
-    "name": "flag: Chile",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1E8 1F1F2",
-    "char": "🇨🇲",
-    "name": "flag: Cameroon",
+    "codes": "1F1F0 1F1F7",
+    "char": "🇰🇷",
+    "name": "flag: South Korea",
     "category": "flags"
   },
   {
@@ -10358,57 +5405,9 @@
     "category": "flags"
   },
   {
-    "codes": "1F1E8 1F1F4",
-    "char": "🇨🇴",
-    "name": "flag: Colombia",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1E8 1F1F5",
-    "char": "🇨🇵",
-    "name": "flag: Clipperton Island",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1E8 1F1F7",
-    "char": "🇨🇷",
-    "name": "flag: Costa Rica",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1E8 1F1FA",
-    "char": "🇨🇺",
-    "name": "flag: Cuba",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1E8 1F1FB",
-    "char": "🇨🇻",
-    "name": "flag: Cape Verde",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1E8 1F1FC",
-    "char": "🇨🇼",
-    "name": "flag: Curaçao",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1E8 1F1FD",
-    "char": "🇨🇽",
-    "name": "flag: Christmas Island",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1E8 1F1FE",
-    "char": "🇨🇾",
-    "name": "flag: Cyprus",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1E8 1F1FF",
-    "char": "🇨🇿",
-    "name": "flag: Czechia",
+    "codes": "1F1EF 1F1F5",
+    "char": "🇯🇵",
+    "name": "flag: Japan",
     "category": "flags"
   },
   {
@@ -10418,123 +5417,9 @@
     "category": "flags"
   },
   {
-    "codes": "1F1E9 1F1EC",
-    "char": "🇩🇬",
-    "name": "flag: Diego Garcia",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1E9 1F1EF",
-    "char": "🇩🇯",
-    "name": "flag: Djibouti",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1E9 1F1F0",
-    "char": "🇩🇰",
-    "name": "flag: Denmark",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1E9 1F1F2",
-    "char": "🇩🇲",
-    "name": "flag: Dominica",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1E9 1F1F4",
-    "char": "🇩🇴",
-    "name": "flag: Dominican Republic",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1E9 1F1FF",
-    "char": "🇩🇿",
-    "name": "flag: Algeria",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1EA 1F1E6",
-    "char": "🇪🇦",
-    "name": "flag: Ceuta & Melilla",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1EA 1F1E8",
-    "char": "🇪🇨",
-    "name": "flag: Ecuador",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1EA 1F1EA",
-    "char": "🇪🇪",
-    "name": "flag: Estonia",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1EA 1F1EC",
-    "char": "🇪🇬",
-    "name": "flag: Egypt",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1EA 1F1ED",
-    "char": "🇪🇭",
-    "name": "flag: Western Sahara",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1EA 1F1F7",
-    "char": "🇪🇷",
-    "name": "flag: Eritrea",
-    "category": "flags"
-  },
-  {
     "codes": "1F1EA 1F1F8",
     "char": "🇪🇸",
     "name": "flag: Spain",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1EA 1F1F9",
-    "char": "🇪🇹",
-    "name": "flag: Ethiopia",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1EA 1F1FA",
-    "char": "🇪🇺",
-    "name": "flag: European Union",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1EB 1F1EE",
-    "char": "🇫🇮",
-    "name": "flag: Finland",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1EB 1F1EF",
-    "char": "🇫🇯",
-    "name": "flag: Fiji",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1EB 1F1F0",
-    "char": "🇫🇰",
-    "name": "flag: Falkland Islands",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1EB 1F1F2",
-    "char": "🇫🇲",
-    "name": "flag: Micronesia",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1EB 1F1F4",
-    "char": "🇫🇴",
-    "name": "flag: Faroe Islands",
     "category": "flags"
   },
   {
@@ -10544,213 +5429,9 @@
     "category": "flags"
   },
   {
-    "codes": "1F1EC 1F1E6",
-    "char": "🇬🇦",
-    "name": "flag: Gabon",
-    "category": "flags"
-  },
-  {
     "codes": "1F1EC 1F1E7",
     "char": "🇬🇧",
     "name": "flag: United Kingdom",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1EC 1F1E9",
-    "char": "🇬🇩",
-    "name": "flag: Grenada",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1EC 1F1EA",
-    "char": "🇬🇪",
-    "name": "flag: Georgia",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1EC 1F1EB",
-    "char": "🇬🇫",
-    "name": "flag: French Guiana",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1EC 1F1EC",
-    "char": "🇬🇬",
-    "name": "flag: Guernsey",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1EC 1F1ED",
-    "char": "🇬🇭",
-    "name": "flag: Ghana",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1EC 1F1EE",
-    "char": "🇬🇮",
-    "name": "flag: Gibraltar",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1EC 1F1F1",
-    "char": "🇬🇱",
-    "name": "flag: Greenland",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1EC 1F1F2",
-    "char": "🇬🇲",
-    "name": "flag: Gambia",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1EC 1F1F3",
-    "char": "🇬🇳",
-    "name": "flag: Guinea",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1EC 1F1F5",
-    "char": "🇬🇵",
-    "name": "flag: Guadeloupe",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1EC 1F1F6",
-    "char": "🇬🇶",
-    "name": "flag: Equatorial Guinea",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1EC 1F1F7",
-    "char": "🇬🇷",
-    "name": "flag: Greece",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1EC 1F1F8",
-    "char": "🇬🇸",
-    "name": "flag: South Georgia & South Sandwich Islands",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1EC 1F1F9",
-    "char": "🇬🇹",
-    "name": "flag: Guatemala",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1EC 1F1FA",
-    "char": "🇬🇺",
-    "name": "flag: Guam",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1EC 1F1FC",
-    "char": "🇬🇼",
-    "name": "flag: Guinea-Bissau",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1EC 1F1FE",
-    "char": "🇬🇾",
-    "name": "flag: Guyana",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1ED 1F1F0",
-    "char": "🇭🇰",
-    "name": "flag: Hong Kong SAR China",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1ED 1F1F2",
-    "char": "🇭🇲",
-    "name": "flag: Heard & McDonald Islands",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1ED 1F1F3",
-    "char": "🇭🇳",
-    "name": "flag: Honduras",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1ED 1F1F7",
-    "char": "🇭🇷",
-    "name": "flag: Croatia",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1ED 1F1F9",
-    "char": "🇭🇹",
-    "name": "flag: Haiti",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1ED 1F1FA",
-    "char": "🇭🇺",
-    "name": "flag: Hungary",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1EE 1F1E8",
-    "char": "🇮🇨",
-    "name": "flag: Canary Islands",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1EE 1F1E9",
-    "char": "🇮🇩",
-    "name": "flag: Indonesia",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1EE 1F1EA",
-    "char": "🇮🇪",
-    "name": "flag: Ireland",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1EE 1F1F1",
-    "char": "🇮🇱",
-    "name": "flag: Israel",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1EE 1F1F2",
-    "char": "🇮🇲",
-    "name": "flag: Isle of Man",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1EE 1F1F3",
-    "char": "🇮🇳",
-    "name": "flag: India",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1EE 1F1F4",
-    "char": "🇮🇴",
-    "name": "flag: British Indian Ocean Territory",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1EE 1F1F6",
-    "char": "🇮🇶",
-    "name": "flag: Iraq",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1EE 1F1F7",
-    "char": "🇮🇷",
-    "name": "flag: Iran",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1EE 1F1F8",
-    "char": "🇮🇸",
-    "name": "flag: Iceland",
     "category": "flags"
   },
   {
@@ -10760,855 +5441,15 @@
     "category": "flags"
   },
   {
-    "codes": "1F1EF 1F1EA",
-    "char": "🇯🇪",
-    "name": "flag: Jersey",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1EF 1F1F2",
-    "char": "🇯🇲",
-    "name": "flag: Jamaica",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1EF 1F1F4",
-    "char": "🇯🇴",
-    "name": "flag: Jordan",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1EF 1F1F5",
-    "char": "🇯🇵",
-    "name": "flag: Japan",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1F0 1F1EA",
-    "char": "🇰🇪",
-    "name": "flag: Kenya",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1F0 1F1EC",
-    "char": "🇰🇬",
-    "name": "flag: Kyrgyzstan",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1F0 1F1ED",
-    "char": "🇰🇭",
-    "name": "flag: Cambodia",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1F0 1F1EE",
-    "char": "🇰🇮",
-    "name": "flag: Kiribati",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1F0 1F1F2",
-    "char": "🇰🇲",
-    "name": "flag: Comoros",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1F0 1F1F3",
-    "char": "🇰🇳",
-    "name": "flag: St. Kitts & Nevis",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1F0 1F1F5",
-    "char": "🇰🇵",
-    "name": "flag: North Korea",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1F0 1F1F7",
-    "char": "🇰🇷",
-    "name": "flag: South Korea",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1F0 1F1FC",
-    "char": "🇰🇼",
-    "name": "flag: Kuwait",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1F0 1F1FE",
-    "char": "🇰🇾",
-    "name": "flag: Cayman Islands",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1F0 1F1FF",
-    "char": "🇰🇿",
-    "name": "flag: Kazakhstan",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1F1 1F1E6",
-    "char": "🇱🇦",
-    "name": "flag: Laos",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1F1 1F1E7",
-    "char": "🇱🇧",
-    "name": "flag: Lebanon",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1F1 1F1E8",
-    "char": "🇱🇨",
-    "name": "flag: St. Lucia",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1F1 1F1EE",
-    "char": "🇱🇮",
-    "name": "flag: Liechtenstein",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1F1 1F1F0",
-    "char": "🇱🇰",
-    "name": "flag: Sri Lanka",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1F1 1F1F7",
-    "char": "🇱🇷",
-    "name": "flag: Liberia",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1F1 1F1F8",
-    "char": "🇱🇸",
-    "name": "flag: Lesotho",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1F1 1F1F9",
-    "char": "🇱🇹",
-    "name": "flag: Lithuania",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1F1 1F1FA",
-    "char": "🇱🇺",
-    "name": "flag: Luxembourg",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1F1 1F1FB",
-    "char": "🇱🇻",
-    "name": "flag: Latvia",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1F1 1F1FE",
-    "char": "🇱🇾",
-    "name": "flag: Libya",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1F2 1F1E6",
-    "char": "🇲🇦",
-    "name": "flag: Morocco",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1F2 1F1E8",
-    "char": "🇲🇨",
-    "name": "flag: Monaco",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1F2 1F1E9",
-    "char": "🇲🇩",
-    "name": "flag: Moldova",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1F2 1F1EA",
-    "char": "🇲🇪",
-    "name": "flag: Montenegro",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1F2 1F1EB",
-    "char": "🇲🇫",
-    "name": "flag: St. Martin",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1F2 1F1EC",
-    "char": "🇲🇬",
-    "name": "flag: Madagascar",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1F2 1F1ED",
-    "char": "🇲🇭",
-    "name": "flag: Marshall Islands",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1F2 1F1F0",
-    "char": "🇲🇰",
-    "name": "flag: Macedonia",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1F2 1F1F1",
-    "char": "🇲🇱",
-    "name": "flag: Mali",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1F2 1F1F2",
-    "char": "🇲🇲",
-    "name": "flag: Myanmar (Burma)",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1F2 1F1F3",
-    "char": "🇲🇳",
-    "name": "flag: Mongolia",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1F2 1F1F4",
-    "char": "🇲🇴",
-    "name": "flag: Macao SAR China",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1F2 1F1F5",
-    "char": "🇲🇵",
-    "name": "flag: Northern Mariana Islands",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1F2 1F1F6",
-    "char": "🇲🇶",
-    "name": "flag: Martinique",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1F2 1F1F7",
-    "char": "🇲🇷",
-    "name": "flag: Mauritania",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1F2 1F1F8",
-    "char": "🇲🇸",
-    "name": "flag: Montserrat",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1F2 1F1F9",
-    "char": "🇲🇹",
-    "name": "flag: Malta",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1F2 1F1FA",
-    "char": "🇲🇺",
-    "name": "flag: Mauritius",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1F2 1F1FB",
-    "char": "🇲🇻",
-    "name": "flag: Maldives",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1F2 1F1FC",
-    "char": "🇲🇼",
-    "name": "flag: Malawi",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1F2 1F1FD",
-    "char": "🇲🇽",
-    "name": "flag: Mexico",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1F2 1F1FE",
-    "char": "🇲🇾",
-    "name": "flag: Malaysia",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1F2 1F1FF",
-    "char": "🇲🇿",
-    "name": "flag: Mozambique",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1F3 1F1E6",
-    "char": "🇳🇦",
-    "name": "flag: Namibia",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1F3 1F1E8",
-    "char": "🇳🇨",
-    "name": "flag: New Caledonia",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1F3 1F1EA",
-    "char": "🇳🇪",
-    "name": "flag: Niger",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1F3 1F1EB",
-    "char": "🇳🇫",
-    "name": "flag: Norfolk Island",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1F3 1F1EC",
-    "char": "🇳🇬",
-    "name": "flag: Nigeria",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1F3 1F1EE",
-    "char": "🇳🇮",
-    "name": "flag: Nicaragua",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1F3 1F1F1",
-    "char": "🇳🇱",
-    "name": "flag: Netherlands",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1F3 1F1F4",
-    "char": "🇳🇴",
-    "name": "flag: Norway",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1F3 1F1F5",
-    "char": "🇳🇵",
-    "name": "flag: Nepal",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1F3 1F1F7",
-    "char": "🇳🇷",
-    "name": "flag: Nauru",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1F3 1F1FA",
-    "char": "🇳🇺",
-    "name": "flag: Niue",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1F3 1F1FF",
-    "char": "🇳🇿",
-    "name": "flag: New Zealand",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1F4 1F1F2",
-    "char": "🇴🇲",
-    "name": "flag: Oman",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1F5 1F1E6",
-    "char": "🇵🇦",
-    "name": "flag: Panama",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1F5 1F1EA",
-    "char": "🇵🇪",
-    "name": "flag: Peru",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1F5 1F1EB",
-    "char": "🇵🇫",
-    "name": "flag: French Polynesia",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1F5 1F1EC",
-    "char": "🇵🇬",
-    "name": "flag: Papua New Guinea",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1F5 1F1ED",
-    "char": "🇵🇭",
-    "name": "flag: Philippines",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1F5 1F1F0",
-    "char": "🇵🇰",
-    "name": "flag: Pakistan",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1F5 1F1F1",
-    "char": "🇵🇱",
-    "name": "flag: Poland",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1F5 1F1F2",
-    "char": "🇵🇲",
-    "name": "flag: St. Pierre & Miquelon",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1F5 1F1F3",
-    "char": "🇵🇳",
-    "name": "flag: Pitcairn Islands",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1F5 1F1F7",
-    "char": "🇵🇷",
-    "name": "flag: Puerto Rico",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1F5 1F1F8",
-    "char": "🇵🇸",
-    "name": "flag: Palestinian Territories",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1F5 1F1F9",
-    "char": "🇵🇹",
-    "name": "flag: Portugal",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1F5 1F1FC",
-    "char": "🇵🇼",
-    "name": "flag: Palau",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1F5 1F1FE",
-    "char": "🇵🇾",
-    "name": "flag: Paraguay",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1F6 1F1E6",
-    "char": "🇶🇦",
-    "name": "flag: Qatar",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1F7 1F1EA",
-    "char": "🇷🇪",
-    "name": "flag: Réunion",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1F7 1F1F4",
-    "char": "🇷🇴",
-    "name": "flag: Romania",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1F7 1F1F8",
-    "char": "🇷🇸",
-    "name": "flag: Serbia",
-    "category": "flags"
-  },
-  {
     "codes": "1F1F7 1F1FA",
     "char": "🇷🇺",
     "name": "flag: Russia",
     "category": "flags"
   },
   {
-    "codes": "1F1F7 1F1FC",
-    "char": "🇷🇼",
-    "name": "flag: Rwanda",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1F8 1F1E6",
-    "char": "🇸🇦",
-    "name": "flag: Saudi Arabia",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1F8 1F1E7",
-    "char": "🇸🇧",
-    "name": "flag: Solomon Islands",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1F8 1F1E8",
-    "char": "🇸🇨",
-    "name": "flag: Seychelles",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1F8 1F1E9",
-    "char": "🇸🇩",
-    "name": "flag: Sudan",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1F8 1F1EA",
-    "char": "🇸🇪",
-    "name": "flag: Sweden",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1F8 1F1EC",
-    "char": "🇸🇬",
-    "name": "flag: Singapore",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1F8 1F1ED",
-    "char": "🇸🇭",
-    "name": "flag: St. Helena",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1F8 1F1EE",
-    "char": "🇸🇮",
-    "name": "flag: Slovenia",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1F8 1F1EF",
-    "char": "🇸🇯",
-    "name": "flag: Svalbard & Jan Mayen",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1F8 1F1F0",
-    "char": "🇸🇰",
-    "name": "flag: Slovakia",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1F8 1F1F1",
-    "char": "🇸🇱",
-    "name": "flag: Sierra Leone",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1F8 1F1F2",
-    "char": "🇸🇲",
-    "name": "flag: San Marino",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1F8 1F1F3",
-    "char": "🇸🇳",
-    "name": "flag: Senegal",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1F8 1F1F4",
-    "char": "🇸🇴",
-    "name": "flag: Somalia",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1F8 1F1F7",
-    "char": "🇸🇷",
-    "name": "flag: Suriname",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1F8 1F1F8",
-    "char": "🇸🇸",
-    "name": "flag: South Sudan",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1F8 1F1F9",
-    "char": "🇸🇹",
-    "name": "flag: São Tomé & Príncipe",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1F8 1F1FB",
-    "char": "🇸🇻",
-    "name": "flag: El Salvador",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1F8 1F1FD",
-    "char": "🇸🇽",
-    "name": "flag: Sint Maarten",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1F8 1F1FE",
-    "char": "🇸🇾",
-    "name": "flag: Syria",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1F8 1F1FF",
-    "char": "🇸🇿",
-    "name": "flag: Eswatini",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1F9 1F1E6",
-    "char": "🇹🇦",
-    "name": "flag: Tristan da Cunha",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1F9 1F1E8",
-    "char": "🇹🇨",
-    "name": "flag: Turks & Caicos Islands",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1F9 1F1E9",
-    "char": "🇹🇩",
-    "name": "flag: Chad",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1F9 1F1EB",
-    "char": "🇹🇫",
-    "name": "flag: French Southern Territories",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1F9 1F1EC",
-    "char": "🇹🇬",
-    "name": "flag: Togo",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1F9 1F1ED",
-    "char": "🇹🇭",
-    "name": "flag: Thailand",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1F9 1F1EF",
-    "char": "🇹🇯",
-    "name": "flag: Tajikistan",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1F9 1F1F0",
-    "char": "🇹🇰",
-    "name": "flag: Tokelau",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1F9 1F1F1",
-    "char": "🇹🇱",
-    "name": "flag: Timor-Leste",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1F9 1F1F2",
-    "char": "🇹🇲",
-    "name": "flag: Turkmenistan",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1F9 1F1F3",
-    "char": "🇹🇳",
-    "name": "flag: Tunisia",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1F9 1F1F4",
-    "char": "🇹🇴",
-    "name": "flag: Tonga",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1F9 1F1F7",
-    "char": "🇹🇷",
-    "name": "flag: Turkey",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1F9 1F1F9",
-    "char": "🇹🇹",
-    "name": "flag: Trinidad & Tobago",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1F9 1F1FB",
-    "char": "🇹🇻",
-    "name": "flag: Tuvalu",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1F9 1F1FC",
-    "char": "🇹🇼",
-    "name": "flag: Taiwan",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1F9 1F1FF",
-    "char": "🇹🇿",
-    "name": "flag: Tanzania",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1FA 1F1E6",
-    "char": "🇺🇦",
-    "name": "flag: Ukraine",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1FA 1F1EC",
-    "char": "🇺🇬",
-    "name": "flag: Uganda",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1FA 1F1F2",
-    "char": "🇺🇲",
-    "name": "flag: U.S. Outlying Islands",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1FA 1F1F3",
-    "char": "🇺🇳",
-    "name": "flag: United Nations",
-    "category": "flags"
-  },
-  {
     "codes": "1F1FA 1F1F8",
     "char": "🇺🇸",
     "name": "flag: United States",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1FA 1F1FE",
-    "char": "🇺🇾",
-    "name": "flag: Uruguay",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1FA 1F1FF",
-    "char": "🇺🇿",
-    "name": "flag: Uzbekistan",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1FB 1F1E6",
-    "char": "🇻🇦",
-    "name": "flag: Vatican City",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1FB 1F1E8",
-    "char": "🇻🇨",
-    "name": "flag: St. Vincent & Grenadines",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1FB 1F1EA",
-    "char": "🇻🇪",
-    "name": "flag: Venezuela",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1FB 1F1EC",
-    "char": "🇻🇬",
-    "name": "flag: British Virgin Islands",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1FB 1F1EE",
-    "char": "🇻🇮",
-    "name": "flag: U.S. Virgin Islands",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1FB 1F1F3",
-    "char": "🇻🇳",
-    "name": "flag: Vietnam",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1FB 1F1FA",
-    "char": "🇻🇺",
-    "name": "flag: Vanuatu",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1FC 1F1EB",
-    "char": "🇼🇫",
-    "name": "flag: Wallis & Futuna",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1FC 1F1F8",
-    "char": "🇼🇸",
-    "name": "flag: Samoa",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1FD 1F1F0",
-    "char": "🇽🇰",
-    "name": "flag: Kosovo",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1FE 1F1EA",
-    "char": "🇾🇪",
-    "name": "flag: Yemen",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1FE 1F1F9",
-    "char": "🇾🇹",
-    "name": "flag: Mayotte",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1FF 1F1E6",
-    "char": "🇿🇦",
-    "name": "flag: South Africa",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1FF 1F1F2",
-    "char": "🇿🇲",
-    "name": "flag: Zambia",
-    "category": "flags"
-  },
-  {
-    "codes": "1F1FF 1F1FC",
-    "char": "🇿🇼",
-    "name": "flag: Zimbabwe",
     "category": "flags"
   }
 ]

@@ -1,10 +1,10 @@
-$.getJSON("../emoji.json", async function (emoji) {
+$.getJSON("../emoji.json", async function(emoji) {
   var groups = document.getElementsByClassName("emoji-span-container");
 
-  await (function () {
-    emoji.forEach(async function (data) {
+  await (function() {
+    emoji.forEach(async function(data) {
       var span = document.createElement("span");
-      span.setAttribute("class", "emoji");
+      span.setAttribute("class", "emoji-span");
       span.setAttribute("title", data.name);
       span.textContent = data.char;
 
@@ -29,7 +29,12 @@ $.getJSON("../emoji.json", async function (emoji) {
         await groups[8].appendChild(span);
       }
     });
-  })()
+  })();
+
+  twemoji.parse(document.body, {
+    folder: "../svg",
+    ext: ".svg"
+  });
 
   await copy();
 });

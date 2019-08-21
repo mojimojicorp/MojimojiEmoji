@@ -12,5 +12,6 @@
   "bugs": {
     "url": "https://github.com/soyoungjeong/EmojiByEternal/issues"
   },
-  "homepage": "https://github.com/soyoungjeong/EmojiByEternal#readme"
+  "homepage": "https://github.com/soyoungjeong/EmojiByEternal#readme",
+  "dependencies": {}
 }

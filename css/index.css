@@ -65,7 +65,7 @@ p {
   width: 250px;
   height: 30px;
   border: #8b8e91 solid 1px;
-  font-size: 13pt;
+  font-size: 11pt;
   float: left;
   color: #8b8e91;
   margin-left: 8px;
@@ -74,23 +74,13 @@ p {
   -moz-border-radius: 5px;
   border-radius: 5px;
 }
-.search-container input#searchInput::-webkit-input-placeholder {
-  color: #8b8e91;
-}
-
-.search-container input#searchInput:-moz-placeholder {
-  /* Firefox 18- */
-  color: #8b8e91;
-}
-
-.search-container input#searchInput::-moz-placeholder {
-  /* Firefox 19+ */
-  color: #8b8e91;
-}
-
+.search-container input#searchInput::-webkit-input-placeholder,
+.search-container input#searchInput:-moz-placeholder,
+.search-container input#searchInput::-moz-placeholder,
 .search-container input#searchInput:-ms-input-placeholder {
   color: #8b8e91;
 }
+
 .search-container .icon {
   position: absolute;
   top: -10px;
@@ -119,10 +109,14 @@ p {
   height: 40px;
 }
 
+.emoji-span-container span img {
+  height: 30px;
+}
+
 .group-title {
   font-size: 16px;
   font-weight: 600;
-  color: #d8dde0;
+  color: #bdc3c7;
   padding-left: 10px;
   margin-bottom: 15px;
 }
@@ -139,32 +133,37 @@ p {
 
 .status {
   vertical-align: middle;
-  padding-top:6px;
-  padding-left:10px;
+  padding-top: 6px;
+  padding-left: 10px;
 }
 
 .status_child {
-  float:left;
-  width:280px;
-  height:40px;
-  border:1px;
-  font-size:25px;
-  background-color:white;
-  overflow-y: scroll;
-  display:inline;
-  border-radius: 10px;
+  float: left;
+  width: 280px;
+  height: 40px;
 }
 
-#copy_btn{
-  float:left;
+#copy_group {
+  width: 270px;
+  height: 40px;
+  padding-left: 10px;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  background-color: white;
+}
+
+#copy_btn {
+  float: left;
   background-color: #f1c40f;
-  color:white;
-  display:inline;
-  border:none;
-  height:40px;
-  width:80px;
-  margin-left:10px;
+  color: white;
+  display: inline;
+  border: none;
+  border-radius: 5px;
+  height: 40px;
+  width: 90px;
+  margin-left: 10px;
+  font-size: 15px;
   font-weight: 600;
-  border-radius: 10px;
   cursor: pointer;
 }
