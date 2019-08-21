@@ -152,6 +152,8 @@ p {
   height:42px;
   border:none;
   border-radius: 5px;
+  outline:none;
+  cursor: pointer;
 }
 
 #reset_img{
