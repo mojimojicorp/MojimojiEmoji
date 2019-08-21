@@ -11,9 +11,9 @@ function autocopy() {
             document.getElementById("copy_group").value = content;
 
             const btn = document.getElementById("copy_btn");
-            btn.style.display = 'none';
+            btn.style.opacity = '0.5';
             setTimeout(function(){
-                btn.style.display = 'inline';
+                btn.style.opacity = '1.0';
                 btn.value = "coped!";
             },200);
           },
