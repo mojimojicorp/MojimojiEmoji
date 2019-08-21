@@ -6,7 +6,10 @@ function getRecent() {
   let recent = localStorage.getItem("recent");
   const parsedRecent = JSON.parse(recent);
   if (parsedRecent !== null) {
-    parsedRecent.reverse();
+    if (parsedRecent.length > 20) {
+      parsedRecent.splice(20);
+      localStorage.setItem("recent", JSON.stringify(parsedRecent));
+    }
 
     parsedRecent.forEach(function(data) {
       var span = document.createElement("span");
@@ -58,7 +61,7 @@ function store(name, char) {
     });
   }
 
-  charArr.push({ name, char });
+  charArr.unshift({ name, char });
   charArr = removeDuplicate(charArr);
   localStorage.setItem("recent", JSON.stringify(charArr));
 }
