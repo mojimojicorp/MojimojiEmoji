@@ -132,20 +132,21 @@ p {
 }
 
 #copy_group {
-  width: 240px;
+  width: 230px;
   height: 40px;
   padding-left: 10px;
   margin-left:10px;
   margin-top:5px;
   border: none;
-  border-radius: 5px;
+  border-radius: 5px 0px 0px 5px;
   font-size: 16px;
   background-color: white;
+  outline:none;
 }
 
 #reset_btn{
   position: absolute;
-  margin-left: -10px;
+  margin-left: -8px;
   margin-top:5px;
   background-color:white;
   width:35px;
