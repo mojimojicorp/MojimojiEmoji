@@ -62,5 +62,5 @@ $.getJSON("../emoji.json", async function(emoji) {
     ext: ".svg"
   });
 
-  await copy();
+  await autocopy();
 });
