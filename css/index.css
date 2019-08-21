@@ -131,39 +131,48 @@ p {
   display: grid;
 }
 
-.status {
-  vertical-align: middle;
-  padding-top: 6px;
-  padding-left: 10px;
-}
-
-.status_child {
-  float: left;
-  width: 280px;
-  height: 40px;
-}
-
 #copy_group {
-  width: 270px;
+  width: 240px;
   height: 40px;
   padding-left: 10px;
+  margin-left:10px;
+  margin-top:5px;
   border: none;
   border-radius: 5px;
   font-size: 16px;
   background-color: white;
 }
 
+#reset_btn{
+  position: absolute;
+  margin-left: -10px;
+  margin-top:5px;
+  background-color:white;
+  width:35px;
+  height:42px;
+  border:none;
+  border-radius: 5px;
+}
+
+#reset_img{
+  width:30px;
+  height:30px;
+  margin-left:-5px;
+  border-radius: 5px;
+}
+
 #copy_btn {
-  float: left;
   background-color: #f1c40f;
   color: white;
   display: inline;
   border: none;
+  margin-left:35px;
   border-radius: 5px;
   height: 40px;
   width: 90px;
-  margin-left: 10px;
   font-size: 15px;
   font-weight: 600;
   cursor: pointer;
+  opacity:1.0;
 }
+
