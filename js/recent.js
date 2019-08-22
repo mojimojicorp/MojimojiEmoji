@@ -15,16 +15,16 @@ function getRecent() {
       var span = document.createElement("span");
       span.setAttribute("class", "emoji-span");
       span.setAttribute("title", data.name);
-      span.textContent = data.char;
+      span.innerHTML = twemoji.parse(data.char);
 
       recentGroup.appendChild(span);
     });
   }
 
-  twemoji.parse(document.body, {
-    folder: "../svg",
-    ext: ".svg"
-  });
+  // twemoji.parse(document.body, {
+  //   folder: "../svg",
+  //   ext: ".svg"
+  // });
 }
 
 function removeDuplicate(arr) {

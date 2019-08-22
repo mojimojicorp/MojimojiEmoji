@@ -2,6 +2,7 @@
   "name": "emojibyeternal",
   "version": "1.0.0",
   "description": "Emoji keyboard extension for Whale",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -9,9 +10,15 @@
     "type": "git",
     "url": "git+https://github.com/soyoungjeong/EmojiByEternal.git"
   },
+  "author": "",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/soyoungjeong/EmojiByEternal/issues"
   },
   "homepage": "https://github.com/soyoungjeong/EmojiByEternal#readme",
-  "dependencies": {}
+  "dependencies": {
+    "clipboard": "^2.0.4",
+    "twemoji": "^12.1.2"
+  },
+  "devDependencies": {}
 }
