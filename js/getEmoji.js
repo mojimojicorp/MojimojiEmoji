@@ -11,10 +11,10 @@ $.getJSON("../emoji.json", async function(emoji) {
       span.innerHTML = twemoji.parse(data.char);
 
       if (data.category == "people") {
-        if (data.name.includes("skin tone")) {
-        } else {
-          await groups[1].appendChild(span);
+        if (data.name.includes("skin-tone")) {
+          span.setAttribute("style", "display:none;");
         }
+        await groups[1].appendChild(span);
       } else if (data.category == "nature") {
         await groups[2].appendChild(span);
       } else if (data.category == "foodAndDrink") {
