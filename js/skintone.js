@@ -44,19 +44,53 @@ $.getJSON("../emoji.json", function(emoji) {
     // 클릭한 색상 보이게 하기
     list.forEach(function(data) {
       if (data.title.indexOf(color) != -1) {
-        emojiName.push(data.title.split(":")[0]);
         data.setAttribute("style", 'display:""');
+        emojiName.push(data.title.split(":")[0]);
       }
     });
 
     // 클릭한 색상이 아닌 것 안 보이게 하기
     emojiName = removeDuplicate(emojiName);
+
+    let delColors = [
+      "light-skin-tone",
+      "medium-light-skin-tone",
+      "medium-skin-tone",
+      "medium-dark-skin-tone",
+      "dark-skin-tone"
+    ];
+
+    switch (color) {
+      case "light-skin-tone":
+        delColors.splice(0, 1);
+        break;
+      case "medium-light-skin-tone":
+        delColors.splice(1, 1);
+        break;
+      case "medium-skin-tone":
+        delColors.splice(2, 1);
+        break;
+      case "medium-dark-skin-tone":
+        delColors.splice(3, 1);
+        break;
+      case "dark-skin-tone":
+        delColors.splice(4, 1);
+        break;
+    }
+
     emojiName.forEach(function(name) {
-      hideEmoji(name, color);
+      hideEmoji(name, delColors);
     });
   });
 });
 
-function hideEmoji(name, color) {
-  let list = document.querySelectorAll(".emoji-span");
+function hideEmoji(name, colors) {
+  colors.forEach(function(color) {
+    let title = name + ": " + color;
+
+    let delEmoji = document.querySelectorAll(`[title="${title}"]`);
+    delEmoji.forEach(function(data) {
+      data.setAttribute("style", "display:none;");
+    });
+  });
 }
