@@ -11,5 +11,6 @@
       "16": "emoji.png",
       "32": "emoji.png"
     }
-  }
+  },
+  "permissions": ["tabs"]
 }

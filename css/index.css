@@ -32,6 +32,10 @@ p {
   padding-left: 10px;
 }
 
+.panel {
+  cursor: pointer;
+}
+
 .container .emoji-container {
   height: 455px;
   overflow: hidden;
@@ -46,7 +50,8 @@ p {
   align-items: center;
 }
 
-.emoji-nav a:link {
+.emoji-nav a:link,
+.emoji-nav a:visited {
   color: #8b8e91;
 }
 
