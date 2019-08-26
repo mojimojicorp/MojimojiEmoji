@@ -32,6 +32,10 @@ p {
   padding-left: 10px;
 }
 
+.panel {
+  cursor: pointer;
+}
+
 .container .emoji-container {
   height: 455px;
   overflow: hidden;
