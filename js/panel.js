@@ -1,6 +1,19 @@
-let panelBtn = document.getElementsByClassName("panel");
+//Set initial session storage
+let panelState = sessionStorage.getItem("panel");
+if (panelState == null) {
+  sessionStorage.setItem("panel", false);
+}
 
+let panelBtn = document.getElementsByClassName("panel");
 panelBtn[0].addEventListener("click", () => {
+  let panelState = sessionStorage.getItem("panel");
+  if (panelState == "false") {
+    toPanel();
+  }
+});
+
+function toPanel() {
+  sessionStorage.setItem("panel", true);
   window.close();
 
   whale.windows.create({
@@ -12,4 +25,4 @@ panelBtn[0].addEventListener("click", () => {
     type: "panel",
     focused: true
   });
-});
+}

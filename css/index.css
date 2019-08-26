@@ -50,7 +50,8 @@ p {
   align-items: center;
 }
 
-.emoji-nav a:link {
+.emoji-nav a:link,
+.emoji-nav a:visited {
   color: #8b8e91;
 }
 
