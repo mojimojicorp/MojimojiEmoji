@@ -36,9 +36,16 @@ function removeDuplicate(arr) {
     } else {
       var duplicatesFlag = true;
       for (var j = 0; j < tempArr.length; j++) {
-        if (tempArr[j].char == arr[i].char) {
-          duplicatesFlag = false;
-          break;
+        if (arr[i].char == null) {
+          if (tempArr[j] == arr[i]) {
+            duplicatesFlag = false;
+            break;
+          }
+        } else {
+          if (tempArr[j].char == arr[i].char) {
+            duplicatesFlag = false;
+            break;
+          }
         }
       }
       if (duplicatesFlag) {

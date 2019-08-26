@@ -105,6 +105,10 @@ p {
   justify-content: center;
 }
 
+.color span img {
+  cursor: pointer;
+}
+
 .emoji-list {
   height: 310px;
   overflow: scroll;
