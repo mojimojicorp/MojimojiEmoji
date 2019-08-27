@@ -19,22 +19,23 @@ function getRecent() {
 
       recentGroup.appendChild(span);
 
-      //if(i === 0){
-        span.addEventListener(
-          "click",
-          function() {
-            copied(data.char);
-          },
-          false
-        );
 
-        new Clipboard(span, {
-          text: function() {
-            const content = document.getElementById("copy_group");
-            return content.value;
-          }
-        });
-      //}
+      ///autocopy일 때만
+      span.addEventListener(
+        "click",
+        function () {
+          copied(data.char);
+        },
+        false
+      );
+
+      new Clipboard(span, {
+        text: function () {
+          const content = document.getElementById("copy_group");
+          return content.value;
+        }
+      });
+      
     });
   }
 
