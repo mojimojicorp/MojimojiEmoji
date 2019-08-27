@@ -11,13 +11,31 @@ function getRecent() {
       localStorage.setItem("recent", JSON.stringify(parsedRecent));
     }
 
-    parsedRecent.forEach(function(data) {
+    parsedRecent.forEach(function(data, i) {
       var span = document.createElement("span");
       span.setAttribute("class", "emoji-span");
       span.setAttribute("title", data.name);
       span.innerHTML = twemoji.parse(data.char);
 
       recentGroup.appendChild(span);
+
+
+      ///autocopy일 때만
+      span.addEventListener(
+        "click",
+        function () {
+          copied(data.char);
+        },
+        false
+      );
+
+      new Clipboard(span, {
+        text: function () {
+          const content = document.getElementById("copy_group");
+          return content.value;
+        }
+      });
+      
     });
   }
 
