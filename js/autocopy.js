@@ -1,7 +1,8 @@
 function autocopy() {
-  const list = document.querySelectorAll(".emoji-span-container .emoji-span");
+  const list =  document.querySelectorAll(".emoji-span-container .emoji-span");
+  const emojiList = document.querySelectorAll(".group .emoji-span-container .emoji-span");
 
-  [].forEach.call(list, function(element) {
+  [].forEach.call(emojiList, function(element) {
     element.addEventListener(
       "click",
       function() {
@@ -12,16 +13,7 @@ function autocopy() {
         store(name, char);
         getRecent();
 
-        let content = document.getElementById("copy_group").value;
-        content = content.concat(img.alt);
-        document.getElementById("copy_group").value = content;
-
-        const btn = document.getElementById("copy_btn");
-        btn.style.opacity = "0.5";
-        setTimeout(function() {
-          btn.style.opacity = "1.0";
-          btn.value = "coped!";
-        }, 200);
+        copied(char);
       },
       false
     );
@@ -45,3 +37,16 @@ reset.addEventListener(
   },
   false
 );
+
+function copied(data){
+  let content = document.getElementById("copy_group").value;
+  content = content.concat(data);
+  document.getElementById("copy_group").value = content;
+
+  const btn = document.getElementById("copy_btn");
+  btn.style.opacity = "0.5";
+  setTimeout(function() {
+    btn.style.opacity = "1.0";
+    btn.value = "coped!";
+  }, 200);
+}

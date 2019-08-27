@@ -89,6 +89,7 @@ p {
 .search-container .icon {
   position: absolute;
   top: -10px;
+  left: 0px;
   margin-left: 17px;
   margin-top: 17px;
   z-index: 1;
