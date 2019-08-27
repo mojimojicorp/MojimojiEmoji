@@ -14,7 +14,13 @@ function copy() {
     element.addEventListener(
       "click",
       function() {
-        var img = element.querySelectorAll(".emoji")[0];
+        let img = element.querySelectorAll(".emoji")[0];
+
+        let name = img.parentElement.getAttribute("title");
+        let char = img.alt;
+        store(name, char);
+        getRecent();
+
         let content = document.getElementById("copy_group").value;
         content = content.concat(img.alt);
         document.getElementById("copy_group").value = content;

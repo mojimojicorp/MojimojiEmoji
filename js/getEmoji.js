@@ -1,4 +1,6 @@
 $.getJSON("../emoji.json", async function(emoji) {
+  getRecent();
+
   var groups = document.getElementsByClassName("emoji-span-container");
 
   await (function() {
@@ -6,13 +8,13 @@ $.getJSON("../emoji.json", async function(emoji) {
       var span = document.createElement("span");
       span.setAttribute("class", "emoji-span");
       span.setAttribute("title", data.name);
-      span.textContent = data.char;
+      span.innerHTML = twemoji.parse(data.char);
 
       if (data.category == "people") {
-        if (data.name.includes("skin tone")) {
-        } else {
-          await groups[1].appendChild(span);
+        if (data.name.includes("skin-tone")) {
+          span.setAttribute("style", "display:none;");
         }
+        await groups[1].appendChild(span);
       } else if (data.category == "nature") {
         await groups[2].appendChild(span);
       } else if (data.category == "foodAndDrink") {
@@ -30,11 +32,6 @@ $.getJSON("../emoji.json", async function(emoji) {
       }
     });
   })();
-
-  twemoji.parse(document.body, {
-    folder: "../svg",
-    ext: ".svg"
-  });
 
   await autocopy();
 });

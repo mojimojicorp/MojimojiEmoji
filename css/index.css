@@ -32,6 +32,10 @@ p {
   padding-left: 10px;
 }
 
+.panel {
+  cursor: pointer;
+}
+
 .container .emoji-container {
   height: 455px;
   overflow: hidden;
@@ -46,7 +50,8 @@ p {
   align-items: center;
 }
 
-.emoji-nav a:link {
+.emoji-nav a:link,
+.emoji-nav a:visited {
   color: #8b8e91;
 }
 
@@ -62,7 +67,7 @@ p {
   position: relative;
 }
 .search-container input#searchInput {
-  width: 250px;
+  width: 210px;
   height: 30px;
   border: #8b8e91 solid 1px;
   font-size: 11pt;
@@ -88,6 +93,25 @@ p {
   margin-top: 17px;
   z-index: 1;
   color: #8b8e91;
+}
+
+.color {
+  width: 150px;
+  margin-left: 40px;
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+}
+
+.color span,
+.color span img {
+  width: 25px;
+  height: 25px;
+  align-items: center;
+  justify-content: center;
+}
+
+.color span img {
+  cursor: pointer;
 }
 
 .emoji-list {
@@ -132,35 +156,36 @@ p {
 }
 
 #copy_group {
-  width: 240px;
+  width: 230px;
   height: 40px;
   padding-left: 10px;
-  margin-left:10px;
-  margin-top:5px;
+  margin-left: 10px;
+  margin-top: 5px;
   border: none;
-  border-radius: 5px;
+  border-radius: 5px 0px 0px 5px;
   font-size: 16px;
   background-color: white;
+  outline: none;
 }
 
-#reset_btn{
+#reset_btn {
   position: absolute;
-  margin-left: -10px;
-  margin-top:5px;
-  background-color:white;
-  width:35px;
-  height:42px;
-  border:none;
-  border-radius: 5px;
-  outline:none;
+  margin-left: -8px;
+  margin-top: 5px;
+  background-color: white;
+  width: 35px;
+  height: 42px;
+  border: none;
+  border-radius: 0px 5px 5px 0px;
+  outline: none;
   cursor: pointer;
 }
 
-#reset_img{
-  width:30px;
-  height:30px;
-  margin-left:-5px;
-  border-radius: 5px;
+#reset_img {
+  width: 20px;
+  height: 20px;
+  margin-left: -5px;
+  border-radius: 0px 5px 5px 0px;
 }
 
 #copy_btn {
@@ -168,13 +193,12 @@ p {
   color: white;
   display: inline;
   border: none;
-  margin-left:35px;
+  margin-left: 35px;
   border-radius: 5px;
   height: 40px;
   width: 90px;
   font-size: 15px;
   font-weight: 600;
   cursor: pointer;
-  opacity:1.0;
+  opacity: 1;
 }
-
