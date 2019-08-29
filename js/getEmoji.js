@@ -16,11 +16,12 @@ function attachEmoji(emoji, groups) {
 
     if (data.category == "people") {
       if (data.name.includes("skin-tone")) {
-        if (localStorage.getItem("emojiSize") == "small") {
+        let size = localStorage.getItem("emojiSize");
+        if (size == "small") {
           span.setAttribute("style", "height: 20px; display:none;");
-        } else if (localStorage.getItem("emojiSize") == "normal") {
+        } else if (size == "normal") {
           span.setAttribute("style", "height: 40px; display:none;");
-        } else if (localStorage.getItem("emojiSize") == "big") {
+        } else if (size == "big") {
           span.setAttribute("style", "height: 80px; display:none;");
         }
       }

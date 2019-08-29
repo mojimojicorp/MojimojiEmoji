@@ -16,13 +16,31 @@ function getRecent() {
       localStorage.setItem("recent", JSON.stringify(parsedRecent));
     }
 
-    parsedRecent.forEach(function(data, i) {
+    let size = localStorage.getItem("emojiSize");
+    let imgSize;
+    parsedRecent.forEach(function(data) {
       var span = document.createElement("span");
       span.setAttribute("class", "emoji-span");
       span.setAttribute("title", data.name);
+
+      if (size == "small") {
+        span.setAttribute("style", "height: 20px;");
+        imgSize = "15px";
+      } else if (size == "normal") {
+        span.setAttribute("style", "height: 40px;");
+        imgSize = "30px";
+      } else if (size == "big") {
+        span.setAttribute("style", "height: 80px;");
+        imgSize = "60px";
+      }
+
       span.innerHTML = twemoji.parse(data.char);
 
       recentGroup.appendChild(span);
+
+      $(span)
+        .children()
+        .css("height", imgSize);
 
       ///autocopy일 때만
       span.addEventListener(
