@@ -1,13 +1,18 @@
+if (localStorage.getItem("recentNum") == null) {
+  localStorage.setItem("recentNum", 20);
+}
+
 function getRecent() {
   let groups = document.getElementsByClassName("emoji-span-container");
   let recentGroup = groups[0];
   recentGroup.innerHTML = "";
 
+  const recentNum = localStorage.getItem("recentNum");
   let recent = localStorage.getItem("recent");
   const parsedRecent = JSON.parse(recent);
   if (parsedRecent !== null) {
-    if (parsedRecent.length > 20) {
-      parsedRecent.splice(20);
+    if (parsedRecent.length > recentNum) {
+      parsedRecent.splice(recentNum);
       localStorage.setItem("recent", JSON.stringify(parsedRecent));
     }
 
@@ -19,23 +24,21 @@ function getRecent() {
 
       recentGroup.appendChild(span);
 
-
       ///autocopy일 때만
       span.addEventListener(
         "click",
-        function () {
+        function() {
           copied(data.char);
         },
         false
       );
 
       new Clipboard(span, {
-        text: function () {
+        text: function() {
           const content = document.getElementById("copy_group");
           return content.value;
         }
       });
-      
     });
   }
 
