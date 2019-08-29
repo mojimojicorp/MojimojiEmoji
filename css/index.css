@@ -123,19 +123,11 @@ p {
 }
 
 .emoji-span-container {
+  width: 100%;
   display: grid;
-  grid-template-columns: repeat(10, 1fr);
-  font-size: 22px;
   justify-items: center;
   align-items: center;
   cursor: pointer;
-}
-.emoji-span-container span {
-  height: 40px;
-}
-
-.emoji-span-container span img {
-  height: 30px;
 }
 
 .group-title {

@@ -26,6 +26,7 @@ btns[0].addEventListener("click", () => {
   btns[1].classList.remove("active");
   btns[2].classList.remove("active");
   btns[3].classList.remove("active");
+  getRecent();
 });
 
 btns[1].addEventListener("click", () => {
@@ -35,6 +36,7 @@ btns[1].addEventListener("click", () => {
   btns[1].classList.add("active");
   btns[2].classList.remove("active");
   btns[3].classList.remove("active");
+  getRecent();
 });
 
 btns[2].addEventListener("click", () => {
@@ -44,6 +46,7 @@ btns[2].addEventListener("click", () => {
   btns[1].classList.remove("active");
   btns[2].classList.add("active");
   btns[3].classList.remove("active");
+  getRecent();
 });
 
 btns[3].addEventListener("click", () => {
@@ -53,4 +56,5 @@ btns[3].addEventListener("click", () => {
   btns[1].classList.remove("active");
   btns[2].classList.remove("active");
   btns[3].classList.add("active");
+  getRecent();
 });

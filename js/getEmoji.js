@@ -1,11 +1,11 @@
 $.getJSON("../emoji.json", async function(emoji) {
   getRecent();
 
-  var groups = document.getElementsByClassName("emoji-span-container");
+  let groups = document.getElementsByClassName("emoji-span-container");
 
   await (function() {
     emoji.forEach(async function(data) {
-      var span = document.createElement("span");
+      let span = document.createElement("span");
       span.setAttribute("class", "emoji-span");
       span.setAttribute("title", data.name);
       span.innerHTML = twemoji.parse(data.char);
@@ -35,3 +35,7 @@ $.getJSON("../emoji.json", async function(emoji) {
 
   await autocopy();
 });
+
+if (localStorage.getItem("emojiSize") == null) {
+  localStorage.setItem("emojiSize", "normal");
+}
