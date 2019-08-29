@@ -2,7 +2,7 @@ if (localStorage.getItem("recentNum") == null) {
   localStorage.setItem("recentNum", 20);
 }
 
-function getRecent() {
+function getRecent(status = 0) {
   let groups = document.getElementsByClassName("emoji-span-container");
   let recentGroup = groups[0];
   recentGroup.innerHTML = "";
@@ -42,11 +42,10 @@ function getRecent() {
         .children()
         .css("height", imgSize);
 
-      ///autocopy일 때만
       span.addEventListener(
         "click",
         function() {
-          copied(data.char);
+          if(status === 0) recentCopy(span);
         },
         false
       );
