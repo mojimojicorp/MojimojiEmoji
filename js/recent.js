@@ -1,41 +1,62 @@
+if (localStorage.getItem("recentNum") == null) {
+  localStorage.setItem("recentNum", 20);
+}
+
 function getRecent() {
   let groups = document.getElementsByClassName("emoji-span-container");
   let recentGroup = groups[0];
   recentGroup.innerHTML = "";
 
+  const recentNum = localStorage.getItem("recentNum");
   let recent = localStorage.getItem("recent");
   const parsedRecent = JSON.parse(recent);
   if (parsedRecent !== null) {
-    if (parsedRecent.length > 20) {
-      parsedRecent.splice(20);
+    if (parsedRecent.length > recentNum) {
+      parsedRecent.splice(recentNum);
       localStorage.setItem("recent", JSON.stringify(parsedRecent));
     }
 
-    parsedRecent.forEach(function(data, i) {
+    let size = localStorage.getItem("emojiSize");
+    let imgSize;
+    parsedRecent.forEach(function(data) {
       var span = document.createElement("span");
       span.setAttribute("class", "emoji-span");
       span.setAttribute("title", data.name);
+
+      if (size == "small") {
+        span.setAttribute("style", "height: 20px;");
+        imgSize = "15px";
+      } else if (size == "normal") {
+        span.setAttribute("style", "height: 40px;");
+        imgSize = "30px";
+      } else if (size == "big") {
+        span.setAttribute("style", "height: 80px;");
+        imgSize = "60px";
+      }
+
       span.innerHTML = twemoji.parse(data.char);
 
       recentGroup.appendChild(span);
 
+      $(span)
+        .children()
+        .css("height", imgSize);
 
       ///autocopy일 때만
       span.addEventListener(
         "click",
-        function () {
+        function() {
           copied(data.char);
         },
         false
       );
 
       new Clipboard(span, {
-        text: function () {
+        text: function() {
           const content = document.getElementById("copy_group");
           return content.value;
         }
       });
-      
     });
   }
 

@@ -44,7 +44,7 @@ $.getJSON("../emoji.json", function(emoji) {
     // 클릭한 색상 보이게 하기
     list.forEach(function(data) {
       if (data.title.indexOf(color) != -1) {
-        data.setAttribute("style", 'display:""');
+        $(data).css("display", "");
         emojiName.push(data.title.split(":")[0]);
       }
     });
@@ -90,7 +90,7 @@ function hideEmoji(name, colors) {
 
     let delEmoji = document.querySelectorAll(`[title="${title}"]`);
     delEmoji.forEach(function(data) {
-      data.setAttribute("style", "display:none;");
+      $(data).css("display", "none");
     });
   });
 }

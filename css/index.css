@@ -123,19 +123,11 @@ p {
 }
 
 .emoji-span-container {
+  width: 100%;
   display: grid;
-  grid-template-columns: repeat(10, 1fr);
-  font-size: 22px;
   justify-items: center;
   align-items: center;
   cursor: pointer;
-}
-.emoji-span-container span {
-  height: 40px;
-}
-
-.emoji-span-container span img {
-  height: 30px;
 }
 
 .group-title {
@@ -202,4 +194,80 @@ p {
   font-weight: 600;
   cursor: pointer;
   opacity: 1;
+}
+
+.setting {
+  cursor: pointer;
+}
+.setting-container {
+  display: none;
+  width: 100%;
+  padding: 20px;
+  font-size: 15px;
+  font-weight: 600;
+}
+
+.goback {
+  cursor: pointer;
+}
+
+.settingBtns {
+  margin-top: 30px;
+  padding-left: 20px;
+  font-size: 17px;
+}
+.settingBtns span {
+  margin-left: -8px;
+  cursor: default;
+}
+
+.btn-container {
+  margin-top: 15px;
+  margin-bottom: 40px;
+}
+
+.btn-container button {
+  background-color: white;
+  color: #bdc3c7;
+  font-weight: 600;
+  border: 1px solid #bdc3c7;
+  border-radius: 2px;
+  width: 80px;
+  height: 40px;
+  margin-left: -6px;
+  cursor: pointer;
+}
+
+.btn-container .active {
+  background-color: #f1c40f;
+  color: black;
+  font-weight: 600;
+  border: 1px solid #f1c40f;
+}
+
+.settingBtn:focus {
+  outline: 0;
+}
+.settingBtn:hover {
+  background-color: #f1c40fab;
+  color: black;
+  border: 1px solid #f1c40f;
+  -webkit-transition: width 0.5s;
+}
+
+.github hr {
+  width: 360px;
+  margin-bottom: 20px;
+  margin-left: 0px;
+}
+
+.github i {
+  cursor: pointer;
+  margin-left: 30px;
+  margin-right: 20px;
+}
+
+.github span {
+  font-size: 15px;
+  font-weight: 500;
 }
