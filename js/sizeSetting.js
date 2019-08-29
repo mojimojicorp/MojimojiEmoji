@@ -1,3 +1,7 @@
+if (localStorage.getItem("emojiSize") == null) {
+  localStorage.setItem("emojiSize", "normal");
+}
+
 let sizeBtns = document.querySelectorAll(".sizeBtn");
 
 let size = localStorage.getItem("emojiSize");
