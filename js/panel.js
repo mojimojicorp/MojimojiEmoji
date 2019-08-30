@@ -1,33 +1,51 @@
-whale.tabs.query({ active: true }, function(tabs) {
-  localStorage.setItem("tab", tabs[0].id);
-});
+if (localStorage.getItem("firstLoad") == null) {
+  localStorage.setItem("firstLoad", false);
 
-let panelSetting = localStorage.getItem("windowState");
-if (panelSetting == null) {
-  localStorage.setItem("windowState", "popup");
-  sessionStorage.setItem("panel", false);
-} else if (panelSetting == "popup") {
-  sessionStorage.setItem("panel", false);
-} else if (panelSetting == "panel") {
-  sessionStorage.setItem("panel", true);
+  let windowSetting = localStorage.getItem("windowSetting");
+  switch (windowSetting) {
+    case "popup":
+      localStorage.setItem("windowState", "popup");
+      break;
+    case "panel":
+      localStorage.setItem("windowState", "panel");
+      break;
+  }
+}
+
+let now = localStorage.getItem("windowState");
+switch (now) {
+  case "popup":
+    //popup으로 오픈
+    sessionStorage.setItem("panel", false);
+    break;
+  case "panel":
+    //panel로 오픈
+    sessionStorage.setItem("panel", true);
+    if (localStorage.getItem("firstLoad") == "false") {
+      toPanel();
+    }
+
+    break;
 }
 
 let panelBtn = document.getElementsByClassName("panel");
-if (sessionStorage.getItem("panel") == true) {
-  panelBtn[0].setAttribute("style", "display:none;");
-}
-
 panelBtn[0].addEventListener("click", () => {
   let panelState = sessionStorage.getItem("panel");
+  //현재 popup이면 panel 오픈
   if (panelState == "false") {
     toPanel();
-  } else {
-    toPopup();
+  }
+  //현재 panel이면 window.close
+  else {
+    localStorage.setItem("windowState", "popup");
+    localStorage.removeItem("firstLoad");
+    window.close();
   }
 });
 
 function toPanel() {
   localStorage.setItem("windowState", "panel");
+  localStorage.setItem("firstLoad", true);
 
   whale.windows.create({
     url: "popup/index.html",
@@ -39,10 +57,5 @@ function toPanel() {
     focused: true
   });
 
-  window.close();
-}
-
-function toPopup() {
-  localStorage.setItem("windowState", "popup");
   window.close();
 }
