@@ -2,7 +2,8 @@ if (localStorage.getItem("recentNum") == null) {
   localStorage.setItem("recentNum", 20);
 }
 
-function getRecent(status = 0) {
+function getRecent(status) {
+  console.log('getRecent');
   let groups = document.getElementsByClassName("emoji-span-container");
   let recentGroup = groups[0];
   recentGroup.innerHTML = "";
@@ -10,6 +11,7 @@ function getRecent(status = 0) {
   const recentNum = localStorage.getItem("recentNum");
   let recent = localStorage.getItem("recent");
   const parsedRecent = JSON.parse(recent);
+  let recentspan;
   if (parsedRecent !== null) {
     if (parsedRecent.length > recentNum) {
       parsedRecent.splice(recentNum);
@@ -42,21 +44,35 @@ function getRecent(status = 0) {
         .children()
         .css("height", imgSize);
 
-      span.addEventListener(
-        "click",
-        function() {
-          if(status === 0) recentCopy(span);
-        },
-        false
-      );
-
-      new Clipboard(span, {
-        text: function() {
-          const content = document.getElementById("copy_group");
-          return content.value;
-        }
-      });
+      if(status == 1){
+        new Clipboard(span, {
+          text: function() {
+            return span.querySelector('img').alt;
+          }
+        });
+      }
     });
+
+    const list = recentGroup.querySelectorAll('.recent_group .emoji-span-container .emoji-span');
+    if(list.length > 0){
+      list.forEach(e => {
+        e.addEventListener("click", function(ee){
+          addCopyGroup(ee.target.alt);
+        })
+      });
+
+      if (status === 0) {
+        list.forEach(e => {
+          new Clipboard(e, {
+            text: function () {
+              const content = document.getElementById("copy_group");
+              return content.value;
+            }
+          });
+        })
+        
+      }
+    }
   }
 
   // twemoji.parse(document.body, {
