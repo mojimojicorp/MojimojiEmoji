@@ -2,9 +2,11 @@ $.getJSON("../emoji.json", async function(emoji) {
   await getRecent();
 
   let groups = document.getElementsByClassName("emoji-span-container");
+  const copybtn = document.querySelectorAll(".autocopyBtn");
 
   await attachEmoji(emoji, groups);
-  await copy(0);
+  await copybtn[0].classList.add("active");
+  await copy();
   await autocopy();
 });
 

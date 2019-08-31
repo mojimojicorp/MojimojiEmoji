@@ -2,8 +2,9 @@ if (localStorage.getItem("recentNum") == null) {
   localStorage.setItem("recentNum", 20);
 }
 
-function getRecent(status) {
-  console.log('getRecent');
+let status = 0;
+
+function getRecent() {
   let groups = document.getElementsByClassName("emoji-span-container");
   let recentGroup = groups[0];
   recentGroup.innerHTML = "";
@@ -11,7 +12,6 @@ function getRecent(status) {
   const recentNum = localStorage.getItem("recentNum");
   let recent = localStorage.getItem("recent");
   const parsedRecent = JSON.parse(recent);
-  let recentspan;
   if (parsedRecent !== null) {
     if (parsedRecent.length > recentNum) {
       parsedRecent.splice(recentNum);
@@ -20,7 +20,7 @@ function getRecent(status) {
 
     let size = localStorage.getItem("emojiSize");
     let imgSize;
-    parsedRecent.forEach(function(data) {
+    parsedRecent.forEach(function (data) {
       var span = document.createElement("span");
       span.setAttribute("class", "emoji-span");
       span.setAttribute("title", data.name);
@@ -43,43 +43,43 @@ function getRecent(status) {
       $(span)
         .children()
         .css("height", imgSize);
-
-      if(status == 1){
-        new Clipboard(span, {
-          text: function() {
-            return span.querySelector('img').alt;
-          }
-        });
-      }
     });
-
-    const list = recentGroup.querySelectorAll('.recent_group .emoji-span-container .emoji-span');
-    if(list.length > 0){
-      list.forEach(e => {
-        e.addEventListener("click", function(ee){
-          addCopyGroup(ee.target.alt);
-        })
-      });
-
-      if (status === 0) {
-        list.forEach(e => {
-          new Clipboard(e, {
-            text: function () {
-              const content = document.getElementById("copy_group");
-              return content.value;
-            }
-          });
-        })
-        
-      }
-    }
   }
 
+  const list = document.querySelectorAll('.recent_group .emoji-span-container .emoji-span');
+  if (list.length > 0) {
+    list.forEach(e => {
+      e.addEventListener("click", function (ee) {
+        addCopyGroup(ee.target.alt);
+      })
+    });
+
+    if (status === 1) {
+      list.forEach(e => {
+        new Clipboard(e, {
+          text: function (trigger) {
+            const img = trigger.querySelectorAll(".emoji")[0];
+            return img.alt;
+          }
+        })
+      })
+    } else if (status === 0) {
+      list.forEach(e => {
+        new Clipboard(e, {
+          text: function () {
+            const content = document.getElementById("copy_group");
+            return content.value;
+          }
+        })
+      })
+    }
+  }
   // twemoji.parse(document.body, {
   //   folder: "../svg",
   //   ext: ".svg"
   // });
 }
+
 
 function removeDuplicate(arr) {
   var tempArr = [];
@@ -117,7 +117,7 @@ function store(name, char) {
 
   if (recentStorage !== null) {
     const parsedStorage = JSON.parse(recentStorage);
-    parsedStorage.forEach(function(data) {
+    parsedStorage.forEach(function (data) {
       charArr.push(data);
     });
   }
