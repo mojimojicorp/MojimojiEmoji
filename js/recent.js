@@ -2,7 +2,12 @@ if (localStorage.getItem("recentNum") == null) {
   localStorage.setItem("recentNum", 20);
 }
 
-function getRecent() {
+let status;
+if (localStorage.getItem("copy") == "auto") {
+  status = "autocopy";
+}
+
+function getRecent(status) {
   let groups = document.getElementsByClassName("emoji-span-container");
   let recentGroup = groups[0];
   recentGroup.innerHTML = "";
@@ -41,25 +46,36 @@ function getRecent() {
       $(span)
         .children()
         .css("height", imgSize);
-
-      ///autocopy일 때만
-      span.addEventListener(
-        "click",
-        function() {
-          copied(data.char);
-        },
-        false
-      );
-
-      new Clipboard(span, {
-        text: function() {
-          const content = document.getElementById("copy_group");
-          return content.value;
-        }
-      });
     });
   }
 
+  const list = document.querySelectorAll(
+    ".recent_group .emoji-span-container .emoji-span"
+  );
+  if (list.length > 0) {
+    list.forEach(e => {
+      e.addEventListener("click", function(ee) {
+        let content = document.getElementById("copy_group").value;
+        content = content.concat(ee.target.alt);
+        document.getElementById("copy_group").value = content;
+
+        if (status === "autocopy") copyBtn();
+      });
+    });
+
+    if (status === "autocopy") {
+      list.forEach(e => {
+        clipboard.push(
+          new Clipboard(e, {
+            text: function() {
+              const content = document.getElementById("copy_group");
+              return content.value;
+            }
+          })
+        );
+      });
+    }
+  }
   // twemoji.parse(document.body, {
   //   folder: "../svg",
   //   ext: ".svg"
