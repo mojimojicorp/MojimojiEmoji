@@ -1,22 +1,12 @@
-const enhancedElements2 = [];
-
 function copy() {
   const list = document.querySelectorAll(".group .emoji-span-container .emoji-span");
 
-  list.forEach((element) => {
-    enhancedElements2.push(
-      {element, copied() { copied(element)} })
-  });
-
-  enhancedElements2.forEach(ee => {
-    ee.element.addEventListener('click', ee.copied);
-  });
-}
-
-
-function removeCopy(){
-  enhancedElements2.forEach(ee => {
-    ee.element.removeEventListener('click', ee.copied);
+  list.forEach(element => {
+    element.addEventListener('click', function(){
+      let content = document.getElementById("copy_group").value;
+      content = content.concat(element.querySelector('img').alt);
+      document.getElementById("copy_group").value = content;
+    });
   });
 }
 
@@ -39,21 +29,6 @@ function copyBtn(){
     btn.style.opacity = "1.0";
     btn.value = "coped!";
   }, 200);
-}
-
-function copied(element){
-  let img = element.querySelectorAll(".emoji")[0];
-  let name = img.parentElement.getAttribute("title");
-  let char = img.alt;
-  store(name, char);
-  getRecent();
-  addCopyGroup(char);
-}
-
-function addCopyGroup(char){
-  let content = document.getElementById("copy_group").value;
-  content = content.concat(char);
-  document.getElementById("copy_group").value = content;
 }
 
 

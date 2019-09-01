@@ -1,28 +1,50 @@
+const enhancedElements2 = [];
+const clipboard = [];
+
 function autocopy() {
-  console.log('autocopy');
+  getRecent('autocopy');
+
   const list = document.querySelectorAll(".group .emoji-span-container .emoji-span");
 
-  console.log(list);
   list.forEach(element => {
+    clipboard.push(
     new Clipboard(element, {
       text: function() {
         const content = document.getElementById("copy_group");
         return content.value;
       }
-    });
+    })
+    )
   });
 
-  list.forEach(element => {
-    element.addEventListener("click", copyBtn);
+
+  list.forEach((element) => {
+    enhancedElements2.push(
+      {element, autocopied() { autocopied(element)} })
+  });
+
+  enhancedElements2.forEach(ee => {
+    ee.element.addEventListener("click", ee.autocopied);
   })
 }
 
-function removeEvent(){
-  const list = document.querySelectorAll(".gruop .emoji-span-container .emoji-span");
+function removeAutoCopy(){
+  enhancedElements2.forEach(ee => {
+    ee.element.removeEventListener('click', ee.autocopied);
+  });
 
-  list.forEach(element => {
-    element.removeEventListener("click", copyBtn);
-  })
+  clipboard.forEach(element => {
+    console.log(element);
+    element.destroy();
+})
+}
 
-  status = 1;
+function autocopied(element){
+  let img = element.querySelectorAll(".emoji")[0];
+  let name = img.parentElement.getAttribute("title");
+  let char = img.alt;
+  store(name, char);
+  getRecent('autocopy');
+  
+  copyBtn();
 }

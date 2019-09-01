@@ -4,7 +4,7 @@ if (localStorage.getItem("recentNum") == null) {
 
 let status = 0;
 
-function getRecent() {
+function getRecent(status = "autocopy") {
   let groups = document.getElementsByClassName("emoji-span-container");
   let recentGroup = groups[0];
   recentGroup.innerHTML = "";
@@ -50,27 +50,24 @@ function getRecent() {
   if (list.length > 0) {
     list.forEach(e => {
       e.addEventListener("click", function (ee) {
-        addCopyGroup(ee.target.alt);
+          let content = document.getElementById("copy_group").value;
+          content = content.concat(ee.target.alt);
+          document.getElementById("copy_group").value = content;
+
+          if(status === "autocopy") copyBtn();
       })
     });
 
-    if (status === 1) {
+    if (status === "autocopy") {
       list.forEach(e => {
-        new Clipboard(e, {
-          text: function (trigger) {
-            const img = trigger.querySelectorAll(".emoji")[0];
-            return img.alt;
-          }
-        })
-      })
-    } else if (status === 0) {
-      list.forEach(e => {
+        clipboard.push(
         new Clipboard(e, {
           text: function () {
             const content = document.getElementById("copy_group");
             return content.value;
           }
         })
+        )
       })
     }
   }
