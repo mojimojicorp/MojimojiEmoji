@@ -1,52 +1,54 @@
+const enhancedElements2 = [];
+const clipboard = [];
+
 function autocopy() {
-  const list =  document.querySelectorAll(".emoji-span-container .emoji-span");
-  const emojiList = document.querySelectorAll(".group .emoji-span-container .emoji-span");
+  getRecent("autocopy");
 
-  [].forEach.call(emojiList, function(element) {
-    element.addEventListener(
-      "click",
-      function() {
-        var img = element.querySelectorAll(".emoji")[0];
+  const list = document.querySelectorAll(
+    ".group .emoji-span-container .emoji-span"
+  );
 
-        let name = img.parentElement.getAttribute("title");
-        let char = img.alt;
-        store(name, char);
-        getRecent();
-
-        copied(char);
-      },
-      false
+  list.forEach(element => {
+    clipboard.push(
+      new Clipboard(element, {
+        text: function() {
+          const content = document.getElementById("copy_group");
+          return content.value;
+        }
+      })
     );
   });
 
-  [].forEach.call(list, function(element) {
-    new Clipboard(element, {
-      text: function() {
-        const content = document.getElementById("copy_group");
-        return content.value;
+  list.forEach(element => {
+    enhancedElements2.push({
+      element,
+      autocopied() {
+        autocopied(element);
       }
     });
   });
+
+  enhancedElements2.forEach(ee => {
+    ee.element.addEventListener("click", ee.autocopied);
+  });
 }
 
-const reset = document.getElementById("reset_btn");
-reset.addEventListener(
-  "click",
-  function() {
-    document.getElementById("copy_group").value = "";
-  },
-  false
-);
+function removeAutoCopy() {
+  enhancedElements2.forEach(ee => {
+    ee.element.removeEventListener("click", ee.autocopied);
+  });
 
-function copied(data){
-  let content = document.getElementById("copy_group").value;
-  content = content.concat(data);
-  document.getElementById("copy_group").value = content;
+  clipboard.forEach(element => {
+    element.destroy();
+  });
+}
 
-  const btn = document.getElementById("copy_btn");
-  btn.style.opacity = "0.5";
-  setTimeout(function() {
-    btn.style.opacity = "1.0";
-    btn.value = "coped!";
-  }, 200);
+function autocopied(element) {
+  let img = element.querySelectorAll(".emoji")[0];
+  let name = img.parentElement.getAttribute("title");
+  let char = img.alt;
+  store(name, char);
+  getRecent("autocopy");
+
+  copyBtn();
 }

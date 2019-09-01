@@ -1,10 +1,14 @@
 $.getJSON("../emoji.json", async function(emoji) {
-  getRecent();
+  await getRecent();
 
   let groups = document.getElementsByClassName("emoji-span-container");
 
   await attachEmoji(emoji, groups);
-  await autocopy();
+  await copy();
+
+  if (localStorage.getItem("copy") == "auto") {
+    await autocopy();
+  }
 });
 
 function attachEmoji(emoji, groups) {

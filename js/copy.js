@@ -1,32 +1,14 @@
 function copy() {
-  const list = document.querySelectorAll(".emoji-span-container .emoji-span");
+  const list = document.querySelectorAll(
+    ".group .emoji-span-container .emoji-span"
+  );
 
-  [].forEach.call(list, function(element) {
-    new Clipboard(element, {
-      text: function(trigger) {
-        var img = trigger.querySelectorAll(".emoji")[0];
-        return img.alt;
-      }
+  list.forEach(element => {
+    element.addEventListener("click", function() {
+      let content = document.getElementById("copy_group").value;
+      content = content.concat(element.querySelector("img").alt);
+      document.getElementById("copy_group").value = content;
     });
-  });
-
-  [].forEach.call(list, function(element) {
-    element.addEventListener(
-      "click",
-      function() {
-        let img = element.querySelectorAll(".emoji")[0];
-
-        let name = img.parentElement.getAttribute("title");
-        let char = img.alt;
-        store(name, char);
-        getRecent();
-
-        let content = document.getElementById("copy_group").value;
-        content = content.concat(img.alt);
-        document.getElementById("copy_group").value = content;
-      },
-      false
-    );
   });
 }
 
@@ -37,3 +19,23 @@ new Clipboard(btn, {
     return content.value;
   }
 });
+
+btn.addEventListener("click", copyBtn);
+
+function copyBtn() {
+  const btn = document.getElementById("copy_btn");
+  btn.style.opacity = "0.5";
+  setTimeout(function() {
+    btn.style.opacity = "1.0";
+    btn.value = "coped!";
+  }, 200);
+}
+
+const reset = document.getElementById("reset_btn");
+reset.addEventListener(
+  "click",
+  function() {
+    document.getElementById("copy_group").value = "";
+  },
+  false
+);
