@@ -43,11 +43,11 @@ function removeAutoCopy() {
   });
 }
 
-function autocopied(element) {
+async function autocopied(element) {
   let img = element.querySelectorAll(".emoji")[0];
   let name = img.parentElement.getAttribute("title");
   let char = img.alt;
-  store(name, char);
+  await store(name, char);
   getRecent("autocopy");
 
   copyBtn();

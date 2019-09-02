@@ -50,7 +50,7 @@ function getRecent(status) {
   }
 
   const list = document.querySelectorAll(
-    ".recent_group .emoji-span-container .emoji-span"
+    ".recent_group .emoji-span-container .emoji-span .emoji"
   );
   if (list.length > 0) {
     list.forEach(e => {
