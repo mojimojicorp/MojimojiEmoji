@@ -12,11 +12,12 @@ $.getJSON("../emoji.json", async function(emoji) {
 });
 
 function attachEmoji(emoji, groups) {
-  emoji.forEach(async function(data) {
+  emoji.forEach(function(data) {
     let span = document.createElement("span");
     span.setAttribute("class", "emoji-span");
     span.setAttribute("title", data.name);
-    span.innerHTML = twemoji.parse(data.char);
+    span.textContent = data.char;
+    twemoji.parse(span);
 
     if (data.category == "people") {
       if (data.name.includes("skin-tone")) {
@@ -29,21 +30,21 @@ function attachEmoji(emoji, groups) {
           span.setAttribute("style", "height: 80px; display:none;");
         }
       }
-      await groups[1].appendChild(span);
+      groups[1].appendChild(span);
     } else if (data.category == "nature") {
-      await groups[2].appendChild(span);
+      groups[2].appendChild(span);
     } else if (data.category == "foodAndDrink") {
-      await groups[3].appendChild(span);
+      groups[3].appendChild(span);
     } else if (data.category == "activity") {
-      await groups[4].appendChild(span);
+      groups[4].appendChild(span);
     } else if (data.category == "places") {
-      await groups[5].appendChild(span);
+      groups[5].appendChild(span);
     } else if (data.category == "objects") {
-      await groups[6].appendChild(span);
+      groups[6].appendChild(span);
     } else if (data.category == "symbols") {
-      await groups[7].appendChild(span);
+      groups[7].appendChild(span);
     } else if (data.category == "flags") {
-      await groups[8].appendChild(span);
+      groups[8].appendChild(span);
     }
   });
 }

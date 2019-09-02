@@ -10,7 +10,7 @@ if (localStorage.getItem("copy") == "auto") {
 function getRecent(status) {
   let groups = document.getElementsByClassName("emoji-span-container");
   let recentGroup = groups[0];
-  recentGroup.innerHTML = "";
+  recentGroup.textContent = "";
 
   const recentNum = localStorage.getItem("recentNum");
   let recent = localStorage.getItem("recent");
@@ -24,7 +24,7 @@ function getRecent(status) {
     let size = localStorage.getItem("emojiSize");
     let imgSize;
     parsedRecent.forEach(function(data) {
-      var span = document.createElement("span");
+      let span = document.createElement("span");
       span.setAttribute("class", "emoji-span");
       span.setAttribute("title", data.name);
 
@@ -39,7 +39,8 @@ function getRecent(status) {
         imgSize = "60px";
       }
 
-      span.innerHTML = twemoji.parse(data.char);
+      span.textContent = data.char;
+      twemoji.parse(span);
 
       recentGroup.appendChild(span);
 
