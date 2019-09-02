@@ -1,5 +1,6 @@
 import Doc from './service/doc.mjs';
 import Cons from './service/const.mjs';
+import Util from './service/util.mjs';
 
 function makeEmojiNav() {
     const emojiNav = Doc.find('.emoji-nav');
@@ -58,29 +59,20 @@ function makeEmojiList() {
     }
 }
 
-function includeJS(jsFilePath) {
-    const js = Doc.create('script');
-
-    js.type = "text/javascript";
-    js.src = jsFilePath;
-
-    document.body.appendChild(js);
-}
-
 function afterRendering() {
-    includeJS('../js/copy.js');
-    includeJS('../js/autocopy.js');
-    includeJS('../js/copySetting.js');
-    includeJS('../js/getEmoji.js');
-    includeJS('../js/skintone.js');
-    includeJS('../js/recent.js');
-    includeJS('../js/onecopy.js');
-    includeJS('../js/settings.js');
-    includeJS('../js/search.js');
-    includeJS('../js/panel.js');
-    includeJS('../js/panelSetting.js');
-    includeJS('../js/recentSetting.js');
-    includeJS('../js/sizeSetting.js');
+    Util.includeJS('../js/copy.js');
+    Util.includeJS('../js/autocopy.js');
+    Util.includeJS('../js/copySetting.js');
+    Util.includeJS('../js/getEmoji.js');
+    Util.includeJS('../js/skintone.js');
+    Util.includeJS('../js/recent.js');
+    Util.includeJS('../js/onecopy.js');
+    Util.includeJS('../js/settings.js');
+    Util.includeJS('../js/search.js');
+    Util.includeJS('../js/panel.js');
+    Util.includeJS('../js/panelSetting.js');
+    Util.includeJS('../js/recentSetting.js');
+    Util.includeJS('../js/sizeSetting.js');
 }
 
 makeEmojiNav();
