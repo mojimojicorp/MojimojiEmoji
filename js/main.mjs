@@ -2,7 +2,11 @@ import Doc from "./service/doc.mjs";
 import Cons from "./service/const.mjs";
 import Util from "./service/util.mjs";
 
-import { setLocal } from "./local.mjs";
+import firstSet from "./settings/local.mjs";
+import setCopyBtn from "./settings/copySetting.mjs";
+import setSizeBtn from "./settings/sizeSetting.mjs";
+import setRecentBtn from "./settings/recentSetting.mjs";
+import setPanelBtn from "./settings/panelSetting.mjs";
 
 function makeEmojiNav() {
   const emojiNav = Doc.find(".emoji-nav");
@@ -62,22 +66,29 @@ function makeEmojiList() {
 }
 
 function afterRendering() {
-  Util.includeJS("../js/copy.js");
-  Util.includeJS("../js/autocopy.js");
-  Util.includeJS("../js/copySetting.js");
-  Util.includeJS("../js/getEmoji.js");
-  Util.includeJS("../js/skintone.js");
-  Util.includeJS("../js/recent.js");
-  Util.includeJS("../js/onecopy.js");
-  Util.includeJS("../js/settings.js");
-  Util.includeJS("../js/search.js");
-  Util.includeJS("../js/panel.js");
-  Util.includeJS("../js/panelSetting.js");
-  Util.includeJS("../js/recentSetting.js");
-  Util.includeJS("../js/sizeSetting.js");
+  Util.includeJS("../js/settings/settings.js");
+
+  // Util.includeJS("../js/copy.js");
+  // Util.includeJS("../js/autocopy.js");
+  // Util.includeJS("../js/getEmoji.js");
+  // Util.includeJS("../js/skintone.js");
+  // Util.includeJS("../js/recent.js");
+  // Util.includeJS("../js/onecopy.js");
+  // Util.includeJS("../js/search.js");
+  // Util.includeJS("../js/panel.js");
+  // Util.includeJS("../js/panelSetting.js");
+}
+
+function setSetting() {
+  setCopyBtn();
+  setSizeBtn();
+  setRecentBtn();
+  setPanelBtn();
 }
 
 makeEmojiNav();
 makeEmojiList();
-setLocal();
+
+firstSet();
 afterRendering();
+setSetting();
