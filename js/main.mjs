@@ -71,7 +71,7 @@ function afterRendering() {
   Util.includeJS("../js/onecopy.js");
 
   Util.includeJS("../js/getEmoji.js");
-  // Util.includeJS("../js/skintone.js");
+  Util.includeJS("../js/skintone.js");
 
   Util.includeJS("../js/copy.js");
   // Util.includeJS("../js/search.js");

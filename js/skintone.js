@@ -1,10 +1,14 @@
-$.getJSON("../emoji.json", function(emoji) {
-  let div = document.getElementsByClassName("color")[0];
+import Doc from "./service/doc.mjs";
+import removeDuplicate from "./service/removeDuplicate.mjs";
 
+$.getJSON("../emoji.json", emoji => {
+  let div = Doc.find(".color");
+
+  // emoji 중 skin-tone 골라내기
   emoji.forEach(function(data) {
     if (data.category == "skin-tone") {
       let emojiCode = twemoji.convert.fromCodePoint(data.codes);
-      let span = document.createElement("span");
+      let span = Doc.create("span");
 
       switch (data.codes) {
         case "1F3FB":
@@ -33,6 +37,7 @@ $.getJSON("../emoji.json", function(emoji) {
     }
   });
 
+  // eventlistenr 추가
   $(".skin-tone").bind("click", function() {
     let color = this.className;
     color = color.split("skin-tone")[1] + "skin-tone";
@@ -78,18 +83,18 @@ $.getJSON("../emoji.json", function(emoji) {
         break;
     }
 
-    emojiName.forEach(function(name) {
+    emojiName.forEach(name => {
       hideEmoji(name, delColors);
     });
   });
 });
 
 function hideEmoji(name, colors) {
-  colors.forEach(function(color) {
+  colors.forEach(color => {
     let title = name + ": " + color;
 
-    let delEmoji = document.querySelectorAll(`[title="${title}"]`);
-    delEmoji.forEach(function(data) {
+    let delEmoji = Doc.findAll(`[title="${title}"]`);
+    delEmoji.forEach(data => {
       $(data).css("display", "none");
     });
   });
