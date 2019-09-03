@@ -1,114 +1,120 @@
 <!DOCTYPE html>
 <html>
-
-<head>
+  <head>
     <meta charset="utf-8" />
     <title>Emoji whale Extension</title>
     <link rel="stylesheet" href="../css/index.css" />
-    <link rel="stylesheet" href="../css/fontawesome/all.css"  />
-    
+    <link rel="stylesheet" href="../css/fontawesome/all.css" />
+
     <script type="text/javascript" src="../js/twemoji.min.js"></script>
     <script type="text/javascript" src="../js/dist/clipboard.min.js"></script>
-    <script type="text/javascript" src="../js/jquery-3.3.1.min.js"></script>
+    <script
+      type="text/javascript"
+      src="../js/dist/jquery-3.3.1.min.js"
+    ></script>
 
     <script type="module" src="../js/main.mjs"></script>
-</head>
+  </head>
 
-<body>
+  <body>
     <div class="container">
-        <!-- header -->
-        <div class="header">
-            <div class="grid-logo">
-                <p>Emoji by Eternal</p>
-            </div>
-            <div class="grid-panel">
-                <i class="panel fas fa-window-restore fa-2x"></i>
-            </div>
-            <div class="grid-setting">
-                <i class="setting fas fa-cog fa-2x"></i>
-            </div>
+      <!-- header -->
+      <div class="header">
+        <div class="grid-logo">
+          <p>Emoji by Eternal</p>
+        </div>
+        <div class="grid-panel">
+          <i class="panel fas fa-window-restore fa-2x"></i>
+        </div>
+        <div class="grid-setting">
+          <i class="setting fas fa-cog fa-2x"></i>
+        </div>
+      </div>
+
+      <div class="emoji-container">
+        <div class="emoji-nav"></div>
+
+        <div class="emoji-search">
+          <div class="search-container">
+            <span class="icon"><i class="fa fa-search"></i></span>
+            <input
+              id="searchInput"
+              type="search"
+              placeholder="search"
+              autofocus
+            />
+          </div>
+          <div class="color"></div>
         </div>
 
-        <div class="emoji-container">
-            <div class="emoji-nav"></div>
-
-            <div class="emoji-search">
-                <div class="search-container">
-                    <span class="icon"><i class="fa fa-search"></i></span>
-                    <input id="searchInput" type="search" placeholder="search" autofocus />
-                </div>
-                <div class="color"></div>
-            </div>
-
-            <!-- emoji list -->
-            <div class="emoji-list">
-                <div class="groups"></div>
-            </div>
+        <!-- emoji list -->
+        <div class="emoji-list">
+          <div class="groups"></div>
         </div>
-        <!-- footer -->
-        <div class="footer">
-            <!--<div class="keyboard"></div>-->
-            <div class="status">
-                <input type="text" id="copy_group" />
-                <button type="button" id="reset_btn">
-                    <img src="../reset.png" id="reset_img" />
-                </button>
+      </div>
+      <!-- footer -->
+      <div class="footer">
+        <!--<div class="keyboard"></div>-->
+        <div class="status">
+          <input type="text" id="copy_group" />
+          <button type="button" id="reset_btn">
+            <img src="../reset.png" id="reset_img" />
+          </button>
 
-                <input type="button" id="copy_btn" value="copy!" />
-            </div>
+          <input type="button" id="copy_btn" value="copy!" />
+        </div>
+      </div>
+
+      <!-- setting page -->
+      <div class="setting-container">
+        <div class="goback">
+          <i class="fas fa-long-arrow-alt-left"></i>
+          <span>go back</span>
         </div>
 
-        <!-- setting page -->
-        <div class="setting-container">
-            <div class="goback">
-                <i class="fas fa-long-arrow-alt-left"></i>
-                <span>go back</span>
+        <div class="settingBtns">
+          <div class="autoCopy-setting">
+            <span>Auto copy</span>
+            <div class="btn-container">
+              <button type="button" class="autocopyBtn settingBtn">ON</button>
+              <button type="button" class="autocopyBtn settingBtn">OFF</button>
             </div>
+          </div>
 
-            <div class="settingBtns">
-                <div class="autoCopy-setting">
-                    <span>Auto copy</span>
-                    <div class="btn-container">
-                        <button type="button" class="autocopyBtn settingBtn">ON</button>
-                        <button type="button" class="autocopyBtn settingBtn">OFF</button>
-                    </div>
-                </div>
-
-                <div class="iconSize-setting">
-                    <span>Panel emoji size</span>
-                    <div class="btn-container">
-                        <button type="button" class="sizeBtn settingBtn">SMALL</button>
-                        <button type="button" class="sizeBtn settingBtn">NORMAL</button>
-                        <button type="button" class="sizeBtn settingBtn">BIG</button>
-                    </div>
-                </div>
-
-                <div class="panel-setting">
-                    <span>Panel display</span>
-                    <div class="btn-container">
-                        <button type="button" class="panelBtn settingBtn">POPUP</button>
-                        <button type="button" class="panelBtn settingBtn">PANEL</button>
-                    </div>
-                </div>
-
-                <div class="recent-setting">
-                    <span>Recent</span>
-                    <div class="btn-container">
-                        <button type="button" class="recentBtn settingBtn">NONE</button>
-                        <button type="button" class="recentBtn settingBtn">10</button>
-                        <button type="button" class="recentBtn settingBtn">20</button>
-                        <button type="button" class="recentBtn settingBtn">30</button>
-                    </div>
-                </div>
+          <div class="iconSize-setting">
+            <span>Panel emoji size</span>
+            <div class="btn-container">
+              <button type="button" class="sizeBtn settingBtn">SMALL</button>
+              <button type="button" class="sizeBtn settingBtn">NORMAL</button>
+              <button type="button" class="sizeBtn settingBtn">BIG</button>
             </div>
+          </div>
 
-            <div class="github">
-                <hr />
-                <i class="fab fa-github fa-2x"></i>
-                <span>Emoji by Eternal for Whale browser</span>
+          <div class="panel-setting">
+            <span>Panel display</span>
+            <div class="btn-container">
+              <button type="button" class="panelBtn settingBtn">POPUP</button>
+              <button type="button" class="panelBtn settingBtn">PANEL</button>
             </div>
+          </div>
+
+          <div class="recent-setting">
+            <span>Recent</span>
+            <div class="btn-container">
+              <button type="button" class="recentBtn settingBtn">NONE</button>
+              <button type="button" class="recentBtn settingBtn">10</button>
+              <button type="button" class="recentBtn settingBtn">20</button>
+              <button type="button" class="recentBtn settingBtn">30</button>
+            </div>
+          </div>
         </div>
+
+        <div class="github">
+          <hr />
+          <i class="fab fa-github fa-2x"></i>
+          <span>Emoji by Eternal for Whale browser</span>
+        </div>
+      </div>
     </div>
-</body>
-
+  </body>
 </html>

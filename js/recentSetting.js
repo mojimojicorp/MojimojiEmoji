@@ -1,10 +1,6 @@
 let recentBtns = document.querySelectorAll(".recentBtn");
 
-let num = localStorage.getItem("recentNum");
-switch (num) {
-  case null:
-    recentBtns[2].classList.add("active");
-    break;
+switch (recentSetting) {
   case "0":
     recentBtns[0].classList.add("active");
     break;

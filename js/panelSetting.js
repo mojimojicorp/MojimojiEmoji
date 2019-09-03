@@ -1,16 +1,12 @@
 let PanelBtns = document.querySelectorAll(".panelBtn");
-let state = localStorage.getItem("windowSetting");
 
-switch (state) {
-  case null:
-    localStorage.setItem("windowSetting", "popup");
-    PanelBtns[0].classList.add("active");
-    break;
+switch (windowSetting) {
   case "popup":
     PanelBtns[0].classList.add("active");
     break;
   case "panel":
     PanelBtns[1].classList.add("active");
+    localStorage.setItem("windowState", "panel");
     break;
 }
 

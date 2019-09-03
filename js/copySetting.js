@@ -1,9 +1,5 @@
-if (localStorage.getItem("copy") == null) {
-  localStorage.setItem("copy", "auto");
-}
-
 const copybtn = document.querySelectorAll(".autocopyBtn");
-let copySetting = localStorage.getItem("copy");
+
 switch (copySetting) {
   case "auto":
     copybtn[0].classList.add("active");

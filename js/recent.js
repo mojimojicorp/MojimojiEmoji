@@ -1,8 +1,5 @@
-if (localStorage.getItem("recentNum") == null) {
-  localStorage.setItem("recentNum", 20);
-}
-
 let status;
+
 if (localStorage.getItem("copy") == "auto") {
   status = "autocopy";
 }

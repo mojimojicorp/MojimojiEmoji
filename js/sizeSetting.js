@@ -1,15 +1,6 @@
-if (localStorage.getItem("emojiSize") == null) {
-  localStorage.setItem("emojiSize", "normal");
-}
-
 let sizeBtns = document.querySelectorAll(".sizeBtn");
 
-let size = localStorage.getItem("emojiSize");
-switch (size) {
-  case null:
-    sizeBtns[1].classList.add("active");
-    setGrid(10);
-    break;
+switch (sizeSetting) {
   case "small":
     sizeBtns[0].classList.add("active");
     setGrid(15);

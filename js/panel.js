@@ -1,25 +1,10 @@
-if (localStorage.getItem("firstLoad") == null) {
-  localStorage.setItem("firstLoad", false);
-
-  let windowSetting = localStorage.getItem("windowSetting");
-  switch (windowSetting) {
-    case "popup":
-      localStorage.setItem("windowState", "popup");
-      break;
-    case "panel":
-      localStorage.setItem("windowState", "panel");
-      break;
-  }
-}
-
-let now = localStorage.getItem("windowState");
-switch (now) {
+switch (windowState) {
   case "popup":
-    //popup으로 오픈
+    // popup으로 오픈
     sessionStorage.setItem("panel", false);
     break;
   case "panel":
-    //panel로 오픈
+    // panel로 오픈
     sessionStorage.setItem("panel", true);
     if (localStorage.getItem("firstLoad") == "false") {
       toPanel();
@@ -29,6 +14,7 @@ switch (now) {
 }
 
 let panelBtn = document.getElementsByClassName("panel");
+
 panelBtn[0].addEventListener("click", () => {
   let panelState = sessionStorage.getItem("panel");
   //현재 popup이면 panel 오픈
