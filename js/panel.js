@@ -1,3 +1,6 @@
+import Doc from "./service/doc.mjs";
+import { windowState } from "./settings/localVariable.mjs";
+
 switch (windowState) {
   case "popup":
     // popup으로 오픈
@@ -6,14 +9,14 @@ switch (windowState) {
   case "panel":
     // panel로 오픈
     sessionStorage.setItem("panel", true);
+
     if (localStorage.getItem("firstLoad") == "false") {
       toPanel();
     }
-
     break;
 }
 
-let panelBtn = document.getElementsByClassName("panel");
+const panelBtn = Doc.findAll(".panel");
 
 panelBtn[0].addEventListener("click", () => {
   let panelState = sessionStorage.getItem("panel");
