@@ -1,6 +1,9 @@
 import Doc from "./service/doc.mjs";
 import setGrid from "./setGrid.mjs";
-import { sizeSetting } from "./settings/localVariable.mjs";
+import copyEvent from "./copy/copyEvent.mjs";
+import renderRecent from "./recent/renderRecent.mjs";
+import { sizeSetting, copySetting } from "./settings/localVariable.mjs";
+import autocopy from "./copy/autocopy.mjs";
 
 $.getJSON("../emoji.json", data => {
   // emoji data
@@ -9,6 +12,15 @@ $.getJSON("../emoji.json", data => {
   const groups = Doc.findAll(".emoji-span-container");
   attachEmoji(EMOJI, groups);
   setSize(groups);
+
+  renderRecent();
+
+  // 각 emoji마다 eventlistener 추가 & copy 버튼, reset 버튼 eventlistener 추가
+  copyEvent();
+
+  if (copySetting == "auto") {
+    autocopy();
+  }
 });
 
 function setSize(groups) {

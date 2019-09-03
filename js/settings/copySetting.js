@@ -1,5 +1,7 @@
 import Doc from "../service/doc.mjs";
 import { copySetting } from "./localVariable.mjs";
+import removeAutoCopy from "../copy/removeAutoCopy.mjs";
+import autocopy from "../copy/autocopy.mjs";
 
 const copybtn = Doc.findAll(".autocopyBtn");
 
@@ -26,8 +28,8 @@ function addCopyEvent() {
     copybtn[0].classList.add("active");
     copybtn[1].classList.remove("active");
     await btnReset();
-    // await removeCopy();
-    // await autocopy();
+    await removeCopy();
+    await autocopy();
   });
 
   copybtn[1].addEventListener("click", async function() {
@@ -36,7 +38,7 @@ function addCopyEvent() {
     copybtn[0].classList.remove("active");
     copybtn[1].classList.add("active");
     await btnReset();
-    // await removeAutoCopy();
+    await removeAutoCopy();
     // await onecopy();
   });
 }
