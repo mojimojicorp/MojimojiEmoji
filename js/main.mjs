@@ -68,8 +68,6 @@ function makeEmojiList() {
 function afterRendering() {
   Util.includeJS("../js/settings/settings.js");
 
-  Util.includeJS("../js/onecopy.js");
-
   Util.includeJS("../js/getEmoji.js");
   Util.includeJS("../js/skintone.js");
 
