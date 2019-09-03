@@ -1,8 +1,10 @@
-document.getElementById("searchInput").addEventListener("change", function() {
-  var input = document.getElementById("searchInput");
-  var filter = input.value.toUpperCase();
+import Doc from "./service/doc.mjs";
 
-  var list = document.getElementsByClassName("emoji-span");
+Doc.find("#searchInput").addEventListener("change", () => {
+  const input = Doc.find("#searchInput");
+  const filter = input.value.toUpperCase();
+
+  let list = Doc.findAll(".emoji-span");
 
   for (var i = 0; i < list.length; i++) {
     var txtValue = list[i].getAttribute("title");
