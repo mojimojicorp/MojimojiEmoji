@@ -1,3 +1,5 @@
+import copyBtn from "./copy/copyBtn.mjs";
+
 function copy() {
   const list = document.querySelectorAll(
     ".group .emoji-span-container .emoji-span"
@@ -21,15 +23,6 @@ new Clipboard(btn, {
 });
 
 btn.addEventListener("click", copyBtn);
-
-function copyBtn() {
-  const btn = document.getElementById("copy_btn");
-  btn.style.opacity = "0.5";
-  setTimeout(function() {
-    btn.style.opacity = "1.0";
-    btn.value = "coped!";
-  }, 200);
-}
 
 const reset = document.getElementById("reset_btn");
 reset.addEventListener(

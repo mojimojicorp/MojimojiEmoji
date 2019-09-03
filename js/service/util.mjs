@@ -1,12 +1,13 @@
 const Util = {
-    includeJS: (jsFilePath) => {
-        const js = document.createElement('script');
+  includeJS: jsFilePath => {
+    const js = document.createElement("script");
 
-        js.type = 'text/javascript';
-        js.src = jsFilePath;
+    //js.type = 'text/javascript';
+    js.type = "module";
+    js.src = jsFilePath;
 
-        document.body.appendChild(js);
-    },
+    document.body.appendChild(js);
+  }
 };
 
 export default Util;

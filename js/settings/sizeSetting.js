@@ -1,5 +1,6 @@
 import Doc from "../service/doc.mjs";
 import { sizeSetting } from "./localVariable.mjs";
+import setGrid from "../setGrid.mjs";
 
 const sizeBtns = Doc.findAll(".sizeBtn");
 
@@ -12,15 +13,12 @@ function setCss() {
   switch (sizeSetting) {
     case "small":
       sizeBtns[0].classList.add("active");
-      setGrid(15);
       break;
     case "normal":
       sizeBtns[1].classList.add("active");
-      setGrid(10);
       break;
     case "big":
       sizeBtns[2].classList.add("active");
-      setGrid(5);
       break;
   }
 }
@@ -52,38 +50,6 @@ function addSizeEvent() {
     sizeBtns[2].classList.add("active");
     setGrid(5);
   });
-}
-
-function setGrid(gridSize) {
-  let groups = document.getElementsByClassName("emoji-span-container");
-
-  let spanHeight, imgHeight;
-  switch (gridSize) {
-    case 5:
-      spanHeight = "80px";
-      imgHeight = "60px";
-      break;
-
-    case 10:
-      spanHeight = "40px";
-      imgHeight = "30px";
-      break;
-
-    case 15:
-      spanHeight = "20px";
-      imgHeight = "15px";
-      break;
-  }
-  for (let item of groups) {
-    $(item).css("grid-template-columns", `repeat(${gridSize}, 1fr)`);
-    $(item)
-      .children()
-      .css("height", spanHeight);
-    $(item)
-      .children()
-      .children()
-      .css("height", imgHeight);
-  }
 }
 
 export default setSizeBtn;

@@ -1,23 +1,48 @@
-// emoji.json 파일 불러오기
-$.getJSON("../emoji.json", async function(emoji) {
-  // recent span-container에 emoji 불러오기
-  await getRecent();
+import Doc from "./service/doc.mjs";
+import setGrid from "./setGrid.mjs";
+import { sizeSetting } from "./settings/localVariable.mjs";
 
-  let groups = document.getElementsByClassName("emoji-span-container");
+$.getJSON("../emoji.json", data => {
+  // emoji data
+  const EMOJI = data;
 
-  // emoji-span-container에 emoji 불러오기
-  await attachEmoji(emoji, groups);
-  // 각 emoji마다 eventlistener 추가
-  await copy();
-
-  if (localStorage.getItem("copy") == "auto") {
-    await autocopy();
-  }
+  const groups = Doc.findAll(".emoji-span-container");
+  attachEmoji(EMOJI, groups);
+  setSize(groups);
 });
+
+function setSize(groups) {
+  switch (sizeSetting) {
+    case "small":
+      setGrid(15, groups);
+      break;
+    case "normal":
+      setGrid(10, groups);
+      break;
+    case "big":
+      setGrid(5, groups);
+      break;
+  }
+}
+// $.getJSON("../emoji.json", async function(emoji) {
+//   // recent span-container에 emoji 불러오기
+//   await getRecent();
+
+//   let groups = document.getElementsByClassName("emoji-span-container");
+
+//   // emoji-span-container에 emoji 불러오기
+//   await attachEmoji(emoji, groups);
+//   // 각 emoji마다 eventlistener 추가
+//   await copy();
+
+//   if (localStorage.getItem("copy") == "auto") {
+//     await autocopy();
+//   }
+// });
 
 function attachEmoji(emoji, groups) {
   emoji.forEach(function(data) {
-    let span = document.createElement("span");
+    let span = Doc.create("span");
     span.setAttribute("class", "emoji-span");
     span.setAttribute("title", data.name);
     span.textContent = data.char;
