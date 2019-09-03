@@ -1,13 +1,10 @@
 import Doc from "../service/doc.mjs";
 import autocopied from "./autocopied.mjs";
-//import renderRecent from "../recent/renderRecent.mjs";
 
 const enhancedElements2 = [];
 const clipboard = [];
 
 function autocopy() {
-  //   renderRecent("autocopy");
-
   const list = Doc.findAll(".group .emoji-span-container .emoji-span");
 
   list.forEach(element => {

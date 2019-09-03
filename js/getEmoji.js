@@ -1,15 +1,16 @@
 import Doc from "./service/doc.mjs";
 import setGrid from "./setGrid.mjs";
+import autocopy from "./copy/autocopy.mjs";
 import copyEvent from "./copy/copyEvent.mjs";
 import renderRecent from "./recent/renderRecent.mjs";
 import { sizeSetting, copySetting } from "./settings/localVariable.mjs";
-import autocopy from "./copy/autocopy.mjs";
 
-$.getJSON("../emoji.json", data => {
+$.getJSON("../emoji.json", async data => {
   // emoji data
   const EMOJI = data;
 
   const groups = Doc.findAll(".emoji-span-container");
+
   attachEmoji(EMOJI, groups);
   setSize(groups);
 
@@ -23,34 +24,19 @@ $.getJSON("../emoji.json", data => {
   }
 });
 
-function setSize(groups) {
+function setSize() {
   switch (sizeSetting) {
     case "small":
-      setGrid(15, groups);
+      setGrid(15);
       break;
     case "normal":
-      setGrid(10, groups);
+      setGrid(10);
       break;
     case "big":
-      setGrid(5, groups);
+      setGrid(5);
       break;
   }
 }
-// $.getJSON("../emoji.json", async function(emoji) {
-//   // recent span-container에 emoji 불러오기
-//   await getRecent();
-
-//   let groups = document.getElementsByClassName("emoji-span-container");
-
-//   // emoji-span-container에 emoji 불러오기
-//   await attachEmoji(emoji, groups);
-//   // 각 emoji마다 eventlistener 추가
-//   await copy();
-
-//   if (localStorage.getItem("copy") == "auto") {
-//     await autocopy();
-//   }
-// });
 
 function attachEmoji(emoji, groups) {
   emoji.forEach(function(data) {

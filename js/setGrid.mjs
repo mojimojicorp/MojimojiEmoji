@@ -1,3 +1,5 @@
+import Doc from "./service/doc.mjs";
+
 const SPAN_SMALL = "20px;";
 const SPAN_NORMAL = "40px";
 const SPAN_BIG = "80px";
@@ -6,7 +8,7 @@ const IMG_SMALL = "15px";
 const IMG_NORMAL = "30px";
 const IMG_BIG = "60px";
 
-function setGrid(gridSize, groups) {
+function setGrid(gridSize) {
   let spanHeight, imgHeight;
 
   switch (gridSize) {
@@ -26,6 +28,7 @@ function setGrid(gridSize, groups) {
       break;
   }
 
+  const groups = Doc.findAll(".emoji-span-container");
   for (let item of groups) {
     $(item).css("grid-template-columns", `repeat(${gridSize}, 1fr)`);
     $(item)

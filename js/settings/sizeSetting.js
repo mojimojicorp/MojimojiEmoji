@@ -3,7 +3,6 @@ import { sizeSetting } from "./localVariable.mjs";
 import setGrid from "../setGrid.mjs";
 
 const sizeBtns = Doc.findAll(".sizeBtn");
-const groups = Doc.findAll(".emoji-span-container");
 
 function setSizeBtn() {
   setCss();
@@ -28,28 +27,37 @@ function addSizeEvent() {
   sizeBtns[0].addEventListener("click", () => {
     localStorage.setItem("emojiSize", "small");
 
+    // 버튼 css 변경
     sizeBtns[0].classList.add("active");
     sizeBtns[1].classList.remove("active");
     sizeBtns[2].classList.remove("active");
-    setGrid(15, groups);
+
+    // emoji size 조정
+    setGrid(15);
   });
 
   sizeBtns[1].addEventListener("click", () => {
     localStorage.setItem("emojiSize", "normal");
 
+    // 버튼 css 변경
     sizeBtns[0].classList.remove("active");
     sizeBtns[1].classList.add("active");
     sizeBtns[2].classList.remove("active");
-    setGrid(10, groups);
+
+    // emoji size 조정
+    setGrid(10);
   });
 
   sizeBtns[2].addEventListener("click", () => {
     localStorage.setItem("emojiSize", "big");
 
+    // 버튼 css 변경
     sizeBtns[0].classList.remove("active");
     sizeBtns[1].classList.remove("active");
     sizeBtns[2].classList.add("active");
-    setGrid(5, groups);
+
+    // emoji size 조정
+    setGrid(5);
   });
 }
 
