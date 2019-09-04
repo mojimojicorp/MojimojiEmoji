@@ -1,12 +1,11 @@
+import Doc from "../service/doc.mjs";
+import autocopied from "./autocopied.mjs";
+
 const enhancedElements2 = [];
 const clipboard = [];
 
 function autocopy() {
-  getRecent("autocopy");
-
-  const list = document.querySelectorAll(
-    ".group .emoji-span-container .emoji-span"
-  );
+  const list = Doc.findAll(".group .emoji-span-container .emoji-span");
 
   list.forEach(element => {
     clipboard.push(
@@ -33,22 +32,4 @@ function autocopy() {
   });
 }
 
-function removeAutoCopy() {
-  enhancedElements2.forEach(ee => {
-    ee.element.removeEventListener("click", ee.autocopied);
-  });
-
-  clipboard.forEach(element => {
-    element.destroy();
-  });
-}
-
-async function autocopied(element) {
-  let img = element.querySelectorAll(".emoji")[0];
-  let name = img.parentElement.getAttribute("title");
-  let char = img.alt;
-  await store(name, char);
-  getRecent("autocopy");
-
-  copyBtn();
-}
+export default autocopy;

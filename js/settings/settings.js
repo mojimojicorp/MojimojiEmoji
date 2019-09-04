@@ -1,3 +1,4 @@
+// setting 버튼에 eventlistener 추가
 let settingBtn = document.querySelector(".setting");
 settingBtn.addEventListener("click", () => {
   let emojiContainer = document.querySelector(".emoji-container");
@@ -9,6 +10,7 @@ settingBtn.addEventListener("click", () => {
   div.setAttribute("style", "display: block;");
 });
 
+// goback 버튼에 eventlistener 추가
 let goback = document.querySelector(".goback");
 goback.addEventListener("click", () => {
   let emojiContainer = document.querySelector(".emoji-container");
@@ -20,8 +22,9 @@ goback.addEventListener("click", () => {
   div.setAttribute("style", "display: none;");
 });
 
-let githublink = document.querySelector(".fa-github");
-githublink.addEventListener("click", () => {
+// github아이콘에 eventlistener 추가
+let githubIcon = document.querySelector(".fa-github");
+githubIcon.addEventListener("click", () => {
   whale.tabs.create({
     url: "https://github.com/soyoungjeong/EmojiByEternal"
   });
