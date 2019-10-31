@@ -5,6 +5,7 @@ const recentBtns = Doc.findAll(".recentBtn");
 
 function setRecentBtn() {
   setCss();
+  addRecentEvent();
 }
 
 function setCss() {
