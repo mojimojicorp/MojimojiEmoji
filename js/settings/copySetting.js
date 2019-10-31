@@ -1,10 +1,10 @@
 import Doc from "../service/doc.mjs";
-import { copySetting } from "./localVariable.mjs";
 import removeAutoCopy from "../copy/removeAutoCopy.mjs";
 import autocopy from "../copy/autocopy.mjs";
 import onecopy from "../copy/onecopy.mjs";
 
 const copybtn = Doc.findAll(".autocopyBtn");
+var copySetting = localStorage.getItem("copy");
 
 function setCopyBtn() {
   setCss();

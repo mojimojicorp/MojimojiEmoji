@@ -3,7 +3,9 @@ import setGrid from "./setGrid.mjs";
 import autocopy from "./copy/autocopy.mjs";
 import copyEvent from "./copy/copyEvent.mjs";
 import renderRecent from "./recent/renderRecent.mjs";
-import { sizeSetting, copySetting } from "./settings/localVariable.mjs";
+
+let sizeSetting = localStorage.getItem("emojiSize");
+let copySetting = localStorage.getItem("copy");
 
 $.getJSON("../emoji.json", async data => {
   // emoji data

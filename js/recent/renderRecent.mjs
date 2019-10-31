@@ -1,8 +1,10 @@
 import Doc from "../service/doc.mjs";
 import copyBtn from "../copy/copyBtn.mjs";
-import { recentSetting, sizeSetting } from "../settings/localVariable.mjs";
 
-function renderRecent(status) {
+let recentSetting = localStorage.getItem("recentNum");
+let sizeSetting = localStorage.getItem("emojiSize");
+
+function renderRecent() {
   const groups = Doc.findAll(".emoji-span-container");
   let recentGroup = groups[0];
 
@@ -10,6 +12,8 @@ function renderRecent(status) {
   recentGroup.textContent = "";
 
   const recent = JSON.parse(localStorage.getItem("recent"));
+  recentSetting = localStorage.getItem("recentNum");
+
   if (recent !== null) {
     // recentSetting보다 길이가 길면 잘라서 localstorage에 저장
     if (recent.length > recentSetting) {
@@ -46,6 +50,7 @@ function renderRecent(status) {
   addRecentEvent(list);
 }
 
+// Recent size setting
 function setRecentSize(span) {
   switch (sizeSetting) {
     case "small":

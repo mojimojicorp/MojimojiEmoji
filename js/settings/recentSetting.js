@@ -1,7 +1,8 @@
 import Doc from "../service/doc.mjs";
-import { recentSetting } from "./localVariable.mjs";
+import renderRecent from "../recent/renderRecent.mjs";
 
 const recentBtns = Doc.findAll(".recentBtn");
+let recentSetting = localStorage.getItem("recentNum");
 
 function setRecentBtn() {
   setCss();
@@ -33,7 +34,10 @@ function addRecentEvent() {
     recentBtns[1].classList.remove("active");
     recentBtns[2].classList.remove("active");
     recentBtns[3].classList.remove("active");
-    //getRecent();
+
+    // recent 변경
+    localStorage.removeItem("recent");
+    renderRecent();
   });
 
   recentBtns[1].addEventListener("click", () => {
@@ -43,7 +47,8 @@ function addRecentEvent() {
     recentBtns[1].classList.add("active");
     recentBtns[2].classList.remove("active");
     recentBtns[3].classList.remove("active");
-    //getRecent();
+
+    // recent 변경
   });
 
   recentBtns[2].addEventListener("click", () => {
@@ -53,7 +58,8 @@ function addRecentEvent() {
     recentBtns[1].classList.remove("active");
     recentBtns[2].classList.add("active");
     recentBtns[3].classList.remove("active");
-    //getRecent();
+
+    // recent 변경
   });
 
   recentBtns[3].addEventListener("click", () => {
@@ -63,7 +69,8 @@ function addRecentEvent() {
     recentBtns[1].classList.remove("active");
     recentBtns[2].classList.remove("active");
     recentBtns[3].classList.add("active");
-    //getRecent();
+
+    // recent 변경
   });
 }
 

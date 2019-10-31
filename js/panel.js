@@ -1,5 +1,6 @@
 import Doc from "./service/doc.mjs";
-import { windowState } from "./settings/localVariable.mjs";
+
+let windowState = localStorage.getItem("windowState");
 
 switch (windowState) {
   case "popup":

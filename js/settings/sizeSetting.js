@@ -1,8 +1,8 @@
 import Doc from "../service/doc.mjs";
-import { sizeSetting } from "./localVariable.mjs";
 import setGrid from "../setGrid.mjs";
 
 const sizeBtns = Doc.findAll(".sizeBtn");
+let sizeSetting = localStorage.getItem("emojiSize");
 
 function setSizeBtn() {
   setCss();

@@ -1,7 +1,7 @@
 import Doc from "../service/doc.mjs";
-import { windowSetting } from "./localVariable.mjs";
 
 const PanelBtns = Doc.findAll(".panelBtn");
+let windowSetting = localStorage.getItem("windowSetting");
 
 function setPanelBtn() {
   setCss();
