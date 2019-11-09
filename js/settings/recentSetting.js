@@ -2,7 +2,6 @@ import Doc from "../service/doc.mjs";
 import renderRecent from "../recent/renderRecent.mjs";
 
 const recentBtns = Doc.findAll(".recentBtn");
-let recentSetting = localStorage.getItem("recentNum");
 
 function setRecentBtn() {
   setCss();
@@ -10,6 +9,7 @@ function setRecentBtn() {
 }
 
 function setCss() {
+  const recentSetting = localStorage.getItem("recentNum");
   switch (recentSetting) {
     case "0":
       recentBtns[0].classList.add("active");
