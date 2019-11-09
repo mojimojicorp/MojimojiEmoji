@@ -1,35 +1,35 @@
-import Doc from "../service/doc.mjs";
-import autocopied from "./autocopied.mjs";
+import Doc from '../service/doc.mjs';
+import autocopied from './autocopied.mjs';
 
 const enhancedElements2 = [];
 const clipboard = [];
 
 function autocopy() {
-  const list = Doc.findAll(".group .emoji-span-container .emoji-span");
+    const list = Doc.findAll('.group .emoji-span-container .emoji-span');
 
-  list.forEach(element => {
-    clipboard.push(
-      new Clipboard(element, {
-        text: function() {
-          const content = document.getElementById("copy_group");
-          return content.value;
-        }
-      })
-    );
-  });
-
-  list.forEach(element => {
-    enhancedElements2.push({
-      element,
-      autocopied() {
-        autocopied(element);
-      }
+    list.forEach((element) => {
+        clipboard.push(
+            new Clipboard(element, {
+                text() {
+                    const content = document.getElementById('copy_group');
+                    return content.value;
+                },
+            }),
+        );
     });
-  });
 
-  enhancedElements2.forEach(ee => {
-    ee.element.addEventListener("click", ee.autocopied);
-  });
+    list.forEach((element) => {
+        enhancedElements2.push({
+            element,
+            autocopied() {
+                autocopied(element);
+            },
+        });
+    });
+
+    enhancedElements2.forEach((ee) => {
+        ee.element.addEventListener('click', ee.autocopied);
+    });
 }
 
-export default autocopy;
+export { autocopy, enhancedElements2, clipboard };

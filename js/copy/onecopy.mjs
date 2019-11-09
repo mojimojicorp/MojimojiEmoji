@@ -1,29 +1,31 @@
-import Doc from "../service/doc.mjs";
-import copied from "./copied.mjs";
+import Doc from '../service/doc.mjs';
+import copied from './copied.mjs';
+
+const enhancedElements1 = [];
 
 function onecopy() {
-  //getRecent("onecopy");
+    // getRecent("onecopy");
 
-  const list = Doc.findAll(".group .emoji-span-container .emoji-span");
+    const list = Doc.findAll('.group .emoji-span-container .emoji-span');
 
-  list.forEach(element => {
-    new Clipboard(element, {
-      text: function() {}
+    list.forEach((element) => {
+        new Clipboard(element, {
+            text() {},
+        });
     });
-  });
 
-  list.forEach(element => {
-    enhancedElements2.push({
-      element,
-      copied() {
-        copied(element);
-      }
+    list.forEach((element) => {
+        enhancedElements1.push({
+            element,
+            copied() {
+                copied(element);
+            },
+        });
     });
-  });
 
-  enhancedElements2.forEach(ee => {
-    ee.element.addEventListener("click", ee.copied);
-  });
+    enhancedElements1.forEach((ee) => {
+        ee.element.addEventListener('click', ee.copied);
+    });
 }
 
-export default onecopy;
+export { onecopy, enhancedElements1 };

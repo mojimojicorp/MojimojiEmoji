@@ -1,7 +1,9 @@
+import { onecopy, enhancedElements1 } from './onecopy.mjs';
+
 function removeCopy() {
-  enhancedElements2.forEach(ee => {
-    ee.element.removeEventListener("click", ee.copied);
-  });
+    enhancedElements1.forEach((ee) => {
+        ee.element.removeEventListener('click', ee.copied);
+    });
 }
 
 export default removeCopy;
