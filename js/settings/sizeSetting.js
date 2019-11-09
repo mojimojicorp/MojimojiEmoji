@@ -2,7 +2,6 @@ import Doc from "../service/doc.mjs";
 import setGrid from "../setGrid.mjs";
 
 const sizeBtns = Doc.findAll(".sizeBtn");
-let sizeSetting = localStorage.getItem("emojiSize");
 
 function setSizeBtn() {
   setCss();
@@ -10,6 +9,7 @@ function setSizeBtn() {
 }
 
 function setCss() {
+  const sizeSetting = localStorage.getItem("emojiSize");
   switch (sizeSetting) {
     case "small":
       sizeBtns[0].classList.add("active");
