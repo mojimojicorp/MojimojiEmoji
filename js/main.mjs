@@ -6,7 +6,6 @@ import firstSet from "./settings/local.mjs";
 import setCopyBtn from "./settings/copySetting.js";
 import setSizeBtn from "./settings/sizeSetting.js";
 import setRecentBtn from "./settings/recentSetting.js";
-import setPanelBtn from "./settings/panelSetting.js";
 
 function makeEmojiNav() {
   const emojiNav = Doc.find(".emoji-nav");
@@ -80,7 +79,6 @@ function setSetting() {
   setCopyBtn();
   setSizeBtn();
   setRecentBtn();
-  setPanelBtn();
 }
 
 makeEmojiNav();
