@@ -6,7 +6,6 @@ function firstSet() {
     localStorage.setItem("copy", "auto");
     localStorage.setItem("emojiSize", "normal");
     localStorage.setItem("recentNum", 20);
-    localStorage.setItem("windowSetting", "popup");
     localStorage.setItem("windowState", "popup");
   }
 }
