@@ -4,7 +4,6 @@ import autocopy from "../copy/autocopy.mjs";
 import onecopy from "../copy/onecopy.mjs";
 
 const copybtn = Doc.findAll(".autocopyBtn");
-var copySetting = localStorage.getItem("copy");
 
 function setCopyBtn() {
   setCss();
@@ -12,6 +11,7 @@ function setCopyBtn() {
 }
 
 function setCss() {
+  const copySetting = localStorage.getItem("copy");
   switch (copySetting) {
     case "auto":
       copybtn[0].classList.add("active");
