@@ -26,3 +26,24 @@ function toPanel() {
 
   window.close();
 }
+
+// window.close() event
+window.onbeforeunload = function(event) {
+  if (typeof event == "undefined") {
+    event = window.event;
+  }
+  if (event && windowState == "panel") {
+    localStorage.setItem("windowState", "popup");
+  }
+};
+
+$(function() {
+  $("a")
+    .not("#lnkLogOut")
+    .click(function() {
+      window.onbeforeunload = null;
+    });
+  $(".btn").click(function() {
+    window.onbeforeunload = null;
+  });
+});
