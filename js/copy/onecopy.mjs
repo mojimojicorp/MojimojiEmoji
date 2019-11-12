@@ -1,5 +1,6 @@
 import Doc from "../service/doc.mjs";
 import copied from "./copied.mjs";
+import renderRecent from "../recent/renderRecent.mjs";
 
 const enhancedElements1 = [];
 
@@ -26,6 +27,8 @@ function onecopy() {
   enhancedElements1.forEach(ee => {
     ee.element.addEventListener("click", ee.copied);
   });
+
+  renderRecent("onecopy");
 }
 
 export { onecopy, enhancedElements1 };
