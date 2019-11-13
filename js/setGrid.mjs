@@ -8,21 +8,25 @@ const IMG_SMALL = "15px";
 const IMG_NORMAL = "30px";
 const IMG_BIG = "60px";
 
-function setGrid(gridSize) {
-  let spanHeight, imgHeight;
+function setGrid() {
+  const sizeSetting = localStorage.getItem("emojiSize");
+  let spanHeight, imgHeight, gridSize;
 
-  switch (gridSize) {
-    case 5:
+  switch (sizeSetting) {
+    case "big":
+      gridSize = 5;
       spanHeight = SPAN_BIG;
       imgHeight = IMG_BIG;
       break;
 
-    case 10:
+    case "normal":
+      gridSize = 10;
       spanHeight = SPAN_NORMAL;
       imgHeight = IMG_NORMAL;
       break;
 
-    case 15:
+    case "small":
+      gridSize = 15;
       spanHeight = SPAN_SMALL;
       imgHeight = IMG_SMALL;
       break;
@@ -38,6 +42,12 @@ function setGrid(gridSize) {
       .children()
       .children()
       .css("height", imgHeight);
+
+    console.log(
+      $(item)
+        .children()
+        .css("height")
+    );
   }
 }
 
