@@ -15,7 +15,7 @@ $.getJSON("../emoji.json", async data => {
   const groups = Doc.findAll(".emoji-span-container");
 
   attachEmoji(EMOJI, groups);
-  setSize(groups);
+  setGrid();
 
   renderRecent();
 
@@ -29,20 +29,6 @@ $.getJSON("../emoji.json", async data => {
   }
 });
 
-function setSize() {
-  switch (sizeSetting) {
-    case "small":
-      setGrid(15);
-      break;
-    case "normal":
-      setGrid(10);
-      break;
-    case "big":
-      setGrid(5);
-      break;
-  }
-}
-
 function attachEmoji(emoji, groups) {
   emoji.forEach(data => {
     let span = Doc.create("span");
@@ -53,7 +39,7 @@ function attachEmoji(emoji, groups) {
 
     if (data.category == "people") {
       if (data.name.includes("skin-tone")) {
-        let size = localStorage.getItem("emojiSize");
+        const size = localStorage.getItem("emojiSize");
         if (size == "small") {
           span.setAttribute("style", "height: 20px; display:none;");
         } else if (size == "normal") {

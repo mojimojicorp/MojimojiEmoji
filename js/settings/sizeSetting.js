@@ -33,7 +33,7 @@ function addSizeEvent() {
     sizeBtns[2].classList.remove("active");
 
     // emoji size 조정
-    setGrid(15);
+    setGrid();
   });
 
   sizeBtns[1].addEventListener("click", () => {
@@ -45,7 +45,7 @@ function addSizeEvent() {
     sizeBtns[2].classList.remove("active");
 
     // emoji size 조정
-    setGrid(10);
+    setGrid();
   });
 
   sizeBtns[2].addEventListener("click", () => {
@@ -57,7 +57,7 @@ function addSizeEvent() {
     sizeBtns[2].classList.add("active");
 
     // emoji size 조정
-    setGrid(5);
+    setGrid();
   });
 }
 
