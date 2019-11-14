@@ -1,6 +1,6 @@
 import Doc from "./service/doc.mjs";
 
-const SPAN_SMALL = "20px;";
+const SPAN_SMALL = "20px";
 const SPAN_NORMAL = "40px";
 const SPAN_BIG = "80px";
 
@@ -35,19 +35,14 @@ function setGrid() {
   const groups = Doc.findAll(".emoji-span-container");
   for (let item of groups) {
     $(item).css("grid-template-columns", `repeat(${gridSize}, 1fr)`);
-    $(item)
-      .children()
-      .css("height", spanHeight);
+
     $(item)
       .children()
       .children()
       .css("height", imgHeight);
-
-    console.log(
-      $(item)
-        .children()
-        .css("height")
-    );
+    $(item)
+      .children()
+      .css("height", spanHeight);
   }
 }
 
