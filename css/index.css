@@ -138,7 +138,7 @@ p {
   margin-bottom: 15px;
 }
 .group-title i {
-  margin-right: 5px;
+  margin-left: 5px;
   font-size: 14px;
 }
 
@@ -265,6 +265,7 @@ p {
   cursor: pointer;
   margin-left: 30px;
   margin-right: 20px;
+  vertical-align: middle;
 }
 
 .github span {
