@@ -1,9 +1,9 @@
 {
   "manifest_version": 2,
-  "name": "Emoji by Eternal",
+  "name": "모지모지 이모지",
   "version": "1.0.0",
 
-  "description": "Emoji keyboard extension for Whale",
+  "description": "모지모지 이모지로 컴퓨터에서도 쉽게 이모티콘을 입력해보세요!",
 
   "browser_action": {
     "default_popup": "popup/index.html",
