@@ -1,3 +1,6 @@
+*.ai
+*.zip
+
 # JPEG
 *.jpg
 *.jpeg

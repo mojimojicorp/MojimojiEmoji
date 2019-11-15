@@ -8,8 +8,8 @@
   "browser_action": {
     "default_popup": "popup/index.html",
     "default_icon": {
-      "16": "emoji.png",
-      "32": "emoji.png"
+      "16": "icon.png",
+      "32": "icon.png"
     }
   },
   "permissions": ["tabs"]
