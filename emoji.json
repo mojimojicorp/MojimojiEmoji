@@ -108,6 +108,48 @@
     "category": "people"
   },
   {
+    "codes": "1F911",
+    "char": "🤑",
+    "name": "money-mouth face",
+    "category": "people"
+  },
+  {
+    "codes": "1F917",
+    "char": "🤗",
+    "name": "hugging face",
+    "category": "people"
+  },
+  {
+    "codes": "1F92D",
+    "char": "🤭",
+    "name": "face with hand over mouth",
+    "category": "people"
+  },
+  {
+    "codes": "1F92B",
+    "char": "🤫",
+    "name": "shushing face",
+    "category": "people"
+  },
+  {
+    "codes": "1F914",
+    "char": "🤔",
+    "name": "thinking face",
+    "category": "people"
+  },
+  {
+    "codes": "1F910",
+    "char": "🤐",
+    "name": "zipper-mouth face",
+    "category": "people"
+  },
+  {
+    "codes": "1F928",
+    "char": "🤨",
+    "name": "face with raised eyebrow",
+    "category": "people"
+  },
+  {
     "codes": "1F610",
     "char": "😐",
     "name": "neutral face",
@@ -1662,6 +1704,78 @@
     "name": "police officer: dark-skin-tone",
     "category": "people"
   },
+  {
+    "codes": "1F468 200D 1F4BB",
+    "char": "👨‍💻",
+    "name": "man technologist",
+    "category": "people"
+  },
+  {
+    "codes": "1F468 1F3FB 200D 1F4BB",
+    "char": "👨🏻‍💻",
+    "name": "man technologist: light-skin-tone",
+    "category": "people"
+  },
+  {
+    "codes": "1F468 1F3FC 200D 1F4BB",
+    "char": "👨🏼‍💻",
+    "name": "man technologist: medium-light-skin-tone",
+    "category": "people"
+  },
+  {
+    "codes": "1F468 1F3FD 200D 1F4BB",
+    "char": "👨🏽‍💻",
+    "name": "man technologist: medium skin tone",
+    "category": "people"
+  },
+  {
+    "codes": "1F468 1F3FE 200D 1F4BB",
+    "char": "👨🏾‍💻",
+    "name": "man technologist: medium-dark-skin-tone",
+    "category": "people"
+  },
+  {
+    "codes": "1F468 1F3FF 200D 1F4BB",
+    "char": "👨🏿‍💻",
+    "name": "man technologist: dark-skin-tone",
+    "category": "people"
+  },
+  {
+    "codes": "1F469 200D 1F4BB",
+    "char": "👩‍💻",
+    "name": "woman technologist",
+    "category": "people"
+  },
+  {
+    "codes": "1F469 1F3FB 200D 1F4BB",
+    "char": "👩🏻‍💻",
+    "name": "woman technologist: light-skin-tone",
+    "category": "people"
+  },
+  {
+    "codes": "1F469 1F3FC 200D 1F4BB",
+    "char": "👩🏼‍💻",
+    "name": "woman technologist: medium-light-skin-tone",
+    "category": "people"
+  },
+  {
+    "codes": "1F469 1F3FD 200D 1F4BB",
+    "char": "👩🏽‍💻",
+    "name": "woman technologist: medium-skin-tone",
+    "category": "people"
+  },
+  {
+    "codes": "1F469 1F3FE 200D 1F4BB",
+    "char": "👩🏾‍💻",
+    "name": "woman technologist: medium-dark-skin-tone",
+    "category": "people"
+  },
+  {
+    "codes": "1F469 1F3FF 200D 1F4BB",
+    "char": "👩🏿‍💻",
+    "name": "woman technologist: dark-skin-tone",
+    "category": "people"
+  },
   { "codes": "1F482", "char": "💂", "name": "guard", "category": "people" },
   {
     "codes": "1F482 1F3FB",
@@ -2775,20 +2889,20 @@
     "codes": "1F433",
     "char": "🐳",
     "name": "spouting whale",
-    "category": "Anature"
+    "category": "nature"
   },
-  { "codes": "1F40B", "char": "🐋", "name": "whale", "category": "Anature" },
-  { "codes": "1F42C", "char": "🐬", "name": "dolphin", "category": "Anature" },
-  { "codes": "1F41F", "char": "🐟", "name": "fish", "category": "Anature" },
+  { "codes": "1F40B", "char": "🐋", "name": "whale", "category": "nature" },
+  { "codes": "1F42C", "char": "🐬", "name": "dolphin", "category": "nature" },
+  { "codes": "1F41F", "char": "🐟", "name": "fish", "category": "nature" },
   {
     "codes": "1F420",
     "char": "🐠",
     "name": "tropical fish",
-    "category": "Anature"
+    "category": "nature"
   },
-  { "codes": "1F421", "char": "🐡", "name": "blowfish", "category": "Anature" },
-  { "codes": "1F988", "char": "🦈", "name": "shark", "category": "Anature" },
-  { "codes": "1F419", "char": "🐙", "name": "octopus", "category": "Anature" },
+  { "codes": "1F421", "char": "🐡", "name": "blowfish", "category": "nature" },
+  { "codes": "1F988", "char": "🦈", "name": "shark", "category": "nature" },
+  { "codes": "1F419", "char": "🐙", "name": "octopus", "category": "nature" },
   { "codes": "1F40C", "char": "🐌", "name": "snail", "category": "nature" },
   { "codes": "1F98B", "char": "🦋", "name": "butterfly", "category": "nature" },
   { "codes": "1F41B", "char": "🐛", "name": "bug", "category": "nature" },
@@ -3104,6 +3218,66 @@
     "category": "foodAndDrink"
   },
   {
+    "codes": "1F965",
+    "char": "🥥",
+    "name": "coconut",
+    "category": "foodAndDrink"
+  },
+  {
+    "codes": "1F951",
+    "char": "🥑",
+    "name": "avocado",
+    "category": "foodAndDrink"
+  },
+  {
+    "codes": "1F954",
+    "char": "🥔",
+    "name": "potato",
+    "category": "foodAndDrink"
+  },
+  {
+    "codes": "1F955",
+    "char": "🥕",
+    "name": "carrot",
+    "category": "foodAndDrink"
+  },
+  {
+    "codes": "1F336 FE0F",
+    "char": "🌶️",
+    "name": "hot pepper",
+    "category": "foodAndDrink"
+  },
+  {
+    "codes": "1F952",
+    "char": "🥒",
+    "name": "cucumber",
+    "category": "foodAndDrink"
+  },
+  {
+    "codes": "1F96C",
+    "char": "🥬",
+    "name": "leafy green",
+    "category": "foodAndDrink"
+  },
+  {
+    "codes": "1F966",
+    "char": "🥦",
+    "name": "broccoli",
+    "category": "foodAndDrink"
+  },
+  {
+    "codes": "1F9C4",
+    "char": "🧄",
+    "name": "garlic",
+    "category": "foodAndDrink"
+  },
+  {
+    "codes": "1F9C5",
+    "char": "🧅",
+    "name": "onion",
+    "category": "foodAndDrink"
+  },
+  {
     "codes": "1F344",
     "char": "🍄",
     "name": "mushroom",
@@ -3242,6 +3416,36 @@
     "category": "foodAndDrink"
   },
   {
+    "codes": "1F980",
+    "char": "🦀",
+    "name": "crab",
+    "category": "foodAndDrink"
+  },
+  {
+    "codes": "1F99E",
+    "char": "🦞",
+    "name": "lobster",
+    "category": "foodAndDrink"
+  },
+  {
+    "codes": "1F990",
+    "char": "🦐",
+    "name": "shrimp",
+    "category": "foodAndDrink"
+  },
+  {
+    "codes": "1F991",
+    "char": "🦑",
+    "name": "squid",
+    "category": "foodAndDrink"
+  },
+  {
+    "codes": "1F9AA",
+    "char": "🦪",
+    "name": "oyster",
+    "category": "foodAndDrink"
+  },
+  {
     "codes": "1F361",
     "char": "🍡",
     "name": "dango",
@@ -3265,6 +3469,13 @@
     "name": "ice cream",
     "category": "foodAndDrink"
   },
+  {
+    "codes": "1F9C1",
+    "char": "🧁",
+    "name": "cupcake",
+    "category": "foodAndDrink"
+  },
+  { "codes": "1F967", "char": "🥧", "name": "pie", "category": "foodAndDrink" },
   {
     "codes": "1F369",
     "char": "🍩",
@@ -3374,6 +3585,72 @@
     "category": "foodAndDrink"
   },
   {
+    "codes": "1F95B",
+    "char": "🥛",
+    "name": "glass of milk",
+    "category": "foodAndDrink"
+  },
+  {
+    "codes": "1F37E",
+    "char": "🍾",
+    "name": "bottle with popping cork",
+    "category": "foodAndDrink"
+  },
+  {
+    "codes": "1F942",
+    "char": "🥂",
+    "name": "clinking glasses",
+    "category": "foodAndDrink"
+  },
+  {
+    "codes": "1F943",
+    "char": "🥃",
+    "name": "tumbler glass",
+    "category": "foodAndDrink"
+  },
+  {
+    "codes": "1F964",
+    "char": "🥤",
+    "name": "cup with straw",
+    "category": "foodAndDrink"
+  },
+  {
+    "codes": "1F9C3",
+    "char": "🧃",
+    "name": "beverage box",
+    "category": "foodAndDrink"
+  },
+  {
+    "codes": "1F9C9",
+    "char": "🧉",
+    "name": "mate",
+    "category": "foodAndDrink"
+  },
+  {
+    "codes": "1F9CA",
+    "char": "🧊",
+    "name": "ice cube",
+    "category": "foodAndDrink"
+  },
+  {
+    "codes": "1F962",
+    "char": "🥢",
+    "name": "chopsticks",
+    "category": "foodAndDrink"
+  },
+  {
+    "codes": "1F37D FE0F",
+    "char": "🍽️",
+    "name": "fork and knife with plate",
+    "category": "foodAndDrink"
+  },
+  {
+    "codes": "1F944",
+    "char": "🥄",
+    "name": "spoon",
+    "category": "foodAndDrink"
+  },
+  {
     "codes": "1F374",
     "char": "🍴",
     "name": "fork and knife",
@@ -3385,6 +3662,7 @@
     "name": "kitchen knife",
     "category": "foodAndDrink"
   },
+
   {
     "codes": "1F383",
     "char": "🎃",
@@ -3539,7 +3817,43 @@
     "name": "game die",
     "category": "activity"
   },
-  { "codes": "1F0CF", "char": "🃏", "name": "joker", "category": "activity" },
+  {
+    "codes": "2666 FE0F",
+    "char": "♦️",
+    "name": "diamond suit",
+    "category": "activity"
+  },
+  {
+    "codes": "2663 FE0F",
+    "char": "♣️",
+    "name": "club suit",
+    "category": "activity"
+  },
+  {
+    "codes": "265F FE0F",
+    "char": "♟️",
+    "name": "chess pawn",
+    "category": "activity"
+  },
+  {
+    "codes": "1F5BC FE0F",
+    "char": "🖼️",
+    "name": "framed picture",
+    "category": "activity"
+  },
+  {
+    "codes": "1F9F5",
+    "char": "🧵",
+    "name": "thread",
+    "category": "activity"
+  },
+  {
+    "codes": "1F9F6",
+    "char": "🧶",
+    "name": "yarn",
+    "category": "activity"
+  },
+
   {
     "codes": "1F004",
     "char": "🀄",
