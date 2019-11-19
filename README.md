@@ -16,7 +16,7 @@ Extension application for whale browser.
 v.1.0.1 Update
 
 - 누락된 이모티콘 추가 (표정, 동물-어류, 도구)
-
+- 오타 수정
 ```
 
 ## 👾Getting Started

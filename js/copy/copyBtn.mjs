@@ -5,7 +5,7 @@ function copyBtn() {
   btn.style.opacity = "0.5";
   setTimeout(function() {
     btn.style.opacity = "1.0";
-    btn.value = "coped!";
+    btn.value = "copied!";
   }, 200);
 }
 
