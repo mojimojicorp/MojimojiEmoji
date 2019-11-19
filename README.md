@@ -3,9 +3,7 @@
 <center>
 <img src="https://user-images.githubusercontent.com/30452963/69117857-76298b00-0ad4-11ea-9243-17ad4805c9eb.png" width="250" height="250"><br></br>
 
-<img src="https://img.shields.io/badge/language-javascript-red.svg">
-<img src="https://img.shields.io/badge/version-1.0.0-orange">
-<img src="https://img.shields.io/badge/license-MIT-green"><br></br>
+<img src="https://img.shields.io/badge/language-javascript-red.svg"><img src="https://img.shields.io/badge/version-1.0.0-orange"><img src="https://img.shields.io/badge/license-MIT-green"><br></br>
 
 Extension application for whale browser.  
 클릭 한 번으로 간편하게 이모티콘을 복사+붙여넣기 할 수 있는 확장앱입니다.
@@ -15,8 +13,6 @@ Extension application for whale browser.
 </center>
 
 ## 👾Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 ### Prerequisites
 
