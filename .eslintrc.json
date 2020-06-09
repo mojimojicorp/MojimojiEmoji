@@ -3,13 +3,17 @@
         "airbnb-base", 
         "prettier", 
         "plugin:import/errors",
-        "plugin:import/warnings"
+        "plugin:import/warnings",
+        "eslint:recommended"
     ],
     "plugins": ["prettier", "import"],
     "rules": {
         "indent": ["error", 2],
         "semi": ["error", "always"],
-        "quotes": ["error", "single"]
+        "quotes": ["error", "single"],
+        "no-console": ["error", { "allow": ["warn", "error"] }],
+        "default-case": 0,
+        "no-array-constructor": 0
     },
     "env": {
         "browser": true,
