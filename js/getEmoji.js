@@ -8,7 +8,7 @@ import renderRecent from './recent/renderRecent.mjs';
 
 const copySetting = localStorage.getItem('copy');
 
-// get JSON with using pure javascript
+// Emoji JSON파일 불러오기
 const getJSON = (path, success, error) => {
   const xhr = new XMLHttpRequest();
   xhr.onreadystatechange = () => {
@@ -86,24 +86,3 @@ getJSON(
     console.error(xhr);
   }
 );
-
-// $.getJSON('../emoji.json', async (data) => {
-//   // emoji data
-//   const EMOJI = data;
-
-//   const groups = Doc.findAll('.emoji-span-container');
-
-//   attachEmoji(EMOJI, groups);
-//   setGrid();
-
-//   renderRecent();
-
-//   // 각 emoji마다 eventlistener 추가 & copy 버튼, reset 버튼 eventlistener 추가
-//   copyEvent();
-
-//   if (copySetting == 'auto') {
-//     autocopy();
-//   } else if (copySetting == 'manual') {
-//     onecopy();
-//   }
-// });
