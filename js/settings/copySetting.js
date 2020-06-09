@@ -1,53 +1,55 @@
+/* eslint-disable import/extensions */
 import Doc from '../service/doc.mjs';
 import removeAutoCopy from '../copy/removeAutoCopy.mjs';
-import { autocopy, enhancedElements2, clipboard } from '../copy/autocopy.mjs';
-import { onecopy, enhancedElements1 } from '../copy/onecopy.mjs';
+import { autocopy } from '../copy/autocopy.mjs';
+import { onecopy } from '../copy/onecopy.mjs';
 import removeCopy from '../copy/removeCopy.mjs';
 
-const copybtn = Doc.findAll('.autocopyBtn');
+const copyBtn = Doc.findAll('.autocopyBtn');
+console.log(copyBtn);
 
-function setCopyBtn() {
-    setCss();
-    addCopyEvent();
+function btnReset() {
+  const btn = document.getElementById('copy_btn');
+  btn.value = 'copy!';
 }
 
 function setCss() {
-    const copySetting = localStorage.getItem('copy');
-    switch (copySetting) {
+  const copySetting = localStorage.getItem('copy');
+  switch (copySetting) {
     case 'auto':
-        copybtn[0].classList.add('active');
-        break;
+      copyBtn[0].classList.add('active');
+      break;
     case 'manual':
-        copybtn[1].classList.add('active');
-        break;
-    }
+      copyBtn[1].classList.add('active');
+      break;
+  }
 }
 
 function addCopyEvent() {
-    copybtn[0].addEventListener('click', async () => {
-        localStorage.setItem('copy', 'auto');
+  copyBtn[0].addEventListener('click', () => {
+    localStorage.setItem('copy', 'auto');
 
-        copybtn[0].classList.add('active');
-        copybtn[1].classList.remove('active');
-        await btnReset();
-        await removeCopy();
-        await autocopy();
-    });
+    copyBtn[0].classList.add('active');
+    copyBtn[1].classList.remove('active');
+    btnReset();
+    removeCopy();
+    autocopy();
+  });
 
-    copybtn[1].addEventListener('click', async () => {
-        localStorage.setItem('copy', 'manual');
+  copyBtn[1].addEventListener('click', () => {
+    localStorage.setItem('copy', 'manual');
 
-        copybtn[0].classList.remove('active');
-        copybtn[1].classList.add('active');
-        await btnReset();
-        await removeAutoCopy();
-        await onecopy();
-    });
+    copyBtn[0].classList.remove('active');
+    copyBtn[1].classList.add('active');
+    btnReset();
+    removeAutoCopy();
+    onecopy();
+  });
 }
 
-function btnReset() {
-    const btn = document.getElementById('copy_btn');
-    btn.value = 'copy!';
+function setCopyBtn() {
+  setCss();
+  addCopyEvent();
 }
 
 export default setCopyBtn;

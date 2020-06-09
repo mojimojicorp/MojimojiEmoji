@@ -1,24 +1,28 @@
 .header {
-    display: grid;
-    grid-template-columns: 300px 1fr 1fr;
-    justify-content: center;
-    align-items: center;
-    
-    height: 45px;
-    margin: 0px;
+  display: grid;
+  grid-template-columns: 300px 1fr 1fr;
+  justify-content: center;
+  align-items: center;
 
-    background-color: #f1c40f;
-    color: white;
-  }
+  height: 45px;
+  margin: 0px;
 
-  .grid-logo {
-    padding-left: 20px;
+  background-color: #f1c40f;
+  color: white;
+}
 
-    font-size: 20px;
-    font-weight: 600;
-  }
-  
-  .grid-panel,
-  .grid-setting {
-    padding-left: 10px;
-  }
+.grid-logo {
+  padding-left: 20px;
+
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.grid-panel,
+.grid-setting {
+  padding-left: 10px;
+}
+
+.panel {
+  cursor: pointer;
+}
