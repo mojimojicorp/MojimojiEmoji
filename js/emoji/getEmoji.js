@@ -1,9 +1,11 @@
 /* eslint-disable import/extensions */
+import Doc from '../service/doc.mjs';
 import GET from '../service/getJSON.mjs';
 
 import { attachEmoji } from './attachEmoji.mjs';
 import { setGrid } from '../setGrid.mjs';
 import { setSkintone } from './setSkintone.mjs';
+import { showEmoji } from './showEmoji.mjs';
 
 // import { autocopy } from '../copy/autocopy.mjs';
 // import { onecopy } from '../copy/onecopy.mjs';
@@ -16,6 +18,12 @@ GET('../json/emoji.json', (data) => {
   // emoji 출력
   attachEmoji(data);
   setSkintone();
+
+  // skintone 버튼에 eventlistener 추가
+  const colorBtns = Doc.findAll('.color');
+  colorBtns.forEach((btn) => {
+    showEmoji(btn);
+  });
 
   // 배열 조정
   setGrid();
