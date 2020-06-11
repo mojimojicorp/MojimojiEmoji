@@ -1,3 +1,4 @@
+/* eslint-disable import/extensions */
 import Doc from '../service/doc.mjs';
 import Cons from '../service/const.mjs';
 

@@ -91,6 +91,19 @@
   cursor: pointer;
 }
 
+.recent-group .emoji-span-container {
+  height: 40px;
+}
+
+.emoji-span button {
+  width: 36px;
+
+  border: none;
+  outline: none;
+  cursor: pointer;
+  background-color: transparent;
+}
+
 .group-title {
   margin-bottom: 15px;
   padding-left: 10px;

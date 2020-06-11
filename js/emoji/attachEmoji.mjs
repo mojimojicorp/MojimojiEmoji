@@ -1,3 +1,4 @@
+/* eslint-disable import/extensions */
 import Doc from '../service/doc.mjs';
 import Cons from '../service/const.mjs';
 import { renderEmoji } from './renderEmoji.mjs';
@@ -45,19 +46,19 @@ const attachEmoji = (emoji) => {
 
     // 초기설정: skintone을 포함한 이모티콘 숨기기
     if (data.codes.includes(Cons.SKINTONE_COLOR_LIST[0])) {
-      emojiItem.className = 'skin-tone light-skin-tone';
+      emojiItem.className = 'emoji-span skin-tone light-skin-tone';
       emojiItem.style.display = 'none';
     } else if (data.codes.includes(Cons.SKINTONE_COLOR_LIST[1])) {
-      emojiItem.className = 'skin-tone medium-light-skin-tone';
+      emojiItem.className = 'emoji-span skin-tone medium-light-skin-tone';
       emojiItem.style.display = 'none';
     } else if (data.codes.includes(Cons.SKINTONE_COLOR_LIST[2])) {
-      emojiItem.className = 'skin-tone medium-skin-tone';
+      emojiItem.className = 'emoji-span skin-tone medium-skin-tone';
       emojiItem.style.display = 'none';
     } else if (data.codes.includes(Cons.SKINTONE_COLOR_LIST[3])) {
-      emojiItem.className = 'skin-tone medium-dark-skin-tone';
+      emojiItem.className = 'emoji-span skin-tone medium-dark-skin-tone';
       emojiItem.style.display = 'none';
     } else if (data.codes.includes(Cons.SKINTONE_COLOR_LIST[4])) {
-      emojiItem.className = 'skin-tone dark-skin-tone';
+      emojiItem.className = 'emoji-span skin-tone dark-skin-tone';
       emojiItem.style.display = 'none';
     }
 
