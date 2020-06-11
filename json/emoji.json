@@ -369,6 +369,12 @@
   { "codes": "1F479", "char": "👹", "name": "ogre", "category": "people" },
   { "codes": "1F47A", "char": "👺", "name": "goblin", "category": "people" },
   { "codes": "1F47B", "char": "👻", "name": "ghost", "category": "people" },
+  {
+    "codes": "1F383",
+    "char": "🎃",
+    "name": "jack-o-lantern",
+    "category": "people"
+  },
   { "codes": "1F47D", "char": "👽", "name": "alien", "category": "people" },
   {
     "codes": "1F47E",
@@ -2766,12 +2772,6 @@
     "name": "cherry blossom",
     "category": "nature"
   },
-  {
-    "codes": "1F4AE",
-    "char": "💮",
-    "name": "white flower",
-    "category": "symbols"
-  },
   { "codes": "1F339", "char": "🌹", "name": "rose", "category": "nature" },
   { "codes": "1F33A", "char": "🌺", "name": "hibiscus", "category": "nature" },
   { "codes": "1F33B", "char": "🌻", "name": "sunflower", "category": "nature" },
@@ -2927,9 +2927,8 @@
     "codes": "1F320",
     "char": "🌠",
     "name": "shooting star",
-    "category": "place"
+    "category": "nature"
   },
-  { "codes": "1F30C", "char": "🌌", "name": "milky way", "category": "place" },
   { "codes": "2601 FE0F", "char": "☁️", "name": "cloud", "category": "nature" },
   {
     "codes": "26C5",
@@ -2975,7 +2974,26 @@
     "category": "nature"
   },
   { "codes": "1F525", "char": "🔥", "name": "fire", "category": "nature" },
+  {
+    "codes": "1F4A5",
+    "char": "💥",
+    "name": "collision",
+    "category": "nature"
+  },
+  { "codes": "1F4AB", "char": "💫", "name": "dizzy", "category": "nature" },
   { "codes": "1F4A7", "char": "💧", "name": "droplet", "category": "nature" },
+  {
+    "codes": "1F4A6",
+    "char": "💦",
+    "name": "sweat droplets",
+    "category": "nature"
+  },
+  {
+    "codes": "1F4A8",
+    "char": "💨",
+    "name": "dashing away",
+    "category": "nature"
+  },
   {
     "codes": "1F30A",
     "char": "🌊",
@@ -3499,19 +3517,6 @@
     "name": "kitchen knife",
     "category": "foodAndDrink"
   },
-
-  {
-    "codes": "1F383",
-    "char": "🎃",
-    "name": "jack-o-lantern",
-    "category": "people"
-  },
-  {
-    "codes": "1F386",
-    "char": "🎆",
-    "name": "fireworks",
-    "category": "place"
-  },
   { "codes": "1F388", "char": "🎈", "name": "balloon", "category": "objects" },
   {
     "codes": "1F389",
@@ -3529,7 +3534,7 @@
     "codes": "1F38E",
     "char": "🎎",
     "name": "Japanese dolls",
-    "category": "objects"
+    "category": "people"
   },
   {
     "codes": "1F38F",
@@ -3598,13 +3603,19 @@
     "name": "direct hit",
     "category": "activity"
   },
-
+  {
+    "codes": "265F FE0F",
+    "char": "♟️",
+    "name": "chess pawn",
+    "category": "activity"
+  },
   {
     "codes": "1F3B1",
     "char": "🎱",
     "name": "pool 8 ball",
     "category": "activity"
   },
+  { "codes": "1F4A3", "char": "💣", "name": "bomb", "category": "objects" },
   {
     "codes": "1F52E",
     "char": "🔮",
@@ -3636,54 +3647,55 @@
     "category": "activity"
   },
   {
+    "codes": "1F3AC",
+    "char": "🎬",
+    "name": "clapper board",
+    "category": "activity"
+  },
+  { "codes": "1F3B8", "char": "🎸", "name": "guitar", "category": "activity" },
+  { "codes": "1F3BB", "char": "🎻", "name": "violin", "category": "activity" },
+  { "codes": "1F3BA", "char": "🎺", "name": "trumpet", "category": "activity" },
+  {
     "codes": "1F3B7",
     "char": "🎷",
     "name": "saxophone",
     "category": "activity"
   },
-  { "codes": "1F3B8", "char": "🎸", "name": "guitar", "category": "activity" },
+  {
+    "codes": "1F4EF",
+    "char": "📯",
+    "name": "postal horn",
+    "category": "activity"
+  },
+
+  {
+    "codes": "1F3A4",
+    "char": "🎤",
+    "name": "microphone",
+    "category": "activity"
+  },
+  {
+    "codes": "1F3A7",
+    "char": "🎧",
+    "name": "headphone",
+    "category": "activity"
+  },
   {
     "codes": "1F3B9",
     "char": "🎹",
     "name": "musical keyboard",
     "category": "activity"
   },
-  { "codes": "1F3BA", "char": "🎺", "name": "trumpet", "category": "activity" },
-  { "codes": "1F3BB", "char": "🎻", "name": "violin", "category": "activity" },
+  {
+    "codes": "1F3BC",
+    "char": "🎼",
+    "name": "musical score",
+    "category": "activity"
+  },
   {
     "codes": "1F3C2",
     "char": "🏂",
     "name": "snowboarder",
-    "category": "activity"
-  },
-  {
-    "codes": "1F3C2 1F3FB",
-    "char": "🏂🏻",
-    "name": "snowboarder: light-skin-tone",
-    "category": "activity"
-  },
-  {
-    "codes": "1F3C2 1F3FC",
-    "char": "🏂🏼",
-    "name": "snowboarder: medium-light-skin-tone",
-    "category": "activity"
-  },
-  {
-    "codes": "1F3C2 1F3FD",
-    "char": "🏂🏽",
-    "name": "snowboarder: medium-skin-tone",
-    "category": "activity"
-  },
-  {
-    "codes": "1F3C2 1F3FE",
-    "char": "🏂🏾",
-    "name": "snowboarder: medium-dark-skin-tone",
-    "category": "activity"
-  },
-  {
-    "codes": "1F3C2 1F3FF",
-    "char": "🏂🏿",
-    "name": "snowboarder: dark-skin-tone",
     "category": "activity"
   },
   {
@@ -3795,63 +3807,9 @@
     "category": "activity"
   },
   {
-    "codes": "1F6C0",
-    "char": "🛀",
-    "name": "person taking bath",
-    "category": "activity"
-  },
-  {
-    "codes": "1F6C0 1F3FB",
-    "char": "🛀🏻",
-    "name": "person taking bath: light-skin-tone",
-    "category": "activity"
-  },
-  {
-    "codes": "1F6C0 1F3FC",
-    "char": "🛀🏼",
-    "name": "person taking bath: medium-light-skin-tone",
-    "category": "activity"
-  },
-  {
-    "codes": "1F6C0 1F3FD",
-    "char": "🛀🏽",
-    "name": "person taking bath: medium-skin-tone",
-    "category": "activity"
-  },
-  {
-    "codes": "1F6C0 1F3FE",
-    "char": "🛀🏾",
-    "name": "person taking bath: medium-dark-skin-tone",
-    "category": "activity"
-  },
-  {
-    "codes": "1F6C0 1F3FF",
-    "char": "🛀🏿",
-    "name": "person taking bath: dark-skin-tone",
-    "category": "activity"
-  },
-  {
     "codes": "1F3B2",
     "char": "🎲",
     "name": "game die",
-    "category": "objects"
-  },
-  {
-    "codes": "2666 FE0F",
-    "char": "♦️",
-    "name": "diamond suit",
-    "category": "symbols"
-  },
-  {
-    "codes": "2663 FE0F",
-    "char": "♣️",
-    "name": "club suit",
-    "category": "symbols"
-  },
-  {
-    "codes": "265F FE0F",
-    "char": "♟️",
-    "name": "chess pawn",
     "category": "objects"
   },
   {
@@ -3871,19 +3829,6 @@
     "char": "🧶",
     "name": "yarn",
     "category": "people"
-  },
-
-  {
-    "codes": "1F004",
-    "char": "🀄",
-    "name": "mahjong red dragon",
-    "category": "symbols"
-  },
-  {
-    "codes": "1F3B4",
-    "char": "🎴",
-    "name": "flower playing cards",
-    "category": "symbols"
   },
   {
     "codes": "1F30F",
@@ -3966,6 +3911,7 @@
     "name": "Statue of Liberty",
     "category": "place"
   },
+  { "codes": "1F5FF", "char": "🗿", "name": "moai", "category": "place" },
   { "codes": "26EA", "char": "⛪", "name": "church", "category": "place" },
   { "codes": "26F2", "char": "⛲", "name": "fountain", "category": "place" },
   { "codes": "26FA", "char": "⛺", "name": "tent", "category": "place" },
@@ -3996,8 +3942,16 @@
     "name": "bridge at night",
     "category": "place"
   },
+
   {
-    "codes": "2668 FE0F",
+    "codes": "1F386",
+    "char": "🎆",
+    "name": "fireworks",
+    "category": "place"
+  },
+  { "codes": "1F30C", "char": "🌌", "name": "milky way", "category": "place" },
+  {
+    "codes": "2668",
     "char": "♨️",
     "name": "hot springs",
     "category": "place"
@@ -4203,291 +4157,92 @@
     "codes": "231B",
     "char": "⌛",
     "name": "hourglass done",
-    "category": "place"
+    "category": "objects"
   },
   {
     "codes": "23F3",
     "char": "⏳",
     "name": "hourglass not done",
-    "category": "place"
+    "category": "objects"
   },
-  { "codes": "231A", "char": "⌚", "name": "watch", "category": "place" },
+  { "codes": "231A", "char": "⌚", "name": "watch", "category": "objects" },
   {
     "codes": "23F0",
     "char": "⏰",
     "name": "alarm clock",
-    "category": "place"
+    "category": "objects"
   },
-  {
-    "codes": "1F55B",
-    "char": "🕛",
-    "name": "twelve o’clock",
-    "category": "place"
-  },
-  {
-    "codes": "1F567",
-    "char": "🕧",
-    "name": "twelve-thirty",
-    "category": "place"
-  },
-  {
-    "codes": "1F550",
-    "char": "🕐",
-    "name": "one o’clock",
-    "category": "place"
-  },
-  {
-    "codes": "1F55C",
-    "char": "🕜",
-    "name": "one-thirty",
-    "category": "place"
-  },
-  {
-    "codes": "1F551",
-    "char": "🕑",
-    "name": "two o’clock",
-    "category": "place"
-  },
-  {
-    "codes": "1F55D",
-    "char": "🕝",
-    "name": "two-thirty",
-    "category": "place"
-  },
-  {
-    "codes": "1F552",
-    "char": "🕒",
-    "name": "three o’clock",
-    "category": "place"
-  },
-  {
-    "codes": "1F55E",
-    "char": "🕞",
-    "name": "three-thirty",
-    "category": "place"
-  },
-  {
-    "codes": "1F553",
-    "char": "🕓",
-    "name": "four o’clock",
-    "category": "place"
-  },
-  {
-    "codes": "1F55F",
-    "char": "🕟",
-    "name": "four-thirty",
-    "category": "place"
-  },
-  {
-    "codes": "1F554",
-    "char": "🕔",
-    "name": "five o’clock",
-    "category": "place"
-  },
-  {
-    "codes": "1F560",
-    "char": "🕠",
-    "name": "five-thirty",
-    "category": "place"
-  },
-  {
-    "codes": "1F555",
-    "char": "🕕",
-    "name": "six o’clock",
-    "category": "place"
-  },
-  {
-    "codes": "1F561",
-    "char": "🕡",
-    "name": "six-thirty",
-    "category": "place"
-  },
-  {
-    "codes": "1F556",
-    "char": "🕖",
-    "name": "seven o’clock",
-    "category": "place"
-  },
-  {
-    "codes": "1F562",
-    "char": "🕢",
-    "name": "seven-thirty",
-    "category": "place"
-  },
-  {
-    "codes": "1F557",
-    "char": "🕗",
-    "name": "eight o’clock",
-    "category": "place"
-  },
-  {
-    "codes": "1F563",
-    "char": "🕣",
-    "name": "eight-thirty",
-    "category": "place"
-  },
-  {
-    "codes": "1F558",
-    "char": "🕘",
-    "name": "nine o’clock",
-    "category": "place"
-  },
-  {
-    "codes": "1F564",
-    "char": "🕤",
-    "name": "nine-thirty",
-    "category": "place"
-  },
-  {
-    "codes": "1F559",
-    "char": "🕙",
-    "name": "ten o’clock",
-    "category": "place"
-  },
-  {
-    "codes": "1F565",
-    "char": "🕥",
-    "name": "ten-thirty",
-    "category": "place"
-  },
-  {
-    "codes": "1F55A",
-    "char": "🕚",
-    "name": "eleven o’clock",
-    "category": "place"
-  },
-  {
-    "codes": "1F566",
-    "char": "🕦",
-    "name": "eleven-thirty",
-    "category": "place"
-  },
-  { "codes": "1F453", "char": "👓", "name": "glasses", "category": "objects" },
-  { "codes": "1F454", "char": "👔", "name": "necktie", "category": "objects" },
-  { "codes": "1F455", "char": "👕", "name": "t-shirt", "category": "objects" },
-  { "codes": "1F456", "char": "👖", "name": "jeans", "category": "objects" },
-  { "codes": "1F457", "char": "👗", "name": "dress", "category": "objects" },
-  { "codes": "1F459", "char": "👙", "name": "bikini", "category": "objects" },
+  { "codes": "1F453", "char": "👓", "name": "glasses", "category": "people" },
+  { "codes": "1F454", "char": "👔", "name": "necktie", "category": "people" },
+  { "codes": "1F455", "char": "👕", "name": "t-shirt", "category": "people" },
+  { "codes": "1F456", "char": "👖", "name": "jeans", "category": "people" },
+  { "codes": "1F457", "char": "👗", "name": "dress", "category": "people" },
+  { "codes": "1F459", "char": "👙", "name": "bikini", "category": "people" },
   {
     "codes": "1F45A",
     "char": "👚",
     "name": "woman’s clothes",
-    "category": "objects"
+    "category": "people"
   },
-  { "codes": "1F45B", "char": "👛", "name": "purse", "category": "objects" },
-  { "codes": "1F45C", "char": "👜", "name": "handbag", "category": "objects" },
+  { "codes": "1F45B", "char": "👛", "name": "purse", "category": "people" },
+  { "codes": "1F45C", "char": "👜", "name": "handbag", "category": "people" },
   {
     "codes": "1F45D",
     "char": "👝",
     "name": "clutch bag",
-    "category": "objects"
+    "category": "people"
   },
-  { "codes": "1F392", "char": "🎒", "name": "backpack", "category": "objects" },
+  { "codes": "1F392", "char": "🎒", "name": "backpack", "category": "people" },
   {
     "codes": "1F45E",
     "char": "👞",
     "name": "man’s shoe",
-    "category": "objects"
+    "category": "people"
   },
   {
     "codes": "1F45F",
     "char": "👟",
     "name": "running shoe",
-    "category": "objects"
+    "category": "people"
   },
   {
     "codes": "1F460",
     "char": "👠",
     "name": "high-heeled shoe",
-    "category": "objects"
+    "category": "people"
   },
   {
     "codes": "1F461",
     "char": "👡",
     "name": "woman’s sandal",
-    "category": "objects"
+    "category": "people"
   },
   {
     "codes": "1F462",
     "char": "👢",
     "name": "woman’s boot",
-    "category": "objects"
+    "category": "people"
   },
-  { "codes": "1F451", "char": "👑", "name": "crown", "category": "objects" },
+  { "codes": "1F451", "char": "👑", "name": "crown", "category": "people" },
   {
     "codes": "1F452",
     "char": "👒",
     "name": "woman’s hat",
-    "category": "objects"
+    "category": "people"
   },
-  { "codes": "1F3A9", "char": "🎩", "name": "top hat", "category": "objects" },
+  { "codes": "1F3A9", "char": "🎩", "name": "top hat", "category": "people" },
   {
     "codes": "1F393",
     "char": "🎓",
     "name": "graduation cap",
-    "category": "objects"
+    "category": "people"
   },
-  { "codes": "1F484", "char": "💄", "name": "lipstick", "category": "objects" },
-  { "codes": "1F48D", "char": "💍", "name": "ring", "category": "objects" },
+  { "codes": "1F484", "char": "💄", "name": "lipstick", "category": "people" },
+  { "codes": "1F48D", "char": "💍", "name": "ring", "category": "people" },
   {
     "codes": "1F48E",
     "char": "💎",
     "name": "gem stone",
-    "category": "objects"
-  },
-  {
-    "codes": "1F507",
-    "char": "🔇",
-    "name": "muted speaker",
-    "category": "objects"
-  },
-  {
-    "codes": "1F508",
-    "char": "🔈",
-    "name": "speaker low volume",
-    "category": "objects"
-  },
-  {
-    "codes": "1F509",
-    "char": "🔉",
-    "name": "speaker medium volume",
-    "category": "objects"
-  },
-  {
-    "codes": "1F50A",
-    "char": "🔊",
-    "name": "speaker high volume",
-    "category": "objects"
-  },
-  {
-    "codes": "1F4E2",
-    "char": "📢",
-    "name": "loudspeaker",
-    "category": "objects"
-  },
-  {
-    "codes": "1F4E3",
-    "char": "📣",
-    "name": "megaphone",
-    "category": "objects"
-  },
-  {
-    "codes": "1F4EF",
-    "char": "📯",
-    "name": "postal horn",
-    "category": "objects"
-  },
-  { "codes": "1F514", "char": "🔔", "name": "bell", "category": "objects" },
-  {
-    "codes": "1F515",
-    "char": "🔕",
-    "name": "bell with slash",
-    "category": "objects"
-  },
-  {
-    "codes": "1F3BC",
-    "char": "🎼",
-    "name": "musical score",
     "category": "objects"
   },
   {
@@ -4500,18 +4255,6 @@
     "codes": "1F3B6",
     "char": "🎶",
     "name": "musical notes",
-    "category": "objects"
-  },
-  {
-    "codes": "1F3A4",
-    "char": "🎤",
-    "name": "microphone",
-    "category": "objects"
-  },
-  {
-    "codes": "1F3A7",
-    "char": "🎧",
-    "name": "headphone",
     "category": "objects"
   },
   { "codes": "1F4FB", "char": "📻", "name": "radio", "category": "objects" },
@@ -4586,21 +4329,15 @@
     "category": "objects"
   },
   {
-    "codes": "1F39E FE0F",
+    "codes": "1F39E",
     "char": "🎞️",
     "name": "film frames",
     "category": "objects"
   },
   {
-    "codes": "1F4FD FE0F",
+    "codes": "1F4FD",
     "char": "📽️",
     "name": "film projector",
-    "category": "objects"
-  },
-  {
-    "codes": "1F3AC",
-    "char": "🎬",
-    "name": "clapper board",
     "category": "objects"
   },
   {
@@ -4760,25 +4497,7 @@
     "category": "objects"
   },
   {
-    "codes": "1F4B9",
-    "char": "💹",
-    "name": "chart increasing with yen",
-    "category": "objects"
-  },
-  {
-    "codes": "1F4B1",
-    "char": "💱",
-    "name": "currency exchange",
-    "category": "objects"
-  },
-  {
-    "codes": "1F4B2",
-    "char": "💲",
-    "name": "heavy dollar sign",
-    "category": "objects"
-  },
-  {
-    "codes": "2709 FE0F",
+    "codes": "2709",
     "char": "✉️",
     "name": "envelope",
     "category": "objects"
@@ -4794,6 +4513,12 @@
     "codes": "1F4E9",
     "char": "📩",
     "name": "envelope with arrow",
+    "category": "objects"
+  },
+  {
+    "codes": "1F48C",
+    "char": "💌",
+    "name": "love letter",
     "category": "objects"
   },
   {
@@ -4835,13 +4560,13 @@
   },
   { "codes": "1F4EE", "char": "📮", "name": "postbox", "category": "objects" },
   {
-    "codes": "270F FE0F",
+    "codes": "270F",
     "char": "✏️",
     "name": "pencil",
     "category": "objects"
   },
   {
-    "codes": "2712 FE0F",
+    "codes": "2712",
     "char": "✒️",
     "name": "black nib",
     "category": "objects"
@@ -4851,7 +4576,7 @@
     "codes": "1F4BC",
     "char": "💼",
     "name": "briefcase",
-    "category": "objects"
+    "category": "people"
   },
   {
     "codes": "1F4C1",
@@ -4922,7 +4647,7 @@
     "category": "objects"
   },
   {
-    "codes": "2702 FE0F",
+    "codes": "2702",
     "char": "✂️",
     "name": "scissors",
     "category": "objects"
@@ -4975,9 +4700,8 @@
     "name": "cigarette",
     "category": "objects"
   },
-  { "codes": "1F5FF", "char": "🗿", "name": "moai", "category": "objects" },
   {
-    "codes": "2764 FE0F",
+    "codes": "2764",
     "char": "❤️",
     "name": "red heart",
     "category": "symbols"
@@ -5010,13 +4734,7 @@
     "codes": "1F48B",
     "char": "💋",
     "name": "kiss mark",
-    "category": "symbols"
-  },
-  {
-    "codes": "1F48C",
-    "char": "💌",
-    "name": "love letter",
-    "category": "symbols"
+    "category": "people"
   },
   {
     "codes": "1F498",
@@ -5084,38 +4802,6 @@
     "name": "anger symbol",
     "category": "symbols"
   },
-  {
-    "codes": "1F4A5",
-    "char": "💥",
-    "name": "collision",
-    "category": "symbols"
-  },
-  { "codes": "1F4AB", "char": "💫", "name": "dizzy", "category": "symbols" },
-  {
-    "codes": "1F4A6",
-    "char": "💦",
-    "name": "sweat droplets",
-    "category": "symbols"
-  },
-  {
-    "codes": "1F4A8",
-    "char": "💨",
-    "name": "dashing away",
-    "category": "symbols"
-  },
-  { "codes": "1F4A3", "char": "💣", "name": "bomb", "category": "symbols" },
-  {
-    "codes": "1F4AC",
-    "char": "💬",
-    "name": "speech balloon",
-    "category": "symbols"
-  },
-  {
-    "codes": "1F4AD",
-    "char": "💭",
-    "name": "thought balloon",
-    "category": "symbols"
-  },
   { "codes": "1F4A4", "char": "💤", "name": "zzz", "category": "symbols" },
   {
     "codes": "1F6AE",
@@ -5127,7 +4813,7 @@
     "codes": "1F6B0",
     "char": "🚰",
     "name": "potable water",
-    "category": "symbols"
+    "category": "objects"
   },
   {
     "codes": "267F",
@@ -5180,7 +4866,13 @@
     "category": "symbols"
   },
   {
-    "codes": "26A0 FE0F",
+    "codes": "1F4AE",
+    "char": "💮",
+    "name": "white flower",
+    "category": "symbols"
+  },
+  {
+    "codes": "26A0",
     "char": "⚠️",
     "name": "warning",
     "category": "symbols"
@@ -5241,61 +4933,80 @@
     "category": "symbols"
   },
   {
-    "codes": "2622 FE0F",
+    "codes": "2622",
     "char": "☢️",
     "name": "radioactive",
     "category": "symbols"
   },
   {
-    "codes": "2623 FE0F",
+    "codes": "2623",
     "char": "☣️",
     "name": "biohazard",
     "category": "symbols"
   },
+  { "codes": "2648", "char": "♈", "name": "Aries", "category": "symbols" },
+  { "codes": "2649", "char": "♉", "name": "Taurus", "category": "symbols" },
+  { "codes": "264A", "char": "♊", "name": "Gemini", "category": "symbols" },
+  { "codes": "264B", "char": "♋", "name": "Cancer", "category": "symbols" },
+  { "codes": "264C", "char": "♌", "name": "Leo", "category": "symbols" },
+  { "codes": "264D", "char": "♍", "name": "Virgo", "category": "symbols" },
+  { "codes": "264E", "char": "♎", "name": "Libra", "category": "symbols" },
+  { "codes": "264F", "char": "♏", "name": "Scorpio", "category": "symbols" },
   {
-    "codes": "2B06 FE0F",
+    "codes": "2650",
+    "char": "♐",
+    "name": "Sagittarius",
+    "category": "symbols"
+  },
+  { "codes": "2651", "char": "♑", "name": "Capricorn", "category": "symbols" },
+  { "codes": "2652", "char": "♒", "name": "Aquarius", "category": "symbols" },
+  { "codes": "2653", "char": "♓", "name": "Pisces", "category": "symbols" },
+  { "codes": "26CE", "char": "⛎", "name": "Ophiuchus", "category": "symbols" },
+
+  {
+    "codes": "2B06",
     "char": "⬆️",
     "name": "up arrow",
     "category": "symbols"
   },
   {
-    "codes": "27A1 FE0F",
+    "codes": "27A1",
     "char": "➡️",
     "name": "right arrow",
     "category": "symbols"
   },
   {
-    "codes": "2B07 FE0F",
+    "codes": "2B07",
     "char": "⬇️",
     "name": "down arrow",
     "category": "symbols"
   },
   {
-    "codes": "2B05 FE0F",
+    "codes": "2B05",
     "char": "⬅️",
     "name": "left arrow",
     "category": "symbols"
   },
   {
-    "codes": "21A9 FE0F",
+    "codes": "21A9",
     "char": "↩️",
     "name": "right arrow curving left",
     "category": "symbols"
   },
   {
-    "codes": "21AA FE0F",
+    "codes": "21AA",
     "char": "↪️",
     "name": "left arrow curving right",
     "category": "symbols"
   },
   {
-    "codes": "2934 FE0F",
+    "codes": "2934",
     "char": "⤴️",
     "name": "right arrow curving up",
     "category": "symbols"
   },
   {
-    "codes": "2935 FE0F",
+    "codes": "2935",
     "char": "⤵️",
     "name": "right arrow curving down",
     "category": "symbols"
@@ -5342,24 +5053,6 @@
     "name": "TOP arrow",
     "category": "symbols"
   },
-  { "codes": "2648", "char": "♈", "name": "Aries", "category": "symbols" },
-  { "codes": "2649", "char": "♉", "name": "Taurus", "category": "symbols" },
-  { "codes": "264A", "char": "♊", "name": "Gemini", "category": "symbols" },
-  { "codes": "264B", "char": "♋", "name": "Cancer", "category": "symbols" },
-  { "codes": "264C", "char": "♌", "name": "Leo", "category": "symbols" },
-  { "codes": "264D", "char": "♍", "name": "Virgo", "category": "symbols" },
-  { "codes": "264E", "char": "♎", "name": "Libra", "category": "symbols" },
-  { "codes": "264F", "char": "♏", "name": "Scorpio", "category": "symbols" },
-  {
-    "codes": "2650",
-    "char": "♐",
-    "name": "Sagittarius",
-    "category": "symbols"
-  },
-  { "codes": "2651", "char": "♑", "name": "Capricorn", "category": "symbols" },
-  { "codes": "2652", "char": "♒", "name": "Aquarius", "category": "symbols" },
-  { "codes": "2653", "char": "♓", "name": "Pisces", "category": "symbols" },
-  { "codes": "26CE", "char": "⛎", "name": "Ophiuchus", "category": "symbols" },
   {
     "codes": "1F500",
     "char": "🔀",
@@ -5446,7 +5139,7 @@
     "category": "symbols"
   },
   {
-    "codes": "267B FE0F",
+    "codes": "267B",
     "char": "♻️",
     "name": "recycling symbol",
     "category": "symbols"
@@ -5482,13 +5175,13 @@
     "category": "symbols"
   },
   {
-    "codes": "2611 FE0F",
+    "codes": "2611",
     "char": "☑️",
     "name": "check box with check",
     "category": "symbols"
   },
   {
-    "codes": "2714 FE0F",
+    "codes": "2714",
     "char": "✔️",
     "name": "check mark",
     "category": "symbols"
@@ -5518,31 +5211,43 @@
     "category": "symbols"
   },
   {
-    "codes": "303D FE0F",
+    "codes": "1F4B9",
+    "char": "💹",
+    "name": "chart increasing with yen",
+    "category": "symbols"
+  },
+  {
+    "codes": "1F4B1",
+    "char": "💱",
+    "name": "currency exchange",
+    "category": "symbols"
+  },
+  {
+    "codes": "1F4B2",
+    "char": "💲",
+    "name": "heavy dollar sign",
+    "category": "symbols"
+  },
+  {
+    "codes": "303D",
     "char": "〽️",
     "name": "part alternation mark",
     "category": "symbols"
   },
   {
-    "codes": "303D",
-    "char": "〽",
-    "name": "part alternation mark",
-    "category": "symbols"
-  },
-  {
-    "codes": "2733 FE0F",
+    "codes": "2733",
     "char": "✳️",
     "name": "eight-spoked asterisk",
     "category": "symbols"
   },
   {
-    "codes": "2734 FE0F",
+    "codes": "2734",
     "char": "✴️",
     "name": "eight-pointed star",
     "category": "symbols"
   },
   {
-    "codes": "2747 FE0F",
+    "codes": "2747",
     "char": "❇️",
     "name": "sparkle",
     "category": "symbols"
@@ -5596,13 +5301,13 @@
     "category": "symbols"
   },
   {
-    "codes": "25FC FE0F",
+    "codes": "25FC",
     "char": "◼️",
     "name": "black medium square",
     "category": "symbols"
   },
   {
-    "codes": "25FB FE0F",
+    "codes": "25FB",
     "char": "◻️",
     "name": "white medium square",
     "category": "symbols"
@@ -5677,6 +5382,229 @@
     "codes": "1F532",
     "char": "🔲",
     "name": "black square button",
+    "category": "symbols"
+  },
+  {
+    "codes": "1F508",
+    "char": "🔈",
+    "name": "speaker low volume",
+    "category": "symbols"
+  },
+  {
+    "codes": "1F507",
+    "char": "🔇",
+    "name": "muted speaker",
+    "category": "symbols"
+  },
+  {
+    "codes": "1F509",
+    "char": "🔉",
+    "name": "speaker medium volume",
+    "category": "symbols"
+  },
+  {
+    "codes": "1F50A",
+    "char": "🔊",
+    "name": "speaker high volume",
+    "category": "symbols"
+  },
+  { "codes": "1F514", "char": "🔔", "name": "bell", "category": "symbols" },
+  {
+    "codes": "1F515",
+    "char": "🔕",
+    "name": "bell with slash",
+    "category": "symbols"
+  },
+  {
+    "codes": "1F4E2",
+    "char": "📢",
+    "name": "loudspeaker",
+    "category": "symbols"
+  },
+  {
+    "codes": "1F4E3",
+    "char": "📣",
+    "name": "megaphone",
+    "category": "symbols"
+  },
+  {
+    "codes": "1F4AC",
+    "char": "💬",
+    "name": "speech balloon",
+    "category": "symbols"
+  },
+  {
+    "codes": "1F4AD",
+    "char": "💭",
+    "name": "thought balloon",
+    "category": "symbols"
+  },
+  {
+    "codes": "2666",
+    "char": "♦️",
+    "name": "diamond suit",
+    "category": "symbols"
+  },
+  {
+    "codes": "2663",
+    "char": "♣️",
+    "name": "club suit",
+    "category": "symbols"
+  },
+  {
+    "codes": "1F004",
+    "char": "🀄",
+    "name": "mahjong red dragon",
+    "category": "symbols"
+  },
+  {
+    "codes": "1F3B4",
+    "char": "🎴",
+    "name": "flower playing cards",
+    "category": "symbols"
+  },
+  {
+    "codes": "1F55B",
+    "char": "🕛",
+    "name": "twelve o’clock",
+    "category": "symbols"
+  },
+  {
+    "codes": "1F567",
+    "char": "🕧",
+    "name": "twelve-thirty",
+    "category": "symbols"
+  },
+  {
+    "codes": "1F550",
+    "char": "🕐",
+    "name": "one o’clock",
+    "category": "symbols"
+  },
+  {
+    "codes": "1F55C",
+    "char": "🕜",
+    "name": "one-thirty",
+    "category": "symbols"
+  },
+  {
+    "codes": "1F551",
+    "char": "🕑",
+    "name": "two o’clock",
+    "category": "symbols"
+  },
+  {
+    "codes": "1F55D",
+    "char": "🕝",
+    "name": "two-thirty",
+    "category": "symbols"
+  },
+  {
+    "codes": "1F552",
+    "char": "🕒",
+    "name": "three o’clock",
+    "category": "symbols"
+  },
+  {
+    "codes": "1F55E",
+    "char": "🕞",
+    "name": "three-thirty",
+    "category": "symbols"
+  },
+  {
+    "codes": "1F553",
+    "char": "🕓",
+    "name": "four o’clock",
+    "category": "symbols"
+  },
+  {
+    "codes": "1F55F",
+    "char": "🕟",
+    "name": "four-thirty",
+    "category": "symbols"
+  },
+  {
+    "codes": "1F554",
+    "char": "🕔",
+    "name": "five o’clock",
+    "category": "symbols"
+  },
+  {
+    "codes": "1F560",
+    "char": "🕠",
+    "name": "five-thirty",
+    "category": "symbols"
+  },
+  {
+    "codes": "1F555",
+    "char": "🕕",
+    "name": "six o’clock",
+    "category": "symbols"
+  },
+  {
+    "codes": "1F561",
+    "char": "🕡",
+    "name": "six-thirty",
+    "category": "symbols"
+  },
+  {
+    "codes": "1F556",
+    "char": "🕖",
+    "name": "seven o’clock",
+    "category": "symbols"
+  },
+  {
+    "codes": "1F562",
+    "char": "🕢",
+    "name": "seven-thirty",
+    "category": "symbols"
+  },
+  {
+    "codes": "1F557",
+    "char": "🕗",
+    "name": "eight o’clock",
+    "category": "symbols"
+  },
+  {
+    "codes": "1F563",
+    "char": "🕣",
+    "name": "eight-thirty",
+    "category": "symbols"
+  },
+  {
+    "codes": "1F558",
+    "char": "🕘",
+    "name": "nine o’clock",
+    "category": "symbols"
+  },
+  {
+    "codes": "1F564",
+    "char": "🕤",
+    "name": "nine-thirty",
+    "category": "symbols"
+  },
+  {
+    "codes": "1F559",
+    "char": "🕙",
+    "name": "ten o’clock",
+    "category": "symbols"
+  },
+  {
+    "codes": "1F565",
+    "char": "🕥",
+    "name": "ten-thirty",
+    "category": "symbols"
+  },
+  {
+    "codes": "1F55A",
+    "char": "🕚",
+    "name": "eleven o’clock",
+    "category": "symbols"
+  },
+  {
+    "codes": "1F566",
+    "char": "🕦",
+    "name": "eleven-thirty",
     "category": "symbols"
   },
   {

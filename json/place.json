@@ -8,7 +8,7 @@
       "y": 0
     },
     {
-      "sprite": "airplane_2708",
+      "sprite": "airplane_2708-fe0f",
       "w": 36,
       "h": 36,
       "x": 36,
@@ -722,7 +722,7 @@
       "y": 216
     },
     {
-      "sprite": "satellite_1f6f0",
+      "sprite": "satellite_1f6f0-fe0f",
       "w": 36,
       "h": 36,
       "x": 180,

@@ -8,35 +8,35 @@
       "y": 0
     },
     {
-      "sprite": "adult_emoji-modifier-fitzpatrick-type-1-2_1f9d1-1f3fb_1f3fb",
+      "sprite": "adult-1-2_1f9d1-1f3fb_1f3fb",
       "w": 36,
       "h": 36,
       "x": 36,
       "y": 0
     },
     {
-      "sprite": "adult_emoji-modifier-fitzpatrick-type-3_1f9d1-1f3fc_1f3fc",
+      "sprite": "adult-3_1f9d1-1f3fc_1f3fc",
       "w": 36,
       "h": 36,
       "x": 72,
       "y": 0
     },
     {
-      "sprite": "adult_emoji-modifier-fitzpatrick-type-4_1f9d1-1f3fd_1f3fd",
+      "sprite": "adult-4_1f9d1-1f3fd_1f3fd",
       "w": 36,
       "h": 36,
       "x": 108,
       "y": 0
     },
     {
-      "sprite": "adult_emoji-modifier-fitzpatrick-type-5_1f9d1-1f3fe_1f3fe",
+      "sprite": "adult-5_1f9d1-1f3fe_1f3fe",
       "w": 36,
       "h": 36,
       "x": 144,
       "y": 0
     },
     {
-      "sprite": "adult_emoji-modifier-fitzpatrick-type-6_1f9d1-1f3ff_1f3ff",
+      "sprite": "adult-6_1f9d1-1f3ff_1f3ff",
       "w": 36,
       "h": 36,
       "x": 180,
@@ -78,14 +78,14 @@
       "y": 0
     },
     {
-      "sprite": "baby_emoji-modifier-fitzpatrick-type-1-2_1f476-1f3fb_1f3fb",
+      "sprite": "baby-1-2_1f476-1f3fb_1f3fb",
       "w": 36,
       "h": 36,
       "x": 396,
       "y": 0
     },
     {
-      "sprite": "baby_emoji-modifier-fitzpatrick-type-3_1f476-1f3fc_1f3fc",
+      "sprite": "baby-3_1f476-1f3fc_1f3fc",
       "w": 36,
       "h": 36,
       "x": 432,
@@ -99,7 +99,7 @@
       "y": 0
     },
     {
-      "sprite": "baby_emoji-modifier-fitzpatrick-type-5_1f476-1f3fe_1f3fe",
+      "sprite": "baby-5_1f476-1f3fe_1f3fe",
       "w": 36,
       "h": 36,
       "x": 504,
@@ -127,14 +127,14 @@
       "y": 0
     },
     {
-      "sprite": "baby_emoji-modifier-fitzpatrick-type-6_1f476-1f3ff_1f3ff",
+      "sprite": "baby-6_1f476-1f3ff_1f3ff",
       "w": 36,
       "h": 36,
       "x": 648,
       "y": 0
     },
     {
-      "sprite": "baby_emoji-modifier-fitzpatrick-type-4_1f476-1f3fd_1f3fd",
+      "sprite": "baby-4_1f476-1f3fd_1f3fd",
       "w": 36,
       "h": 36,
       "x": 684,
@@ -155,14 +155,14 @@
       "y": 0
     },
     {
-      "sprite": "baby-angel_emoji-modifier-fitzpatrick-type-1-2_1f47c-1f3fb_1f3fb",
+      "sprite": "baby-angel-1-2_1f47c-1f3fb_1f3fb",
       "w": 36,
       "h": 36,
       "x": 792,
       "y": 0
     },
     {
-      "sprite": "bearded-person_emoji-modifier-fitzpatrick-type-1-2_1f9d4-1f3fb_1f3fb",
+      "sprite": "bearded-person-1-2_1f9d4-1f3fb_1f3fb",
       "w": 36,
       "h": 36,
       "x": 828,
@@ -183,56 +183,56 @@
       "y": 0
     },
     {
-      "sprite": "baby-angel_emoji-modifier-fitzpatrick-type-6_1f47c-1f3ff_1f3ff",
+      "sprite": "baby-angel-6_1f47c-1f3ff_1f3ff",
       "w": 36,
       "h": 36,
       "x": 936,
       "y": 0
     },
     {
-      "sprite": "baby-angel_emoji-modifier-fitzpatrick-type-3_1f47c-1f3fc_1f3fc",
+      "sprite": "baby-angel-3_1f47c-1f3fc_1f3fc",
       "w": 36,
       "h": 36,
       "x": 972,
       "y": 0
     },
     {
-      "sprite": "bearded-person_emoji-modifier-fitzpatrick-type-6_1f9d4-1f3ff_1f3ff",
+      "sprite": "bearded-person-6_1f9d4-1f3ff_1f3ff",
       "w": 36,
       "h": 36,
       "x": 1008,
       "y": 0
     },
     {
-      "sprite": "bearded-person_emoji-modifier-fitzpatrick-type-4_1f9d4-1f3fd_1f3fd",
+      "sprite": "bearded-person-4_1f9d4-1f3fd_1f3fd",
       "w": 36,
       "h": 36,
       "x": 1044,
       "y": 0
     },
     {
-      "sprite": "baby-angel_emoji-modifier-fitzpatrick-type-5_1f47c-1f3fe_1f3fe",
+      "sprite": "baby-angel-5_1f47c-1f3fe_1f3fe",
       "w": 36,
       "h": 36,
       "x": 1080,
       "y": 0
     },
     {
-      "sprite": "bearded-person_emoji-modifier-fitzpatrick-type-5_1f9d4-1f3fe_1f3fe",
+      "sprite": "bearded-person-5_1f9d4-1f3fe_1f3fe",
       "w": 36,
       "h": 36,
       "x": 1116,
       "y": 0
     },
     {
-      "sprite": "baby-angel_emoji-modifier-fitzpatrick-type-4_1f47c-1f3fd_1f3fd",
+      "sprite": "baby-angel-4_1f47c-1f3fd_1f3fd",
       "w": 36,
       "h": 36,
       "x": 1152,
       "y": 0
     },
     {
-      "sprite": "bearded-person_emoji-modifier-fitzpatrick-type-3_1f9d4-1f3fc_1f3fc",
+      "sprite": "bearded-person-3_1f9d4-1f3fc_1f3fc",
       "w": 36,
       "h": 36,
       "x": 1188,
@@ -337,14 +337,14 @@
       "y": 252
     },
     {
-      "sprite": "boy_emoji-modifier-fitzpatrick-type-1-2_1f466-1f3fb_1f3fb",
+      "sprite": "boy-1-2_1f466-1f3fb_1f3fb",
       "w": 36,
       "h": 36,
       "x": 0,
       "y": 288
     },
     {
-      "sprite": "boy_emoji-modifier-fitzpatrick-type-3_1f466-1f3fc_1f3fc",
+      "sprite": "boy-3_1f466-1f3fc_1f3fc",
       "w": 36,
       "h": 36,
       "x": 0,
@@ -358,7 +358,7 @@
       "y": 360
     },
     {
-      "sprite": "boy_emoji-modifier-fitzpatrick-type-4_1f466-1f3fd_1f3fd",
+      "sprite": "boy-4_1f466-1f3fd_1f3fd",
       "w": 36,
       "h": 36,
       "x": 0,
@@ -372,14 +372,14 @@
       "y": 432
     },
     {
-      "sprite": "boy_emoji-modifier-fitzpatrick-type-6_1f466-1f3ff_1f3ff",
+      "sprite": "boy-6_1f466-1f3ff_1f3ff",
       "w": 36,
       "h": 36,
       "x": 0,
       "y": 468
     },
     {
-      "sprite": "breast-feeding_emoji-modifier-fitzpatrick-type-5_1f931-1f3fe_1f3fe",
+      "sprite": "breast-feeding-5_1f931-1f3fe_1f3fe",
       "w": 36,
       "h": 36,
       "x": 0,
@@ -393,7 +393,7 @@
       "y": 540
     },
     {
-      "sprite": "boy_emoji-modifier-fitzpatrick-type-5_1f466-1f3fe_1f3fe",
+      "sprite": "boy-5_1f466-1f3fe_1f3fe",
       "w": 36,
       "h": 36,
       "x": 0,
@@ -407,7 +407,7 @@
       "y": 612
     },
     {
-      "sprite": "breast-feeding_emoji-modifier-fitzpatrick-type-4_1f931-1f3fd_1f3fd",
+      "sprite": "breast-feeding-4_1f931-1f3fd_1f3fd",
       "w": 36,
       "h": 36,
       "x": 0,
@@ -421,14 +421,14 @@
       "y": 684
     },
     {
-      "sprite": "breast-feeding_emoji-modifier-fitzpatrick-type-1-2_1f931-1f3fb_1f3fb",
+      "sprite": "breast-feeding-1-2_1f931-1f3fb_1f3fb",
       "w": 36,
       "h": 36,
       "x": 0,
       "y": 720
     },
     {
-      "sprite": "breast-feeding_emoji-modifier-fitzpatrick-type-3_1f931-1f3fc_1f3fc",
+      "sprite": "breast-feeding-3_1f931-1f3fc_1f3fc",
       "w": 36,
       "h": 36,
       "x": 0,
@@ -463,7 +463,7 @@
       "y": 900
     },
     {
-      "sprite": "breast-feeding_emoji-modifier-fitzpatrick-type-6_1f931-1f3ff_1f3ff",
+      "sprite": "breast-feeding-6_1f931-1f3ff_1f3ff",
       "w": 36,
       "h": 36,
       "x": 0,
@@ -477,14 +477,14 @@
       "y": 972
     },
     {
-      "sprite": "bride-with-veil_emoji-modifier-fitzpatrick-type-1-2_1f470-1f3fb_1f3fb",
+      "sprite": "bride-with-veil-1-2_1f470-1f3fb_1f3fb",
       "w": 36,
       "h": 36,
       "x": 0,
       "y": 1008
     },
     {
-      "sprite": "bride-with-veil_emoji-modifier-fitzpatrick-type-4_1f470-1f3fd_1f3fd",
+      "sprite": "bride-with-veil-4_1f470-1f3fd_1f3fd",
       "w": 36,
       "h": 36,
       "x": 0,
@@ -498,7 +498,7 @@
       "y": 1080
     },
     {
-      "sprite": "bride-with-veil_emoji-modifier-fitzpatrick-type-6_1f470-1f3ff_1f3ff",
+      "sprite": "bride-with-veil-6_1f470-1f3ff_1f3ff",
       "w": 36,
       "h": 36,
       "x": 0,
@@ -512,7 +512,7 @@
       "y": 1152
     },
     {
-      "sprite": "child_emoji-modifier-fitzpatrick-type-3_1f9d2-1f3fc_1f3fc",
+      "sprite": "child-3_1f9d2-1f3fc_1f3fc",
       "w": 36,
       "h": 36,
       "x": 0,
@@ -533,14 +533,14 @@
       "y": 1260
     },
     {
-      "sprite": "child_emoji-modifier-fitzpatrick-type-1-2_1f9d2-1f3fb_1f3fb",
+      "sprite": "child-1-2_1f9d2-1f3fb_1f3fb",
       "w": 36,
       "h": 36,
       "x": 0,
       "y": 1296
     },
     {
-      "sprite": "child_emoji-modifier-fitzpatrick-type-6_1f9d2-1f3ff_1f3ff",
+      "sprite": "child-6_1f9d2-1f3ff_1f3ff",
       "w": 36,
       "h": 36,
       "x": 0,
@@ -561,14 +561,14 @@
       "y": 1404
     },
     {
-      "sprite": "child_emoji-modifier-fitzpatrick-type-5_1f9d2-1f3fe_1f3fe",
+      "sprite": "child-5_1f9d2-1f3fe_1f3fe",
       "w": 36,
       "h": 36,
       "x": 0,
       "y": 1440
     },
     {
-      "sprite": "child_emoji-modifier-fitzpatrick-type-4_1f9d2-1f3fd_1f3fd",
+      "sprite": "child-4_1f9d2-1f3fd_1f3fd",
       "w": 36,
       "h": 36,
       "x": 36,
@@ -582,7 +582,7 @@
       "y": 36
     },
     {
-      "sprite": "call-me-hand_emoji-modifier-fitzpatrick-type-6_1f919-1f3ff_1f3ff",
+      "sprite": "call-me-hand-6_1f919-1f3ff_1f3ff",
       "w": 36,
       "h": 36,
       "x": 108,
@@ -596,21 +596,21 @@
       "y": 36
     },
     {
-      "sprite": "bride-with-veil_emoji-modifier-fitzpatrick-type-3_1f470-1f3fc_1f3fc",
+      "sprite": "bride-with-veil-3_1f470-1f3fc_1f3fc",
       "w": 36,
       "h": 36,
       "x": 180,
       "y": 36
     },
     {
-      "sprite": "bride-with-veil_emoji-modifier-fitzpatrick-type-5_1f470-1f3fe_1f3fe",
+      "sprite": "bride-with-veil-5_1f470-1f3fe_1f3fe",
       "w": 36,
       "h": 36,
       "x": 216,
       "y": 36
     },
     {
-      "sprite": "clapping-hands-sign_emoji-modifier-fitzpatrick-type-5_1f44f-1f3fe_1f3fe",
+      "sprite": "clapping-hands-sign-5_1f44f-1f3fe_1f3fe",
       "w": 36,
       "h": 36,
       "x": 252,
@@ -624,14 +624,14 @@
       "y": 36
     },
     {
-      "sprite": "call-me-hand_emoji-modifier-fitzpatrick-type-1-2_1f919-1f3fb_1f3fb",
+      "sprite": "call-me-hand-1-2_1f919-1f3fb_1f3fb",
       "w": 36,
       "h": 36,
       "x": 324,
       "y": 36
     },
     {
-      "sprite": "clapping-hands-sign_emoji-modifier-fitzpatrick-type-3_1f44f-1f3fc_1f3fc",
+      "sprite": "clapping-hands-sign-3_1f44f-1f3fc_1f3fc",
       "w": 36,
       "h": 36,
       "x": 360,
@@ -645,21 +645,21 @@
       "y": 36
     },
     {
-      "sprite": "clapping-hands-sign_emoji-modifier-fitzpatrick-type-1-2_1f44f-1f3fb_1f3fb",
+      "sprite": "clapping-hands-sign-1-2_1f44f-1f3fb_1f3fb",
       "w": 36,
       "h": 36,
       "x": 432,
       "y": 36
     },
     {
-      "sprite": "clapping-hands-sign_emoji-modifier-fitzpatrick-type-6_1f44f-1f3ff_1f3ff",
+      "sprite": "clapping-hands-sign-6_1f44f-1f3ff_1f3ff",
       "w": 36,
       "h": 36,
       "x": 468,
       "y": 36
     },
     {
-      "sprite": "clapping-hands-sign_emoji-modifier-fitzpatrick-type-4_1f44f-1f3fd_1f3fd",
+      "sprite": "clapping-hands-sign-4_1f44f-1f3fd_1f3fd",
       "w": 36,
       "h": 36,
       "x": 504,
@@ -673,42 +673,42 @@
       "y": 36
     },
     {
-      "sprite": "call-me-hand_emoji-modifier-fitzpatrick-type-4_1f919-1f3fd_1f3fd",
+      "sprite": "call-me-hand-4_1f919-1f3fd_1f3fd",
       "w": 36,
       "h": 36,
       "x": 576,
       "y": 36
     },
     {
-      "sprite": "construction-worker_emoji-modifier-fitzpatrick-type-5_1f477-1f3fe_1f3fe",
+      "sprite": "construction-worker-5_1f477-1f3fe_1f3fe",
       "w": 36,
       "h": 36,
       "x": 612,
       "y": 36
     },
     {
-      "sprite": "call-me-hand_emoji-modifier-fitzpatrick-type-5_1f919-1f3fe_1f3fe",
+      "sprite": "call-me-hand-5_1f919-1f3fe_1f3fe",
       "w": 36,
       "h": 36,
       "x": 648,
       "y": 36
     },
     {
-      "sprite": "construction-worker_emoji-modifier-fitzpatrick-type-6_1f477-1f3ff_1f3ff",
+      "sprite": "construction-worker-6_1f477-1f3ff_1f3ff",
       "w": 36,
       "h": 36,
       "x": 684,
       "y": 36
     },
     {
-      "sprite": "construction-worker_emoji-modifier-fitzpatrick-type-1-2_1f477-1f3fb_1f3fb",
+      "sprite": "construction-worker-1-2_1f477-1f3fb_1f3fb",
       "w": 36,
       "h": 36,
       "x": 720,
       "y": 36
     },
     {
-      "sprite": "construction-worker_emoji-modifier-fitzpatrick-type-4_1f477-1f3fd_1f3fd",
+      "sprite": "construction-worker-4_1f477-1f3fd_1f3fd",
       "w": 36,
       "h": 36,
       "x": 756,
@@ -722,7 +722,7 @@
       "y": 36
     },
     {
-      "sprite": "construction-worker_emoji-modifier-fitzpatrick-type-3_1f477-1f3fc_1f3fc",
+      "sprite": "construction-worker-3_1f477-1f3fc_1f3fc",
       "w": 36,
       "h": 36,
       "x": 828,
@@ -799,21 +799,21 @@
       "y": 36
     },
     {
-      "sprite": "dancer_emoji-modifier-fitzpatrick-type-1-2_1f483-1f3fb_1f3fb",
+      "sprite": "dancer-1-2_1f483-1f3fb_1f3fb",
       "w": 36,
       "h": 36,
       "x": 1224,
       "y": 36
     },
     {
-      "sprite": "dancer_emoji-modifier-fitzpatrick-type-4_1f483-1f3fd_1f3fd",
+      "sprite": "dancer-4_1f483-1f3fd_1f3fd",
       "w": 36,
       "h": 36,
       "x": 1260,
       "y": 36
     },
     {
-      "sprite": "dancer_emoji-modifier-fitzpatrick-type-3_1f483-1f3fc_1f3fc",
+      "sprite": "dancer-3_1f483-1f3fc_1f3fc",
       "w": 36,
       "h": 36,
       "x": 1296,
@@ -827,14 +827,14 @@
       "y": 36
     },
     {
-      "sprite": "dancer_emoji-modifier-fitzpatrick-type-5_1f483-1f3fe_1f3fe",
+      "sprite": "dancer-5_1f483-1f3fe_1f3fe",
       "w": 36,
       "h": 36,
       "x": 1368,
       "y": 36
     },
     {
-      "sprite": "dancer_emoji-modifier-fitzpatrick-type-6_1f483-1f3ff_1f3ff",
+      "sprite": "dancer-6_1f483-1f3ff_1f3ff",
       "w": 36,
       "h": 36,
       "x": 1404,
@@ -904,14 +904,14 @@
       "y": 324
     },
     {
-      "sprite": "deaf-person_emoji-modifier-fitzpatrick-type-3_1f9cf-1f3fc_1f3fc",
+      "sprite": "deaf-person-3_1f9cf-1f3fc_1f3fc",
       "w": 36,
       "h": 36,
       "x": 36,
       "y": 360
     },
     {
-      "sprite": "deaf-person_emoji-modifier-fitzpatrick-type-6_1f9cf-1f3ff_1f3ff",
+      "sprite": "deaf-person-6_1f9cf-1f3ff_1f3ff",
       "w": 36,
       "h": 36,
       "x": 36,
@@ -946,7 +946,7 @@
       "y": 540
     },
     {
-      "sprite": "deaf-person_emoji-modifier-fitzpatrick-type-1-2_1f9cf-1f3fb_1f3fb",
+      "sprite": "deaf-person-1-2_1f9cf-1f3fb_1f3fb",
       "w": 36,
       "h": 36,
       "x": 36,
@@ -967,14 +967,14 @@
       "y": 648
     },
     {
-      "sprite": "deaf-person_emoji-modifier-fitzpatrick-type-4_1f9cf-1f3fd_1f3fd",
+      "sprite": "deaf-person-4_1f9cf-1f3fd_1f3fd",
       "w": 36,
       "h": 36,
       "x": 36,
       "y": 684
     },
     {
-      "sprite": "deaf-person_emoji-modifier-fitzpatrick-type-5_1f9cf-1f3fe_1f3fe",
+      "sprite": "deaf-person-5_1f9cf-1f3fe_1f3fe",
       "w": 36,
       "h": 36,
       "x": 36,
@@ -1030,7 +1030,7 @@
       "y": 972
     },
     {
-      "sprite": "call-me-hand_emoji-modifier-fitzpatrick-type-3_1f919-1f3fc_1f3fc",
+      "sprite": "call-me-hand-3_1f919-1f3fc_1f3fc",
       "w": 36,
       "h": 36,
       "x": 36,
@@ -1079,35 +1079,35 @@
       "y": 1224
     },
     {
-      "sprite": "ear_emoji-modifier-fitzpatrick-type-1-2_1f442-1f3fb_1f3fb",
+      "sprite": "ear-1-2_1f442-1f3fb_1f3fb",
       "w": 36,
       "h": 36,
       "x": 36,
       "y": 1260
     },
     {
-      "sprite": "ear_emoji-modifier-fitzpatrick-type-3_1f442-1f3fc_1f3fc",
+      "sprite": "ear-3_1f442-1f3fc_1f3fc",
       "w": 36,
       "h": 36,
       "x": 36,
       "y": 1296
     },
     {
-      "sprite": "ear_emoji-modifier-fitzpatrick-type-4_1f442-1f3fd_1f3fd",
+      "sprite": "ear-4_1f442-1f3fd_1f3fd",
       "w": 36,
       "h": 36,
       "x": 36,
       "y": 1332
     },
     {
-      "sprite": "ear_emoji-modifier-fitzpatrick-type-5_1f442-1f3fe_1f3fe",
+      "sprite": "ear-5_1f442-1f3fe_1f3fe",
       "w": 36,
       "h": 36,
       "x": 36,
       "y": 1368
     },
     {
-      "sprite": "ear_emoji-modifier-fitzpatrick-type-6_1f442-1f3ff_1f3ff",
+      "sprite": "ear-6_1f442-1f3ff_1f3ff",
       "w": 36,
       "h": 36,
       "x": 36,
@@ -1121,35 +1121,35 @@
       "y": 1440
     },
     {
-      "sprite": "ear-with-hearing-aid_emoji-modifier-fitzpatrick-type-1-2_1f9bb-1f3fb_1f3fb",
+      "sprite": "ear-with-hearing-aid-1-2_1f9bb-1f3fb_1f3fb",
       "w": 36,
       "h": 36,
       "x": 72,
       "y": 72
     },
     {
-      "sprite": "ear-with-hearing-aid_emoji-modifier-fitzpatrick-type-3_1f9bb-1f3fc_1f3fc",
+      "sprite": "ear-with-hearing-aid-3_1f9bb-1f3fc_1f3fc",
       "w": 36,
       "h": 36,
       "x": 108,
       "y": 72
     },
     {
-      "sprite": "ear-with-hearing-aid_emoji-modifier-fitzpatrick-type-4_1f9bb-1f3fd_1f3fd",
+      "sprite": "ear-with-hearing-aid-4_1f9bb-1f3fd_1f3fd",
       "w": 36,
       "h": 36,
       "x": 144,
       "y": 72
     },
     {
-      "sprite": "ear-with-hearing-aid_emoji-modifier-fitzpatrick-type-5_1f9bb-1f3fe_1f3fe",
+      "sprite": "ear-with-hearing-aid-5_1f9bb-1f3fe_1f3fe",
       "w": 36,
       "h": 36,
       "x": 180,
       "y": 72
     },
     {
-      "sprite": "ear-with-hearing-aid_emoji-modifier-fitzpatrick-type-6_1f9bb-1f3ff_1f3ff",
+      "sprite": "ear-with-hearing-aid-6_1f9bb-1f3ff_1f3ff",
       "w": 36,
       "h": 36,
       "x": 216,
@@ -1163,35 +1163,35 @@
       "y": 72
     },
     {
-      "sprite": "elf_emoji-modifier-fitzpatrick-type-1-2_1f9dd-1f3fb_1f3fb",
+      "sprite": "elf-1-2_1f9dd-1f3fb_1f3fb",
       "w": 36,
       "h": 36,
       "x": 288,
       "y": 72
     },
     {
-      "sprite": "elf_emoji-modifier-fitzpatrick-type-3_1f9dd-1f3fc_1f3fc",
+      "sprite": "elf-3_1f9dd-1f3fc_1f3fc",
       "w": 36,
       "h": 36,
       "x": 324,
       "y": 72
     },
     {
-      "sprite": "elf_emoji-modifier-fitzpatrick-type-4_1f9dd-1f3fd_1f3fd",
+      "sprite": "elf-4_1f9dd-1f3fd_1f3fd",
       "w": 36,
       "h": 36,
       "x": 360,
       "y": 72
     },
     {
-      "sprite": "elf_emoji-modifier-fitzpatrick-type-5_1f9dd-1f3fe_1f3fe",
+      "sprite": "elf-5_1f9dd-1f3fe_1f3fe",
       "w": 36,
       "h": 36,
       "x": 396,
       "y": 72
     },
     {
-      "sprite": "elf_emoji-modifier-fitzpatrick-type-6_1f9dd-1f3ff_1f3ff",
+      "sprite": "elf-6_1f9dd-1f3ff_1f3ff",
       "w": 36,
       "h": 36,
       "x": 432,
@@ -1240,35 +1240,35 @@
       "y": 72
     },
     {
-      "sprite": "face-massage_emoji-modifier-fitzpatrick-type-1-2_1f486-1f3fb_1f3fb",
+      "sprite": "face-massage-1-2_1f486-1f3fb_1f3fb",
       "w": 36,
       "h": 36,
       "x": 684,
       "y": 72
     },
     {
-      "sprite": "face-massage_emoji-modifier-fitzpatrick-type-3_1f486-1f3fc_1f3fc",
+      "sprite": "face-massage-3_1f486-1f3fc_1f3fc",
       "w": 36,
       "h": 36,
       "x": 720,
       "y": 72
     },
     {
-      "sprite": "face-massage_emoji-modifier-fitzpatrick-type-4_1f486-1f3fd_1f3fd",
+      "sprite": "face-massage-4_1f486-1f3fd_1f3fd",
       "w": 36,
       "h": 36,
       "x": 756,
       "y": 72
     },
     {
-      "sprite": "face-massage_emoji-modifier-fitzpatrick-type-5_1f486-1f3fe_1f3fe",
+      "sprite": "face-massage-5_1f486-1f3fe_1f3fe",
       "w": 36,
       "h": 36,
       "x": 792,
       "y": 72
     },
     {
-      "sprite": "face-massage_emoji-modifier-fitzpatrick-type-6_1f486-1f3ff_1f3ff",
+      "sprite": "face-massage-6_1f486-1f3ff_1f3ff",
       "w": 36,
       "h": 36,
       "x": 828,
@@ -1282,35 +1282,35 @@
       "y": 72
     },
     {
-      "sprite": "face-palm_emoji-modifier-fitzpatrick-type-1-2_1f926-1f3fb_1f3fb",
+      "sprite": "face-palm-1-2_1f926-1f3fb_1f3fb",
       "w": 36,
       "h": 36,
       "x": 900,
       "y": 72
     },
     {
-      "sprite": "face-palm_emoji-modifier-fitzpatrick-type-3_1f926-1f3fc_1f3fc",
+      "sprite": "face-palm-3_1f926-1f3fc_1f3fc",
       "w": 36,
       "h": 36,
       "x": 936,
       "y": 72
     },
     {
-      "sprite": "face-palm_emoji-modifier-fitzpatrick-type-4_1f926-1f3fd_1f3fd",
+      "sprite": "face-palm-4_1f926-1f3fd_1f3fd",
       "w": 36,
       "h": 36,
       "x": 972,
       "y": 72
     },
     {
-      "sprite": "face-palm_emoji-modifier-fitzpatrick-type-5_1f926-1f3fe_1f3fe",
+      "sprite": "face-palm-5_1f926-1f3fe_1f3fe",
       "w": 36,
       "h": 36,
       "x": 1008,
       "y": 72
     },
     {
-      "sprite": "face-palm_emoji-modifier-fitzpatrick-type-6_1f926-1f3ff_1f3ff",
+      "sprite": "face-palm-6_1f926-1f3ff_1f3ff",
       "w": 36,
       "h": 36,
       "x": 1044,
@@ -1394,35 +1394,35 @@
       "y": 72
     },
     {
-      "sprite": "face-with-no-good-gesture_emoji-modifier-fitzpatrick-type-1-2_1f645-1f3fb_1f3fb",
+      "sprite": "face-with-no-good-gesture-1-2_1f645-1f3fb_1f3fb",
       "w": 36,
       "h": 36,
       "x": 72,
       "y": 108
     },
     {
-      "sprite": "face-with-no-good-gesture_emoji-modifier-fitzpatrick-type-3_1f645-1f3fc_1f3fc",
+      "sprite": "face-with-no-good-gesture-3_1f645-1f3fc_1f3fc",
       "w": 36,
       "h": 36,
       "x": 72,
       "y": 144
     },
     {
-      "sprite": "face-with-no-good-gesture_emoji-modifier-fitzpatrick-type-4_1f645-1f3fd_1f3fd",
+      "sprite": "face-with-no-good-gesture-4_1f645-1f3fd_1f3fd",
       "w": 36,
       "h": 36,
       "x": 72,
       "y": 180
     },
     {
-      "sprite": "face-with-no-good-gesture_emoji-modifier-fitzpatrick-type-5_1f645-1f3fe_1f3fe",
+      "sprite": "face-with-no-good-gesture-5_1f645-1f3fe_1f3fe",
       "w": 36,
       "h": 36,
       "x": 72,
       "y": 216
     },
     {
-      "sprite": "face-with-no-good-gesture_emoji-modifier-fitzpatrick-type-6_1f645-1f3ff_1f3ff",
+      "sprite": "face-with-no-good-gesture-6_1f645-1f3ff_1f3ff",
       "w": 36,
       "h": 36,
       "x": 72,
@@ -1436,35 +1436,35 @@
       "y": 288
     },
     {
-      "sprite": "face-with-ok-gesture_emoji-modifier-fitzpatrick-type-1-2_1f646-1f3fb_1f3fb",
+      "sprite": "face-with-ok-gesture-1-2_1f646-1f3fb_1f3fb",
       "w": 36,
       "h": 36,
       "x": 72,
       "y": 324
     },
     {
-      "sprite": "face-with-ok-gesture_emoji-modifier-fitzpatrick-type-3_1f646-1f3fc_1f3fc",
+      "sprite": "face-with-ok-gesture-3_1f646-1f3fc_1f3fc",
       "w": 36,
       "h": 36,
       "x": 72,
       "y": 360
     },
     {
-      "sprite": "face-with-ok-gesture_emoji-modifier-fitzpatrick-type-4_1f646-1f3fd_1f3fd",
+      "sprite": "face-with-ok-gesture-4_1f646-1f3fd_1f3fd",
       "w": 36,
       "h": 36,
       "x": 72,
       "y": 396
     },
     {
-      "sprite": "face-with-ok-gesture_emoji-modifier-fitzpatrick-type-5_1f646-1f3fe_1f3fe",
+      "sprite": "face-with-ok-gesture-5_1f646-1f3fe_1f3fe",
       "w": 36,
       "h": 36,
       "x": 72,
       "y": 432
     },
     {
-      "sprite": "face-with-ok-gesture_emoji-modifier-fitzpatrick-type-6_1f646-1f3ff_1f3ff",
+      "sprite": "face-with-ok-gesture-6_1f646-1f3ff_1f3ff",
       "w": 36,
       "h": 36,
       "x": 72,
@@ -1618,35 +1618,35 @@
       "y": 1224
     },
     {
-      "sprite": "fairy_emoji-modifier-fitzpatrick-type-1-2_1f9da-1f3fb_1f3fb",
+      "sprite": "fairy-1-2_1f9da-1f3fb_1f3fb",
       "w": 36,
       "h": 36,
       "x": 72,
       "y": 1260
     },
     {
-      "sprite": "fairy_emoji-modifier-fitzpatrick-type-3_1f9da-1f3fc_1f3fc",
+      "sprite": "fairy-3_1f9da-1f3fc_1f3fc",
       "w": 36,
       "h": 36,
       "x": 72,
       "y": 1296
     },
     {
-      "sprite": "fairy_emoji-modifier-fitzpatrick-type-4_1f9da-1f3fd_1f3fd",
+      "sprite": "fairy-4_1f9da-1f3fd_1f3fd",
       "w": 36,
       "h": 36,
       "x": 72,
       "y": 1332
     },
     {
-      "sprite": "fairy_emoji-modifier-fitzpatrick-type-5_1f9da-1f3fe_1f3fe",
+      "sprite": "fairy-5_1f9da-1f3fe_1f3fe",
       "w": 36,
       "h": 36,
       "x": 72,
       "y": 1368
     },
     {
-      "sprite": "fairy_emoji-modifier-fitzpatrick-type-6_1f9da-1f3ff_1f3ff",
+      "sprite": "fairy-6_1f9da-1f3ff_1f3ff",
       "w": 36,
       "h": 36,
       "x": 72,
@@ -1884,35 +1884,35 @@
       "y": 108
     },
     {
-      "sprite": "father-christmas_emoji-modifier-fitzpatrick-type-1-2_1f385-1f3fb_1f3fb",
+      "sprite": "father-christmas-1-2_1f385-1f3fb_1f3fb",
       "w": 36,
       "h": 36,
       "x": 1260,
       "y": 108
     },
     {
-      "sprite": "father-christmas_emoji-modifier-fitzpatrick-type-3_1f385-1f3fc_1f3fc",
+      "sprite": "father-christmas-3_1f385-1f3fc_1f3fc",
       "w": 36,
       "h": 36,
       "x": 1296,
       "y": 108
     },
     {
-      "sprite": "father-christmas_emoji-modifier-fitzpatrick-type-4_1f385-1f3fd_1f3fd",
+      "sprite": "father-christmas-4_1f385-1f3fd_1f3fd",
       "w": 36,
       "h": 36,
       "x": 1332,
       "y": 108
     },
     {
-      "sprite": "father-christmas_emoji-modifier-fitzpatrick-type-5_1f385-1f3fe_1f3fe",
+      "sprite": "father-christmas-5_1f385-1f3fe_1f3fe",
       "w": 36,
       "h": 36,
       "x": 1368,
       "y": 108
     },
     {
-      "sprite": "father-christmas_emoji-modifier-fitzpatrick-type-6_1f385-1f3ff_1f3ff",
+      "sprite": "father-christmas-6_1f385-1f3ff_1f3ff",
       "w": 36,
       "h": 36,
       "x": 1404,
@@ -2815,35 +2815,35 @@
       "y": 180
     },
     {
-      "sprite": "fisted-hand-sign_emoji-modifier-fitzpatrick-type-1-2_1f44a-1f3fb_1f3fb",
+      "sprite": "fisted-hand-sign-1-2_1f44a-1f3fb_1f3fb",
       "w": 36,
       "h": 36,
       "x": 792,
       "y": 180
     },
     {
-      "sprite": "fisted-hand-sign_emoji-modifier-fitzpatrick-type-3_1f44a-1f3fc_1f3fc",
+      "sprite": "fisted-hand-sign-3_1f44a-1f3fc_1f3fc",
       "w": 36,
       "h": 36,
       "x": 828,
       "y": 180
     },
     {
-      "sprite": "fisted-hand-sign_emoji-modifier-fitzpatrick-type-4_1f44a-1f3fd_1f3fd",
+      "sprite": "fisted-hand-sign-4_1f44a-1f3fd_1f3fd",
       "w": 36,
       "h": 36,
       "x": 864,
       "y": 180
     },
     {
-      "sprite": "fisted-hand-sign_emoji-modifier-fitzpatrick-type-5_1f44a-1f3fe_1f3fe",
+      "sprite": "fisted-hand-sign-5_1f44a-1f3fe_1f3fe",
       "w": 36,
       "h": 36,
       "x": 900,
       "y": 180
     },
     {
-      "sprite": "fisted-hand-sign_emoji-modifier-fitzpatrick-type-6_1f44a-1f3ff_1f3ff",
+      "sprite": "fisted-hand-sign-6_1f44a-1f3ff_1f3ff",
       "w": 36,
       "h": 36,
       "x": 936,
@@ -2864,35 +2864,35 @@
       "y": 180
     },
     {
-      "sprite": "flexed-biceps_emoji-modifier-fitzpatrick-type-1-2_1f4aa-1f3fb_1f3fb",
+      "sprite": "flexed-biceps-1-2_1f4aa-1f3fb_1f3fb",
       "w": 36,
       "h": 36,
       "x": 1044,
       "y": 180
     },
     {
-      "sprite": "flexed-biceps_emoji-modifier-fitzpatrick-type-3_1f4aa-1f3fc_1f3fc",
+      "sprite": "flexed-biceps-3_1f4aa-1f3fc_1f3fc",
       "w": 36,
       "h": 36,
       "x": 1080,
       "y": 180
     },
     {
-      "sprite": "flexed-biceps_emoji-modifier-fitzpatrick-type-4_1f4aa-1f3fd_1f3fd",
+      "sprite": "flexed-biceps-4_1f4aa-1f3fd_1f3fd",
       "w": 36,
       "h": 36,
       "x": 1116,
       "y": 180
     },
     {
-      "sprite": "flexed-biceps_emoji-modifier-fitzpatrick-type-5_1f4aa-1f3fe_1f3fe",
+      "sprite": "flexed-biceps-5_1f4aa-1f3fe_1f3fe",
       "w": 36,
       "h": 36,
       "x": 1152,
       "y": 180
     },
     {
-      "sprite": "flexed-biceps_emoji-modifier-fitzpatrick-type-6_1f4aa-1f3ff_1f3ff",
+      "sprite": "flexed-biceps-6_1f4aa-1f3ff_1f3ff",
       "w": 36,
       "h": 36,
       "x": 1188,
@@ -2913,35 +2913,35 @@
       "y": 180
     },
     {
-      "sprite": "foot_emoji-modifier-fitzpatrick-type-1-2_1f9b6-1f3fb_1f3fb",
+      "sprite": "foot-1-2_1f9b6-1f3fb_1f3fb",
       "w": 36,
       "h": 36,
       "x": 1296,
       "y": 180
     },
     {
-      "sprite": "foot_emoji-modifier-fitzpatrick-type-3_1f9b6-1f3fc_1f3fc",
+      "sprite": "foot-3_1f9b6-1f3fc_1f3fc",
       "w": 36,
       "h": 36,
       "x": 1332,
       "y": 180
     },
     {
-      "sprite": "foot_emoji-modifier-fitzpatrick-type-4_1f9b6-1f3fd_1f3fd",
+      "sprite": "foot-4_1f9b6-1f3fd_1f3fd",
       "w": 36,
       "h": 36,
       "x": 1368,
       "y": 180
     },
     {
-      "sprite": "foot_emoji-modifier-fitzpatrick-type-5_1f9b6-1f3fe_1f3fe",
+      "sprite": "foot-5_1f9b6-1f3fe_1f3fe",
       "w": 36,
       "h": 36,
       "x": 1404,
       "y": 180
     },
     {
-      "sprite": "foot_emoji-modifier-fitzpatrick-type-6_1f9b6-1f3ff_1f3ff",
+      "sprite": "foot-6_1f9b6-1f3ff_1f3ff",
       "w": 36,
       "h": 36,
       "x": 1440,
@@ -2990,35 +2990,35 @@
       "y": 396
     },
     {
-      "sprite": "girl_emoji-modifier-fitzpatrick-type-1-2_1f467-1f3fb_1f3fb",
+      "sprite": "girl-1-2_1f467-1f3fb_1f3fb",
       "w": 36,
       "h": 36,
       "x": 180,
       "y": 432
     },
     {
-      "sprite": "girl_emoji-modifier-fitzpatrick-type-3_1f467-1f3fc_1f3fc",
+      "sprite": "girl-3_1f467-1f3fc_1f3fc",
       "w": 36,
       "h": 36,
       "x": 180,
       "y": 468
     },
     {
-      "sprite": "girl_emoji-modifier-fitzpatrick-type-4_1f467-1f3fd_1f3fd",
+      "sprite": "girl-4_1f467-1f3fd_1f3fd",
       "w": 36,
       "h": 36,
       "x": 180,
       "y": 504
     },
     {
-      "sprite": "girl_emoji-modifier-fitzpatrick-type-5_1f467-1f3fe_1f3fe",
+      "sprite": "girl-5_1f467-1f3fe_1f3fe",
       "w": 36,
       "h": 36,
       "x": 180,
       "y": 540
     },
     {
-      "sprite": "girl_emoji-modifier-fitzpatrick-type-6_1f467-1f3ff_1f3ff",
+      "sprite": "girl-6_1f467-1f3ff_1f3ff",
       "w": 36,
       "h": 36,
       "x": 180,
@@ -3095,35 +3095,35 @@
       "y": 936
     },
     {
-      "sprite": "guardsman_emoji-modifier-fitzpatrick-type-1-2_1f482-1f3fb_1f3fb",
+      "sprite": "guardsman-1-2_1f482-1f3fb_1f3fb",
       "w": 36,
       "h": 36,
       "x": 180,
       "y": 972
     },
     {
-      "sprite": "guardsman_emoji-modifier-fitzpatrick-type-3_1f482-1f3fc_1f3fc",
+      "sprite": "guardsman-3_1f482-1f3fc_1f3fc",
       "w": 36,
       "h": 36,
       "x": 180,
       "y": 1008
     },
     {
-      "sprite": "guardsman_emoji-modifier-fitzpatrick-type-4_1f482-1f3fd_1f3fd",
+      "sprite": "guardsman-4_1f482-1f3fd_1f3fd",
       "w": 36,
       "h": 36,
       "x": 180,
       "y": 1044
     },
     {
-      "sprite": "guardsman_emoji-modifier-fitzpatrick-type-5_1f482-1f3fe_1f3fe",
+      "sprite": "guardsman-5_1f482-1f3fe_1f3fe",
       "w": 36,
       "h": 36,
       "x": 180,
       "y": 1080
     },
     {
-      "sprite": "guardsman_emoji-modifier-fitzpatrick-type-6_1f482-1f3ff_1f3ff",
+      "sprite": "guardsman-6_1f482-1f3ff_1f3ff",
       "w": 36,
       "h": 36,
       "x": 180,
@@ -3137,35 +3137,35 @@
       "y": 1152
     },
     {
-      "sprite": "haircut_emoji-modifier-fitzpatrick-type-1-2_1f487-1f3fb_1f3fb",
+      "sprite": "haircut-1-2_1f487-1f3fb_1f3fb",
       "w": 36,
       "h": 36,
       "x": 180,
       "y": 1188
     },
     {
-      "sprite": "haircut_emoji-modifier-fitzpatrick-type-3_1f487-1f3fc_1f3fc",
+      "sprite": "haircut-3_1f487-1f3fc_1f3fc",
       "w": 36,
       "h": 36,
       "x": 180,
       "y": 1224
     },
     {
-      "sprite": "haircut_emoji-modifier-fitzpatrick-type-4_1f487-1f3fd_1f3fd",
+      "sprite": "haircut-4_1f487-1f3fd_1f3fd",
       "w": 36,
       "h": 36,
       "x": 180,
       "y": 1260
     },
     {
-      "sprite": "haircut_emoji-modifier-fitzpatrick-type-5_1f487-1f3fe_1f3fe",
+      "sprite": "haircut-5_1f487-1f3fe_1f3fe",
       "w": 36,
       "h": 36,
       "x": 180,
       "y": 1296
     },
     {
-      "sprite": "haircut_emoji-modifier-fitzpatrick-type-6_1f487-1f3ff_1f3ff",
+      "sprite": "haircut-6_1f487-1f3ff_1f3ff",
       "w": 36,
       "h": 36,
       "x": 180,
@@ -3193,35 +3193,35 @@
       "y": 1440
     },
     {
-      "sprite": "hand-with-index-and-middle-fingers-crossed_emoji-modifier-fitzpatrick-type-1-2_1f91e-1f3fb_1f3fb",
+      "sprite": "hand-with-index-and-middle-fingers-crossed-1-2_1f91e-1f3fb_1f3fb",
       "w": 36,
       "h": 36,
       "x": 216,
       "y": 216
     },
     {
-      "sprite": "hand-with-index-and-middle-fingers-crossed_emoji-modifier-fitzpatrick-type-3_1f91e-1f3fc_1f3fc",
+      "sprite": "hand-with-index-and-middle-fingers-crossed-3_1f91e-1f3fc_1f3fc",
       "w": 36,
       "h": 36,
       "x": 252,
       "y": 216
     },
     {
-      "sprite": "hand-with-index-and-middle-fingers-crossed_emoji-modifier-fitzpatrick-type-4_1f91e-1f3fd_1f3fd",
+      "sprite": "hand-with-index-and-middle-fingers-crossed-4_1f91e-1f3fd_1f3fd",
       "w": 36,
       "h": 36,
       "x": 288,
       "y": 216
     },
     {
-      "sprite": "hand-with-index-and-middle-fingers-crossed_emoji-modifier-fitzpatrick-type-5_1f91e-1f3fe_1f3fe",
+      "sprite": "hand-with-index-and-middle-fingers-crossed-5_1f91e-1f3fe_1f3fe",
       "w": 36,
       "h": 36,
       "x": 324,
       "y": 216
     },
     {
-      "sprite": "hand-with-index-and-middle-fingers-crossed_emoji-modifier-fitzpatrick-type-6_1f91e-1f3ff_1f3ff",
+      "sprite": "hand-with-index-and-middle-fingers-crossed-6_1f91e-1f3ff_1f3ff",
       "w": 36,
       "h": 36,
       "x": 360,
@@ -3235,35 +3235,35 @@
       "y": 216
     },
     {
-      "sprite": "happy-person-raising-one-hand_emoji-modifier-fitzpatrick-type-1-2_1f64b-1f3fb_1f3fb",
+      "sprite": "happy-person-raising-one-hand-1-2_1f64b-1f3fb_1f3fb",
       "w": 36,
       "h": 36,
       "x": 432,
       "y": 216
     },
     {
-      "sprite": "happy-person-raising-one-hand_emoji-modifier-fitzpatrick-type-3_1f64b-1f3fc_1f3fc",
+      "sprite": "happy-person-raising-one-hand-3_1f64b-1f3fc_1f3fc",
       "w": 36,
       "h": 36,
       "x": 468,
       "y": 216
     },
     {
-      "sprite": "happy-person-raising-one-hand_emoji-modifier-fitzpatrick-type-4_1f64b-1f3fd_1f3fd",
+      "sprite": "happy-person-raising-one-hand-4_1f64b-1f3fd_1f3fd",
       "w": 36,
       "h": 36,
       "x": 504,
       "y": 216
     },
     {
-      "sprite": "happy-person-raising-one-hand_emoji-modifier-fitzpatrick-type-5_1f64b-1f3fe_1f3fe",
+      "sprite": "happy-person-raising-one-hand-5_1f64b-1f3fe_1f3fe",
       "w": 36,
       "h": 36,
       "x": 540,
       "y": 216
     },
     {
-      "sprite": "happy-person-raising-one-hand_emoji-modifier-fitzpatrick-type-6_1f64b-1f3ff_1f3ff",
+      "sprite": "happy-person-raising-one-hand-6_1f64b-1f3ff_1f3ff",
       "w": 36,
       "h": 36,
       "x": 576,
@@ -3361,35 +3361,35 @@
       "y": 216
     },
     {
-      "sprite": "i-love-you-hand-sign_emoji-modifier-fitzpatrick-type-1-2_1f91f-1f3fb_1f3fb",
+      "sprite": "i-love-you-hand-sign-1-2_1f91f-1f3fb_1f3fb",
       "w": 36,
       "h": 36,
       "x": 1080,
       "y": 216
     },
     {
-      "sprite": "i-love-you-hand-sign_emoji-modifier-fitzpatrick-type-3_1f91f-1f3fc_1f3fc",
+      "sprite": "i-love-you-hand-sign-3_1f91f-1f3fc_1f3fc",
       "w": 36,
       "h": 36,
       "x": 1116,
       "y": 216
     },
     {
-      "sprite": "i-love-you-hand-sign_emoji-modifier-fitzpatrick-type-4_1f91f-1f3fd_1f3fd",
+      "sprite": "i-love-you-hand-sign-4_1f91f-1f3fd_1f3fd",
       "w": 36,
       "h": 36,
       "x": 1152,
       "y": 216
     },
     {
-      "sprite": "i-love-you-hand-sign_emoji-modifier-fitzpatrick-type-5_1f91f-1f3fe_1f3fe",
+      "sprite": "i-love-you-hand-sign-5_1f91f-1f3fe_1f3fe",
       "w": 36,
       "h": 36,
       "x": 1188,
       "y": 216
     },
     {
-      "sprite": "i-love-you-hand-sign_emoji-modifier-fitzpatrick-type-6_1f91f-1f3ff_1f3ff",
+      "sprite": "i-love-you-hand-sign-6_1f91f-1f3ff_1f3ff",
       "w": 36,
       "h": 36,
       "x": 1224,
@@ -3410,35 +3410,35 @@
       "y": 216
     },
     {
-      "sprite": "information-desk-person_emoji-modifier-fitzpatrick-type-1-2_1f481-1f3fb_1f3fb",
+      "sprite": "information-desk-person-1-2_1f481-1f3fb_1f3fb",
       "w": 36,
       "h": 36,
       "x": 1332,
       "y": 216
     },
     {
-      "sprite": "information-desk-person_emoji-modifier-fitzpatrick-type-3_1f481-1f3fc_1f3fc",
+      "sprite": "information-desk-person-3_1f481-1f3fc_1f3fc",
       "w": 36,
       "h": 36,
       "x": 1368,
       "y": 216
     },
     {
-      "sprite": "information-desk-person_emoji-modifier-fitzpatrick-type-4_1f481-1f3fd_1f3fd",
+      "sprite": "information-desk-person-4_1f481-1f3fd_1f3fd",
       "w": 36,
       "h": 36,
       "x": 1404,
       "y": 216
     },
     {
-      "sprite": "information-desk-person_emoji-modifier-fitzpatrick-type-5_1f481-1f3fe_1f3fe",
+      "sprite": "information-desk-person-5_1f481-1f3fe_1f3fe",
       "w": 36,
       "h": 36,
       "x": 1440,
       "y": 216
     },
     {
-      "sprite": "information-desk-person_emoji-modifier-fitzpatrick-type-6_1f481-1f3ff_1f3ff",
+      "sprite": "information-desk-person-6_1f481-1f3ff_1f3ff",
       "w": 36,
       "h": 36,
       "x": 216,
@@ -3599,35 +3599,35 @@
       "y": 1044
     },
     {
-      "sprite": "kneeling-person_emoji-modifier-fitzpatrick-type-1-2_1f9ce-1f3fb_1f3fb",
+      "sprite": "kneeling-person-1-2_1f9ce-1f3fb_1f3fb",
       "w": 36,
       "h": 36,
       "x": 216,
       "y": 1080
     },
     {
-      "sprite": "kneeling-person_emoji-modifier-fitzpatrick-type-3_1f9ce-1f3fc_1f3fc",
+      "sprite": "kneeling-person-3_1f9ce-1f3fc_1f3fc",
       "w": 36,
       "h": 36,
       "x": 216,
       "y": 1116
     },
     {
-      "sprite": "kneeling-person_emoji-modifier-fitzpatrick-type-4_1f9ce-1f3fd_1f3fd",
+      "sprite": "kneeling-person-4_1f9ce-1f3fd_1f3fd",
       "w": 36,
       "h": 36,
       "x": 216,
       "y": 1152
     },
     {
-      "sprite": "kneeling-person_emoji-modifier-fitzpatrick-type-5_1f9ce-1f3fe_1f3fe",
+      "sprite": "kneeling-person-5_1f9ce-1f3fe_1f3fe",
       "w": 36,
       "h": 36,
       "x": 216,
       "y": 1188
     },
     {
-      "sprite": "kneeling-person_emoji-modifier-fitzpatrick-type-6_1f9ce-1f3ff_1f3ff",
+      "sprite": "kneeling-person-6_1f9ce-1f3ff_1f3ff",
       "w": 36,
       "h": 36,
       "x": 216,
@@ -3648,35 +3648,35 @@
       "y": 1296
     },
     {
-      "sprite": "left-facing-fist_emoji-modifier-fitzpatrick-type-1-2_1f91b-1f3fb_1f3fb",
+      "sprite": "left-facing-fist-1-2_1f91b-1f3fb_1f3fb",
       "w": 36,
       "h": 36,
       "x": 216,
       "y": 1332
     },
     {
-      "sprite": "left-facing-fist_emoji-modifier-fitzpatrick-type-3_1f91b-1f3fc_1f3fc",
+      "sprite": "left-facing-fist-3_1f91b-1f3fc_1f3fc",
       "w": 36,
       "h": 36,
       "x": 216,
       "y": 1368
     },
     {
-      "sprite": "left-facing-fist_emoji-modifier-fitzpatrick-type-4_1f91b-1f3fd_1f3fd",
+      "sprite": "left-facing-fist-4_1f91b-1f3fd_1f3fd",
       "w": 36,
       "h": 36,
       "x": 216,
       "y": 1404
     },
     {
-      "sprite": "left-facing-fist_emoji-modifier-fitzpatrick-type-5_1f91b-1f3fe_1f3fe",
+      "sprite": "left-facing-fist-5_1f91b-1f3fe_1f3fe",
       "w": 36,
       "h": 36,
       "x": 216,
       "y": 1440
     },
     {
-      "sprite": "left-facing-fist_emoji-modifier-fitzpatrick-type-6_1f91b-1f3ff_1f3ff",
+      "sprite": "left-facing-fist-6_1f91b-1f3ff_1f3ff",
       "w": 36,
       "h": 36,
       "x": 252,
@@ -3690,35 +3690,35 @@
       "y": 252
     },
     {
-      "sprite": "leg_emoji-modifier-fitzpatrick-type-1-2_1f9b5-1f3fb_1f3fb",
+      "sprite": "leg-1-2_1f9b5-1f3fb_1f3fb",
       "w": 36,
       "h": 36,
       "x": 324,
       "y": 252
     },
     {
-      "sprite": "leg_emoji-modifier-fitzpatrick-type-3_1f9b5-1f3fc_1f3fc",
+      "sprite": "leg-3_1f9b5-1f3fc_1f3fc",
       "w": 36,
       "h": 36,
       "x": 360,
       "y": 252
     },
     {
-      "sprite": "leg_emoji-modifier-fitzpatrick-type-4_1f9b5-1f3fd_1f3fd",
+      "sprite": "leg-4_1f9b5-1f3fd_1f3fd",
       "w": 36,
       "h": 36,
       "x": 396,
       "y": 252
     },
     {
-      "sprite": "leg_emoji-modifier-fitzpatrick-type-5_1f9b5-1f3fe_1f3fe",
+      "sprite": "leg-5_1f9b5-1f3fe_1f3fe",
       "w": 36,
       "h": 36,
       "x": 432,
       "y": 252
     },
     {
-      "sprite": "leg_emoji-modifier-fitzpatrick-type-6_1f9b5-1f3ff_1f3ff",
+      "sprite": "leg-6_1f9b5-1f3ff_1f3ff",
       "w": 36,
       "h": 36,
       "x": 468,
@@ -3760,35 +3760,35 @@
       "y": 252
     },
     {
-      "sprite": "mage_emoji-modifier-fitzpatrick-type-1-2_1f9d9-1f3fb_1f3fb",
+      "sprite": "mage-1-2_1f9d9-1f3fb_1f3fb",
       "w": 36,
       "h": 36,
       "x": 684,
       "y": 252
     },
     {
-      "sprite": "mage_emoji-modifier-fitzpatrick-type-3_1f9d9-1f3fc_1f3fc",
+      "sprite": "mage-3_1f9d9-1f3fc_1f3fc",
       "w": 36,
       "h": 36,
       "x": 720,
       "y": 252
     },
     {
-      "sprite": "mage_emoji-modifier-fitzpatrick-type-4_1f9d9-1f3fd_1f3fd",
+      "sprite": "mage-4_1f9d9-1f3fd_1f3fd",
       "w": 36,
       "h": 36,
       "x": 756,
       "y": 252
     },
     {
-      "sprite": "mage_emoji-modifier-fitzpatrick-type-5_1f9d9-1f3fe_1f3fe",
+      "sprite": "mage-5_1f9d9-1f3fe_1f3fe",
       "w": 36,
       "h": 36,
       "x": 792,
       "y": 252
     },
     {
-      "sprite": "mage_emoji-modifier-fitzpatrick-type-6_1f9d9-1f3ff_1f3ff",
+      "sprite": "mage-6_1f9d9-1f3ff_1f3ff",
       "w": 36,
       "h": 36,
       "x": 828,
@@ -4642,35 +4642,35 @@
       "y": 324
     },
     {
-      "sprite": "man_emoji-modifier-fitzpatrick-type-1-2_1f468-1f3fb_1f3fb",
+      "sprite": "man-1-2_1f468-1f3fb_1f3fb",
       "w": 36,
       "h": 36,
       "x": 540,
       "y": 324
     },
     {
-      "sprite": "man_emoji-modifier-fitzpatrick-type-3_1f468-1f3fc_1f3fc",
+      "sprite": "man-3_1f468-1f3fc_1f3fc",
       "w": 36,
       "h": 36,
       "x": 576,
       "y": 324
     },
     {
-      "sprite": "man_emoji-modifier-fitzpatrick-type-4_1f468-1f3fd_1f3fd",
+      "sprite": "man-4_1f468-1f3fd_1f3fd",
       "w": 36,
       "h": 36,
       "x": 612,
       "y": 324
     },
     {
-      "sprite": "man_emoji-modifier-fitzpatrick-type-5_1f468-1f3fe_1f3fe",
+      "sprite": "man-5_1f468-1f3fe_1f3fe",
       "w": 36,
       "h": 36,
       "x": 648,
       "y": 324
     },
     {
-      "sprite": "man_emoji-modifier-fitzpatrick-type-6_1f468-1f3ff_1f3ff",
+      "sprite": "man-6_1f468-1f3ff_1f3ff",
       "w": 36,
       "h": 36,
       "x": 684,
@@ -4684,35 +4684,35 @@
       "y": 324
     },
     {
-      "sprite": "man-and-woman-holding-hands_emoji-modifier-fitzpatrick-type-1-2_1f46b-1f3fb_1f3fb",
+      "sprite": "man-and-woman-holding-hands-1-2_1f46b-1f3fb_1f3fb",
       "w": 36,
       "h": 36,
       "x": 756,
       "y": 324
     },
     {
-      "sprite": "man-and-woman-holding-hands_emoji-modifier-fitzpatrick-type-3_1f46b-1f3fc_1f3fc",
+      "sprite": "man-and-woman-holding-hands-3_1f46b-1f3fc_1f3fc",
       "w": 36,
       "h": 36,
       "x": 792,
       "y": 324
     },
     {
-      "sprite": "man-and-woman-holding-hands_emoji-modifier-fitzpatrick-type-4_1f46b-1f3fd_1f3fd",
+      "sprite": "man-and-woman-holding-hands-4_1f46b-1f3fd_1f3fd",
       "w": 36,
       "h": 36,
       "x": 828,
       "y": 324
     },
     {
-      "sprite": "man-and-woman-holding-hands_emoji-modifier-fitzpatrick-type-5_1f46b-1f3fe_1f3fe",
+      "sprite": "man-and-woman-holding-hands-5_1f46b-1f3fe_1f3fe",
       "w": 36,
       "h": 36,
       "x": 864,
       "y": 324
     },
     {
-      "sprite": "man-and-woman-holding-hands_emoji-modifier-fitzpatrick-type-6_1f46b-1f3ff_1f3ff",
+      "sprite": "man-and-woman-holding-hands-6_1f46b-1f3ff_1f3ff",
       "w": 36,
       "h": 36,
       "x": 900,
@@ -4852,35 +4852,35 @@
       "y": 468
     },
     {
-      "sprite": "man-dancing_emoji-modifier-fitzpatrick-type-1-2_1f57a-1f3fb_1f3fb",
+      "sprite": "man-dancing-1-2_1f57a-1f3fb_1f3fb",
       "w": 36,
       "h": 36,
       "x": 324,
       "y": 504
     },
     {
-      "sprite": "man-dancing_emoji-modifier-fitzpatrick-type-3_1f57a-1f3fc_1f3fc",
+      "sprite": "man-dancing-3_1f57a-1f3fc_1f3fc",
       "w": 36,
       "h": 36,
       "x": 324,
       "y": 540
     },
     {
-      "sprite": "man-dancing_emoji-modifier-fitzpatrick-type-4_1f57a-1f3fd_1f3fd",
+      "sprite": "man-dancing-4_1f57a-1f3fd_1f3fd",
       "w": 36,
       "h": 36,
       "x": 324,
       "y": 576
     },
     {
-      "sprite": "man-dancing_emoji-modifier-fitzpatrick-type-5_1f57a-1f3fe_1f3fe",
+      "sprite": "man-dancing-5_1f57a-1f3fe_1f3fe",
       "w": 36,
       "h": 36,
       "x": 324,
       "y": 612
     },
     {
-      "sprite": "man-dancing_emoji-modifier-fitzpatrick-type-6_1f57a-1f3ff_1f3ff",
+      "sprite": "man-dancing-6_1f57a-1f3ff_1f3ff",
       "w": 36,
       "h": 36,
       "x": 324,
@@ -5279,35 +5279,35 @@
       "y": 468
     },
     {
-      "sprite": "man-in-business-suit-levitating_emoji-modifier-fitzpatrick-type-1-2_1f574-1f3fb_1f3fb",
+      "sprite": "man-in-business-suit-levitating-1-2_1f574-1f3fb_1f3fb",
       "w": 36,
       "h": 36,
       "x": 360,
       "y": 504
     },
     {
-      "sprite": "man-in-business-suit-levitating_emoji-modifier-fitzpatrick-type-3_1f574-1f3fc_1f3fc",
+      "sprite": "man-in-business-suit-levitating-3_1f574-1f3fc_1f3fc",
       "w": 36,
       "h": 36,
       "x": 360,
       "y": 540
     },
     {
-      "sprite": "man-in-business-suit-levitating_emoji-modifier-fitzpatrick-type-4_1f574-1f3fd_1f3fd",
+      "sprite": "man-in-business-suit-levitating-4_1f574-1f3fd_1f3fd",
       "w": 36,
       "h": 36,
       "x": 360,
       "y": 576
     },
     {
-      "sprite": "man-in-business-suit-levitating_emoji-modifier-fitzpatrick-type-5_1f574-1f3fe_1f3fe",
+      "sprite": "man-in-business-suit-levitating-5_1f574-1f3fe_1f3fe",
       "w": 36,
       "h": 36,
       "x": 360,
       "y": 612
     },
     {
-      "sprite": "man-in-business-suit-levitating_emoji-modifier-fitzpatrick-type-6_1f574-1f3ff_1f3ff",
+      "sprite": "man-in-business-suit-levitating-6_1f574-1f3ff_1f3ff",
       "w": 36,
       "h": 36,
       "x": 360,
@@ -5447,35 +5447,35 @@
       "y": 1332
     },
     {
-      "sprite": "man-in-tuxedo_emoji-modifier-fitzpatrick-type-1-2_1f935-1f3fb_1f3fb",
+      "sprite": "man-in-tuxedo-1-2_1f935-1f3fb_1f3fb",
       "w": 36,
       "h": 36,
       "x": 360,
       "y": 1368
     },
     {
-      "sprite": "man-in-tuxedo_emoji-modifier-fitzpatrick-type-3_1f935-1f3fc_1f3fc",
+      "sprite": "man-in-tuxedo-3_1f935-1f3fc_1f3fc",
       "w": 36,
       "h": 36,
       "x": 360,
       "y": 1404
     },
     {
-      "sprite": "man-in-tuxedo_emoji-modifier-fitzpatrick-type-4_1f935-1f3fd_1f3fd",
+      "sprite": "man-in-tuxedo-4_1f935-1f3fd_1f3fd",
       "w": 36,
       "h": 36,
       "x": 360,
       "y": 1440
     },
     {
-      "sprite": "man-in-tuxedo_emoji-modifier-fitzpatrick-type-5_1f935-1f3fe_1f3fe",
+      "sprite": "man-in-tuxedo-5_1f935-1f3fe_1f3fe",
       "w": 36,
       "h": 36,
       "x": 396,
       "y": 396
     },
     {
-      "sprite": "man-in-tuxedo_emoji-modifier-fitzpatrick-type-6_1f935-1f3ff_1f3ff",
+      "sprite": "man-in-tuxedo-6_1f935-1f3ff_1f3ff",
       "w": 36,
       "h": 36,
       "x": 432,
@@ -6126,35 +6126,35 @@
       "y": 648
     },
     {
-      "sprite": "man-with-gua-pi-mao_emoji-modifier-fitzpatrick-type-1-2_1f472-1f3fb_1f3fb",
+      "sprite": "man-with-gua-pi-mao-1-2_1f472-1f3fb_1f3fb",
       "w": 36,
       "h": 36,
       "x": 432,
       "y": 684
     },
     {
-      "sprite": "man-with-gua-pi-mao_emoji-modifier-fitzpatrick-type-3_1f472-1f3fc_1f3fc",
+      "sprite": "man-with-gua-pi-mao-3_1f472-1f3fc_1f3fc",
       "w": 36,
       "h": 36,
       "x": 432,
       "y": 720
     },
     {
-      "sprite": "man-with-gua-pi-mao_emoji-modifier-fitzpatrick-type-4_1f472-1f3fd_1f3fd",
+      "sprite": "man-with-gua-pi-mao-4_1f472-1f3fd_1f3fd",
       "w": 36,
       "h": 36,
       "x": 432,
       "y": 756
     },
     {
-      "sprite": "man-with-gua-pi-mao_emoji-modifier-fitzpatrick-type-5_1f472-1f3fe_1f3fe",
+      "sprite": "man-with-gua-pi-mao-5_1f472-1f3fe_1f3fe",
       "w": 36,
       "h": 36,
       "x": 432,
       "y": 792
     },
     {
-      "sprite": "man-with-gua-pi-mao_emoji-modifier-fitzpatrick-type-6_1f472-1f3ff_1f3ff",
+      "sprite": "man-with-gua-pi-mao-6_1f472-1f3ff_1f3ff",
       "w": 36,
       "h": 36,
       "x": 432,
@@ -6210,35 +6210,35 @@
       "y": 1080
     },
     {
-      "sprite": "man-with-turban_emoji-modifier-fitzpatrick-type-1-2_1f473-1f3fb_1f3fb",
+      "sprite": "man-with-turban-1-2_1f473-1f3fb_1f3fb",
       "w": 36,
       "h": 36,
       "x": 432,
       "y": 1116
     },
     {
-      "sprite": "man-with-turban_emoji-modifier-fitzpatrick-type-3_1f473-1f3fc_1f3fc",
+      "sprite": "man-with-turban-3_1f473-1f3fc_1f3fc",
       "w": 36,
       "h": 36,
       "x": 432,
       "y": 1152
     },
     {
-      "sprite": "man-with-turban_emoji-modifier-fitzpatrick-type-4_1f473-1f3fd_1f3fd",
+      "sprite": "man-with-turban-4_1f473-1f3fd_1f3fd",
       "w": 36,
       "h": 36,
       "x": 432,
       "y": 1188
     },
     {
-      "sprite": "man-with-turban_emoji-modifier-fitzpatrick-type-5_1f473-1f3fe_1f3fe",
+      "sprite": "man-with-turban-5_1f473-1f3fe_1f3fe",
       "w": 36,
       "h": 36,
       "x": 432,
       "y": 1224
     },
     {
-      "sprite": "man-with-turban_emoji-modifier-fitzpatrick-type-6_1f473-1f3ff_1f3ff",
+      "sprite": "man-with-turban-6_1f473-1f3ff_1f3ff",
       "w": 36,
       "h": 36,
       "x": 432,
@@ -6504,35 +6504,35 @@
       "y": 612
     },
     {
-      "sprite": "merperson_emoji-modifier-fitzpatrick-type-1-2_1f9dc-1f3fb_1f3fb",
+      "sprite": "merperson-1-2_1f9dc-1f3fb_1f3fb",
       "w": 36,
       "h": 36,
       "x": 468,
       "y": 648
     },
     {
-      "sprite": "merperson_emoji-modifier-fitzpatrick-type-3_1f9dc-1f3fc_1f3fc",
+      "sprite": "merperson-3_1f9dc-1f3fc_1f3fc",
       "w": 36,
       "h": 36,
       "x": 468,
       "y": 684
     },
     {
-      "sprite": "merperson_emoji-modifier-fitzpatrick-type-4_1f9dc-1f3fd_1f3fd",
+      "sprite": "merperson-4_1f9dc-1f3fd_1f3fd",
       "w": 36,
       "h": 36,
       "x": 468,
       "y": 720
     },
     {
-      "sprite": "merperson_emoji-modifier-fitzpatrick-type-5_1f9dc-1f3fe_1f3fe",
+      "sprite": "merperson-5_1f9dc-1f3fe_1f3fe",
       "w": 36,
       "h": 36,
       "x": 468,
       "y": 756
     },
     {
-      "sprite": "merperson_emoji-modifier-fitzpatrick-type-6_1f9dc-1f3ff_1f3ff",
+      "sprite": "merperson-6_1f9dc-1f3ff_1f3ff",
       "w": 36,
       "h": 36,
       "x": 468,
@@ -6595,35 +6595,35 @@
       "y": 1080
     },
     {
-      "sprite": "mother-christmas_emoji-modifier-fitzpatrick-type-1-2_1f936-1f3fb_1f3fb",
+      "sprite": "mother-christmas-1-2_1f936-1f3fb_1f3fb",
       "w": 36,
       "h": 36,
       "x": 468,
       "y": 1116
     },
     {
-      "sprite": "mother-christmas_emoji-modifier-fitzpatrick-type-3_1f936-1f3fc_1f3fc",
+      "sprite": "mother-christmas-3_1f936-1f3fc_1f3fc",
       "w": 36,
       "h": 36,
       "x": 468,
       "y": 1152
     },
     {
-      "sprite": "mother-christmas_emoji-modifier-fitzpatrick-type-4_1f936-1f3fd_1f3fd",
+      "sprite": "mother-christmas-4_1f936-1f3fd_1f3fd",
       "w": 36,
       "h": 36,
       "x": 468,
       "y": 1188
     },
     {
-      "sprite": "mother-christmas_emoji-modifier-fitzpatrick-type-5_1f936-1f3fe_1f3fe",
+      "sprite": "mother-christmas-5_1f936-1f3fe_1f3fe",
       "w": 36,
       "h": 36,
       "x": 468,
       "y": 1224
     },
     {
-      "sprite": "mother-christmas_emoji-modifier-fitzpatrick-type-6_1f936-1f3ff_1f3ff",
+      "sprite": "mother-christmas-6_1f936-1f3ff_1f3ff",
       "w": 36,
       "h": 36,
       "x": 468,
@@ -6644,35 +6644,35 @@
       "y": 1332
     },
     {
-      "sprite": "nail-polish_emoji-modifier-fitzpatrick-type-1-2_1f485-1f3fb_1f3fb",
+      "sprite": "nail-polish-1-2_1f485-1f3fb_1f3fb",
       "w": 36,
       "h": 36,
       "x": 468,
       "y": 1368
     },
     {
-      "sprite": "nail-polish_emoji-modifier-fitzpatrick-type-3_1f485-1f3fc_1f3fc",
+      "sprite": "nail-polish-3_1f485-1f3fc_1f3fc",
       "w": 36,
       "h": 36,
       "x": 468,
       "y": 1404
     },
     {
-      "sprite": "nail-polish_emoji-modifier-fitzpatrick-type-4_1f485-1f3fd_1f3fd",
+      "sprite": "nail-polish-4_1f485-1f3fd_1f3fd",
       "w": 36,
       "h": 36,
       "x": 468,
       "y": 1440
     },
     {
-      "sprite": "nail-polish_emoji-modifier-fitzpatrick-type-5_1f485-1f3fe_1f3fe",
+      "sprite": "nail-polish-5_1f485-1f3fe_1f3fe",
       "w": 36,
       "h": 36,
       "x": 504,
       "y": 504
     },
     {
-      "sprite": "nail-polish_emoji-modifier-fitzpatrick-type-6_1f485-1f3ff_1f3ff",
+      "sprite": "nail-polish-6_1f485-1f3ff_1f3ff",
       "w": 36,
       "h": 36,
       "x": 540,
@@ -6714,35 +6714,35 @@
       "y": 504
     },
     {
-      "sprite": "nose_emoji-modifier-fitzpatrick-type-1-2_1f443-1f3fb_1f3fb",
+      "sprite": "nose-1-2_1f443-1f3fb_1f3fb",
       "w": 36,
       "h": 36,
       "x": 756,
       "y": 504
     },
     {
-      "sprite": "nose_emoji-modifier-fitzpatrick-type-3_1f443-1f3fc_1f3fc",
+      "sprite": "nose-3_1f443-1f3fc_1f3fc",
       "w": 36,
       "h": 36,
       "x": 792,
       "y": 504
     },
     {
-      "sprite": "nose_emoji-modifier-fitzpatrick-type-4_1f443-1f3fd_1f3fd",
+      "sprite": "nose-4_1f443-1f3fd_1f3fd",
       "w": 36,
       "h": 36,
       "x": 828,
       "y": 504
     },
     {
-      "sprite": "nose_emoji-modifier-fitzpatrick-type-5_1f443-1f3fe_1f3fe",
+      "sprite": "nose-5_1f443-1f3fe_1f3fe",
       "w": 36,
       "h": 36,
       "x": 864,
       "y": 504
     },
     {
-      "sprite": "nose_emoji-modifier-fitzpatrick-type-6_1f443-1f3ff_1f3ff",
+      "sprite": "nose-6_1f443-1f3ff_1f3ff",
       "w": 36,
       "h": 36,
       "x": 900,
@@ -6798,35 +6798,35 @@
       "y": 504
     },
     {
-      "sprite": "ok-hand-sign_emoji-modifier-fitzpatrick-type-1-2_1f44c-1f3fb_1f3fb",
+      "sprite": "ok-hand-sign-1-2_1f44c-1f3fb_1f3fb",
       "w": 36,
       "h": 36,
       "x": 1188,
       "y": 504
     },
     {
-      "sprite": "ok-hand-sign_emoji-modifier-fitzpatrick-type-3_1f44c-1f3fc_1f3fc",
+      "sprite": "ok-hand-sign-3_1f44c-1f3fc_1f3fc",
       "w": 36,
       "h": 36,
       "x": 1224,
       "y": 504
     },
     {
-      "sprite": "ok-hand-sign_emoji-modifier-fitzpatrick-type-4_1f44c-1f3fd_1f3fd",
+      "sprite": "ok-hand-sign-4_1f44c-1f3fd_1f3fd",
       "w": 36,
       "h": 36,
       "x": 1260,
       "y": 504
     },
     {
-      "sprite": "ok-hand-sign_emoji-modifier-fitzpatrick-type-5_1f44c-1f3fe_1f3fe",
+      "sprite": "ok-hand-sign-5_1f44c-1f3fe_1f3fe",
       "w": 36,
       "h": 36,
       "x": 1296,
       "y": 504
     },
     {
-      "sprite": "ok-hand-sign_emoji-modifier-fitzpatrick-type-6_1f44c-1f3ff_1f3ff",
+      "sprite": "ok-hand-sign-6_1f44c-1f3ff_1f3ff",
       "w": 36,
       "h": 36,
       "x": 1332,
@@ -6840,35 +6840,35 @@
       "y": 504
     },
     {
-      "sprite": "older-adult_emoji-modifier-fitzpatrick-type-1-2_1f9d3-1f3fb_1f3fb",
+      "sprite": "older-adult-1-2_1f9d3-1f3fb_1f3fb",
       "w": 36,
       "h": 36,
       "x": 1404,
       "y": 504
     },
     {
-      "sprite": "older-adult_emoji-modifier-fitzpatrick-type-3_1f9d3-1f3fc_1f3fc",
+      "sprite": "older-adult-3_1f9d3-1f3fc_1f3fc",
       "w": 36,
       "h": 36,
       "x": 1440,
       "y": 504
     },
     {
-      "sprite": "older-adult_emoji-modifier-fitzpatrick-type-4_1f9d3-1f3fd_1f3fd",
+      "sprite": "older-adult-4_1f9d3-1f3fd_1f3fd",
       "w": 36,
       "h": 36,
       "x": 504,
       "y": 540
     },
     {
-      "sprite": "older-adult_emoji-modifier-fitzpatrick-type-5_1f9d3-1f3fe_1f3fe",
+      "sprite": "older-adult-5_1f9d3-1f3fe_1f3fe",
       "w": 36,
       "h": 36,
       "x": 504,
       "y": 576
     },
     {
-      "sprite": "older-adult_emoji-modifier-fitzpatrick-type-6_1f9d3-1f3ff_1f3ff",
+      "sprite": "older-adult-6_1f9d3-1f3ff_1f3ff",
       "w": 36,
       "h": 36,
       "x": 504,
@@ -6882,35 +6882,35 @@
       "y": 648
     },
     {
-      "sprite": "older-man_emoji-modifier-fitzpatrick-type-1-2_1f474-1f3fb_1f3fb",
+      "sprite": "older-man-1-2_1f474-1f3fb_1f3fb",
       "w": 36,
       "h": 36,
       "x": 504,
       "y": 684
     },
     {
-      "sprite": "older-man_emoji-modifier-fitzpatrick-type-3_1f474-1f3fc_1f3fc",
+      "sprite": "older-man-3_1f474-1f3fc_1f3fc",
       "w": 36,
       "h": 36,
       "x": 504,
       "y": 720
     },
     {
-      "sprite": "older-man_emoji-modifier-fitzpatrick-type-4_1f474-1f3fd_1f3fd",
+      "sprite": "older-man-4_1f474-1f3fd_1f3fd",
       "w": 36,
       "h": 36,
       "x": 504,
       "y": 756
     },
     {
-      "sprite": "older-man_emoji-modifier-fitzpatrick-type-5_1f474-1f3fe_1f3fe",
+      "sprite": "older-man-5_1f474-1f3fe_1f3fe",
       "w": 36,
       "h": 36,
       "x": 504,
       "y": 792
     },
     {
-      "sprite": "older-man_emoji-modifier-fitzpatrick-type-6_1f474-1f3ff_1f3ff",
+      "sprite": "older-man-6_1f474-1f3ff_1f3ff",
       "w": 36,
       "h": 36,
       "x": 504,
@@ -6924,35 +6924,35 @@
       "y": 864
     },
     {
-      "sprite": "older-woman_emoji-modifier-fitzpatrick-type-1-2_1f475-1f3fb_1f3fb",
+      "sprite": "older-woman-1-2_1f475-1f3fb_1f3fb",
       "w": 36,
       "h": 36,
       "x": 504,
       "y": 900
     },
     {
-      "sprite": "older-woman_emoji-modifier-fitzpatrick-type-3_1f475-1f3fc_1f3fc",
+      "sprite": "older-woman-3_1f475-1f3fc_1f3fc",
       "w": 36,
       "h": 36,
       "x": 504,
       "y": 936
     },
     {
-      "sprite": "older-woman_emoji-modifier-fitzpatrick-type-4_1f475-1f3fd_1f3fd",
+      "sprite": "older-woman-4_1f475-1f3fd_1f3fd",
       "w": 36,
       "h": 36,
       "x": 504,
       "y": 972
     },
     {
-      "sprite": "older-woman_emoji-modifier-fitzpatrick-type-5_1f475-1f3fe_1f3fe",
+      "sprite": "older-woman-5_1f475-1f3fe_1f3fe",
       "w": 36,
       "h": 36,
       "x": 504,
       "y": 1008
     },
     {
-      "sprite": "older-woman_emoji-modifier-fitzpatrick-type-6_1f475-1f3ff_1f3ff",
+      "sprite": "older-woman-6_1f475-1f3ff_1f3ff",
       "w": 36,
       "h": 36,
       "x": 504,
@@ -6973,35 +6973,35 @@
       "y": 1116
     },
     {
-      "sprite": "open-hands-sign_emoji-modifier-fitzpatrick-type-1-2_1f450-1f3fb_1f3fb",
+      "sprite": "open-hands-sign-1-2_1f450-1f3fb_1f3fb",
       "w": 36,
       "h": 36,
       "x": 504,
       "y": 1152
     },
     {
-      "sprite": "open-hands-sign_emoji-modifier-fitzpatrick-type-3_1f450-1f3fc_1f3fc",
+      "sprite": "open-hands-sign-3_1f450-1f3fc_1f3fc",
       "w": 36,
       "h": 36,
       "x": 504,
       "y": 1188
     },
     {
-      "sprite": "open-hands-sign_emoji-modifier-fitzpatrick-type-4_1f450-1f3fd_1f3fd",
+      "sprite": "open-hands-sign-4_1f450-1f3fd_1f3fd",
       "w": 36,
       "h": 36,
       "x": 504,
       "y": 1224
     },
     {
-      "sprite": "open-hands-sign_emoji-modifier-fitzpatrick-type-5_1f450-1f3fe_1f3fe",
+      "sprite": "open-hands-sign-5_1f450-1f3fe_1f3fe",
       "w": 36,
       "h": 36,
       "x": 504,
       "y": 1260
     },
     {
-      "sprite": "open-hands-sign_emoji-modifier-fitzpatrick-type-6_1f450-1f3ff_1f3ff",
+      "sprite": "open-hands-sign-6_1f450-1f3ff_1f3ff",
       "w": 36,
       "h": 36,
       "x": 504,
@@ -7022,35 +7022,35 @@
       "y": 1368
     },
     {
-      "sprite": "palms-up-together_emoji-modifier-fitzpatrick-type-1-2_1f932-1f3fb_1f3fb",
+      "sprite": "palms-up-together-1-2_1f932-1f3fb_1f3fb",
       "w": 36,
       "h": 36,
       "x": 504,
       "y": 1404
     },
     {
-      "sprite": "palms-up-together_emoji-modifier-fitzpatrick-type-3_1f932-1f3fc_1f3fc",
+      "sprite": "palms-up-together-3_1f932-1f3fc_1f3fc",
       "w": 36,
       "h": 36,
       "x": 504,
       "y": 1440
     },
     {
-      "sprite": "palms-up-together_emoji-modifier-fitzpatrick-type-4_1f932-1f3fd_1f3fd",
+      "sprite": "palms-up-together-4_1f932-1f3fd_1f3fd",
       "w": 36,
       "h": 36,
       "x": 540,
       "y": 540
     },
     {
-      "sprite": "palms-up-together_emoji-modifier-fitzpatrick-type-5_1f932-1f3fe_1f3fe",
+      "sprite": "palms-up-together-5_1f932-1f3fe_1f3fe",
       "w": 36,
       "h": 36,
       "x": 576,
       "y": 540
     },
     {
-      "sprite": "palms-up-together_emoji-modifier-fitzpatrick-type-6_1f932-1f3ff_1f3ff",
+      "sprite": "palms-up-together-6_1f932-1f3ff_1f3ff",
       "w": 36,
       "h": 36,
       "x": 612,
@@ -7064,35 +7064,35 @@
       "y": 540
     },
     {
-      "sprite": "pedestrian_emoji-modifier-fitzpatrick-type-1-2_1f6b6-1f3fb_1f3fb",
+      "sprite": "pedestrian-1-2_1f6b6-1f3fb_1f3fb",
       "w": 36,
       "h": 36,
       "x": 684,
       "y": 540
     },
     {
-      "sprite": "pedestrian_emoji-modifier-fitzpatrick-type-3_1f6b6-1f3fc_1f3fc",
+      "sprite": "pedestrian-3_1f6b6-1f3fc_1f3fc",
       "w": 36,
       "h": 36,
       "x": 720,
       "y": 540
     },
     {
-      "sprite": "pedestrian_emoji-modifier-fitzpatrick-type-4_1f6b6-1f3fd_1f3fd",
+      "sprite": "pedestrian-4_1f6b6-1f3fd_1f3fd",
       "w": 36,
       "h": 36,
       "x": 756,
       "y": 540
     },
     {
-      "sprite": "pedestrian_emoji-modifier-fitzpatrick-type-5_1f6b6-1f3fe_1f3fe",
+      "sprite": "pedestrian-5_1f6b6-1f3fe_1f3fe",
       "w": 36,
       "h": 36,
       "x": 792,
       "y": 540
     },
     {
-      "sprite": "pedestrian_emoji-modifier-fitzpatrick-type-6_1f6b6-1f3ff_1f3ff",
+      "sprite": "pedestrian-6_1f6b6-1f3ff_1f3ff",
       "w": 36,
       "h": 36,
       "x": 828,
@@ -7309,35 +7309,35 @@
       "y": 1008
     },
     {
-      "sprite": "person-bowing-deeply_emoji-modifier-fitzpatrick-type-1-2_1f647-1f3fb_1f3fb",
+      "sprite": "person-bowing-deeply-1-2_1f647-1f3fb_1f3fb",
       "w": 36,
       "h": 36,
       "x": 540,
       "y": 1044
     },
     {
-      "sprite": "person-bowing-deeply_emoji-modifier-fitzpatrick-type-3_1f647-1f3fc_1f3fc",
+      "sprite": "person-bowing-deeply-3_1f647-1f3fc_1f3fc",
       "w": 36,
       "h": 36,
       "x": 540,
       "y": 1080
     },
     {
-      "sprite": "person-bowing-deeply_emoji-modifier-fitzpatrick-type-4_1f647-1f3fd_1f3fd",
+      "sprite": "person-bowing-deeply-4_1f647-1f3fd_1f3fd",
       "w": 36,
       "h": 36,
       "x": 540,
       "y": 1116
     },
     {
-      "sprite": "person-bowing-deeply_emoji-modifier-fitzpatrick-type-5_1f647-1f3fe_1f3fe",
+      "sprite": "person-bowing-deeply-5_1f647-1f3fe_1f3fe",
       "w": 36,
       "h": 36,
       "x": 540,
       "y": 1152
     },
     {
-      "sprite": "person-bowing-deeply_emoji-modifier-fitzpatrick-type-6_1f647-1f3ff_1f3ff",
+      "sprite": "person-bowing-deeply-6_1f647-1f3ff_1f3ff",
       "w": 36,
       "h": 36,
       "x": 540,
@@ -7386,35 +7386,35 @@
       "y": 1404
     },
     {
-      "sprite": "person-frowning_emoji-modifier-fitzpatrick-type-1-2_1f64d-1f3fb_1f3fb",
+      "sprite": "person-frowning-1-2_1f64d-1f3fb_1f3fb",
       "w": 36,
       "h": 36,
       "x": 540,
       "y": 1440
     },
     {
-      "sprite": "person-frowning_emoji-modifier-fitzpatrick-type-3_1f64d-1f3fc_1f3fc",
+      "sprite": "person-frowning-3_1f64d-1f3fc_1f3fc",
       "w": 36,
       "h": 36,
       "x": 576,
       "y": 576
     },
     {
-      "sprite": "person-frowning_emoji-modifier-fitzpatrick-type-4_1f64d-1f3fd_1f3fd",
+      "sprite": "person-frowning-4_1f64d-1f3fd_1f3fd",
       "w": 36,
       "h": 36,
       "x": 612,
       "y": 576
     },
     {
-      "sprite": "person-frowning_emoji-modifier-fitzpatrick-type-5_1f64d-1f3fe_1f3fe",
+      "sprite": "person-frowning-5_1f64d-1f3fe_1f3fe",
       "w": 36,
       "h": 36,
       "x": 648,
       "y": 576
     },
     {
-      "sprite": "person-frowning_emoji-modifier-fitzpatrick-type-6_1f64d-1f3ff_1f3ff",
+      "sprite": "person-frowning-6_1f64d-1f3ff_1f3ff",
       "w": 36,
       "h": 36,
       "x": 684,
@@ -7512,35 +7512,35 @@
       "y": 576
     },
     {
-      "sprite": "person-in-steamy-room_emoji-modifier-fitzpatrick-type-1-2_1f9d6-1f3fb_1f3fb",
+      "sprite": "person-in-steamy-room-1-2_1f9d6-1f3fb_1f3fb",
       "w": 36,
       "h": 36,
       "x": 1188,
       "y": 576
     },
     {
-      "sprite": "person-in-steamy-room_emoji-modifier-fitzpatrick-type-3_1f9d6-1f3fc_1f3fc",
+      "sprite": "person-in-steamy-room-3_1f9d6-1f3fc_1f3fc",
       "w": 36,
       "h": 36,
       "x": 1224,
       "y": 576
     },
     {
-      "sprite": "person-in-steamy-room_emoji-modifier-fitzpatrick-type-4_1f9d6-1f3fd_1f3fd",
+      "sprite": "person-in-steamy-room-4_1f9d6-1f3fd_1f3fd",
       "w": 36,
       "h": 36,
       "x": 1260,
       "y": 576
     },
     {
-      "sprite": "person-in-steamy-room_emoji-modifier-fitzpatrick-type-5_1f9d6-1f3fe_1f3fe",
+      "sprite": "person-in-steamy-room-5_1f9d6-1f3fe_1f3fe",
       "w": 36,
       "h": 36,
       "x": 1296,
       "y": 576
     },
     {
-      "sprite": "person-in-steamy-room_emoji-modifier-fitzpatrick-type-6_1f9d6-1f3ff_1f3ff",
+      "sprite": "person-in-steamy-room-6_1f9d6-1f3ff_1f3ff",
       "w": 36,
       "h": 36,
       "x": 1332,
@@ -7666,35 +7666,35 @@
       "y": 1080
     },
     {
-      "sprite": "person-raising-both-hands-in-celebration_emoji-modifier-fitzpatrick-type-1-2_1f64c-1f3fb_1f3fb",
+      "sprite": "person-raising-both-hands-in-celebration-1-2_1f64c-1f3fb_1f3fb",
       "w": 36,
       "h": 36,
       "x": 576,
       "y": 1116
     },
     {
-      "sprite": "person-raising-both-hands-in-celebration_emoji-modifier-fitzpatrick-type-3_1f64c-1f3fc_1f3fc",
+      "sprite": "person-raising-both-hands-in-celebration-3_1f64c-1f3fc_1f3fc",
       "w": 36,
       "h": 36,
       "x": 576,
       "y": 1152
     },
     {
-      "sprite": "person-raising-both-hands-in-celebration_emoji-modifier-fitzpatrick-type-4_1f64c-1f3fd_1f3fd",
+      "sprite": "person-raising-both-hands-in-celebration-4_1f64c-1f3fd_1f3fd",
       "w": 36,
       "h": 36,
       "x": 576,
       "y": 1188
     },
     {
-      "sprite": "person-raising-both-hands-in-celebration_emoji-modifier-fitzpatrick-type-5_1f64c-1f3fe_1f3fe",
+      "sprite": "person-raising-both-hands-in-celebration-5_1f64c-1f3fe_1f3fe",
       "w": 36,
       "h": 36,
       "x": 576,
       "y": 1224
     },
     {
-      "sprite": "person-raising-both-hands-in-celebration_emoji-modifier-fitzpatrick-type-6_1f64c-1f3ff_1f3ff",
+      "sprite": "person-raising-both-hands-in-celebration-6_1f64c-1f3ff_1f3ff",
       "w": 36,
       "h": 36,
       "x": 576,
@@ -7722,35 +7722,35 @@
       "y": 1368
     },
     {
-      "sprite": "person-with-blond-hair_emoji-modifier-fitzpatrick-type-1-2_1f471-1f3fb_1f3fb",
+      "sprite": "person-with-blond-hair-1-2_1f471-1f3fb_1f3fb",
       "w": 36,
       "h": 36,
       "x": 576,
       "y": 1404
     },
     {
-      "sprite": "person-with-blond-hair_emoji-modifier-fitzpatrick-type-3_1f471-1f3fc_1f3fc",
+      "sprite": "person-with-blond-hair-3_1f471-1f3fc_1f3fc",
       "w": 36,
       "h": 36,
       "x": 576,
       "y": 1440
     },
     {
-      "sprite": "person-with-blond-hair_emoji-modifier-fitzpatrick-type-4_1f471-1f3fd_1f3fd",
+      "sprite": "person-with-blond-hair-4_1f471-1f3fd_1f3fd",
       "w": 36,
       "h": 36,
       "x": 612,
       "y": 612
     },
     {
-      "sprite": "person-with-blond-hair_emoji-modifier-fitzpatrick-type-5_1f471-1f3fe_1f3fe",
+      "sprite": "person-with-blond-hair-5_1f471-1f3fe_1f3fe",
       "w": 36,
       "h": 36,
       "x": 648,
       "y": 612
     },
     {
-      "sprite": "person-with-blond-hair_emoji-modifier-fitzpatrick-type-6_1f471-1f3ff_1f3ff",
+      "sprite": "person-with-blond-hair-6_1f471-1f3ff_1f3ff",
       "w": 36,
       "h": 36,
       "x": 684,
@@ -7764,35 +7764,35 @@
       "y": 612
     },
     {
-      "sprite": "person-with-folded-hands_emoji-modifier-fitzpatrick-type-1-2_1f64f-1f3fb_1f3fb",
+      "sprite": "person-with-folded-hands-1-2_1f64f-1f3fb_1f3fb",
       "w": 36,
       "h": 36,
       "x": 756,
       "y": 612
     },
     {
-      "sprite": "person-with-folded-hands_emoji-modifier-fitzpatrick-type-3_1f64f-1f3fc_1f3fc",
+      "sprite": "person-with-folded-hands-3_1f64f-1f3fc_1f3fc",
       "w": 36,
       "h": 36,
       "x": 792,
       "y": 612
     },
     {
-      "sprite": "person-with-folded-hands_emoji-modifier-fitzpatrick-type-4_1f64f-1f3fd_1f3fd",
+      "sprite": "person-with-folded-hands-4_1f64f-1f3fd_1f3fd",
       "w": 36,
       "h": 36,
       "x": 828,
       "y": 612
     },
     {
-      "sprite": "person-with-folded-hands_emoji-modifier-fitzpatrick-type-5_1f64f-1f3fe_1f3fe",
+      "sprite": "person-with-folded-hands-5_1f64f-1f3fe_1f3fe",
       "w": 36,
       "h": 36,
       "x": 864,
       "y": 612
     },
     {
-      "sprite": "person-with-folded-hands_emoji-modifier-fitzpatrick-type-6_1f64f-1f3ff_1f3ff",
+      "sprite": "person-with-folded-hands-6_1f64f-1f3ff_1f3ff",
       "w": 36,
       "h": 36,
       "x": 900,
@@ -7806,35 +7806,35 @@
       "y": 612
     },
     {
-      "sprite": "person-with-headscarf_emoji-modifier-fitzpatrick-type-1-2_1f9d5-1f3fb_1f3fb",
+      "sprite": "person-with-headscarf-1-2_1f9d5-1f3fb_1f3fb",
       "w": 36,
       "h": 36,
       "x": 972,
       "y": 612
     },
     {
-      "sprite": "person-with-headscarf_emoji-modifier-fitzpatrick-type-3_1f9d5-1f3fc_1f3fc",
+      "sprite": "person-with-headscarf-3_1f9d5-1f3fc_1f3fc",
       "w": 36,
       "h": 36,
       "x": 1008,
       "y": 612
     },
     {
-      "sprite": "person-with-headscarf_emoji-modifier-fitzpatrick-type-4_1f9d5-1f3fd_1f3fd",
+      "sprite": "person-with-headscarf-4_1f9d5-1f3fd_1f3fd",
       "w": 36,
       "h": 36,
       "x": 1044,
       "y": 612
     },
     {
-      "sprite": "person-with-headscarf_emoji-modifier-fitzpatrick-type-5_1f9d5-1f3fe_1f3fe",
+      "sprite": "person-with-headscarf-5_1f9d5-1f3fe_1f3fe",
       "w": 36,
       "h": 36,
       "x": 1080,
       "y": 612
     },
     {
-      "sprite": "person-with-headscarf_emoji-modifier-fitzpatrick-type-6_1f9d5-1f3ff_1f3ff",
+      "sprite": "person-with-headscarf-6_1f9d5-1f3ff_1f3ff",
       "w": 36,
       "h": 36,
       "x": 1116,
@@ -7848,35 +7848,35 @@
       "y": 612
     },
     {
-      "sprite": "person-with-pouting-face_emoji-modifier-fitzpatrick-type-1-2_1f64e-1f3fb_1f3fb",
+      "sprite": "person-with-pouting-face-1-2_1f64e-1f3fb_1f3fb",
       "w": 36,
       "h": 36,
       "x": 1188,
       "y": 612
     },
     {
-      "sprite": "person-with-pouting-face_emoji-modifier-fitzpatrick-type-3_1f64e-1f3fc_1f3fc",
+      "sprite": "person-with-pouting-face-3_1f64e-1f3fc_1f3fc",
       "w": 36,
       "h": 36,
       "x": 1224,
       "y": 612
     },
     {
-      "sprite": "person-with-pouting-face_emoji-modifier-fitzpatrick-type-4_1f64e-1f3fd_1f3fd",
+      "sprite": "person-with-pouting-face-4_1f64e-1f3fd_1f3fd",
       "w": 36,
       "h": 36,
       "x": 1260,
       "y": 612
     },
     {
-      "sprite": "person-with-pouting-face_emoji-modifier-fitzpatrick-type-5_1f64e-1f3fe_1f3fe",
+      "sprite": "person-with-pouting-face-5_1f64e-1f3fe_1f3fe",
       "w": 36,
       "h": 36,
       "x": 1296,
       "y": 612
     },
     {
-      "sprite": "person-with-pouting-face_emoji-modifier-fitzpatrick-type-6_1f64e-1f3ff_1f3ff",
+      "sprite": "person-with-pouting-face-6_1f64e-1f3ff_1f3ff",
       "w": 36,
       "h": 36,
       "x": 1332,
@@ -7981,35 +7981,35 @@
       "y": 1008
     },
     {
-      "sprite": "pinching-hand_emoji-modifier-fitzpatrick-type-1-2_1f90f-1f3fb_1f3fb",
+      "sprite": "pinching-hand-1-2_1f90f-1f3fb_1f3fb",
       "w": 36,
       "h": 36,
       "x": 612,
       "y": 1044
     },
     {
-      "sprite": "pinching-hand_emoji-modifier-fitzpatrick-type-3_1f90f-1f3fc_1f3fc",
+      "sprite": "pinching-hand-3_1f90f-1f3fc_1f3fc",
       "w": 36,
       "h": 36,
       "x": 612,
       "y": 1080
     },
     {
-      "sprite": "pinching-hand_emoji-modifier-fitzpatrick-type-4_1f90f-1f3fd_1f3fd",
+      "sprite": "pinching-hand-4_1f90f-1f3fd_1f3fd",
       "w": 36,
       "h": 36,
       "x": 612,
       "y": 1116
     },
     {
-      "sprite": "pinching-hand_emoji-modifier-fitzpatrick-type-5_1f90f-1f3fe_1f3fe",
+      "sprite": "pinching-hand-5_1f90f-1f3fe_1f3fe",
       "w": 36,
       "h": 36,
       "x": 612,
       "y": 1152
     },
     {
-      "sprite": "pinching-hand_emoji-modifier-fitzpatrick-type-6_1f90f-1f3ff_1f3ff",
+      "sprite": "pinching-hand-6_1f90f-1f3ff_1f3ff",
       "w": 36,
       "h": 36,
       "x": 612,
@@ -8023,35 +8023,35 @@
       "y": 1224
     },
     {
-      "sprite": "police-officer_emoji-modifier-fitzpatrick-type-1-2_1f46e-1f3fb_1f3fb",
+      "sprite": "police-officer-1-2_1f46e-1f3fb_1f3fb",
       "w": 36,
       "h": 36,
       "x": 612,
       "y": 1260
     },
     {
-      "sprite": "police-officer_emoji-modifier-fitzpatrick-type-3_1f46e-1f3fc_1f3fc",
+      "sprite": "police-officer-3_1f46e-1f3fc_1f3fc",
       "w": 36,
       "h": 36,
       "x": 612,
       "y": 1296
     },
     {
-      "sprite": "police-officer_emoji-modifier-fitzpatrick-type-4_1f46e-1f3fd_1f3fd",
+      "sprite": "police-officer-4_1f46e-1f3fd_1f3fd",
       "w": 36,
       "h": 36,
       "x": 612,
       "y": 1332
     },
     {
-      "sprite": "police-officer_emoji-modifier-fitzpatrick-type-5_1f46e-1f3fe_1f3fe",
+      "sprite": "police-officer-5_1f46e-1f3fe_1f3fe",
       "w": 36,
       "h": 36,
       "x": 612,
       "y": 1368
     },
     {
-      "sprite": "police-officer_emoji-modifier-fitzpatrick-type-6_1f46e-1f3ff_1f3ff",
+      "sprite": "police-officer-6_1f46e-1f3ff_1f3ff",
       "w": 36,
       "h": 36,
       "x": 612,
@@ -8086,35 +8086,35 @@
       "y": 648
     },
     {
-      "sprite": "pregnant-woman_emoji-modifier-fitzpatrick-type-1-2_1f930-1f3fb_1f3fb",
+      "sprite": "pregnant-woman-1-2_1f930-1f3fb_1f3fb",
       "w": 36,
       "h": 36,
       "x": 756,
       "y": 648
     },
     {
-      "sprite": "pregnant-woman_emoji-modifier-fitzpatrick-type-3_1f930-1f3fc_1f3fc",
+      "sprite": "pregnant-woman-3_1f930-1f3fc_1f3fc",
       "w": 36,
       "h": 36,
       "x": 792,
       "y": 648
     },
     {
-      "sprite": "pregnant-woman_emoji-modifier-fitzpatrick-type-4_1f930-1f3fd_1f3fd",
+      "sprite": "pregnant-woman-4_1f930-1f3fd_1f3fd",
       "w": 36,
       "h": 36,
       "x": 828,
       "y": 648
     },
     {
-      "sprite": "pregnant-woman_emoji-modifier-fitzpatrick-type-5_1f930-1f3fe_1f3fe",
+      "sprite": "pregnant-woman-5_1f930-1f3fe_1f3fe",
       "w": 36,
       "h": 36,
       "x": 864,
       "y": 648
     },
     {
-      "sprite": "pregnant-woman_emoji-modifier-fitzpatrick-type-6_1f930-1f3ff_1f3ff",
+      "sprite": "pregnant-woman-6_1f930-1f3ff_1f3ff",
       "w": 36,
       "h": 36,
       "x": 900,
@@ -8128,35 +8128,35 @@
       "y": 648
     },
     {
-      "sprite": "prince_emoji-modifier-fitzpatrick-type-1-2_1f934-1f3fb_1f3fb",
+      "sprite": "prince-1-2_1f934-1f3fb_1f3fb",
       "w": 36,
       "h": 36,
       "x": 972,
       "y": 648
     },
     {
-      "sprite": "prince_emoji-modifier-fitzpatrick-type-3_1f934-1f3fc_1f3fc",
+      "sprite": "prince-3_1f934-1f3fc_1f3fc",
       "w": 36,
       "h": 36,
       "x": 1008,
       "y": 648
     },
     {
-      "sprite": "prince_emoji-modifier-fitzpatrick-type-4_1f934-1f3fd_1f3fd",
+      "sprite": "prince-4_1f934-1f3fd_1f3fd",
       "w": 36,
       "h": 36,
       "x": 1044,
       "y": 648
     },
     {
-      "sprite": "prince_emoji-modifier-fitzpatrick-type-5_1f934-1f3fe_1f3fe",
+      "sprite": "prince-5_1f934-1f3fe_1f3fe",
       "w": 36,
       "h": 36,
       "x": 1080,
       "y": 648
     },
     {
-      "sprite": "prince_emoji-modifier-fitzpatrick-type-6_1f934-1f3ff_1f3ff",
+      "sprite": "prince-6_1f934-1f3ff_1f3ff",
       "w": 36,
       "h": 36,
       "x": 1116,
@@ -8170,35 +8170,35 @@
       "y": 648
     },
     {
-      "sprite": "princess_emoji-modifier-fitzpatrick-type-1-2_1f478-1f3fb_1f3fb",
+      "sprite": "princess-1-2_1f478-1f3fb_1f3fb",
       "w": 36,
       "h": 36,
       "x": 1188,
       "y": 648
     },
     {
-      "sprite": "princess_emoji-modifier-fitzpatrick-type-3_1f478-1f3fc_1f3fc",
+      "sprite": "princess-3_1f478-1f3fc_1f3fc",
       "w": 36,
       "h": 36,
       "x": 1224,
       "y": 648
     },
     {
-      "sprite": "princess_emoji-modifier-fitzpatrick-type-4_1f478-1f3fd_1f3fd",
+      "sprite": "princess-4_1f478-1f3fd_1f3fd",
       "w": 36,
       "h": 36,
       "x": 1260,
       "y": 648
     },
     {
-      "sprite": "princess_emoji-modifier-fitzpatrick-type-5_1f478-1f3fe_1f3fe",
+      "sprite": "princess-5_1f478-1f3fe_1f3fe",
       "w": 36,
       "h": 36,
       "x": 1296,
       "y": 648
     },
     {
-      "sprite": "princess_emoji-modifier-fitzpatrick-type-6_1f478-1f3ff_1f3ff",
+      "sprite": "princess-6_1f478-1f3ff_1f3ff",
       "w": 36,
       "h": 36,
       "x": 1332,
@@ -8219,35 +8219,35 @@
       "y": 648
     },
     {
-      "sprite": "raised-back-of-hand_emoji-modifier-fitzpatrick-type-1-2_1f91a-1f3fb_1f3fb",
+      "sprite": "raised-back-of-hand-1-2_1f91a-1f3fb_1f3fb",
       "w": 36,
       "h": 36,
       "x": 1440,
       "y": 648
     },
     {
-      "sprite": "raised-back-of-hand_emoji-modifier-fitzpatrick-type-3_1f91a-1f3fc_1f3fc",
+      "sprite": "raised-back-of-hand-3_1f91a-1f3fc_1f3fc",
       "w": 36,
       "h": 36,
       "x": 648,
       "y": 684
     },
     {
-      "sprite": "raised-back-of-hand_emoji-modifier-fitzpatrick-type-4_1f91a-1f3fd_1f3fd",
+      "sprite": "raised-back-of-hand-4_1f91a-1f3fd_1f3fd",
       "w": 36,
       "h": 36,
       "x": 648,
       "y": 720
     },
     {
-      "sprite": "raised-back-of-hand_emoji-modifier-fitzpatrick-type-5_1f91a-1f3fe_1f3fe",
+      "sprite": "raised-back-of-hand-5_1f91a-1f3fe_1f3fe",
       "w": 36,
       "h": 36,
       "x": 648,
       "y": 756
     },
     {
-      "sprite": "raised-back-of-hand_emoji-modifier-fitzpatrick-type-6_1f91a-1f3ff_1f3ff",
+      "sprite": "raised-back-of-hand-6_1f91a-1f3ff_1f3ff",
       "w": 36,
       "h": 36,
       "x": 648,
@@ -8261,35 +8261,35 @@
       "y": 828
     },
     {
-      "sprite": "raised-fist_emoji-modifier-fitzpatrick-type-1-2_270a-1f3fb_1f3fb",
+      "sprite": "raised-fist-1-2_270a-1f3fb_1f3fb",
       "w": 36,
       "h": 36,
       "x": 648,
       "y": 864
     },
     {
-      "sprite": "raised-fist_emoji-modifier-fitzpatrick-type-3_270a-1f3fc_1f3fc",
+      "sprite": "raised-fist-3_270a-1f3fc_1f3fc",
       "w": 36,
       "h": 36,
       "x": 648,
       "y": 900
     },
     {
-      "sprite": "raised-fist_emoji-modifier-fitzpatrick-type-4_270a-1f3fd_1f3fd",
+      "sprite": "raised-fist-4_270a-1f3fd_1f3fd",
       "w": 36,
       "h": 36,
       "x": 648,
       "y": 936
     },
     {
-      "sprite": "raised-fist_emoji-modifier-fitzpatrick-type-5_270a-1f3fe_1f3fe",
+      "sprite": "raised-fist-5_270a-1f3fe_1f3fe",
       "w": 36,
       "h": 36,
       "x": 648,
       "y": 972
     },
     {
-      "sprite": "raised-fist_emoji-modifier-fitzpatrick-type-6_270a-1f3ff_1f3ff",
+      "sprite": "raised-fist-6_270a-1f3ff_1f3ff",
       "w": 36,
       "h": 36,
       "x": 648,
@@ -8303,35 +8303,35 @@
       "y": 1044
     },
     {
-      "sprite": "raised-hand_emoji-modifier-fitzpatrick-type-1-2_270b-1f3fb_1f3fb",
+      "sprite": "raised-hand-1-2_270b-1f3fb_1f3fb",
       "w": 36,
       "h": 36,
       "x": 648,
       "y": 1080
     },
     {
-      "sprite": "raised-hand_emoji-modifier-fitzpatrick-type-3_270b-1f3fc_1f3fc",
+      "sprite": "raised-hand-3_270b-1f3fc_1f3fc",
       "w": 36,
       "h": 36,
       "x": 648,
       "y": 1116
     },
     {
-      "sprite": "raised-hand_emoji-modifier-fitzpatrick-type-4_270b-1f3fd_1f3fd",
+      "sprite": "raised-hand-4_270b-1f3fd_1f3fd",
       "w": 36,
       "h": 36,
       "x": 648,
       "y": 1152
     },
     {
-      "sprite": "raised-hand_emoji-modifier-fitzpatrick-type-5_270b-1f3fe_1f3fe",
+      "sprite": "raised-hand-5_270b-1f3fe_1f3fe",
       "w": 36,
       "h": 36,
       "x": 648,
       "y": 1188
     },
     {
-      "sprite": "raised-hand_emoji-modifier-fitzpatrick-type-6_270b-1f3ff_1f3ff",
+      "sprite": "raised-hand-6_270b-1f3ff_1f3ff",
       "w": 36,
       "h": 36,
       "x": 648,
@@ -8345,35 +8345,35 @@
       "y": 1260
     },
     {
-      "sprite": "raised-hand-with-fingers-splayed_emoji-modifier-fitzpatrick-type-1-2_1f590-1f3fb_1f3fb",
+      "sprite": "raised-hand-with-fingers-splayed-1-2_1f590-1f3fb_1f3fb",
       "w": 36,
       "h": 36,
       "x": 648,
       "y": 1296
     },
     {
-      "sprite": "raised-hand-with-fingers-splayed_emoji-modifier-fitzpatrick-type-3_1f590-1f3fc_1f3fc",
+      "sprite": "raised-hand-with-fingers-splayed-3_1f590-1f3fc_1f3fc",
       "w": 36,
       "h": 36,
       "x": 648,
       "y": 1332
     },
     {
-      "sprite": "raised-hand-with-fingers-splayed_emoji-modifier-fitzpatrick-type-4_1f590-1f3fd_1f3fd",
+      "sprite": "raised-hand-with-fingers-splayed-4_1f590-1f3fd_1f3fd",
       "w": 36,
       "h": 36,
       "x": 648,
       "y": 1368
     },
     {
-      "sprite": "raised-hand-with-fingers-splayed_emoji-modifier-fitzpatrick-type-5_1f590-1f3fe_1f3fe",
+      "sprite": "raised-hand-with-fingers-splayed-5_1f590-1f3fe_1f3fe",
       "w": 36,
       "h": 36,
       "x": 648,
       "y": 1404
     },
     {
-      "sprite": "raised-hand-with-fingers-splayed_emoji-modifier-fitzpatrick-type-6_1f590-1f3ff_1f3ff",
+      "sprite": "raised-hand-with-fingers-splayed-6_1f590-1f3ff_1f3ff",
       "w": 36,
       "h": 36,
       "x": 648,
@@ -8387,35 +8387,35 @@
       "y": 684
     },
     {
-      "sprite": "raised-hand-with-part-between-middle-and-ring-fingers_emoji-modifier-fitzpatrick-type-1-2_1f596-1f3f",
+      "sprite": "raised-hand-with-part-between-middle-and-ring-fingers-1-2_1f596-1f3f",
       "w": 36,
       "h": 36,
       "x": 720,
       "y": 684
     },
     {
-      "sprite": "raised-hand-with-part-between-middle-and-ring-fingers_emoji-modifier-fitzpatrick-type-3_1f596-1f3fc_",
+      "sprite": "raised-hand-with-part-between-middle-and-ring-fingers-3_1f596-1f3fc_",
       "w": 36,
       "h": 36,
       "x": 756,
       "y": 684
     },
     {
-      "sprite": "raised-hand-with-part-between-middle-and-ring-fingers_emoji-modifier-fitzpatrick-type-4_1f596-1f3fd_",
+      "sprite": "raised-hand-with-part-between-middle-and-ring-fingers-4_1f596-1f3fd_",
       "w": 36,
       "h": 36,
       "x": 792,
       "y": 684
     },
     {
-      "sprite": "raised-hand-with-part-between-middle-and-ring-fingers_emoji-modifier-fitzpatrick-type-5_1f596-1f3fe_",
+      "sprite": "raised-hand-with-part-between-middle-and-ring-fingers-5_1f596-1f3fe_",
       "w": 36,
       "h": 36,
       "x": 828,
       "y": 684
     },
     {
-      "sprite": "raised-hand-with-part-between-middle-and-ring-fingers_emoji-modifier-fitzpatrick-type-6_1f596-1f3ff_",
+      "sprite": "raised-hand-with-part-between-middle-and-ring-fingers-6_1f596-1f3ff_",
       "w": 36,
       "h": 36,
       "x": 864,
@@ -8436,35 +8436,35 @@
       "y": 684
     },
     {
-      "sprite": "reversed-hand-with-middle-finger-extended_emoji-modifier-fitzpatrick-type-1-2_1f595-1f3fb_1f3fb",
+      "sprite": "reversed-hand-with-middle-finger-extended-1-2_1f595-1f3fb_1f3fb",
       "w": 36,
       "h": 36,
       "x": 972,
       "y": 684
     },
     {
-      "sprite": "reversed-hand-with-middle-finger-extended_emoji-modifier-fitzpatrick-type-3_1f595-1f3fc_1f3fc",
+      "sprite": "reversed-hand-with-middle-finger-extended-3_1f595-1f3fc_1f3fc",
       "w": 36,
       "h": 36,
       "x": 1008,
       "y": 684
     },
     {
-      "sprite": "reversed-hand-with-middle-finger-extended_emoji-modifier-fitzpatrick-type-4_1f595-1f3fd_1f3fd",
+      "sprite": "reversed-hand-with-middle-finger-extended-4_1f595-1f3fd_1f3fd",
       "w": 36,
       "h": 36,
       "x": 1044,
       "y": 684
     },
     {
-      "sprite": "reversed-hand-with-middle-finger-extended_emoji-modifier-fitzpatrick-type-5_1f595-1f3fe_1f3fe",
+      "sprite": "reversed-hand-with-middle-finger-extended-5_1f595-1f3fe_1f3fe",
       "w": 36,
       "h": 36,
       "x": 1080,
       "y": 684
     },
     {
-      "sprite": "reversed-hand-with-middle-finger-extended_emoji-modifier-fitzpatrick-type-6_1f595-1f3ff_1f3ff",
+      "sprite": "reversed-hand-with-middle-finger-extended-6_1f595-1f3ff_1f3ff",
       "w": 36,
       "h": 36,
       "x": 1116,
@@ -8478,35 +8478,35 @@
       "y": 684
     },
     {
-      "sprite": "right-facing-fist_emoji-modifier-fitzpatrick-type-1-2_1f91c-1f3fb_1f3fb",
+      "sprite": "right-facing-fist-1-2_1f91c-1f3fb_1f3fb",
       "w": 36,
       "h": 36,
       "x": 1188,
       "y": 684
     },
     {
-      "sprite": "right-facing-fist_emoji-modifier-fitzpatrick-type-3_1f91c-1f3fc_1f3fc",
+      "sprite": "right-facing-fist-3_1f91c-1f3fc_1f3fc",
       "w": 36,
       "h": 36,
       "x": 1224,
       "y": 684
     },
     {
-      "sprite": "right-facing-fist_emoji-modifier-fitzpatrick-type-4_1f91c-1f3fd_1f3fd",
+      "sprite": "right-facing-fist-4_1f91c-1f3fd_1f3fd",
       "w": 36,
       "h": 36,
       "x": 1260,
       "y": 684
     },
     {
-      "sprite": "right-facing-fist_emoji-modifier-fitzpatrick-type-5_1f91c-1f3fe_1f3fe",
+      "sprite": "right-facing-fist-5_1f91c-1f3fe_1f3fe",
       "w": 36,
       "h": 36,
       "x": 1296,
       "y": 684
     },
     {
-      "sprite": "right-facing-fist_emoji-modifier-fitzpatrick-type-6_1f91c-1f3ff_1f3ff",
+      "sprite": "right-facing-fist-6_1f91c-1f3ff_1f3ff",
       "w": 36,
       "h": 36,
       "x": 1332,
@@ -8541,35 +8541,35 @@
       "y": 720
     },
     {
-      "sprite": "runner_emoji-modifier-fitzpatrick-type-1-2_1f3c3-1f3fb_1f3fb",
+      "sprite": "runner-1-2_1f3c3-1f3fb_1f3fb",
       "w": 36,
       "h": 36,
       "x": 684,
       "y": 756
     },
     {
-      "sprite": "runner_emoji-modifier-fitzpatrick-type-3_1f3c3-1f3fc_1f3fc",
+      "sprite": "runner-3_1f3c3-1f3fc_1f3fc",
       "w": 36,
       "h": 36,
       "x": 684,
       "y": 792
     },
     {
-      "sprite": "runner_emoji-modifier-fitzpatrick-type-4_1f3c3-1f3fd_1f3fd",
+      "sprite": "runner-4_1f3c3-1f3fd_1f3fd",
       "w": 36,
       "h": 36,
       "x": 684,
       "y": 828
     },
     {
-      "sprite": "runner_emoji-modifier-fitzpatrick-type-5_1f3c3-1f3fe_1f3fe",
+      "sprite": "runner-5_1f3c3-1f3fe_1f3fe",
       "w": 36,
       "h": 36,
       "x": 684,
       "y": 864
     },
     {
-      "sprite": "runner_emoji-modifier-fitzpatrick-type-6_1f3c3-1f3ff_1f3ff",
+      "sprite": "runner-6_1f3c3-1f3ff_1f3ff",
       "w": 36,
       "h": 36,
       "x": 684,
@@ -8660,35 +8660,35 @@
       "y": 1332
     },
     {
-      "sprite": "selfie_emoji-modifier-fitzpatrick-type-1-2_1f933-1f3fb_1f3fb",
+      "sprite": "selfie-1-2_1f933-1f3fb_1f3fb",
       "w": 36,
       "h": 36,
       "x": 684,
       "y": 1368
     },
     {
-      "sprite": "selfie_emoji-modifier-fitzpatrick-type-3_1f933-1f3fc_1f3fc",
+      "sprite": "selfie-3_1f933-1f3fc_1f3fc",
       "w": 36,
       "h": 36,
       "x": 684,
       "y": 1404
     },
     {
-      "sprite": "selfie_emoji-modifier-fitzpatrick-type-4_1f933-1f3fd_1f3fd",
+      "sprite": "selfie-4_1f933-1f3fd_1f3fd",
       "w": 36,
       "h": 36,
       "x": 684,
       "y": 1440
     },
     {
-      "sprite": "selfie_emoji-modifier-fitzpatrick-type-5_1f933-1f3fe_1f3fe",
+      "sprite": "selfie-5_1f933-1f3fe_1f3fe",
       "w": 36,
       "h": 36,
       "x": 720,
       "y": 720
     },
     {
-      "sprite": "selfie_emoji-modifier-fitzpatrick-type-6_1f933-1f3ff_1f3ff",
+      "sprite": "selfie-6_1f933-1f3ff_1f3ff",
       "w": 36,
       "h": 36,
       "x": 756,
@@ -8723,35 +8723,35 @@
       "y": 720
     },
     {
-      "sprite": "shrug_emoji-modifier-fitzpatrick-type-1-2_1f937-1f3fb_1f3fb",
+      "sprite": "shrug-1-2_1f937-1f3fb_1f3fb",
       "w": 36,
       "h": 36,
       "x": 936,
       "y": 720
     },
     {
-      "sprite": "shrug_emoji-modifier-fitzpatrick-type-3_1f937-1f3fc_1f3fc",
+      "sprite": "shrug-3_1f937-1f3fc_1f3fc",
       "w": 36,
       "h": 36,
       "x": 972,
       "y": 720
     },
     {
-      "sprite": "shrug_emoji-modifier-fitzpatrick-type-4_1f937-1f3fd_1f3fd",
+      "sprite": "shrug-4_1f937-1f3fd_1f3fd",
       "w": 36,
       "h": 36,
       "x": 1008,
       "y": 720
     },
     {
-      "sprite": "shrug_emoji-modifier-fitzpatrick-type-5_1f937-1f3fe_1f3fe",
+      "sprite": "shrug-5_1f937-1f3fe_1f3fe",
       "w": 36,
       "h": 36,
       "x": 1044,
       "y": 720
     },
     {
-      "sprite": "shrug_emoji-modifier-fitzpatrick-type-6_1f937-1f3ff_1f3ff",
+      "sprite": "shrug-6_1f937-1f3ff_1f3ff",
       "w": 36,
       "h": 36,
       "x": 1080,
@@ -8765,35 +8765,35 @@
       "y": 720
     },
     {
-      "sprite": "sign-of-the-horns_emoji-modifier-fitzpatrick-type-1-2_1f918-1f3fb_1f3fb",
+      "sprite": "sign-of-the-horns-1-2_1f918-1f3fb_1f3fb",
       "w": 36,
       "h": 36,
       "x": 1152,
       "y": 720
     },
     {
-      "sprite": "sign-of-the-horns_emoji-modifier-fitzpatrick-type-3_1f918-1f3fc_1f3fc",
+      "sprite": "sign-of-the-horns-3_1f918-1f3fc_1f3fc",
       "w": 36,
       "h": 36,
       "x": 1188,
       "y": 720
     },
     {
-      "sprite": "sign-of-the-horns_emoji-modifier-fitzpatrick-type-4_1f918-1f3fd_1f3fd",
+      "sprite": "sign-of-the-horns-4_1f918-1f3fd_1f3fd",
       "w": 36,
       "h": 36,
       "x": 1224,
       "y": 720
     },
     {
-      "sprite": "sign-of-the-horns_emoji-modifier-fitzpatrick-type-5_1f918-1f3fe_1f3fe",
+      "sprite": "sign-of-the-horns-5_1f918-1f3fe_1f3fe",
       "w": 36,
       "h": 36,
       "x": 1260,
       "y": 720
     },
     {
-      "sprite": "sign-of-the-horns_emoji-modifier-fitzpatrick-type-6_1f918-1f3ff_1f3ff",
+      "sprite": "sign-of-the-horns-6_1f918-1f3ff_1f3ff",
       "w": 36,
       "h": 36,
       "x": 1296,
@@ -8877,35 +8877,35 @@
       "y": 972
     },
     {
-      "sprite": "sleuth-or-spy_emoji-modifier-fitzpatrick-type-1-2_1f575-1f3fb_1f3fb",
+      "sprite": "sleuth-or-spy-1-2_1f575-1f3fb_1f3fb",
       "w": 36,
       "h": 36,
       "x": 720,
       "y": 1008
     },
     {
-      "sprite": "sleuth-or-spy_emoji-modifier-fitzpatrick-type-3_1f575-1f3fc_1f3fc",
+      "sprite": "sleuth-or-spy-3_1f575-1f3fc_1f3fc",
       "w": 36,
       "h": 36,
       "x": 720,
       "y": 1044
     },
     {
-      "sprite": "sleuth-or-spy_emoji-modifier-fitzpatrick-type-4_1f575-1f3fd_1f3fd",
+      "sprite": "sleuth-or-spy-4_1f575-1f3fd_1f3fd",
       "w": 36,
       "h": 36,
       "x": 720,
       "y": 1080
     },
     {
-      "sprite": "sleuth-or-spy_emoji-modifier-fitzpatrick-type-5_1f575-1f3fe_1f3fe",
+      "sprite": "sleuth-or-spy-5_1f575-1f3fe_1f3fe",
       "w": 36,
       "h": 36,
       "x": 720,
       "y": 1116
     },
     {
-      "sprite": "sleuth-or-spy_emoji-modifier-fitzpatrick-type-6_1f575-1f3ff_1f3ff",
+      "sprite": "sleuth-or-spy-6_1f575-1f3ff_1f3ff",
       "w": 36,
       "h": 36,
       "x": 720,
@@ -9066,35 +9066,35 @@
       "y": 756
     },
     {
-      "sprite": "standing-person_emoji-modifier-fitzpatrick-type-1-2_1f9cd-1f3fb_1f3fb",
+      "sprite": "standing-person-1-2_1f9cd-1f3fb_1f3fb",
       "w": 36,
       "h": 36,
       "x": 1260,
       "y": 756
     },
     {
-      "sprite": "standing-person_emoji-modifier-fitzpatrick-type-3_1f9cd-1f3fc_1f3fc",
+      "sprite": "standing-person-3_1f9cd-1f3fc_1f3fc",
       "w": 36,
       "h": 36,
       "x": 1296,
       "y": 756
     },
     {
-      "sprite": "standing-person_emoji-modifier-fitzpatrick-type-4_1f9cd-1f3fd_1f3fd",
+      "sprite": "standing-person-4_1f9cd-1f3fd_1f3fd",
       "w": 36,
       "h": 36,
       "x": 1332,
       "y": 756
     },
     {
-      "sprite": "standing-person_emoji-modifier-fitzpatrick-type-5_1f9cd-1f3fe_1f3fe",
+      "sprite": "standing-person-5_1f9cd-1f3fe_1f3fe",
       "w": 36,
       "h": 36,
       "x": 1368,
       "y": 756
     },
     {
-      "sprite": "standing-person_emoji-modifier-fitzpatrick-type-6_1f9cd-1f3ff_1f3ff",
+      "sprite": "standing-person-6_1f9cd-1f3ff_1f3ff",
       "w": 36,
       "h": 36,
       "x": 1404,
@@ -9150,35 +9150,35 @@
       "y": 972
     },
     {
-      "sprite": "superhero_emoji-modifier-fitzpatrick-type-1-2_1f9b8-1f3fb_1f3fb",
+      "sprite": "superhero-1-2_1f9b8-1f3fb_1f3fb",
       "w": 36,
       "h": 36,
       "x": 756,
       "y": 1008
     },
     {
-      "sprite": "superhero_emoji-modifier-fitzpatrick-type-3_1f9b8-1f3fc_1f3fc",
+      "sprite": "superhero-3_1f9b8-1f3fc_1f3fc",
       "w": 36,
       "h": 36,
       "x": 756,
       "y": 1044
     },
     {
-      "sprite": "superhero_emoji-modifier-fitzpatrick-type-4_1f9b8-1f3fd_1f3fd",
+      "sprite": "superhero-4_1f9b8-1f3fd_1f3fd",
       "w": 36,
       "h": 36,
       "x": 756,
       "y": 1080
     },
     {
-      "sprite": "superhero_emoji-modifier-fitzpatrick-type-5_1f9b8-1f3fe_1f3fe",
+      "sprite": "superhero-5_1f9b8-1f3fe_1f3fe",
       "w": 36,
       "h": 36,
       "x": 756,
       "y": 1116
     },
     {
-      "sprite": "superhero_emoji-modifier-fitzpatrick-type-6_1f9b8-1f3ff_1f3ff",
+      "sprite": "superhero-6_1f9b8-1f3ff_1f3ff",
       "w": 36,
       "h": 36,
       "x": 756,
@@ -9192,35 +9192,35 @@
       "y": 1188
     },
     {
-      "sprite": "supervillain_emoji-modifier-fitzpatrick-type-1-2_1f9b9-1f3fb_1f3fb",
+      "sprite": "supervillain-1-2_1f9b9-1f3fb_1f3fb",
       "w": 36,
       "h": 36,
       "x": 756,
       "y": 1224
     },
     {
-      "sprite": "supervillain_emoji-modifier-fitzpatrick-type-3_1f9b9-1f3fc_1f3fc",
+      "sprite": "supervillain-3_1f9b9-1f3fc_1f3fc",
       "w": 36,
       "h": 36,
       "x": 756,
       "y": 1260
     },
     {
-      "sprite": "supervillain_emoji-modifier-fitzpatrick-type-4_1f9b9-1f3fd_1f3fd",
+      "sprite": "supervillain-4_1f9b9-1f3fd_1f3fd",
       "w": 36,
       "h": 36,
       "x": 756,
       "y": 1296
     },
     {
-      "sprite": "supervillain_emoji-modifier-fitzpatrick-type-5_1f9b9-1f3fe_1f3fe",
+      "sprite": "supervillain-5_1f9b9-1f3fe_1f3fe",
       "w": 36,
       "h": 36,
       "x": 756,
       "y": 1332
     },
     {
-      "sprite": "supervillain_emoji-modifier-fitzpatrick-type-6_1f9b9-1f3ff_1f3ff",
+      "sprite": "supervillain-6_1f9b9-1f3ff_1f3ff",
       "w": 36,
       "h": 36,
       "x": 756,
@@ -9325,35 +9325,35 @@
       "y": 792
     },
     {
-      "sprite": "thumbs-down-sign_emoji-modifier-fitzpatrick-type-1-2_1f44e-1f3fb_1f3fb",
+      "sprite": "thumbs-down-sign-1-2_1f44e-1f3fb_1f3fb",
       "w": 36,
       "h": 36,
       "x": 1224,
       "y": 792
     },
     {
-      "sprite": "thumbs-down-sign_emoji-modifier-fitzpatrick-type-3_1f44e-1f3fc_1f3fc",
+      "sprite": "thumbs-down-sign-3_1f44e-1f3fc_1f3fc",
       "w": 36,
       "h": 36,
       "x": 1260,
       "y": 792
     },
     {
-      "sprite": "thumbs-down-sign_emoji-modifier-fitzpatrick-type-4_1f44e-1f3fd_1f3fd",
+      "sprite": "thumbs-down-sign-4_1f44e-1f3fd_1f3fd",
       "w": 36,
       "h": 36,
       "x": 1296,
       "y": 792
     },
     {
-      "sprite": "thumbs-down-sign_emoji-modifier-fitzpatrick-type-5_1f44e-1f3fe_1f3fe",
+      "sprite": "thumbs-down-sign-5_1f44e-1f3fe_1f3fe",
       "w": 36,
       "h": 36,
       "x": 1332,
       "y": 792
     },
     {
-      "sprite": "thumbs-down-sign_emoji-modifier-fitzpatrick-type-6_1f44e-1f3ff_1f3ff",
+      "sprite": "thumbs-down-sign-6_1f44e-1f3ff_1f3ff",
       "w": 36,
       "h": 36,
       "x": 1368,
@@ -9367,35 +9367,35 @@
       "y": 792
     },
     {
-      "sprite": "thumbs-up-sign_emoji-modifier-fitzpatrick-type-1-2_1f44d-1f3fb_1f3fb",
+      "sprite": "thumbs-up-sign-1-2_1f44d-1f3fb_1f3fb",
       "w": 36,
       "h": 36,
       "x": 1440,
       "y": 792
     },
     {
-      "sprite": "thumbs-up-sign_emoji-modifier-fitzpatrick-type-3_1f44d-1f3fc_1f3fc",
+      "sprite": "thumbs-up-sign-3_1f44d-1f3fc_1f3fc",
       "w": 36,
       "h": 36,
       "x": 792,
       "y": 828
     },
     {
-      "sprite": "thumbs-up-sign_emoji-modifier-fitzpatrick-type-4_1f44d-1f3fd_1f3fd",
+      "sprite": "thumbs-up-sign-4_1f44d-1f3fd_1f3fd",
       "w": 36,
       "h": 36,
       "x": 792,
       "y": 864
     },
     {
-      "sprite": "thumbs-up-sign_emoji-modifier-fitzpatrick-type-5_1f44d-1f3fe_1f3fe",
+      "sprite": "thumbs-up-sign-5_1f44d-1f3fe_1f3fe",
       "w": 36,
       "h": 36,
       "x": 792,
       "y": 900
     },
     {
-      "sprite": "thumbs-up-sign_emoji-modifier-fitzpatrick-type-6_1f44d-1f3ff_1f3ff",
+      "sprite": "thumbs-up-sign-6_1f44d-1f3ff_1f3ff",
       "w": 36,
       "h": 36,
       "x": 792,
@@ -9444,35 +9444,35 @@
       "y": 1152
     },
     {
-      "sprite": "two-men-holding-hands_emoji-modifier-fitzpatrick-type-1-2_1f46c-1f3fb_1f3fb",
+      "sprite": "two-men-holding-hands-1-2_1f46c-1f3fb_1f3fb",
       "w": 36,
       "h": 36,
       "x": 792,
       "y": 1188
     },
     {
-      "sprite": "two-men-holding-hands_emoji-modifier-fitzpatrick-type-3_1f46c-1f3fc_1f3fc",
+      "sprite": "two-men-holding-hands-3_1f46c-1f3fc_1f3fc",
       "w": 36,
       "h": 36,
       "x": 792,
       "y": 1224
     },
     {
-      "sprite": "two-men-holding-hands_emoji-modifier-fitzpatrick-type-4_1f46c-1f3fd_1f3fd",
+      "sprite": "two-men-holding-hands-4_1f46c-1f3fd_1f3fd",
       "w": 36,
       "h": 36,
       "x": 792,
       "y": 1260
     },
     {
-      "sprite": "two-men-holding-hands_emoji-modifier-fitzpatrick-type-5_1f46c-1f3fe_1f3fe",
+      "sprite": "two-men-holding-hands-5_1f46c-1f3fe_1f3fe",
       "w": 36,
       "h": 36,
       "x": 792,
       "y": 1296
     },
     {
-      "sprite": "two-men-holding-hands_emoji-modifier-fitzpatrick-type-6_1f46c-1f3ff_1f3ff",
+      "sprite": "two-men-holding-hands-6_1f46c-1f3ff_1f3ff",
       "w": 36,
       "h": 36,
       "x": 792,
@@ -9486,35 +9486,35 @@
       "y": 1368
     },
     {
-      "sprite": "two-women-holding-hands_emoji-modifier-fitzpatrick-type-1-2_1f46d-1f3fb_1f3fb",
+      "sprite": "two-women-holding-hands-1-2_1f46d-1f3fb_1f3fb",
       "w": 36,
       "h": 36,
       "x": 792,
       "y": 1404
     },
     {
-      "sprite": "two-women-holding-hands_emoji-modifier-fitzpatrick-type-3_1f46d-1f3fc_1f3fc",
+      "sprite": "two-women-holding-hands-3_1f46d-1f3fc_1f3fc",
       "w": 36,
       "h": 36,
       "x": 792,
       "y": 1440
     },
     {
-      "sprite": "two-women-holding-hands_emoji-modifier-fitzpatrick-type-4_1f46d-1f3fd_1f3fd",
+      "sprite": "two-women-holding-hands-4_1f46d-1f3fd_1f3fd",
       "w": 36,
       "h": 36,
       "x": 828,
       "y": 828
     },
     {
-      "sprite": "two-women-holding-hands_emoji-modifier-fitzpatrick-type-5_1f46d-1f3fe_1f3fe",
+      "sprite": "two-women-holding-hands-5_1f46d-1f3fe_1f3fe",
       "w": 36,
       "h": 36,
       "x": 864,
       "y": 828
     },
     {
-      "sprite": "two-women-holding-hands_emoji-modifier-fitzpatrick-type-6_1f46d-1f3ff_1f3ff",
+      "sprite": "two-women-holding-hands-6_1f46d-1f3ff_1f3ff",
       "w": 36,
       "h": 36,
       "x": 900,
@@ -9542,35 +9542,35 @@
       "y": 828
     },
     {
-      "sprite": "vampire_emoji-modifier-fitzpatrick-type-1-2_1f9db-1f3fb_1f3fb",
+      "sprite": "vampire-1-2_1f9db-1f3fb_1f3fb",
       "w": 36,
       "h": 36,
       "x": 1044,
       "y": 828
     },
     {
-      "sprite": "vampire_emoji-modifier-fitzpatrick-type-3_1f9db-1f3fc_1f3fc",
+      "sprite": "vampire-3_1f9db-1f3fc_1f3fc",
       "w": 36,
       "h": 36,
       "x": 1080,
       "y": 828
     },
     {
-      "sprite": "vampire_emoji-modifier-fitzpatrick-type-4_1f9db-1f3fd_1f3fd",
+      "sprite": "vampire-4_1f9db-1f3fd_1f3fd",
       "w": 36,
       "h": 36,
       "x": 1116,
       "y": 828
     },
     {
-      "sprite": "vampire_emoji-modifier-fitzpatrick-type-5_1f9db-1f3fe_1f3fe",
+      "sprite": "vampire-5_1f9db-1f3fe_1f3fe",
       "w": 36,
       "h": 36,
       "x": 1152,
       "y": 828
     },
     {
-      "sprite": "vampire_emoji-modifier-fitzpatrick-type-6_1f9db-1f3ff_1f3ff",
+      "sprite": "vampire-6_1f9db-1f3ff_1f3ff",
       "w": 36,
       "h": 36,
       "x": 1188,
@@ -9584,35 +9584,35 @@
       "y": 828
     },
     {
-      "sprite": "victory-hand_emoji-modifier-fitzpatrick-type-1-2_270c-1f3fb_1f3fb",
+      "sprite": "victory-hand-1-2_270c-1f3fb_1f3fb",
       "w": 36,
       "h": 36,
       "x": 1260,
       "y": 828
     },
     {
-      "sprite": "victory-hand_emoji-modifier-fitzpatrick-type-3_270c-1f3fc_1f3fc",
+      "sprite": "victory-hand-3_270c-1f3fc_1f3fc",
       "w": 36,
       "h": 36,
       "x": 1296,
       "y": 828
     },
     {
-      "sprite": "victory-hand_emoji-modifier-fitzpatrick-type-4_270c-1f3fd_1f3fd",
+      "sprite": "victory-hand-4_270c-1f3fd_1f3fd",
       "w": 36,
       "h": 36,
       "x": 1332,
       "y": 828
     },
     {
-      "sprite": "victory-hand_emoji-modifier-fitzpatrick-type-5_270c-1f3fe_1f3fe",
+      "sprite": "victory-hand-5_270c-1f3fe_1f3fe",
       "w": 36,
       "h": 36,
       "x": 1368,
       "y": 828
     },
     {
-      "sprite": "victory-hand_emoji-modifier-fitzpatrick-type-6_270c-1f3ff_1f3ff",
+      "sprite": "victory-hand-6_270c-1f3ff_1f3ff",
       "w": 36,
       "h": 36,
       "x": 1404,
@@ -9626,35 +9626,35 @@
       "y": 828
     },
     {
-      "sprite": "waving-hand-sign_emoji-modifier-fitzpatrick-type-1-2_1f44b-1f3fb_1f3fb",
+      "sprite": "waving-hand-sign-1-2_1f44b-1f3fb",
       "w": 36,
       "h": 36,
       "x": 828,
       "y": 864
     },
     {
-      "sprite": "waving-hand-sign_emoji-modifier-fitzpatrick-type-3_1f44b-1f3fc_1f3fc",
+      "sprite": "waving-hand-sign-3_1f44b-1f3fc",
       "w": 36,
       "h": 36,
       "x": 828,
       "y": 900
     },
     {
-      "sprite": "waving-hand-sign_emoji-modifier-fitzpatrick-type-4_1f44b-1f3fd_1f3fd",
+      "sprite": "waving-hand-sign-4_1f44b-1f3fd",
       "w": 36,
       "h": 36,
       "x": 828,
       "y": 936
     },
     {
-      "sprite": "waving-hand-sign_emoji-modifier-fitzpatrick-type-5_1f44b-1f3fe_1f3fe",
+      "sprite": "waving-hand-sign-5_1f44b-1f3fe",
       "w": 36,
       "h": 36,
       "x": 828,
       "y": 972
     },
     {
-      "sprite": "waving-hand-sign_emoji-modifier-fitzpatrick-type-6_1f44b-1f3ff_1f3ff",
+      "sprite": "waving-hand-sign-6_1f44b-1f3ff",
       "w": 36,
       "h": 36,
       "x": 828,
@@ -9682,35 +9682,35 @@
       "y": 1116
     },
     {
-      "sprite": "white-down-pointing-backhand-index_emoji-modifier-fitzpatrick-type-1-2_1f447-1f3fb_1f3fb",
+      "sprite": "white-down-pointing-backhand-index-1-2_1f447-1f3fb_1f3fb",
       "w": 36,
       "h": 36,
       "x": 828,
       "y": 1152
     },
     {
-      "sprite": "white-down-pointing-backhand-index_emoji-modifier-fitzpatrick-type-3_1f447-1f3fc_1f3fc",
+      "sprite": "white-down-pointing-backhand-index-3_1f447-1f3fc_1f3fc",
       "w": 36,
       "h": 36,
       "x": 828,
       "y": 1188
     },
     {
-      "sprite": "white-down-pointing-backhand-index_emoji-modifier-fitzpatrick-type-4_1f447-1f3fd_1f3fd",
+      "sprite": "white-down-pointing-backhand-index-4_1f447-1f3fd_1f3fd",
       "w": 36,
       "h": 36,
       "x": 828,
       "y": 1224
     },
     {
-      "sprite": "white-down-pointing-backhand-index_emoji-modifier-fitzpatrick-type-5_1f447-1f3fe_1f3fe",
+      "sprite": "white-down-pointing-backhand-index-5_1f447-1f3fe_1f3fe",
       "w": 36,
       "h": 36,
       "x": 828,
       "y": 1260
     },
     {
-      "sprite": "white-down-pointing-backhand-index_emoji-modifier-fitzpatrick-type-6_1f447-1f3ff_1f3ff",
+      "sprite": "white-down-pointing-backhand-index-6_1f447-1f3ff_1f3ff",
       "w": 36,
       "h": 36,
       "x": 828,
@@ -9731,35 +9731,35 @@
       "y": 1368
     },
     {
-      "sprite": "white-left-pointing-backhand-index_emoji-modifier-fitzpatrick-type-1-2_1f448-1f3fb_1f3fb",
+      "sprite": "white-left-pointing-backhand-index-1-2_1f448-1f3fb_1f3fb",
       "w": 36,
       "h": 36,
       "x": 828,
       "y": 1404
     },
     {
-      "sprite": "white-left-pointing-backhand-index_emoji-modifier-fitzpatrick-type-3_1f448-1f3fc_1f3fc",
+      "sprite": "white-left-pointing-backhand-index-3_1f448-1f3fc_1f3fc",
       "w": 36,
       "h": 36,
       "x": 828,
       "y": 1440
     },
     {
-      "sprite": "white-left-pointing-backhand-index_emoji-modifier-fitzpatrick-type-4_1f448-1f3fd_1f3fd",
+      "sprite": "white-left-pointing-backhand-index-4_1f448-1f3fd_1f3fd",
       "w": 36,
       "h": 36,
       "x": 864,
       "y": 864
     },
     {
-      "sprite": "white-left-pointing-backhand-index_emoji-modifier-fitzpatrick-type-5_1f448-1f3fe_1f3fe",
+      "sprite": "white-left-pointing-backhand-index-5_1f448-1f3fe_1f3fe",
       "w": 36,
       "h": 36,
       "x": 900,
       "y": 864
     },
     {
-      "sprite": "white-left-pointing-backhand-index_emoji-modifier-fitzpatrick-type-6_1f448-1f3ff_1f3ff",
+      "sprite": "white-left-pointing-backhand-index-6_1f448-1f3ff_1f3ff",
       "w": 36,
       "h": 36,
       "x": 936,
@@ -9773,35 +9773,35 @@
       "y": 864
     },
     {
-      "sprite": "white-right-pointing-backhand-index_emoji-modifier-fitzpatrick-type-1-2_1f449-1f3fb_1f3fb",
+      "sprite": "white-right-pointing-backhand-index-1-2_1f449-1f3fb_1f3fb",
       "w": 36,
       "h": 36,
       "x": 1008,
       "y": 864
     },
     {
-      "sprite": "white-right-pointing-backhand-index_emoji-modifier-fitzpatrick-type-3_1f449-1f3fc_1f3fc",
+      "sprite": "white-right-pointing-backhand-index-3_1f449-1f3fc_1f3fc",
       "w": 36,
       "h": 36,
       "x": 1044,
       "y": 864
     },
     {
-      "sprite": "white-right-pointing-backhand-index_emoji-modifier-fitzpatrick-type-4_1f449-1f3fd_1f3fd",
+      "sprite": "white-right-pointing-backhand-index-4_1f449-1f3fd_1f3fd",
       "w": 36,
       "h": 36,
       "x": 1080,
       "y": 864
     },
     {
-      "sprite": "white-right-pointing-backhand-index_emoji-modifier-fitzpatrick-type-5_1f449-1f3fe_1f3fe",
+      "sprite": "white-right-pointing-backhand-index-5_1f449-1f3fe_1f3fe",
       "w": 36,
       "h": 36,
       "x": 1116,
       "y": 864
     },
     {
-      "sprite": "white-right-pointing-backhand-index_emoji-modifier-fitzpatrick-type-6_1f449-1f3ff_1f3ff",
+      "sprite": "white-right-pointing-backhand-index-6_1f449-1f3ff_1f3ff",
       "w": 36,
       "h": 36,
       "x": 1152,
@@ -9822,35 +9822,35 @@
       "y": 864
     },
     {
-      "sprite": "white-up-pointing-backhand-index_emoji-modifier-fitzpatrick-type-1-2_1f446-1f3fb_1f3fb",
+      "sprite": "white-up-pointing-backhand-index-1-2_1f446-1f3fb_1f3fb",
       "w": 36,
       "h": 36,
       "x": 1260,
       "y": 864
     },
     {
-      "sprite": "white-up-pointing-backhand-index_emoji-modifier-fitzpatrick-type-3_1f446-1f3fc_1f3fc",
+      "sprite": "white-up-pointing-backhand-index-3_1f446-1f3fc_1f3fc",
       "w": 36,
       "h": 36,
       "x": 1296,
       "y": 864
     },
     {
-      "sprite": "white-up-pointing-backhand-index_emoji-modifier-fitzpatrick-type-4_1f446-1f3fd_1f3fd",
+      "sprite": "white-up-pointing-backhand-index-4_1f446-1f3fd_1f3fd",
       "w": 36,
       "h": 36,
       "x": 1332,
       "y": 864
     },
     {
-      "sprite": "white-up-pointing-backhand-index_emoji-modifier-fitzpatrick-type-5_1f446-1f3fe_1f3fe",
+      "sprite": "white-up-pointing-backhand-index-5_1f446-1f3fe_1f3fe",
       "w": 36,
       "h": 36,
       "x": 1368,
       "y": 864
     },
     {
-      "sprite": "white-up-pointing-backhand-index_emoji-modifier-fitzpatrick-type-6_1f446-1f3ff_1f3ff",
+      "sprite": "white-up-pointing-backhand-index-6_1f446-1f3ff_1f3ff",
       "w": 36,
       "h": 36,
       "x": 1404,
@@ -9864,35 +9864,35 @@
       "y": 864
     },
     {
-      "sprite": "white-up-pointing-index_emoji-modifier-fitzpatrick-type-1-2_261d-1f3fb_1f3fb",
+      "sprite": "white-up-pointing-index-1-2_261d-1f3fb_1f3fb",
       "w": 36,
       "h": 36,
       "x": 864,
       "y": 900
     },
     {
-      "sprite": "white-up-pointing-index_emoji-modifier-fitzpatrick-type-3_261d-1f3fc_1f3fc",
+      "sprite": "white-up-pointing-index-3_261d-1f3fc_1f3fc",
       "w": 36,
       "h": 36,
       "x": 864,
       "y": 936
     },
     {
-      "sprite": "white-up-pointing-index_emoji-modifier-fitzpatrick-type-4_261d-1f3fd_1f3fd",
+      "sprite": "white-up-pointing-index-4_261d-1f3fd_1f3fd",
       "w": 36,
       "h": 36,
       "x": 864,
       "y": 972
     },
     {
-      "sprite": "white-up-pointing-index_emoji-modifier-fitzpatrick-type-5_261d-1f3fe_1f3fe",
+      "sprite": "white-up-pointing-index-5_261d-1f3fe_1f3fe",
       "w": 36,
       "h": 36,
       "x": 864,
       "y": 1008
     },
     {
-      "sprite": "white-up-pointing-index_emoji-modifier-fitzpatrick-type-6_261d-1f3ff_1f3ff",
+      "sprite": "white-up-pointing-index-6_261d-1f3ff_1f3ff",
       "w": 36,
       "h": 36,
       "x": 864,
@@ -9913,35 +9913,35 @@
       "y": 1116
     },
     {
-      "sprite": "woman_emoji-modifier-fitzpatrick-type-1-2_1f469-1f3fb_1f3fb",
+      "sprite": "woman-1-2_1f469-1f3fb_1f3fb",
       "w": 36,
       "h": 36,
       "x": 864,
       "y": 1152
     },
     {
-      "sprite": "woman_emoji-modifier-fitzpatrick-type-3_1f469-1f3fc_1f3fc",
+      "sprite": "woman-3_1f469-1f3fc_1f3fc",
       "w": 36,
       "h": 36,
       "x": 864,
       "y": 1188
     },
     {
-      "sprite": "woman_emoji-modifier-fitzpatrick-type-4_1f469-1f3fd_1f3fd",
+      "sprite": "woman-4_1f469-1f3fd_1f3fd",
       "w": 36,
       "h": 36,
       "x": 864,
       "y": 1224
     },
     {
-      "sprite": "woman_emoji-modifier-fitzpatrick-type-5_1f469-1f3fe_1f3fe",
+      "sprite": "woman-5_1f469-1f3fe_1f3fe",
       "w": 36,
       "h": 36,
       "x": 864,
       "y": 1260
     },
     {
-      "sprite": "woman_emoji-modifier-fitzpatrick-type-6_1f469-1f3ff_1f3ff",
+      "sprite": "woman-6_1f469-1f3ff_1f3ff",
       "w": 36,
       "h": 36,
       "x": 864,
@@ -11593,35 +11593,35 @@
       "y": 1440
     },
     {
-      "sprite": "writing-hand_emoji-modifier-fitzpatrick-type-1-2_270d-1f3fb_1f3fb",
+      "sprite": "writing-hand-1-2_270d-1f3fb_1f3fb",
       "w": 36,
       "h": 36,
       "x": 1296,
       "y": 1296
     },
     {
-      "sprite": "writing-hand_emoji-modifier-fitzpatrick-type-3_270d-1f3fc_1f3fc",
+      "sprite": "writing-hand-3_270d-1f3fc_1f3fc",
       "w": 36,
       "h": 36,
       "x": 1332,
       "y": 1296
     },
     {
-      "sprite": "writing-hand_emoji-modifier-fitzpatrick-type-4_270d-1f3fd_1f3fd",
+      "sprite": "writing-hand-4_270d-1f3fd_1f3fd",
       "w": 36,
       "h": 36,
       "x": 1368,
       "y": 1296
     },
     {
-      "sprite": "writing-hand_emoji-modifier-fitzpatrick-type-5_270d-1f3fe_1f3fe",
+      "sprite": "writing-hand-5_270d-1f3fe_1f3fe",
       "w": 36,
       "h": 36,
       "x": 1404,
       "y": 1296
     },
     {
-      "sprite": "writing-hand_emoji-modifier-fitzpatrick-type-6_270d-1f3ff_1f3ff",
+      "sprite": "writing-hand-6_270d-1f3ff_1f3ff",
       "w": 36,
       "h": 36,
       "x": 1440,

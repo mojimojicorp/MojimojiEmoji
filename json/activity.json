@@ -64,35 +64,35 @@
       "y": 0
     },
     {
-      "sprite": "bicyclist_emoji-modifier-fitzpatrick-type-1-2_1f6b4-1f3fb_1f3fb",
+      "sprite": "bicyclist-emoji-modifier-fitzpatrick-type-1-2_1f6b4-1f3fb",
       "w": 36,
       "h": 36,
       "x": 324,
       "y": 0
     },
     {
-      "sprite": "bicyclist_emoji-modifier-fitzpatrick-type-3_1f6b4-1f3fc_1f3fc",
+      "sprite": "bicyclis-emoji-modifier-fitzpatrick-type-3_1f6b4-1f3fc",
       "w": 36,
       "h": 36,
       "x": 360,
       "y": 0
     },
     {
-      "sprite": "bicyclist_emoji-modifier-fitzpatrick-type-4_1f6b4-1f3fd_1f3fd",
+      "sprite": "bicyclist-emoji-modifier-fitzpatrick-type-4_1f6b4-1f3fd",
       "w": 36,
       "h": 36,
       "x": 396,
       "y": 0
     },
     {
-      "sprite": "bicyclist_emoji-modifier-fitzpatrick-type-5_1f6b4-1f3fe_1f3fe",
+      "sprite": "bicyclist-emoji-modifier-fitzpatrick-type-5_1f6b4-1f3fe",
       "w": 36,
       "h": 36,
       "x": 432,
       "y": 0
     },
     {
-      "sprite": "bicyclist_emoji-modifier-fitzpatrick-type-6_1f6b4-1f3ff_1f3ff",
+      "sprite": "bicyclist-emoji-modifier-fitzpatrick-type-6_1f6b4-1f3ff",
       "w": 36,
       "h": 36,
       "x": 468,
@@ -106,7 +106,7 @@
       "y": 0
     },
     {
-      "sprite": "black-chess-pawn_265f",
+      "sprite": "black-chess-pawn_265f-fe0f",
       "w": 36,
       "h": 36,
       "x": 540,
@@ -1408,35 +1408,35 @@
       "y": 540
     },
     {
-      "sprite": "surfer_emoji-modifier-fitzpatrick-type-1-2_1f3c4-1f3fb_1f3fb",
+      "sprite": "surfer-emoji-modifier-fitzpatrick-type-1-2_1f3c4-1f3fb",
       "w": 36,
       "h": 36,
       "x": 216,
       "y": 576
     },
     {
-      "sprite": "surfer_emoji-modifier-fitzpatrick-type-3_1f3c4-1f3fc_1f3fc",
+      "sprite": "surfer-emoji-modifier-fitzpatrick-type-3_1f3c4-1f3fc",
       "w": 36,
       "h": 36,
       "x": 216,
       "y": 612
     },
     {
-      "sprite": "surfer_emoji-modifier-fitzpatrick-type-4_1f3c4-1f3fd_1f3fd",
+      "sprite": "surfer-emoji-modifier-fitzpatrick-type-4_1f3c4-1f3fd",
       "w": 36,
       "h": 36,
       "x": 252,
       "y": 252
     },
     {
-      "sprite": "surfer_emoji-modifier-fitzpatrick-type-5_1f3c4-1f3fe_1f3fe",
+      "sprite": "surfer-emoji-modifier-fitzpatrick-type-5_1f3c4-1f3fe",
       "w": 36,
       "h": 36,
       "x": 288,
       "y": 252
     },
     {
-      "sprite": "surfer_emoji-modifier-fitzpatrick-type-6_1f3c4-1f3ff_1f3ff",
+      "sprite": "surfer-emoji-modifier-fitzpatrick-type-6_1f3c4-1f3ff",
       "w": 36,
       "h": 36,
       "x": 324,
@@ -1450,35 +1450,35 @@
       "y": 252
     },
     {
-      "sprite": "swimmer_emoji-modifier-fitzpatrick-type-1-2_1f3ca-1f3fb_1f3fb",
+      "sprite": "swimmer-emoji-modifier-fitzpatrick-type-1-2_1f3ca-1f3fb",
       "w": 36,
       "h": 36,
       "x": 396,
       "y": 252
     },
     {
-      "sprite": "swimmer_emoji-modifier-fitzpatrick-type-3_1f3ca-1f3fc_1f3fc",
+      "sprite": "swimmer-emoji-modifier-fitzpatrick-type-3_1f3ca-1f3fc",
       "w": 36,
       "h": 36,
       "x": 432,
       "y": 252
     },
     {
-      "sprite": "swimmer_emoji-modifier-fitzpatrick-type-4_1f3ca-1f3fd_1f3fd",
+      "sprite": "swimmer-emoji-modifier-fitzpatrick-type-4_1f3ca-1f3fd",
       "w": 36,
       "h": 36,
       "x": 468,
       "y": 252
     },
     {
-      "sprite": "swimmer_emoji-modifier-fitzpatrick-type-5_1f3ca-1f3fe_1f3fe",
+      "sprite": "swimmer-emoji-modifier-fitzpatrick-type-5_1f3ca-1f3fe",
       "w": 36,
       "h": 36,
       "x": 504,
       "y": 252
     },
     {
-      "sprite": "swimmer_emoji-modifier-fitzpatrick-type-6_1f3ca-1f3ff_1f3ff",
+      "sprite": "swimmer-emoji-modifier-fitzpatrick-type-6_1f3ca-1f3ff",
       "w": 36,
       "h": 36,
       "x": 540,

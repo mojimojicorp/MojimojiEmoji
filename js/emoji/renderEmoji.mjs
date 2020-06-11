@@ -53,7 +53,7 @@ function renderEmoji(data) {
       // data.code가 같은 것의 좌표 찾기
       people.forEach((item) => {
         let code = item.sprite.split('_')[1];
-        code = code.replace('-', ' ');
+        code = code.replace(/-/gi, ' ');
 
         if (data.codes.toLowerCase() === code) {
           emoji.style.backgroundPosition = `-${item.x}px -${item.y}px`;
@@ -67,7 +67,7 @@ function renderEmoji(data) {
       // data.code가 같은 것의 좌표 찾기
       nature.forEach((item) => {
         let code = item.sprite.split('_')[1];
-        code = code.replace('-', ' ');
+        code = code.replace(/-/gi, ' ');
 
         if (data.codes.toLowerCase() === code) {
           emoji.style.backgroundPosition = `-${item.x}px -${item.y}px`;
@@ -81,7 +81,7 @@ function renderEmoji(data) {
       // data.code가 같은 것의 좌표 찾기
       foodAndDrink.forEach((item) => {
         let code = item.sprite.split('_')[1];
-        code = code.replace('-', ' ');
+        code = code.replace(/-/gi, ' ');
 
         if (data.codes.toLowerCase() === code) {
           emoji.style.backgroundPosition = `-${item.x}px -${item.y}px`;
@@ -95,7 +95,7 @@ function renderEmoji(data) {
       // data.code가 같은 것의 좌표 찾기
       activity.forEach((item) => {
         let code = item.sprite.split('_')[1];
-        code = code.replace('-', ' ');
+        code = code.replace(/-/gi, ' ');
 
         if (data.codes.toLowerCase() === code) {
           emoji.style.backgroundPosition = `-${item.x}px -${item.y}px`;
@@ -109,7 +109,7 @@ function renderEmoji(data) {
       // data.code가 같은 것의 좌표 찾기
       place.forEach((item) => {
         let code = item.sprite.split('_')[1];
-        code = code.replace('-', ' ');
+        code = code.replace(/-/gi, ' ');
 
         if (data.codes.toLowerCase() === code) {
           emoji.style.backgroundPosition = `-${item.x}px -${item.y}px`;
@@ -123,7 +123,7 @@ function renderEmoji(data) {
       // data.code가 같은 것의 좌표 찾기
       objects.forEach((item) => {
         let code = item.sprite.split('_')[1];
-        code = code.replace('-', ' ');
+        code = code.replace(/-/gi, ' ');
 
         if (data.codes.toLowerCase() === code) {
           emoji.style.backgroundPosition = `-${item.x}px -${item.y}px`;
@@ -137,7 +137,7 @@ function renderEmoji(data) {
       // data.code가 같은 것의 좌표 찾기
       symbols.forEach((item) => {
         let code = item.sprite.split('_')[1];
-        code = code.replace('-', ' ');
+        code = code.replace(/-/gi, ' ');
 
         if (data.codes.toLowerCase() === code) {
           emoji.style.backgroundPosition = `-${item.x}px -${item.y}px`;
@@ -151,7 +151,7 @@ function renderEmoji(data) {
       // data.code가 같은 것의 좌표 찾기
       flags.forEach((item) => {
         let code = item.sprite.split('_')[1];
-        code = code.replace('-', ' ');
+        code = code.replace(/-/gi, ' ');
 
         if (data.codes.toLowerCase() === code) {
           emoji.style.backgroundPosition = `-${item.x}px -${item.y}px`;
