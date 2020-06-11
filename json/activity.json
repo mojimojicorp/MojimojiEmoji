@@ -1,0 +1,2202 @@
+{
+  "data": [
+    {
+      "sprite": "admission-tickets_1f39f",
+      "w": 36,
+      "h": 36,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "sprite": "american-football_1f3c8",
+      "w": 36,
+      "h": 36,
+      "x": 36,
+      "y": 0
+    },
+    {
+      "sprite": "artist-palette_1f3a8",
+      "w": 36,
+      "h": 36,
+      "x": 72,
+      "y": 0
+    },
+    {
+      "sprite": "badminton-racquet-and-shuttlecock_1f3f8",
+      "w": 36,
+      "h": 36,
+      "x": 108,
+      "y": 0
+    },
+    {
+      "sprite": "ballet-shoes_1fa70",
+      "w": 36,
+      "h": 36,
+      "x": 144,
+      "y": 0
+    },
+    {
+      "sprite": "banjo_1fa95",
+      "w": 36,
+      "h": 36,
+      "x": 180,
+      "y": 0
+    },
+    {
+      "sprite": "baseball_26be",
+      "w": 36,
+      "h": 36,
+      "x": 216,
+      "y": 0
+    },
+    {
+      "sprite": "basketball-and-hoop_1f3c0",
+      "w": 36,
+      "h": 36,
+      "x": 252,
+      "y": 0
+    },
+    {
+      "sprite": "bicyclist_1f6b4",
+      "w": 36,
+      "h": 36,
+      "x": 288,
+      "y": 0
+    },
+    {
+      "sprite": "bicyclist_emoji-modifier-fitzpatrick-type-1-2_1f6b4-1f3fb_1f3fb",
+      "w": 36,
+      "h": 36,
+      "x": 324,
+      "y": 0
+    },
+    {
+      "sprite": "bicyclist_emoji-modifier-fitzpatrick-type-3_1f6b4-1f3fc_1f3fc",
+      "w": 36,
+      "h": 36,
+      "x": 360,
+      "y": 0
+    },
+    {
+      "sprite": "bicyclist_emoji-modifier-fitzpatrick-type-4_1f6b4-1f3fd_1f3fd",
+      "w": 36,
+      "h": 36,
+      "x": 396,
+      "y": 0
+    },
+    {
+      "sprite": "bicyclist_emoji-modifier-fitzpatrick-type-5_1f6b4-1f3fe_1f3fe",
+      "w": 36,
+      "h": 36,
+      "x": 432,
+      "y": 0
+    },
+    {
+      "sprite": "bicyclist_emoji-modifier-fitzpatrick-type-6_1f6b4-1f3ff_1f3ff",
+      "w": 36,
+      "h": 36,
+      "x": 468,
+      "y": 0
+    },
+    {
+      "sprite": "billiards_1f3b1",
+      "w": 36,
+      "h": 36,
+      "x": 504,
+      "y": 0
+    },
+    {
+      "sprite": "black-chess-pawn_265f",
+      "w": 36,
+      "h": 36,
+      "x": 540,
+      "y": 0
+    },
+    {
+      "sprite": "bow-and-arrow_1f3f9",
+      "w": 36,
+      "h": 36,
+      "x": 576,
+      "y": 0
+    },
+    {
+      "sprite": "bowling_1f3b3",
+      "w": 36,
+      "h": 36,
+      "x": 612,
+      "y": 0
+    },
+    {
+      "sprite": "boxing-glove_1f94a",
+      "w": 36,
+      "h": 36,
+      "x": 0,
+      "y": 36
+    },
+    {
+      "sprite": "clapper-board_1f3ac",
+      "w": 36,
+      "h": 36,
+      "x": 0,
+      "y": 72
+    },
+    {
+      "sprite": "cricket-bat-and-ball_1f3cf",
+      "w": 36,
+      "h": 36,
+      "x": 0,
+      "y": 108
+    },
+    {
+      "sprite": "curling-stone_1f94c",
+      "w": 36,
+      "h": 36,
+      "x": 0,
+      "y": 144
+    },
+    {
+      "sprite": "direct-hit_1f3af",
+      "w": 36,
+      "h": 36,
+      "x": 0,
+      "y": 180
+    },
+    {
+      "sprite": "diving-mask_1f93f",
+      "w": 36,
+      "h": 36,
+      "x": 0,
+      "y": 216
+    },
+    {
+      "sprite": "drum-with-drumsticks_1f941",
+      "w": 36,
+      "h": 36,
+      "x": 0,
+      "y": 252
+    },
+    {
+      "sprite": "fencer_1f93a",
+      "w": 36,
+      "h": 36,
+      "x": 0,
+      "y": 288
+    },
+    {
+      "sprite": "field-hockey-stick-and-ball_1f3d1",
+      "w": 36,
+      "h": 36,
+      "x": 0,
+      "y": 324
+    },
+    {
+      "sprite": "first-place-medal_1f947",
+      "w": 36,
+      "h": 36,
+      "x": 0,
+      "y": 360
+    },
+    {
+      "sprite": "fishing-pole-and-fish_1f3a3",
+      "w": 36,
+      "h": 36,
+      "x": 0,
+      "y": 396
+    },
+    {
+      "sprite": "flag-in-hole_26f3",
+      "w": 36,
+      "h": 36,
+      "x": 0,
+      "y": 432
+    },
+    {
+      "sprite": "flying-disc_1f94f",
+      "w": 36,
+      "h": 36,
+      "x": 0,
+      "y": 468
+    },
+    {
+      "sprite": "goal-net_1f945",
+      "w": 36,
+      "h": 36,
+      "x": 0,
+      "y": 504
+    },
+    {
+      "sprite": "golfer_1f3cc",
+      "w": 36,
+      "h": 36,
+      "x": 0,
+      "y": 540
+    },
+    {
+      "sprite": "golfer_emoji-modifier-fitzpatrick-type-1-2_1f3cc-1f3fb_1f3fb",
+      "w": 36,
+      "h": 36,
+      "x": 0,
+      "y": 576
+    },
+    {
+      "sprite": "golfer_emoji-modifier-fitzpatrick-type-3_1f3cc-1f3fc_1f3fc",
+      "w": 36,
+      "h": 36,
+      "x": 0,
+      "y": 612
+    },
+    {
+      "sprite": "golfer_emoji-modifier-fitzpatrick-type-4_1f3cc-1f3fd_1f3fd",
+      "w": 36,
+      "h": 36,
+      "x": 36,
+      "y": 36
+    },
+    {
+      "sprite": "golfer_emoji-modifier-fitzpatrick-type-5_1f3cc-1f3fe_1f3fe",
+      "w": 36,
+      "h": 36,
+      "x": 72,
+      "y": 36
+    },
+    {
+      "sprite": "golfer_emoji-modifier-fitzpatrick-type-6_1f3cc-1f3ff_1f3ff",
+      "w": 36,
+      "h": 36,
+      "x": 108,
+      "y": 36
+    },
+    {
+      "sprite": "guitar_1f3b8",
+      "w": 36,
+      "h": 36,
+      "x": 144,
+      "y": 36
+    },
+    {
+      "sprite": "handball_1f93e",
+      "w": 36,
+      "h": 36,
+      "x": 180,
+      "y": 36
+    },
+    {
+      "sprite": "handball_emoji-modifier-fitzpatrick-type-1-2_1f93e-1f3fb_1f3fb",
+      "w": 36,
+      "h": 36,
+      "x": 216,
+      "y": 36
+    },
+    {
+      "sprite": "handball_emoji-modifier-fitzpatrick-type-3_1f93e-1f3fc_1f3fc",
+      "w": 36,
+      "h": 36,
+      "x": 252,
+      "y": 36
+    },
+    {
+      "sprite": "handball_emoji-modifier-fitzpatrick-type-4_1f93e-1f3fd_1f3fd",
+      "w": 36,
+      "h": 36,
+      "x": 288,
+      "y": 36
+    },
+    {
+      "sprite": "handball_emoji-modifier-fitzpatrick-type-5_1f93e-1f3fe_1f3fe",
+      "w": 36,
+      "h": 36,
+      "x": 324,
+      "y": 36
+    },
+    {
+      "sprite": "handball_emoji-modifier-fitzpatrick-type-6_1f93e-1f3ff_1f3ff",
+      "w": 36,
+      "h": 36,
+      "x": 360,
+      "y": 36
+    },
+    {
+      "sprite": "headphone_1f3a7",
+      "w": 36,
+      "h": 36,
+      "x": 396,
+      "y": 36
+    },
+    {
+      "sprite": "horse-racing_1f3c7",
+      "w": 36,
+      "h": 36,
+      "x": 432,
+      "y": 36
+    },
+    {
+      "sprite": "horse-racing_emoji-modifier-fitzpatrick-type-1-2_1f3c7-1f3fb_1f3fb",
+      "w": 36,
+      "h": 36,
+      "x": 468,
+      "y": 36
+    },
+    {
+      "sprite": "horse-racing_emoji-modifier-fitzpatrick-type-3_1f3c7-1f3fc_1f3fc",
+      "w": 36,
+      "h": 36,
+      "x": 504,
+      "y": 36
+    },
+    {
+      "sprite": "horse-racing_emoji-modifier-fitzpatrick-type-4_1f3c7-1f3fd_1f3fd",
+      "w": 36,
+      "h": 36,
+      "x": 540,
+      "y": 36
+    },
+    {
+      "sprite": "horse-racing_emoji-modifier-fitzpatrick-type-5_1f3c7-1f3fe_1f3fe",
+      "w": 36,
+      "h": 36,
+      "x": 576,
+      "y": 36
+    },
+    {
+      "sprite": "horse-racing_emoji-modifier-fitzpatrick-type-6_1f3c7-1f3ff_1f3ff",
+      "w": 36,
+      "h": 36,
+      "x": 612,
+      "y": 36
+    },
+    {
+      "sprite": "ice-hockey-stick-and-puck_1f3d2",
+      "w": 36,
+      "h": 36,
+      "x": 36,
+      "y": 72
+    },
+    {
+      "sprite": "ice-skate_26f8",
+      "w": 36,
+      "h": 36,
+      "x": 36,
+      "y": 108
+    },
+    {
+      "sprite": "jigsaw-puzzle-piece_1f9e9",
+      "w": 36,
+      "h": 36,
+      "x": 36,
+      "y": 144
+    },
+    {
+      "sprite": "juggling_1f939",
+      "w": 36,
+      "h": 36,
+      "x": 36,
+      "y": 180
+    },
+    {
+      "sprite": "juggling_emoji-modifier-fitzpatrick-type-1-2_1f939-1f3fb_1f3fb",
+      "w": 36,
+      "h": 36,
+      "x": 36,
+      "y": 216
+    },
+    {
+      "sprite": "juggling_emoji-modifier-fitzpatrick-type-3_1f939-1f3fc_1f3fc",
+      "w": 36,
+      "h": 36,
+      "x": 36,
+      "y": 252
+    },
+    {
+      "sprite": "juggling_emoji-modifier-fitzpatrick-type-4_1f939-1f3fd_1f3fd",
+      "w": 36,
+      "h": 36,
+      "x": 36,
+      "y": 288
+    },
+    {
+      "sprite": "juggling_emoji-modifier-fitzpatrick-type-5_1f939-1f3fe_1f3fe",
+      "w": 36,
+      "h": 36,
+      "x": 36,
+      "y": 324
+    },
+    {
+      "sprite": "juggling_emoji-modifier-fitzpatrick-type-6_1f939-1f3ff_1f3ff",
+      "w": 36,
+      "h": 36,
+      "x": 36,
+      "y": 360
+    },
+    {
+      "sprite": "kite_1fa81",
+      "w": 36,
+      "h": 36,
+      "x": 36,
+      "y": 396
+    },
+    {
+      "sprite": "lacrosse-stick-and-ball_1f94d",
+      "w": 36,
+      "h": 36,
+      "x": 36,
+      "y": 432
+    },
+    {
+      "sprite": "man-biking_1f6b4-200d-2642-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 36,
+      "y": 468
+    },
+    {
+      "sprite": "man-biking-type-1-2_1f6b4-1f3fb-200d-2642-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 36,
+      "y": 504
+    },
+    {
+      "sprite": "man-biking-type-3_1f6b4-1f3fc-200d-2642-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 36,
+      "y": 540
+    },
+    {
+      "sprite": "man-biking-type-4_1f6b4-1f3fd-200d-2642-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 36,
+      "y": 576
+    },
+    {
+      "sprite": "man-biking-type-5_1f6b4-1f3fe-200d-2642-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 36,
+      "y": 612
+    },
+    {
+      "sprite": "man-biking-type-6_1f6b4-1f3ff-200d-2642-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 72,
+      "y": 72
+    },
+    {
+      "sprite": "man-climbing_1f9d7-200d-2642-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 108,
+      "y": 72
+    },
+    {
+      "sprite": "man-climbing-dark-skin-tone_1f9d7-1f3ff-200d-2642-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 144,
+      "y": 72
+    },
+    {
+      "sprite": "man-climbing-light-skin-tone_1f9d7-1f3fb-200d-2642-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 180,
+      "y": 72
+    },
+    {
+      "sprite": "man-climbing-medium-dark-skin-tone_1f9d7-1f3fe-200d-2642-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 216,
+      "y": 72
+    },
+    {
+      "sprite": "man-climbing-medium-light-skin-tone_1f9d7-1f3fc-200d-2642-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 252,
+      "y": 72
+    },
+    {
+      "sprite": "man-climbing-medium-skin-tone_1f9d7-1f3fd-200d-2642-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 288,
+      "y": 72
+    },
+    {
+      "sprite": "man-doing-cartwheel_1f938-200d-2642-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 324,
+      "y": 72
+    },
+    {
+      "sprite": "man-doing-cartwheel-type-1-2_1f938-1f3fb-200d-2642-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 360,
+      "y": 72
+    },
+    {
+      "sprite": "man-doing-cartwheel-type-3_1f938-1f3fc-200d-2642-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 396,
+      "y": 72
+    },
+    {
+      "sprite": "man-doing-cartwheel-type-4_1f938-1f3fd-200d-2642-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 432,
+      "y": 72
+    },
+    {
+      "sprite": "man-doing-cartwheel-type-5_1f938-1f3fe-200d-2642-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 468,
+      "y": 72
+    },
+    {
+      "sprite": "man-doing-cartwheel-type-6_1f938-1f3ff-200d-2642-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 504,
+      "y": 72
+    },
+    {
+      "sprite": "man-in-lotus-position_1f9d8-200d-2642-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 540,
+      "y": 72
+    },
+    {
+      "sprite": "man-in-lotus-position-dark-skin-tone_1f9d8-1f3ff-200d-2642-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 576,
+      "y": 72
+    },
+    {
+      "sprite": "man-in-lotus-position-light-skin-tone_1f9d8-1f3fb-200d-2642-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 612,
+      "y": 72
+    },
+    {
+      "sprite": "man-in-lotus-position-medium-dark-skin-tone_1f9d8-1f3fe-200d-2642-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 72,
+      "y": 108
+    },
+    {
+      "sprite": "man-in-lotus-position-medium-light-skin-tone_1f9d8-1f3fc-200d-2642-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 72,
+      "y": 144
+    },
+    {
+      "sprite": "man-in-lotus-position-medium-skin-tone_1f9d8-1f3fd-200d-2642-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 72,
+      "y": 180
+    },
+    {
+      "sprite": "man-juggling_1f939-200d-2642-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 72,
+      "y": 216
+    },
+    {
+      "sprite": "man-juggling-type-1-2_1f939-1f3fb-200d-2642-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 72,
+      "y": 252
+    },
+    {
+      "sprite": "man-juggling-type-3_1f939-1f3fc-200d-2642-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 72,
+      "y": 288
+    },
+    {
+      "sprite": "man-juggling-type-4_1f939-1f3fd-200d-2642-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 72,
+      "y": 324
+    },
+    {
+      "sprite": "man-juggling-type-5_1f939-1f3fe-200d-2642-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 72,
+      "y": 360
+    },
+    {
+      "sprite": "man-juggling-type-6_1f939-1f3ff-200d-2642-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 72,
+      "y": 396
+    },
+    {
+      "sprite": "man-mountain-biking_1f6b5-200d-2642-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 72,
+      "y": 432
+    },
+    {
+      "sprite": "man-mountain-biking-type-1-2_1f6b5-1f3fb-200d-2642-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 72,
+      "y": 468
+    },
+    {
+      "sprite": "man-mountain-biking-type-3_1f6b5-1f3fc-200d-2642-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 72,
+      "y": 504
+    },
+    {
+      "sprite": "man-mountain-biking-type-4_1f6b5-1f3fd-200d-2642-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 72,
+      "y": 540
+    },
+    {
+      "sprite": "man-mountain-biking-type-5_1f6b5-1f3fe-200d-2642-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 72,
+      "y": 576
+    },
+    {
+      "sprite": "man-mountain-biking-type-6_1f6b5-1f3ff-200d-2642-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 72,
+      "y": 612
+    },
+    {
+      "sprite": "man-playing-handball_1f93e-200d-2642-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 108,
+      "y": 108
+    },
+    {
+      "sprite": "man-playing-handball-type-1-2_1f93e-1f3fb-200d-2642-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 144,
+      "y": 108
+    },
+    {
+      "sprite": "man-playing-handball-type-3_1f93e-1f3fc-200d-2642-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 180,
+      "y": 108
+    },
+    {
+      "sprite": "man-playing-handball-type-4_1f93e-1f3fd-200d-2642-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 216,
+      "y": 108
+    },
+    {
+      "sprite": "man-playing-handball-type-5_1f93e-1f3fe-200d-2642-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 252,
+      "y": 108
+    },
+    {
+      "sprite": "man-playing-handball-type-6_1f93e-1f3ff-200d-2642-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 288,
+      "y": 108
+    },
+    {
+      "sprite": "man-playing-water-polo_1f93d-200d-2642-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 324,
+      "y": 108
+    },
+    {
+      "sprite": "man-playing-water-polo-type-1-2_1f93d-1f3fb-200d-2642-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 360,
+      "y": 108
+    },
+    {
+      "sprite": "man-playing-water-polo-type-3_1f93d-1f3fc-200d-2642-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 396,
+      "y": 108
+    },
+    {
+      "sprite": "man-playing-water-polo-type-4_1f93d-1f3fd-200d-2642-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 432,
+      "y": 108
+    },
+    {
+      "sprite": "man-playing-water-polo-type-5_1f93d-1f3fe-200d-2642-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 468,
+      "y": 108
+    },
+    {
+      "sprite": "man-playing-water-polo-type-6_1f93d-1f3ff-200d-2642-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 504,
+      "y": 108
+    },
+    {
+      "sprite": "man-rowing-boat_1f6a3-200d-2642-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 540,
+      "y": 108
+    },
+    {
+      "sprite": "man-rowing-boat-type-1-2_1f6a3-1f3fb-200d-2642-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 576,
+      "y": 108
+    },
+    {
+      "sprite": "man-rowing-boat-type-3_1f6a3-1f3fc-200d-2642-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 612,
+      "y": 108
+    },
+    {
+      "sprite": "man-rowing-boat-type-4_1f6a3-1f3fd-200d-2642-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 108,
+      "y": 144
+    },
+    {
+      "sprite": "man-rowing-boat-type-5_1f6a3-1f3fe-200d-2642-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 108,
+      "y": 180
+    },
+    {
+      "sprite": "man-rowing-boat-type-6_1f6a3-1f3ff-200d-2642-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 108,
+      "y": 216
+    },
+    {
+      "sprite": "man-surfing_1f3c4-200d-2642-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 108,
+      "y": 252
+    },
+    {
+      "sprite": "man-surfing-type-1-2_1f3c4-1f3fb-200d-2642-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 108,
+      "y": 288
+    },
+    {
+      "sprite": "man-surfing-type-3_1f3c4-1f3fc-200d-2642-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 108,
+      "y": 324
+    },
+    {
+      "sprite": "man-surfing-type-4_1f3c4-1f3fd-200d-2642-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 108,
+      "y": 360
+    },
+    {
+      "sprite": "man-surfing-type-5_1f3c4-1f3fe-200d-2642-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 108,
+      "y": 396
+    },
+    {
+      "sprite": "man-surfing-type-6_1f3c4-1f3ff-200d-2642-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 108,
+      "y": 432
+    },
+    {
+      "sprite": "man-swimming_1f3ca-200d-2642-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 108,
+      "y": 468
+    },
+    {
+      "sprite": "man-swimming-type-1-2_1f3ca-1f3fb-200d-2642-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 108,
+      "y": 504
+    },
+    {
+      "sprite": "man-swimming-type-3_1f3ca-1f3fc-200d-2642-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 108,
+      "y": 540
+    },
+    {
+      "sprite": "man-swimming-type-4_1f3ca-1f3fd-200d-2642-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 108,
+      "y": 576
+    },
+    {
+      "sprite": "man-swimming-type-5_1f3ca-1f3fe-200d-2642-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 108,
+      "y": 612
+    },
+    {
+      "sprite": "man-swimming-type-6_1f3ca-1f3ff-200d-2642-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 144,
+      "y": 144
+    },
+    {
+      "sprite": "man-weight-lifting_1f3cb-fe0f-200d-2642-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 180,
+      "y": 144
+    },
+    {
+      "sprite": "man-weight-lifting-type-1-2_1f3cb-1f3fb-200d-2642-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 216,
+      "y": 144
+    },
+    {
+      "sprite": "man-weight-lifting-type-3_1f3cb-1f3fc-200d-2642-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 252,
+      "y": 144
+    },
+    {
+      "sprite": "man-weight-lifting-type-4_1f3cb-1f3fd-200d-2642-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 288,
+      "y": 144
+    },
+    {
+      "sprite": "man-weight-lifting-type-5_1f3cb-1f3fe-200d-2642-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 324,
+      "y": 144
+    },
+    {
+      "sprite": "man-weight-lifting-type-6_1f3cb-1f3ff-200d-2642-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 360,
+      "y": 144
+    },
+    {
+      "sprite": "man-with-ball_26f9-fe0f-200d-2642-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 396,
+      "y": 144
+    },
+    {
+      "sprite": "man-with-ball-type-1-2_26f9-1f3fb-200d-2642-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 432,
+      "y": 144
+    },
+    {
+      "sprite": "man-with-ball-type-3_26f9-1f3fc-200d-2642-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 468,
+      "y": 144
+    },
+    {
+      "sprite": "man-with-ball-type-4_26f9-1f3fd-200d-2642-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 504,
+      "y": 144
+    },
+    {
+      "sprite": "man-with-ball-type-5_26f9-1f3fe-200d-2642-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 540,
+      "y": 144
+    },
+    {
+      "sprite": "man-with-ball-type-6_26f9-1f3ff-200d-2642-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 576,
+      "y": 144
+    },
+    {
+      "sprite": "martial-arts-uniform_1f94b",
+      "w": 36,
+      "h": 36,
+      "x": 612,
+      "y": 144
+    },
+    {
+      "sprite": "men-wrestling_1f93c-200d-2642-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 144,
+      "y": 180
+    },
+    {
+      "sprite": "microphone_1f3a4",
+      "w": 36,
+      "h": 36,
+      "x": 144,
+      "y": 216
+    },
+    {
+      "sprite": "military-medal_1f396",
+      "w": 36,
+      "h": 36,
+      "x": 144,
+      "y": 252
+    },
+    {
+      "sprite": "mountain-bicyclist_1f6b5",
+      "w": 36,
+      "h": 36,
+      "x": 144,
+      "y": 288
+    },
+    {
+      "sprite": "mountain-bicyclist_emoji-modifier-fitzpatrick-type-1-2_1f6b5-1f3fb_1f3fb",
+      "w": 36,
+      "h": 36,
+      "x": 144,
+      "y": 324
+    },
+    {
+      "sprite": "mountain-bicyclist_emoji-modifier-fitzpatrick-type-3_1f6b5-1f3fc_1f3fc",
+      "w": 36,
+      "h": 36,
+      "x": 144,
+      "y": 360
+    },
+    {
+      "sprite": "mountain-bicyclist_emoji-modifier-fitzpatrick-type-4_1f6b5-1f3fd_1f3fd",
+      "w": 36,
+      "h": 36,
+      "x": 144,
+      "y": 396
+    },
+    {
+      "sprite": "mountain-bicyclist_emoji-modifier-fitzpatrick-type-5_1f6b5-1f3fe_1f3fe",
+      "w": 36,
+      "h": 36,
+      "x": 144,
+      "y": 432
+    },
+    {
+      "sprite": "mountain-bicyclist_emoji-modifier-fitzpatrick-type-6_1f6b5-1f3ff_1f3ff",
+      "w": 36,
+      "h": 36,
+      "x": 144,
+      "y": 468
+    },
+    {
+      "sprite": "musical-keyboard_1f3b9",
+      "w": 36,
+      "h": 36,
+      "x": 144,
+      "y": 504
+    },
+    {
+      "sprite": "musical-score_1f3bc",
+      "w": 36,
+      "h": 36,
+      "x": 144,
+      "y": 540
+    },
+    {
+      "sprite": "parachute_1fa82",
+      "w": 36,
+      "h": 36,
+      "x": 144,
+      "y": 576
+    },
+    {
+      "sprite": "performing-arts_1f3ad",
+      "w": 36,
+      "h": 36,
+      "x": 144,
+      "y": 612
+    },
+    {
+      "sprite": "person-climbing_1f9d7",
+      "w": 36,
+      "h": 36,
+      "x": 180,
+      "y": 180
+    },
+    {
+      "sprite": "person-climbing_emoji-modifier-fitzpatrick-type-1-2_1f9d7-1f3fb_1f3fb",
+      "w": 36,
+      "h": 36,
+      "x": 216,
+      "y": 180
+    },
+    {
+      "sprite": "person-climbing_emoji-modifier-fitzpatrick-type-3_1f9d7-1f3fc_1f3fc",
+      "w": 36,
+      "h": 36,
+      "x": 252,
+      "y": 180
+    },
+    {
+      "sprite": "person-climbing_emoji-modifier-fitzpatrick-type-4_1f9d7-1f3fd_1f3fd",
+      "w": 36,
+      "h": 36,
+      "x": 288,
+      "y": 180
+    },
+    {
+      "sprite": "person-climbing_emoji-modifier-fitzpatrick-type-5_1f9d7-1f3fe_1f3fe",
+      "w": 36,
+      "h": 36,
+      "x": 324,
+      "y": 180
+    },
+    {
+      "sprite": "person-climbing_emoji-modifier-fitzpatrick-type-6_1f9d7-1f3ff_1f3ff",
+      "w": 36,
+      "h": 36,
+      "x": 360,
+      "y": 180
+    },
+    {
+      "sprite": "person-doing-cartwheel_1f938",
+      "w": 36,
+      "h": 36,
+      "x": 396,
+      "y": 180
+    },
+    {
+      "sprite": "person-doing-cartwheel_emoji-modifier-fitzpatrick-type-1-2_1f938-1f3fb_1f3fb",
+      "w": 36,
+      "h": 36,
+      "x": 432,
+      "y": 180
+    },
+    {
+      "sprite": "person-doing-cartwheel_emoji-modifier-fitzpatrick-type-3_1f938-1f3fc_1f3fc",
+      "w": 36,
+      "h": 36,
+      "x": 468,
+      "y": 180
+    },
+    {
+      "sprite": "person-doing-cartwheel_emoji-modifier-fitzpatrick-type-4_1f938-1f3fd_1f3fd",
+      "w": 36,
+      "h": 36,
+      "x": 504,
+      "y": 180
+    },
+    {
+      "sprite": "person-doing-cartwheel_emoji-modifier-fitzpatrick-type-5_1f938-1f3fe_1f3fe",
+      "w": 36,
+      "h": 36,
+      "x": 540,
+      "y": 180
+    },
+    {
+      "sprite": "person-doing-cartwheel_emoji-modifier-fitzpatrick-type-6_1f938-1f3ff_1f3ff",
+      "w": 36,
+      "h": 36,
+      "x": 576,
+      "y": 180
+    },
+    {
+      "sprite": "person-in-lotus-position_1f9d8",
+      "w": 36,
+      "h": 36,
+      "x": 612,
+      "y": 180
+    },
+    {
+      "sprite": "person-in-lotus-position_emoji-modifier-fitzpatrick-type-1-2_1f9d8-1f3fb_1f3fb",
+      "w": 36,
+      "h": 36,
+      "x": 180,
+      "y": 216
+    },
+    {
+      "sprite": "person-in-lotus-position_emoji-modifier-fitzpatrick-type-3_1f9d8-1f3fc_1f3fc",
+      "w": 36,
+      "h": 36,
+      "x": 180,
+      "y": 252
+    },
+    {
+      "sprite": "person-in-lotus-position_emoji-modifier-fitzpatrick-type-4_1f9d8-1f3fd_1f3fd",
+      "w": 36,
+      "h": 36,
+      "x": 180,
+      "y": 288
+    },
+    {
+      "sprite": "person-in-lotus-position_emoji-modifier-fitzpatrick-type-5_1f9d8-1f3fe_1f3fe",
+      "w": 36,
+      "h": 36,
+      "x": 180,
+      "y": 324
+    },
+    {
+      "sprite": "person-in-lotus-position_emoji-modifier-fitzpatrick-type-6_1f9d8-1f3ff_1f3ff",
+      "w": 36,
+      "h": 36,
+      "x": 180,
+      "y": 360
+    },
+    {
+      "sprite": "person-with-ball_26f9",
+      "w": 36,
+      "h": 36,
+      "x": 180,
+      "y": 396
+    },
+    {
+      "sprite": "person-with-ball_emoji-modifier-fitzpatrick-type-1-2_26f9-1f3fb_1f3fb",
+      "w": 36,
+      "h": 36,
+      "x": 180,
+      "y": 432
+    },
+    {
+      "sprite": "person-with-ball_emoji-modifier-fitzpatrick-type-3_26f9-1f3fc_1f3fc",
+      "w": 36,
+      "h": 36,
+      "x": 180,
+      "y": 468
+    },
+    {
+      "sprite": "person-with-ball_emoji-modifier-fitzpatrick-type-4_26f9-1f3fd_1f3fd",
+      "w": 36,
+      "h": 36,
+      "x": 180,
+      "y": 504
+    },
+    {
+      "sprite": "person-with-ball_emoji-modifier-fitzpatrick-type-5_26f9-1f3fe_1f3fe",
+      "w": 36,
+      "h": 36,
+      "x": 180,
+      "y": 540
+    },
+    {
+      "sprite": "person-with-ball_emoji-modifier-fitzpatrick-type-6_26f9-1f3ff_1f3ff",
+      "w": 36,
+      "h": 36,
+      "x": 180,
+      "y": 576
+    },
+    {
+      "sprite": "probing-cane_1f9af",
+      "w": 36,
+      "h": 36,
+      "x": 180,
+      "y": 612
+    },
+    {
+      "sprite": "reminder-ribbon_1f397",
+      "w": 36,
+      "h": 36,
+      "x": 216,
+      "y": 216
+    },
+    {
+      "sprite": "rowboat_1f6a3",
+      "w": 36,
+      "h": 36,
+      "x": 252,
+      "y": 216
+    },
+    {
+      "sprite": "rowboat_emoji-modifier-fitzpatrick-type-1-2_1f6a3-1f3fb_1f3fb",
+      "w": 36,
+      "h": 36,
+      "x": 288,
+      "y": 216
+    },
+    {
+      "sprite": "rowboat_emoji-modifier-fitzpatrick-type-3_1f6a3-1f3fc_1f3fc",
+      "w": 36,
+      "h": 36,
+      "x": 324,
+      "y": 216
+    },
+    {
+      "sprite": "rowboat_emoji-modifier-fitzpatrick-type-4_1f6a3-1f3fd_1f3fd",
+      "w": 36,
+      "h": 36,
+      "x": 360,
+      "y": 216
+    },
+    {
+      "sprite": "rowboat_emoji-modifier-fitzpatrick-type-5_1f6a3-1f3fe_1f3fe",
+      "w": 36,
+      "h": 36,
+      "x": 396,
+      "y": 216
+    },
+    {
+      "sprite": "rowboat_emoji-modifier-fitzpatrick-type-6_1f6a3-1f3ff_1f3ff",
+      "w": 36,
+      "h": 36,
+      "x": 432,
+      "y": 216
+    },
+    {
+      "sprite": "rugby-football_1f3c9",
+      "w": 36,
+      "h": 36,
+      "x": 468,
+      "y": 216
+    },
+    {
+      "sprite": "running-shirt-with-sash_1f3bd",
+      "w": 36,
+      "h": 36,
+      "x": 504,
+      "y": 216
+    },
+    {
+      "sprite": "saxophone_1f3b7",
+      "w": 36,
+      "h": 36,
+      "x": 540,
+      "y": 216
+    },
+    {
+      "sprite": "second-place-medal_1f948",
+      "w": 36,
+      "h": 36,
+      "x": 576,
+      "y": 216
+    },
+    {
+      "sprite": "skateboard_1f6f9",
+      "w": 36,
+      "h": 36,
+      "x": 612,
+      "y": 216
+    },
+    {
+      "sprite": "ski-and-ski-boot_1f3bf",
+      "w": 36,
+      "h": 36,
+      "x": 216,
+      "y": 252
+    },
+    {
+      "sprite": "skier_26f7",
+      "w": 36,
+      "h": 36,
+      "x": 216,
+      "y": 288
+    },
+    {
+      "sprite": "sled_1f6f7",
+      "w": 36,
+      "h": 36,
+      "x": 216,
+      "y": 324
+    },
+    {
+      "sprite": "slot-machine_1f3b0",
+      "w": 36,
+      "h": 36,
+      "x": 216,
+      "y": 360
+    },
+    {
+      "sprite": "snowboarder_1f3c2",
+      "w": 36,
+      "h": 36,
+      "x": 216,
+      "y": 396
+    },
+    {
+      "sprite": "soccer-ball_26bd",
+      "w": 36,
+      "h": 36,
+      "x": 216,
+      "y": 432
+    },
+    {
+      "sprite": "softball_1f94e",
+      "w": 36,
+      "h": 36,
+      "x": 216,
+      "y": 468
+    },
+    {
+      "sprite": "sports-medal_1f3c5",
+      "w": 36,
+      "h": 36,
+      "x": 216,
+      "y": 504
+    },
+    {
+      "sprite": "surfer_1f3c4",
+      "w": 36,
+      "h": 36,
+      "x": 216,
+      "y": 540
+    },
+    {
+      "sprite": "surfer_emoji-modifier-fitzpatrick-type-1-2_1f3c4-1f3fb_1f3fb",
+      "w": 36,
+      "h": 36,
+      "x": 216,
+      "y": 576
+    },
+    {
+      "sprite": "surfer_emoji-modifier-fitzpatrick-type-3_1f3c4-1f3fc_1f3fc",
+      "w": 36,
+      "h": 36,
+      "x": 216,
+      "y": 612
+    },
+    {
+      "sprite": "surfer_emoji-modifier-fitzpatrick-type-4_1f3c4-1f3fd_1f3fd",
+      "w": 36,
+      "h": 36,
+      "x": 252,
+      "y": 252
+    },
+    {
+      "sprite": "surfer_emoji-modifier-fitzpatrick-type-5_1f3c4-1f3fe_1f3fe",
+      "w": 36,
+      "h": 36,
+      "x": 288,
+      "y": 252
+    },
+    {
+      "sprite": "surfer_emoji-modifier-fitzpatrick-type-6_1f3c4-1f3ff_1f3ff",
+      "w": 36,
+      "h": 36,
+      "x": 324,
+      "y": 252
+    },
+    {
+      "sprite": "swimmer_1f3ca",
+      "w": 36,
+      "h": 36,
+      "x": 360,
+      "y": 252
+    },
+    {
+      "sprite": "swimmer_emoji-modifier-fitzpatrick-type-1-2_1f3ca-1f3fb_1f3fb",
+      "w": 36,
+      "h": 36,
+      "x": 396,
+      "y": 252
+    },
+    {
+      "sprite": "swimmer_emoji-modifier-fitzpatrick-type-3_1f3ca-1f3fc_1f3fc",
+      "w": 36,
+      "h": 36,
+      "x": 432,
+      "y": 252
+    },
+    {
+      "sprite": "swimmer_emoji-modifier-fitzpatrick-type-4_1f3ca-1f3fd_1f3fd",
+      "w": 36,
+      "h": 36,
+      "x": 468,
+      "y": 252
+    },
+    {
+      "sprite": "swimmer_emoji-modifier-fitzpatrick-type-5_1f3ca-1f3fe_1f3fe",
+      "w": 36,
+      "h": 36,
+      "x": 504,
+      "y": 252
+    },
+    {
+      "sprite": "swimmer_emoji-modifier-fitzpatrick-type-6_1f3ca-1f3ff_1f3ff",
+      "w": 36,
+      "h": 36,
+      "x": 540,
+      "y": 252
+    },
+    {
+      "sprite": "table-tennis-paddle-and-ball_1f3d3",
+      "w": 36,
+      "h": 36,
+      "x": 576,
+      "y": 252
+    },
+    {
+      "sprite": "tennis-racquet-and-ball_1f3be",
+      "w": 36,
+      "h": 36,
+      "x": 612,
+      "y": 252
+    },
+    {
+      "sprite": "third-place-medal_1f949",
+      "w": 36,
+      "h": 36,
+      "x": 252,
+      "y": 288
+    },
+    {
+      "sprite": "ticket_1f3ab",
+      "w": 36,
+      "h": 36,
+      "x": 252,
+      "y": 324
+    },
+    {
+      "sprite": "trophy_1f3c6",
+      "w": 36,
+      "h": 36,
+      "x": 252,
+      "y": 360
+    },
+    {
+      "sprite": "trumpet_1f3ba",
+      "w": 36,
+      "h": 36,
+      "x": 252,
+      "y": 396
+    },
+    {
+      "sprite": "video-game_1f3ae",
+      "w": 36,
+      "h": 36,
+      "x": 252,
+      "y": 432
+    },
+    {
+      "sprite": "violin_1f3bb",
+      "w": 36,
+      "h": 36,
+      "x": 252,
+      "y": 468
+    },
+    {
+      "sprite": "volleyball_1f3d0",
+      "w": 36,
+      "h": 36,
+      "x": 252,
+      "y": 504
+    },
+    {
+      "sprite": "water-polo_1f93d",
+      "w": 36,
+      "h": 36,
+      "x": 252,
+      "y": 540
+    },
+    {
+      "sprite": "water-polo_emoji-modifier-fitzpatrick-type-1-2_1f93d-1f3fb_1f3fb",
+      "w": 36,
+      "h": 36,
+      "x": 252,
+      "y": 576
+    },
+    {
+      "sprite": "water-polo_emoji-modifier-fitzpatrick-type-3_1f93d-1f3fc_1f3fc",
+      "w": 36,
+      "h": 36,
+      "x": 252,
+      "y": 612
+    },
+    {
+      "sprite": "water-polo_emoji-modifier-fitzpatrick-type-4_1f93d-1f3fd_1f3fd",
+      "w": 36,
+      "h": 36,
+      "x": 288,
+      "y": 288
+    },
+    {
+      "sprite": "water-polo_emoji-modifier-fitzpatrick-type-5_1f93d-1f3fe_1f3fe",
+      "w": 36,
+      "h": 36,
+      "x": 324,
+      "y": 288
+    },
+    {
+      "sprite": "water-polo_emoji-modifier-fitzpatrick-type-6_1f93d-1f3ff_1f3ff",
+      "w": 36,
+      "h": 36,
+      "x": 360,
+      "y": 288
+    },
+    {
+      "sprite": "weight-lifter_1f3cb",
+      "w": 36,
+      "h": 36,
+      "x": 396,
+      "y": 288
+    },
+    {
+      "sprite": "weight-lifter_emoji-modifier-fitzpatrick-type-1-2_1f3cb-1f3fb_1f3fb",
+      "w": 36,
+      "h": 36,
+      "x": 432,
+      "y": 288
+    },
+    {
+      "sprite": "weight-lifter_emoji-modifier-fitzpatrick-type-3_1f3cb-1f3fc_1f3fc",
+      "w": 36,
+      "h": 36,
+      "x": 468,
+      "y": 288
+    },
+    {
+      "sprite": "weight-lifter_emoji-modifier-fitzpatrick-type-4_1f3cb-1f3fd_1f3fd",
+      "w": 36,
+      "h": 36,
+      "x": 504,
+      "y": 288
+    },
+    {
+      "sprite": "weight-lifter_emoji-modifier-fitzpatrick-type-5_1f3cb-1f3fe_1f3fe",
+      "w": 36,
+      "h": 36,
+      "x": 540,
+      "y": 288
+    },
+    {
+      "sprite": "weight-lifter_emoji-modifier-fitzpatrick-type-6_1f3cb-1f3ff_1f3ff",
+      "w": 36,
+      "h": 36,
+      "x": 576,
+      "y": 288
+    },
+    {
+      "sprite": "woman-biking_1f6b4-200d-2640-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 612,
+      "y": 288
+    },
+    {
+      "sprite": "woman-biking-type-1-2_1f6b4-1f3fb-200d-2640-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 288,
+      "y": 324
+    },
+    {
+      "sprite": "woman-biking-type-3_1f6b4-1f3fc-200d-2640-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 288,
+      "y": 360
+    },
+    {
+      "sprite": "woman-biking-type-4_1f6b4-1f3fd-200d-2640-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 288,
+      "y": 396
+    },
+    {
+      "sprite": "woman-biking-type-5_1f6b4-1f3fe-200d-2640-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 288,
+      "y": 432
+    },
+    {
+      "sprite": "woman-biking-type-6_1f6b4-1f3ff-200d-2640-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 288,
+      "y": 468
+    },
+    {
+      "sprite": "woman-climbing_1f9d7-200d-2640-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 288,
+      "y": 504
+    },
+    {
+      "sprite": "woman-climbing-dark-skin-tone_1f9d7-1f3ff-200d-2640-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 288,
+      "y": 540
+    },
+    {
+      "sprite": "woman-climbing-light-skin-tone_1f9d7-1f3fb-200d-2640-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 288,
+      "y": 576
+    },
+    {
+      "sprite": "woman-climbing-medium-dark-skin-tone_1f9d7-1f3fe-200d-2640-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 288,
+      "y": 612
+    },
+    {
+      "sprite": "woman-climbing-medium-light-skin-tone_1f9d7-1f3fc-200d-2640-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 324,
+      "y": 324
+    },
+    {
+      "sprite": "woman-climbing-medium-skin-tone_1f9d7-1f3fd-200d-2640-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 360,
+      "y": 324
+    },
+    {
+      "sprite": "woman-doing-cartwheel_1f938-200d-2640-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 396,
+      "y": 324
+    },
+    {
+      "sprite": "woman-doing-cartwheel-type-1-2_1f938-1f3fb-200d-2640-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 432,
+      "y": 324
+    },
+    {
+      "sprite": "woman-doing-cartwheel-type-3_1f938-1f3fc-200d-2640-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 468,
+      "y": 324
+    },
+    {
+      "sprite": "woman-doing-cartwheel-type-4_1f938-1f3fd-200d-2640-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 504,
+      "y": 324
+    },
+    {
+      "sprite": "woman-doing-cartwheel-type-5_1f938-1f3fe-200d-2640-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 540,
+      "y": 324
+    },
+    {
+      "sprite": "woman-doing-cartwheel-type-6_1f938-1f3ff-200d-2640-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 576,
+      "y": 324
+    },
+    {
+      "sprite": "woman-golfing-type-6_1f3cc-1f3ff-200d-2640-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 612,
+      "y": 324
+    },
+    {
+      "sprite": "woman-in-lotus-position_1f9d8-200d-2640-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 324,
+      "y": 360
+    },
+    {
+      "sprite": "woman-in-lotus-position-dark-skin-tone_1f9d8-1f3ff-200d-2640-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 324,
+      "y": 396
+    },
+    {
+      "sprite": "woman-in-lotus-position-light-skin-tone_1f9d8-1f3fb-200d-2640-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 324,
+      "y": 432
+    },
+    {
+      "sprite": "woman-in-lotus-position-medium-dark-skin-tone_1f9d8-1f3fe-200d-2640-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 324,
+      "y": 468
+    },
+    {
+      "sprite": "woman-in-lotus-position-medium-light-skin-tone_1f9d8-1f3fc-200d-2640-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 324,
+      "y": 504
+    },
+    {
+      "sprite": "woman-in-lotus-position-medium-skin-tone_1f9d8-1f3fd-200d-2640-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 324,
+      "y": 540
+    },
+    {
+      "sprite": "woman-juggling_1f939-200d-2640-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 324,
+      "y": 576
+    },
+    {
+      "sprite": "woman-juggling-type-1-2_1f939-1f3fb-200d-2640-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 324,
+      "y": 612
+    },
+    {
+      "sprite": "woman-juggling-type-3_1f939-1f3fc-200d-2640-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 360,
+      "y": 360
+    },
+    {
+      "sprite": "woman-juggling-type-4_1f939-1f3fd-200d-2640-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 396,
+      "y": 360
+    },
+    {
+      "sprite": "woman-juggling-type-5_1f939-1f3fe-200d-2640-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 432,
+      "y": 360
+    },
+    {
+      "sprite": "woman-juggling-type-6_1f939-1f3ff-200d-2640-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 468,
+      "y": 360
+    },
+    {
+      "sprite": "woman-mountain-biking_1f6b5-200d-2640-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 504,
+      "y": 360
+    },
+    {
+      "sprite": "woman-mountain-biking-type-1-2_1f6b5-1f3fb-200d-2640-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 540,
+      "y": 360
+    },
+    {
+      "sprite": "woman-mountain-biking-type-3_1f6b5-1f3fc-200d-2640-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 576,
+      "y": 360
+    },
+    {
+      "sprite": "woman-mountain-biking-type-4_1f6b5-1f3fd-200d-2640-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 612,
+      "y": 360
+    },
+    {
+      "sprite": "woman-mountain-biking-type-5_1f6b5-1f3fe-200d-2640-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 360,
+      "y": 396
+    },
+    {
+      "sprite": "woman-mountain-biking-type-6_1f6b5-1f3ff-200d-2640-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 360,
+      "y": 432
+    },
+    {
+      "sprite": "woman-playing-handball_1f93e-200d-2640-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 360,
+      "y": 468
+    },
+    {
+      "sprite": "woman-playing-handball-type-1-2_1f93e-1f3fb-200d-2640-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 360,
+      "y": 504
+    },
+    {
+      "sprite": "woman-playing-handball-type-3_1f93e-1f3fc-200d-2640-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 360,
+      "y": 540
+    },
+    {
+      "sprite": "woman-playing-handball-type-4_1f93e-1f3fd-200d-2640-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 360,
+      "y": 576
+    },
+    {
+      "sprite": "woman-playing-handball-type-5_1f93e-1f3fe-200d-2640-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 360,
+      "y": 612
+    },
+    {
+      "sprite": "woman-playing-handball-type-6_1f93e-1f3ff-200d-2640-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 396,
+      "y": 396
+    },
+    {
+      "sprite": "woman-playing-water-polo_1f93d-200d-2640-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 432,
+      "y": 396
+    },
+    {
+      "sprite": "woman-playing-water-polo-type-1-2_1f93d-1f3fb-200d-2640-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 468,
+      "y": 396
+    },
+    {
+      "sprite": "woman-playing-water-polo-type-3_1f93d-1f3fc-200d-2640-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 504,
+      "y": 396
+    },
+    {
+      "sprite": "woman-playing-water-polo-type-4_1f93d-1f3fd-200d-2640-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 540,
+      "y": 396
+    },
+    {
+      "sprite": "woman-playing-water-polo-type-5_1f93d-1f3fe-200d-2640-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 576,
+      "y": 396
+    },
+    {
+      "sprite": "woman-playing-water-polo-type-6_1f93d-1f3ff-200d-2640-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 612,
+      "y": 396
+    },
+    {
+      "sprite": "woman-rowing-boat_1f6a3-200d-2640-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 396,
+      "y": 432
+    },
+    {
+      "sprite": "woman-rowing-boat-type-1-2_1f6a3-1f3fb-200d-2640-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 396,
+      "y": 468
+    },
+    {
+      "sprite": "woman-rowing-boat-type-3_1f6a3-1f3fc-200d-2640-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 396,
+      "y": 504
+    },
+    {
+      "sprite": "woman-rowing-boat-type-4_1f6a3-1f3fd-200d-2640-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 396,
+      "y": 540
+    },
+    {
+      "sprite": "woman-rowing-boat-type-5_1f6a3-1f3fe-200d-2640-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 396,
+      "y": 576
+    },
+    {
+      "sprite": "woman-rowing-boat-type-6_1f6a3-1f3ff-200d-2640-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 396,
+      "y": 612
+    },
+    {
+      "sprite": "woman-surfing_1f3c4-200d-2640-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 432,
+      "y": 432
+    },
+    {
+      "sprite": "woman-surfing-type-1-2_1f3c4-1f3fb-200d-2640-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 468,
+      "y": 432
+    },
+    {
+      "sprite": "woman-surfing-type-3_1f3c4-1f3fc-200d-2640-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 504,
+      "y": 432
+    },
+    {
+      "sprite": "woman-surfing-type-4_1f3c4-1f3fd-200d-2640-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 540,
+      "y": 432
+    },
+    {
+      "sprite": "woman-surfing-type-5_1f3c4-1f3fe-200d-2640-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 576,
+      "y": 432
+    },
+    {
+      "sprite": "woman-surfing-type-6_1f3c4-1f3ff-200d-2640-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 612,
+      "y": 432
+    },
+    {
+      "sprite": "woman-swimming_1f3ca-200d-2640-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 432,
+      "y": 468
+    },
+    {
+      "sprite": "woman-swimming-type-1-2_1f3ca-1f3fb-200d-2640-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 432,
+      "y": 504
+    },
+    {
+      "sprite": "woman-swimming-type-3_1f3ca-1f3fc-200d-2640-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 432,
+      "y": 540
+    },
+    {
+      "sprite": "woman-swimming-type-4_1f3ca-1f3fd-200d-2640-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 432,
+      "y": 576
+    },
+    {
+      "sprite": "woman-swimming-type-5_1f3ca-1f3fe-200d-2640-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 432,
+      "y": 612
+    },
+    {
+      "sprite": "woman-swimming-type-6_1f3ca-1f3ff-200d-2640-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 468,
+      "y": 468
+    },
+    {
+      "sprite": "woman-weight-lifting_1f3cb-fe0f-200d-2640-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 504,
+      "y": 468
+    },
+    {
+      "sprite": "woman-weight-lifting-type-1-2_1f3cb-1f3fb-200d-2640-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 540,
+      "y": 468
+    },
+    {
+      "sprite": "woman-weight-lifting-type-3_1f3cb-1f3fc-200d-2640-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 576,
+      "y": 468
+    },
+    {
+      "sprite": "woman-weight-lifting-type-4_1f3cb-1f3fd-200d-2640-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 612,
+      "y": 468
+    },
+    {
+      "sprite": "woman-weight-lifting-type-5_1f3cb-1f3fe-200d-2640-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 468,
+      "y": 504
+    },
+    {
+      "sprite": "woman-weight-lifting-type-6_1f3cb-1f3ff-200d-2640-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 468,
+      "y": 540
+    },
+    {
+      "sprite": "woman-with-ball_26f9-fe0f-200d-2640-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 468,
+      "y": 576
+    },
+    {
+      "sprite": "woman-with-ball-type-1-2_26f9-1f3fb-200d-2640-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 468,
+      "y": 612
+    },
+    {
+      "sprite": "woman-with-ball-type-3_26f9-1f3fc-200d-2640-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 504,
+      "y": 504
+    },
+    {
+      "sprite": "woman-with-ball-type-4_26f9-1f3fd-200d-2640-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 540,
+      "y": 504
+    },
+    {
+      "sprite": "woman-with-ball-type-5_26f9-1f3fe-200d-2640-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 576,
+      "y": 504
+    },
+    {
+      "sprite": "woman-with-ball-type-6_26f9-1f3ff-200d-2640-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 612,
+      "y": 504
+    },
+    {
+      "sprite": "women-wrestling_1f93c-200d-2640-fe0f",
+      "w": 36,
+      "h": 36,
+      "x": 504,
+      "y": 540
+    },
+    {
+      "sprite": "wrestlers_1f93c",
+      "w": 36,
+      "h": 36,
+      "x": 504,
+      "y": 576
+    }
+  ]
+}
