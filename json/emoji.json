@@ -2923,12 +2923,6 @@
     "category": "nature"
   },
   { "codes": "2728", "char": "✨", "name": "sparkles", "category": "nature" },
-  {
-    "codes": "1F320",
-    "char": "🌠",
-    "name": "shooting star",
-    "category": "nature"
-  },
   { "codes": "2601 FE0F", "char": "☁️", "name": "cloud", "category": "nature" },
   {
     "codes": "26C5",
@@ -3947,6 +3941,12 @@
     "codes": "1F386",
     "char": "🎆",
     "name": "fireworks",
+    "category": "place"
+  },
+  {
+    "codes": "1F320",
+    "char": "🌠",
+    "name": "shooting star",
     "category": "place"
   },
   { "codes": "1F30C", "char": "🌌", "name": "milky way", "category": "place" },
