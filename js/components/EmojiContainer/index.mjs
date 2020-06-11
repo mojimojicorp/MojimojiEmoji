@@ -33,7 +33,7 @@ function makeEmojiContainer() {
   searchInput.autofocus = true;
 
   const color = Doc.create('div');
-  color.className = 'color';
+  color.className = 'color-container';
 
   search.appendChild(searchContainer);
   search.appendChild(searchInput);

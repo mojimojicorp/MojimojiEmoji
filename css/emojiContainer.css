@@ -62,22 +62,18 @@
   color: #8b8e91;
 }
 
-.color {
+.color-container {
   display: grid;
   grid-template-columns: repeat(5, 1fr);
   width: 150px;
 }
 
-.color span,
-.color span img {
-  align-items: center;
-  justify-content: center;
-  width: 25px;
-  height: 25px;
-}
-
-.color span img {
+.color-container button {
+  border: none;
+  outline: none;
   cursor: pointer;
+
+  background-image: url(../../images/skintone.png);
 }
 
 .emoji-list {

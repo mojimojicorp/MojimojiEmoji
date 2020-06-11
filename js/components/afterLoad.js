@@ -8,7 +8,6 @@ function afterRendering() {
 
   // emoji 불러오기
   Util.includeJS('../js/emoji/getEmoji.js');
-  Util.includeJS('../js/skintone.js');
 
   Util.includeJS('../js/copy.js');
   Util.includeJS('../js/search.js');

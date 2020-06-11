@@ -3,6 +3,8 @@ import GET from '../service/getJSON.mjs';
 
 import { attachEmoji } from './attachEmoji.mjs';
 import { setGrid } from '../setGrid.mjs';
+import { setSkintone } from './setSkintone.mjs';
+
 // import { autocopy } from '../copy/autocopy.mjs';
 // import { onecopy } from '../copy/onecopy.mjs';
 // import copyEvent from '../copy/copyEvent.mjs';
@@ -13,6 +15,8 @@ const copySetting = localStorage.getItem('copy');
 GET('../json/emoji.json', (data) => {
   // emoji 출력
   attachEmoji(data);
+  setSkintone();
+
   // 배열 조정
   setGrid();
   // recent 출력
