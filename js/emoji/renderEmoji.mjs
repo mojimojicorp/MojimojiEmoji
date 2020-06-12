@@ -1,128 +1,125 @@
 /* eslint-disable import/extensions */
-import Doc from '../service/doc.mjs';
-import PosJSON from '../service/pos.mjs';
+import people from '../../json/people.js';
+import nature from '../../json/nature.js';
+import foodAndDrink from '../../json/foodAndDrink.js';
+import activity from '../../json/activity.js';
+import place from '../../json/place.js';
+import objects from '../../json/objects.js';
+import symbols from '../../json/symbols.js';
+import flags from '../../json/flags.js';
 
 function renderEmoji(data) {
-  const emoji = Doc.create('button');
-
-  emoji.value = data.char;
+  let backgroundImage;
+  let backgroundPosition;
 
   switch (data.category) {
     case 'people':
-      emoji.style.backgroundImage = `url('../../images/people.png')`;
+      backgroundImage = "url('../../images/people.png')";
 
       // data.code가 같은 것의 좌표 찾기
-      PosJSON.people.forEach((item) => {
+      people.data.forEach((item) => {
         let code = item.sprite.split('_')[1];
         code = code.replace(/-/gi, ' ');
 
         if (data.codes.toLowerCase() === code) {
-          emoji.style.backgroundPosition = `-${item.x}px -${item.y}px`;
-          return;
+          backgroundPosition = `-${item.x}px -${item.y}px`;
         }
       });
       break;
     case 'nature':
-      emoji.style.backgroundImage = `url('../../images/nature.png')`;
+      backgroundImage = "url('../../images/nature.png')";
 
       // data.code가 같은 것의 좌표 찾기
-      PosJSON.nature.forEach((item) => {
+      nature.data.forEach((item) => {
         let code = item.sprite.split('_')[1];
         code = code.replace(/-/gi, ' ');
 
         if (data.codes.toLowerCase() === code) {
-          emoji.style.backgroundPosition = `-${item.x}px -${item.y}px`;
-          return;
+          backgroundPosition = `-${item.x}px -${item.y}px`;
         }
       });
       break;
     case 'foodAndDrink':
-      emoji.style.backgroundImage = `url('../../images/foodAndDrink.png')`;
+      backgroundImage = "url('../../images/foodAndDrink.png')";
 
       // data.code가 같은 것의 좌표 찾기
-      PosJSON.foodAndDrink.forEach((item) => {
+      foodAndDrink.data.forEach((item) => {
         let code = item.sprite.split('_')[1];
         code = code.replace(/-/gi, ' ');
 
         if (data.codes.toLowerCase() === code) {
-          emoji.style.backgroundPosition = `-${item.x}px -${item.y}px`;
-          return;
+          backgroundPosition = `-${item.x}px -${item.y}px`;
         }
       });
       break;
     case 'activity':
-      emoji.style.backgroundImage = `url('../../images/activity.png')`;
+      backgroundImage = "url('../../images/activity.png')";
 
       // data.code가 같은 것의 좌표 찾기
-      PosJSON.activity.forEach((item) => {
+      activity.data.forEach((item) => {
         let code = item.sprite.split('_')[1];
         code = code.replace(/-/gi, ' ');
 
         if (data.codes.toLowerCase() === code) {
-          emoji.style.backgroundPosition = `-${item.x}px -${item.y}px`;
-          return;
+          backgroundPosition = `-${item.x}px -${item.y}px`;
         }
       });
       break;
     case 'place':
-      emoji.style.backgroundImage = `url('../../images/place.png')`;
+      backgroundImage = "url('../../images/place.png')";
 
       // data.code가 같은 것의 좌표 찾기
-      PosJSON.place.forEach((item) => {
+      place.data.forEach((item) => {
         let code = item.sprite.split('_')[1];
         code = code.replace(/-/gi, ' ');
 
         if (data.codes.toLowerCase() === code) {
-          emoji.style.backgroundPosition = `-${item.x}px -${item.y}px`;
-          return;
+          backgroundPosition = `-${item.x}px -${item.y}px`;
         }
       });
       break;
     case 'objects':
-      emoji.style.backgroundImage = `url('../../images/objects.png')`;
+      backgroundImage = "url('../../images/objects.png')";
 
       // data.code가 같은 것의 좌표 찾기
-      PosJSON.objects.forEach((item) => {
+      objects.data.forEach((item) => {
         let code = item.sprite.split('_')[1];
         code = code.replace(/-/gi, ' ');
 
         if (data.codes.toLowerCase() === code) {
-          emoji.style.backgroundPosition = `-${item.x}px -${item.y}px`;
-          return;
+          backgroundPosition = `-${item.x}px -${item.y}px`;
         }
       });
       break;
     case 'symbols':
-      emoji.style.backgroundImage = `url('../../images/symbols.png')`;
+      backgroundImage = "url('../../images/symbols.png')";
 
       // data.code가 같은 것의 좌표 찾기
-      PosJSON.symbols.forEach((item) => {
+      symbols.data.forEach((item) => {
         let code = item.sprite.split('_')[1];
         code = code.replace(/-/gi, ' ');
 
         if (data.codes.toLowerCase() === code) {
-          emoji.style.backgroundPosition = `-${item.x}px -${item.y}px`;
-          return;
+          backgroundPosition = `-${item.x}px -${item.y}px`;
         }
       });
       break;
     case 'flags':
-      emoji.style.backgroundImage = `url('../../images/flags.png')`;
+      backgroundImage = "url('../../images/flags.png')";
 
       // data.code가 같은 것의 좌표 찾기
-      PosJSON.flags.forEach((item) => {
+      flags.data.forEach((item) => {
         let code = item.sprite.split('_')[1];
         code = code.replace(/-/gi, ' ');
 
         if (data.codes.toLowerCase() === code) {
-          emoji.style.backgroundPosition = `-${item.x}px -${item.y}px`;
-          return;
+          backgroundPosition = `-${item.x}px -${item.y}px`;
         }
       });
       break;
   }
 
-  return emoji;
+  return `<button value="${data.char}" style="background-image: ${backgroundImage}; background-position:${backgroundPosition};"></button>`;
 }
 
 export { renderEmoji };

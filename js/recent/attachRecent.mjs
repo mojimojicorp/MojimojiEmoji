@@ -2,11 +2,7 @@
 import Doc from '../service/doc.mjs';
 import getJSON from '../service/getJSON.mjs';
 import { renderEmoji } from '../emoji/renderEmoji.mjs';
-
-const emojiJSON = new Array();
-getJSON('../json/emoji.json', (data) => {
-  Object.assign(emojiJSON, data);
-});
+import emojiJSON from '../../json/emoji.js';
 
 function attachRecent() {
   const recentNum = localStorage.getItem('recentNum');
