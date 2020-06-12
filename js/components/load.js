@@ -1,10 +1,5 @@
-/* eslint-disable import/extensions */
-import makeHeader from './Header/index.mjs';
-import makeEmojiContainer from './EmojiContainer/index.mjs';
-import makeCopyStatus from './CopyStatus/index.mjs';
-import makeSetting from './SettingPage/index.mjs';
+import makeEmojiNav from './EmojiContainer/emojiNav.mjs';
+import makeEmojiList from './EmojiContainer/emojiList.mjs';
 
-makeHeader();
-makeEmojiContainer();
-makeCopyStatus();
-makeSetting();
+makeEmojiNav();
+makeEmojiList();

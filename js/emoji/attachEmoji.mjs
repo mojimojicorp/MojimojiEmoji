@@ -1,7 +1,5 @@
 /* eslint-disable import/extensions */
 import Doc from '../service/doc.mjs';
-import Cons from '../service/const.mjs';
-import { renderEmoji } from './renderEmoji.mjs';
 
 const groups = Doc.findAll('.emoji-span-container');
 
@@ -38,42 +36,14 @@ const attach = (emoji) => {
 };
 
 const attachEmoji = (emoji) => {
-  const obj = emoji.reduce((acc, cur) => {
-    let skinToneClassName = '';
-    let skinToneStyle = '';
-    if (cur.codes.includes(Cons.SKINTONE_COLOR_LIST[0])) {
-      skinToneClassName = 'skin-tone light-skin-tone';
-      skinToneStyle = "style = 'display:none;'";
-    } else if (cur.codes.includes(Cons.SKINTONE_COLOR_LIST[1])) {
-      skinToneClassName = 'skin-tone medium-light-skin-tone';
-      skinToneStyle = "style = 'display:none;'";
-    } else if (cur.codes.includes(Cons.SKINTONE_COLOR_LIST[2])) {
-      skinToneClassName = 'skin-tone medium-skin-tone';
-      skinToneStyle = "style = 'display:none;'";
-    } else if (cur.codes.includes(Cons.SKINTONE_COLOR_LIST[3])) {
-      skinToneClassName = 'skin-tone medium-dark-skin-tone';
-      skinToneStyle = "style = 'display:none;'";
-    } else if (cur.codes.includes(Cons.SKINTONE_COLOR_LIST[4])) {
-      skinToneClassName = 'skin-tone dark-skin-tone';
-      skinToneStyle = "style = 'display:none;'";
-    }
+  Object.keys(emoji).forEach((category) => {
+    const myWorker = new Worker('../js/emoji/worker.js', { type: 'module' });
+    myWorker.postMessage(emoji[category]);
 
-    if (acc.hasOwnProperty(cur.category)) {
-      acc[
-        cur.category
-      ] += `<div class="emoji-span ${skinToneClassName}" title="${
-        cur.name
-      }" ${skinToneStyle}>${renderEmoji(cur)}</div>`;
-      return acc;
-    }
-
-    acc[cur.category] = `<div class="emoji-span" title="${
-      cur.name
-    }">${renderEmoji(cur)}</div>`;
-    return acc;
-  }, {});
-
-  attach(obj);
+    myWorker.onmessage = (e) => {
+      attach(e.data);
+    };
+  });
 };
 
 export { attachEmoji };

@@ -4,30 +4,33 @@ import Cons from '../../service/const.mjs';
 
 function makeEmojiList() {
   const emojiGroup = Doc.find('.emoji-list .groups');
+  const groupDivs = document.createDocumentFragment();
 
-  for (const [ind, name] of Object.entries(Cons.NAV_ICON_LIST)) {
+  Cons.NAV_ICON_LIST.forEach((icon, index) => {
     const groupDiv = Doc.create('div');
-    groupDiv.className = +ind === 0 ? 'recent-group' : 'group';
+    groupDiv.className = index === 0 ? 'recent-group' : 'group';
 
     const groupTitle = Doc.create('div');
     groupTitle.className = 'group-title';
     groupDiv.appendChild(groupTitle);
 
     const a = Doc.create('a');
-    a.name = Cons.NAV_NAME_LIST[ind];
-    a.innerHTML = Cons.NAV_TEXT_LIST[ind];
+    a.name = Cons.NAV_NAME_LIST[index];
+    a.innerHTML = Cons.NAV_TEXT_LIST[index];
     groupTitle.appendChild(a);
 
     const i = Doc.create('i');
-    i.className = `fas ${name}`;
+    i.className = `fas ${icon}`;
     a.appendChild(i);
 
     const emojiContainer = Doc.create('div');
     emojiContainer.className = 'emoji-span-container';
     groupDiv.appendChild(emojiContainer);
 
-    emojiGroup.appendChild(groupDiv);
-  }
+    groupDivs.appendChild(groupDiv);
+  });
+
+  emojiGroup.appendChild(groupDivs);
 }
 
 export default makeEmojiList;
