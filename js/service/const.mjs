@@ -5,7 +5,7 @@ const Cons = {
     'nature',
     'foodAndDrink',
     'activity',
-    'places',
+    'place',
     'objects',
     'symbols',
     'flags',
@@ -21,17 +21,24 @@ const Cons = {
     'fa-icons',
     'fa-flag',
   ],
-
   NAV_TEXT_LIST: [
     'Recents',
     'People',
     'Nature',
     'Food & Drink',
     'Activity',
-    'Places',
+    'Place',
     'Objects',
     'Symbols',
     'Flags',
+  ],
+  SKINTONE_COLOR_LIST: ['1F3FB', '1F3FC', '1F3FD', '1F3FE', '1F3FF'],
+  SKINTONE_LIST: [
+    'light-skin-tone',
+    'medium-light-skin-tone',
+    'medium-skin-tone',
+    'medium-dark-skin-tone',
+    'dark-skin-tone',
   ],
 };
 

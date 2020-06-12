@@ -17,8 +17,7 @@
   },
   "homepage": "https://github.com/soyoungjeong/EmojiByEternal#readme",
   "dependencies": {
-    "clipboard": "^2.0.4",
-    "twemoji": "^12.1.2"
+    "clipboard": "^2.0.4"
   },
   "devDependencies": {
     "eslint": "^6.3.0",

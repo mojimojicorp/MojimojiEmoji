@@ -62,22 +62,18 @@
   color: #8b8e91;
 }
 
-.color {
+.color-container {
   display: grid;
   grid-template-columns: repeat(5, 1fr);
   width: 150px;
 }
 
-.color span,
-.color span img {
-  align-items: center;
-  justify-content: center;
-  width: 25px;
-  height: 25px;
-}
-
-.color span img {
+.color-container button {
+  border: none;
+  outline: none;
   cursor: pointer;
+
+  background-image: url(../../images/skintone.png);
 }
 
 .emoji-list {
@@ -93,6 +89,20 @@
   align-items: center;
   width: 100%;
   cursor: pointer;
+}
+
+.recent-group .emoji-span-container {
+  height: 40px;
+}
+
+.emoji-span button {
+  width: 36px;
+  height: 36px;
+
+  border: none;
+  outline: none;
+  cursor: pointer;
+  background-color: transparent;
 }
 
 .group-title {

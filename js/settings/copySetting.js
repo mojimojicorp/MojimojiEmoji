@@ -6,7 +6,6 @@ import { onecopy } from '../copy/onecopy.mjs';
 import removeCopy from '../copy/removeCopy.mjs';
 
 const copyBtn = Doc.findAll('.autocopyBtn');
-console.log(copyBtn);
 
 function btnReset() {
   const btn = document.getElementById('copy_btn');
