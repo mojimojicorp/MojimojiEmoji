@@ -7,7 +7,7 @@ function makeEmojiList() {
 
   for (const [ind, name] of Object.entries(Cons.NAV_ICON_LIST)) {
     const groupDiv = Doc.create('div');
-    groupDiv.className = +ind === 0 ? 'recent_group' : 'group';
+    groupDiv.className = +ind === 0 ? 'recent-group' : 'group';
 
     const groupTitle = Doc.create('div');
     groupTitle.className = 'group-title';
