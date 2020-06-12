@@ -1,6 +1,5 @@
 /* eslint-disable import/extensions */
 import Doc from '../service/doc.mjs';
-import getJSON from '../service/getJSON.mjs';
 import { renderEmoji } from '../emoji/renderEmoji.mjs';
 import emojiJSON from '../../json/emoji.js';
 
