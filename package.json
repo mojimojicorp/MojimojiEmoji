@@ -16,9 +16,7 @@
     "url": "https://github.com/soyoungjeong/EmojiByEternal/issues"
   },
   "homepage": "https://github.com/soyoungjeong/EmojiByEternal#readme",
-  "dependencies": {
-    "clipboard": "^2.0.4"
-  },
+  "dependencies": {},
   "devDependencies": {
     "eslint": "^6.3.0",
     "eslint-config-airbnb-base": "^14.0.0",

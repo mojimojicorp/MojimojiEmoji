@@ -1,9 +1,5 @@
 /* eslint-disable import/extensions */
 import Doc from '../service/doc.mjs';
-import removeAutoCopy from '../copy/removeAutoCopy.mjs';
-import { autocopy } from '../copy/autocopy.mjs';
-import { onecopy } from '../copy/onecopy.mjs';
-import removeCopy from '../copy/removeCopy.mjs';
 
 const copyBtn = Doc.findAll('.autocopyBtn');
 
@@ -31,8 +27,6 @@ function addCopyEvent() {
     copyBtn[0].classList.add('active');
     copyBtn[1].classList.remove('active');
     btnReset();
-    removeCopy();
-    autocopy();
   });
 
   copyBtn[1].addEventListener('click', () => {
@@ -41,8 +35,6 @@ function addCopyEvent() {
     copyBtn[0].classList.remove('active');
     copyBtn[1].classList.add('active');
     btnReset();
-    removeAutoCopy();
-    onecopy();
   });
 }
 

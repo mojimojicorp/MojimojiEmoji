@@ -6,14 +6,9 @@ import { setGrid } from '../setGrid.mjs';
 import { setSkintone } from './setSkintone.mjs';
 import { showEmoji } from './showEmoji.mjs';
 import { attachRecent } from '../recent/attachRecent.mjs';
-
-// import { autocopy } from '../copy/autocopy.mjs';
-// import { onecopy } from '../copy/onecopy.mjs';
-// import copyEvent from '../copy/copyEvent.mjs';
+import { setCopyEvent } from '../copy/setCopyEvent.mjs';
 
 import emoji from '../../json/emoji.js';
-
-const copySetting = localStorage.getItem('copy');
 
 // emoji 출력
 attachEmoji(emoji);
@@ -31,10 +26,5 @@ setGrid();
 // recent 출력
 attachRecent();
 
-// 각 emoji마다 eventlistener 추가 & copy 버튼, reset 버튼 eventlistener 추가
-// copyEvent();
-// if (copySetting === 'auto') {
-//   autocopy();
-// } else if (copySetting === 'manual') {
-//   onecopy();
-// }
+// 각 emoji마다 eventlistener 추가
+setCopyEvent();

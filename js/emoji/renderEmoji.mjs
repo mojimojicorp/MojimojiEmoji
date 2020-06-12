@@ -119,7 +119,7 @@ function renderEmoji(data) {
       break;
   }
 
-  return `<button value="${data.char}" style="background-image: ${backgroundImage}; background-position:${backgroundPosition};"></button>`;
+  return `<button type="button" class="emoji-button" value="${data.char}" style="background-image: ${backgroundImage}; background-position:${backgroundPosition};"></button>`;
 }
 
 export { renderEmoji };
