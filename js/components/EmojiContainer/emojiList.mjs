@@ -25,7 +25,28 @@ function makeEmojiList() {
 
     const emojiContainer = Doc.create('div');
     emojiContainer.className = 'emoji-span-container';
+    if (index !== 1) {
+      emojiContainer.style.display = 'grid';
+      emojiContainer.style.justifyItems = 'center';
+      emojiContainer.style.alignItems = 'center';
+      emojiContainer.style.width = '100%';
+      emojiContainer.style.cursor = 'pointer';
+    }
     groupDiv.appendChild(emojiContainer);
+
+    if (index === 1) {
+      const expression = Doc.create('div');
+      expression.className = 'expression';
+      emojiContainer.appendChild(expression);
+
+      const etc = Doc.create('div');
+      etc.className = 'etc';
+      emojiContainer.appendChild(etc);
+
+      const skintone = Doc.create('div');
+      skintone.className = 'skintone';
+      emojiContainer.appendChild(skintone);
+    }
 
     groupDivs.appendChild(groupDiv);
   });

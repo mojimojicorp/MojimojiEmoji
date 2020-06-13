@@ -10,7 +10,9 @@ const IMG_BIG = '60px';
 
 function setGrid() {
   const sizeSetting = localStorage.getItem('emojiSize');
-  let spanHeight, imgHeight, gridSize;
+  let spanHeight;
+  let imgHeight;
+  let gridSize;
 
   switch (sizeSetting) {
     case 'big':
@@ -33,12 +35,45 @@ function setGrid() {
   }
 
   const groups = Doc.findAll('.emoji-span-container');
-  for (let item of groups) {
-    $(item).css('grid-template-columns', `repeat(${gridSize}, 1fr)`);
+  groups.forEach((group, index) => {
+    console.log(group);
+    if (index !== 1) {
+      group.style.gridTemplateColumns = `repeat(${gridSize}, 1fr)`;
 
-    $(item).children().children().css('height', imgHeight);
-    $(item).children().css('height', spanHeight);
-  }
+      const spans = group.childNodes;
+      spans.forEach((span) => {
+        span.style.height = spanHeight;
+        span.childNode.style.height = imgHeight;
+      });
+    } else {
+      const expression = Doc.find('.expression');
+      expression.style.gridTemplateColumns = `repeat(${gridSize}, 1fr)`;
+
+      const expressionSpans = expression.childNodes;
+      expressionSpans.forEach((span) => {
+        span.style.height = spanHeight;
+        span.childNode.style.height = imgHeight;
+      });
+
+      const etc = Doc.find('.etc');
+      etc.style.gridTemplateColumns = `repeat(${gridSize}, 1fr)`;
+
+      const etcSpans = etc.childNodes;
+      etcSpans.forEach((span) => {
+        span.style.height = spanHeight;
+        span.childNode.style.height = imgHeight;
+      });
+
+      const skintone = Doc.find('.skintone');
+      skintone.style.gridTemplateColumns = `repeat(${gridSize}, 1fr)`;
+
+      const skintoneSpans = skintone.childNodes;
+      skintoneSpans.forEach((span) => {
+        span.style.height = spanHeight;
+        span.childNode.style.height = imgHeight;
+      });
+    }
+  });
 }
 
 export { setGrid };

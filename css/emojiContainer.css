@@ -84,7 +84,9 @@
   overflow: scroll;
 }
 
-.emoji-span-container {
+.expression,
+.etc,
+.skintone {
   display: grid;
   justify-items: center;
   align-items: center;
