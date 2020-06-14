@@ -36,7 +36,6 @@ function setGrid() {
 
   const groups = Doc.findAll('.emoji-span-container');
   groups.forEach((group, index) => {
-    console.log(group);
     if (index !== 1) {
       group.style.gridTemplateColumns = `repeat(${gridSize}, 1fr)`;
 
@@ -51,15 +50,6 @@ function setGrid() {
 
       const expressionSpans = expression.childNodes;
       expressionSpans.forEach((span) => {
-        span.style.height = spanHeight;
-        span.childNode.style.height = imgHeight;
-      });
-
-      const etc = Doc.find('.etc');
-      etc.style.gridTemplateColumns = `repeat(${gridSize}, 1fr)`;
-
-      const etcSpans = etc.childNodes;
-      etcSpans.forEach((span) => {
         span.style.height = spanHeight;
         span.childNode.style.height = imgHeight;
       });

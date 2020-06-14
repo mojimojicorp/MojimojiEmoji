@@ -2665,8 +2665,6 @@ export default {
         name: 'men holding hands: dark-skin-tone',
         category: 'people',
       },
-    ],
-    etc: [
       {
         codes: '1F440',
         char: '👀',

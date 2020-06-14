@@ -39,10 +39,6 @@ function makeEmojiList() {
       expression.className = 'expression';
       emojiContainer.appendChild(expression);
 
-      const etc = Doc.create('div');
-      etc.className = 'etc';
-      emojiContainer.appendChild(etc);
-
       const skintone = Doc.create('div');
       skintone.className = 'skintone';
       emojiContainer.appendChild(skintone);
