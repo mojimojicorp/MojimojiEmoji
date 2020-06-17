@@ -4,11 +4,11 @@ import { copy } from './copy.mjs';
 function setCopyEvent() {
   // emoji 버튼 클릭 이번트
   const emojis = Doc.findAll('.emoji-button');
+  const group = Doc.find('#copy_group');
 
   emojis.forEach((emoji) => {
     emoji.addEventListener('click', () => {
-      const group = Doc.find('#copy_group');
-      let content = group.value;
+      const content = group.value;
       group.value = content.concat(emoji.value);
     });
   });

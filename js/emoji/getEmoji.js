@@ -1,30 +1,33 @@
 /* eslint-disable import/extensions */
 import Doc from '../service/doc.mjs';
 
-import { attachEmoji } from './attachEmoji.mjs';
+import attachEmoji from './attachEmoji.mjs';
 import { setGrid } from '../setGrid.mjs';
 import { setSkintone } from './setSkintone.mjs';
 import { showEmoji } from './showEmoji.mjs';
 import { attachRecent } from '../recent/attachRecent.mjs';
 import { setCopyEvent } from '../copy/setCopyEvent.mjs';
 
-import emoji from '../../json/emoji.js';
+async function getEmoji() {
+  // emoji 출력
+  await attachEmoji();
 
-// emoji 출력
-attachEmoji(emoji);
-setSkintone();
+  setSkintone();
 
-// skintone 버튼에 eventlistener 추가
-const colorBtns = Doc.findAll('.color');
-colorBtns.forEach((btn) => {
-  showEmoji(btn);
-});
+  // skintone 버튼에 eventlistener 추가
+  const colorBtns = Doc.findAll('.color');
+  colorBtns.forEach((btn) => {
+    showEmoji(btn);
+  });
 
-// 배열 조정
-setGrid();
+  // 배열 조정
+  setGrid();
 
-// recent 출력
-attachRecent();
+  // recent 출력
+  // attachRecent();
 
-// 각 emoji마다 eventlistener 추가
-setCopyEvent();
+  // 각 emoji마다 eventlistener 추가
+  setCopyEvent();
+}
+
+getEmoji();

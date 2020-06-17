@@ -22,12 +22,12 @@ function setGrid() {
   }
 
   const groups = Doc.findAll('.emoji-span-container');
+  const spans = Doc.findAll('emoji-span');
 
   groups.forEach((group, index) => {
     if (index !== 1) {
       group.style.gridTemplateColumns = `repeat(${gridSize}, 1fr)`;
 
-      const spans = group.childNodes;
       spans.forEach((span) => {
         span.style.height = spanHeight;
         span.childNode.style.height = imgHeight;
@@ -35,22 +35,10 @@ function setGrid() {
     } else {
       const expression = Doc.find('.expression');
       expression.style.gridTemplateColumns = `repeat(${gridSize}, 1fr)`;
-
-      const expressionSpans = expression.childNodes;
-      expressionSpans.forEach((span) => {
-        span.style.height = spanHeight;
-        span.childNode.style.height = imgHeight;
-      });
-
-      const skintone = Doc.find('.skintone');
-      skintone.style.gridTemplateColumns = `repeat(${gridSize}, 1fr)`;
-
-      const skintoneSpans = skintone.childNodes;
-      skintoneSpans.forEach((span) => {
-        span.style.height = spanHeight;
-        span.childNode.style.height = imgHeight;
-      });
     }
+
+    const skintone = Doc.find('.skintone');
+    skintone.style.gridTemplateColumns = `repeat(${gridSize}, 1fr)`;
   });
 }
 

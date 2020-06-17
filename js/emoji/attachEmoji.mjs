@@ -1,65 +1,77 @@
-/* eslint-disable import/extensions */
 import Doc from '../service/doc.mjs';
+import emoji from '../../json/emoji.js';
 
 const groups = Doc.findAll('.emoji-span-container');
+let count = 0;
 
-const attach = (emoji, category, detailCategory) => {
+const attach = (res, emo, category, detailCategory) => {
   switch (category) {
     case 'people':
-      groups[1].querySelector(`.${detailCategory}`).innerHTML = emoji;
+      groups[1].querySelector(`.${detailCategory}`).innerHTML = emo;
       break;
     case 'nature':
-      groups[2].innerHTML = emoji;
+      groups[2].innerHTML = emo;
       break;
     case 'foodAndDrink':
-      groups[3].innerHTML = emoji;
+      groups[3].innerHTML = emo;
       break;
     case 'activity':
-      groups[4].innerHTML = emoji;
+      groups[4].innerHTML = emo;
       break;
     case 'place':
-      groups[5].innerHTML = emoji;
+      groups[5].innerHTML = emo;
       break;
     case 'objects':
-      groups[6].innerHTML = emoji;
+      groups[6].innerHTML = emo;
       break;
     case 'symbols':
-      groups[7].innerHTML = emoji;
+      groups[7].innerHTML = emo;
       break;
     case 'flags':
-      groups[8].innerHTML = emoji;
+      groups[8].innerHTML = emo;
       break;
+  }
+
+  count++;
+  if (count >= 10) {
+    res();
   }
 };
 
-const attachEmoji = (emoji) => {
-  Object.keys(emoji).forEach((category) => {
+const loadEmoji = (emo, res) => {
+  Object.keys(emo).forEach((category) => {
     if (category === 'people') {
-      Object.keys(emoji[category]).forEach((detailCategory) => {
+      Object.keys(emo[category]).forEach((detailCategory) => {
         const myWorker = new Worker('../js/emoji/worker.js', {
           type: 'module',
         });
         myWorker.postMessage({
-          data: emoji[category][detailCategory],
+          data: emo[category][detailCategory],
           category: detailCategory,
         });
 
         myWorker.onmessage = (e) => {
-          attach(e.data, category, detailCategory);
+          attach(res, e.data, category, detailCategory);
         };
       });
     } else {
       const myWorker = new Worker('../js/emoji/worker.js', { type: 'module' });
       myWorker.postMessage({
-        data: emoji[category],
+        data: emo[category],
         category,
       });
 
       myWorker.onmessage = (e) => {
-        attach(e.data, category);
+        attach(res, e.data, category);
       };
     }
   });
 };
 
-export { attachEmoji };
+const attachEmoji = () => {
+  return new Promise((res) => {
+    loadEmoji(emoji, res);
+  });
+};
+
+export default attachEmoji;
