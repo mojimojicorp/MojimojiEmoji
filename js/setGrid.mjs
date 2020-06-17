@@ -2,6 +2,7 @@ import Doc from './service/doc.mjs';
 
 function setGrid() {
   const sizeSetting = localStorage.getItem('emojiSize');
+
   let spanHeight;
   let imgHeight;
   let gridSize;
@@ -21,6 +22,7 @@ function setGrid() {
   }
 
   const groups = Doc.findAll('.emoji-span-container');
+
   groups.forEach((group, index) => {
     if (index !== 1) {
       group.style.gridTemplateColumns = `repeat(${gridSize}, 1fr)`;
