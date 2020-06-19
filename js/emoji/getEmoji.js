@@ -9,9 +9,6 @@ import { attachRecent } from '../recent/attachRecent.mjs';
 import { setCopyEvent } from '../copy/setCopyEvent.mjs';
 
 async function getEmoji() {
-  // emoji 출력
-  await attachEmoji();
-
   setSkintone();
 
   // skintone 버튼에 eventlistener 추가
@@ -22,6 +19,9 @@ async function getEmoji() {
 
   // 배열 조정
   setGrid();
+
+  // emoji 출력
+  await attachEmoji();
 
   // recent 출력
   // attachRecent();
