@@ -9,7 +9,6 @@ function copy() {
     .writeText(group.value)
     .then(() => {
       /* clipboard successfully set */
-      console.log('Text pasted.');
       setCopied();
     })
     .catch(() => {

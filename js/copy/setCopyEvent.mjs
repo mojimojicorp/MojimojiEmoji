@@ -6,12 +6,23 @@ function setCopyEvent() {
   const emojis = Doc.findAll('.emoji-button');
   const group = Doc.find('#copy_group');
 
-  emojis.forEach((emoji) => {
-    emoji.addEventListener('click', () => {
-      const content = group.value;
-      group.value = content.concat(emoji.value);
+  const copySetting = localStorage.getItem('copy');
+  if (copySetting === 'manual') {
+    emojis.forEach((emoji) => {
+      emoji.addEventListener('click', () => {
+        const content = group.value;
+        group.value = content.concat(emoji.value);
+      });
     });
-  });
+  } else {
+    emojis.forEach((emoji) => {
+      emoji.addEventListener('click', () => {
+        const content = group.value;
+        group.value = content.concat(emoji.value);
+        copy();
+      });
+    });
+  }
 
   // copy 버튼 클릭 이벤트
   const CopyBtn = Doc.find('#copy_btn');

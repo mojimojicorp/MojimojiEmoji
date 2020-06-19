@@ -1,12 +1,13 @@
 import Doc from '../service/doc.mjs';
 
+const btn = Doc.find('#copy_btn');
+
 function setCopied() {
-  const btn = Doc.find('#copy_btn');
   btn.style.opacity = '0.5';
 
   setTimeout(() => {
     btn.style.opacity = '1.0';
-    btn.innerText = 'copied!';
+    btn.value = 'copied!';
   }, 200);
 }
 
