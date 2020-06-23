@@ -1,42 +1,37 @@
 import Doc from '../service/doc.mjs';
 import { copy } from './copy.mjs';
 
-function setCopyEvent() {
-  // emoji 버튼 클릭 이번트
-  const emojis = Doc.findAll('.emoji-button');
+const concatValue = (value) => {
   const group = Doc.find('#copy_group');
+  const content = group.value;
+  group.value = content.concat(value);
+};
+
+const handleManualEvent = (e) => {
+  concatValue(e.target.value);
+};
+
+const handleAutoEvent = (e) => {
+  concatValue(e.target.value);
+  copy();
+};
+
+function setCopyEvent() {
+  // emoji 버튼 클릭 이벤트
+  const emojis = Doc.findAll('.emoji-button');
 
   const copySetting = localStorage.getItem('copy');
   if (copySetting === 'manual') {
     emojis.forEach((emoji) => {
-      emoji.addEventListener('click', () => {
-        const content = group.value;
-        group.value = content.concat(emoji.value);
-      });
+      emoji.removeEventListener('click', handleAutoEvent);
+      emoji.addEventListener('click', handleManualEvent);
     });
   } else {
     emojis.forEach((emoji) => {
-      emoji.addEventListener('click', () => {
-        const content = group.value;
-        group.value = content.concat(emoji.value);
-        copy();
-      });
+      emoji.removeEventListener('click', handleManualEvent);
+      emoji.addEventListener('click', handleAutoEvent);
     });
   }
-
-  // copy 버튼 클릭 이벤트
-  const CopyBtn = Doc.find('#copy_btn');
-  CopyBtn.addEventListener('click', copy);
-
-  // reset 버튼 클릭 이벤트
-  const resetBtn = Doc.find('#reset_btn');
-  resetBtn.addEventListener(
-    'click',
-    () => {
-      Doc.find('#copy_group').value = '';
-    },
-    false
-  );
 }
 
 export { setCopyEvent };
