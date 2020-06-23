@@ -30,4 +30,4 @@ async function getEmoji() {
   setCopyEvent();
 }
 
-getEmoji();
+export default getEmoji;

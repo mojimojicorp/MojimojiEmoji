@@ -1,5 +1,6 @@
 import Doc from '../service/doc.mjs';
-import { setCopied } from './setCopied.mjs';
+import { setCopyButtonComplete } from './setCopyButtonComplete.mjs';
+import { store } from './store.mjs';
 
 // #copy_group에 있는 항목을 clipboard에 복사
 function copy() {
@@ -9,7 +10,8 @@ function copy() {
     .writeText(group.value)
     .then(() => {
       /* clipboard successfully set */
-      setCopied();
+      setCopyButtonComplete();
+      store(group.value);
     })
     .catch(() => {
       /* clipboard write failed */

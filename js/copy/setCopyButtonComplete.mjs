@@ -2,7 +2,7 @@ import Doc from '../service/doc.mjs';
 
 const btn = Doc.find('#copy_btn');
 
-function setCopied() {
+function setCopyButtonComplete() {
   btn.style.opacity = '0.5';
 
   setTimeout(() => {
@@ -11,4 +11,4 @@ function setCopied() {
   }, 200);
 }
 
-export { setCopied };
+export { setCopyButtonComplete };
