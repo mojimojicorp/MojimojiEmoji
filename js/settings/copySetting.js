@@ -1,48 +1,45 @@
-/* eslint-disable import/extensions */
 import Doc from '../service/doc.mjs';
-import removeAutoCopy from '../copy/removeAutoCopy.mjs';
-import { autocopy } from '../copy/autocopy.mjs';
-import { onecopy } from '../copy/onecopy.mjs';
-import removeCopy from '../copy/removeCopy.mjs';
+import { setCopyEvent } from '../copy/setCopyEvent.mjs';
 
-const copyBtn = Doc.findAll('.autocopyBtn');
+const settingCopyBtn = Doc.findAll('.autocopyBtn');
+const copyBtn = Doc.find('#copy_btn');
 
-function btnReset() {
-  const btn = document.getElementById('copy_btn');
-  btn.value = 'copy!';
+function resetCopyButton() {
+  copyBtn.value = 'copy!';
 }
 
 function setCss() {
   const copySetting = localStorage.getItem('copy');
   switch (copySetting) {
     case 'auto':
-      copyBtn[0].classList.add('active');
+      settingCopyBtn[0].classList.add('active');
       break;
     case 'manual':
-      copyBtn[1].classList.add('active');
+      settingCopyBtn[1].classList.add('active');
       break;
   }
 }
 
+// 이벤트 리스너 등록
 function addCopyEvent() {
-  copyBtn[0].addEventListener('click', () => {
+  settingCopyBtn[0].addEventListener('click', () => {
     localStorage.setItem('copy', 'auto');
 
-    copyBtn[0].classList.add('active');
-    copyBtn[1].classList.remove('active');
-    btnReset();
-    removeCopy();
-    autocopy();
+    settingCopyBtn[0].classList.add('active');
+    settingCopyBtn[1].classList.remove('active');
+
+    resetCopyButton();
+    setCopyEvent();
   });
 
-  copyBtn[1].addEventListener('click', () => {
+  settingCopyBtn[1].addEventListener('click', () => {
     localStorage.setItem('copy', 'manual');
 
-    copyBtn[0].classList.remove('active');
-    copyBtn[1].classList.add('active');
-    btnReset();
-    removeAutoCopy();
-    onecopy();
+    settingCopyBtn[0].classList.remove('active');
+    settingCopyBtn[1].classList.add('active');
+
+    resetCopyButton();
+    setCopyEvent();
   });
 }
 
