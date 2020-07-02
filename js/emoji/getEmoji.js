@@ -26,6 +26,7 @@ async function getEmoji() {
   // recent 출력
   // attachRecent();
 
+  setGrid();
   // 각 emoji마다 eventlistener 추가
   setCopyEvent();
 }
