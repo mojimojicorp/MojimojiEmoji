@@ -12,7 +12,7 @@ function setGrid() {
   switch (sizeSetting) {
     case 'big':
       gridSize = 5;
-      zoom = 1.5;
+      zoom = 1.2;
       break;
 
     case 'normal':
