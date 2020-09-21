@@ -1,12 +1,12 @@
-import Util from './service/util';
+import Util from './service/util.mjs';
 
-import initalSetting from './settings/init';
+import initalSetting from './settings/init.mjs';
 // import setCopyBtn from './settings/copySetting';
-import setSizeBtn from './settings/sizeSetting';
-import setRecentBtn from './settings/recentSetting';
-import makeNav from './components/nav';
-import makeEmojiContainers from './components/emojiContainers';
-import addButtonEvents from './settings/buttonEvent';
+import setSizeBtn from './settings/sizeSetting.js';
+import setRecentBtn from './settings/recentSetting.js';
+import makeNav from './components/nav.js';
+import makeEmojiContainers from './components/emojiContainers.js';
+import addButtonEvents from './settings/buttonEvent/index.js';
 
 function afterRendering() {
   Util.includeJS('../js/getEmoji.js');

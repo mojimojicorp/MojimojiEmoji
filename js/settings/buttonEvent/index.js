@@ -1,8 +1,8 @@
-import addResetBtnEvent from './reset';
-import addCopyBtnEvent from './copy';
-import addSettingBtnEvent from './setting';
-import addGithubBtnEvent from './github';
-import addGobackBtnEvent from './goback';
+import addResetBtnEvent from './reset.js';
+import addCopyBtnEvent from './copy.js';
+import addSettingBtnEvent from './setting.js';
+import addGithubBtnEvent from './github.js';
+import addGobackBtnEvent from './goback.js';
 
 const addButtonEvents = () => {
   addResetBtnEvent();
