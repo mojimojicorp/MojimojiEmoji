@@ -1,4 +1,4 @@
-import Doc from '../../service/doc.mjs';
+import Doc from '../../service/doc.js';
 
 const group = Doc.find('#copy_group');
 const resetBtn = Doc.find('#reset_btn');

@@ -1,6 +1,6 @@
-import Util from './service/util.mjs';
+import Util from './service/util.js';
 
-import initalSetting from './settings/init.mjs';
+import initalSetting from './settings/init.js';
 // import setCopyBtn from './settings/copySetting';
 import setSizeBtn from './settings/sizeSetting.js';
 import setRecentBtn from './settings/recentSetting.js';

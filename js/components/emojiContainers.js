@@ -1,5 +1,5 @@
-import Doc from '../service/doc.mjs';
-import Cons from '../service/const.mjs';
+import Doc from '../service/doc.js';
+import Cons from '../service/const.js';
 
 export default function makeEmojiContainers() {
   const emojiGroup = Doc.find('.emoji-list .groups');

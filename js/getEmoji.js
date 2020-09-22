@@ -1,5 +1,5 @@
 /* eslint-disable import/extensions */
-import Doc from './service/doc.mjs';
+import Doc from './service/doc.js';
 import setGrid from './setGrid.mjs';
 import { autocopy } from './copy/autocopy.mjs';
 import { onecopy } from './copy/onecopy.mjs';
