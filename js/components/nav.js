@@ -8,7 +8,7 @@ export default function makeNav() {
   Cons.NAV_NAME_LIST.forEach((name, index) => {
     const navDiv = Doc.create('div');
 
-    navDiv.className = +index === 0 ? 'nav-recent' : `nav${index}`;
+    navDiv.className = index === 0 ? 'nav-recent' : `nav${index}`;
 
     const btnOfLink = Doc.create('a');
     btnOfLink.className = 'btn';
