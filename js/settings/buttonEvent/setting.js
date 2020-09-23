@@ -1,12 +1,15 @@
-export default function addSettingBtmEvent() {
-  const settingBtn = document.querySelector('.setting');
-  settingBtn.addEventListener('click', () => {
-    const emojiContainer = document.querySelector('.emoji-container');
-    const footer = document.querySelector('.footer');
+import Doc from '../../service/doc.js';
+
+export default function addGoSettingButtonEvent() {
+  const settingButton = Doc.find('.setting');
+  settingButton.addEventListener('click', () => {
+    const emojiContainer = Doc.find('.emoji-container');
     emojiContainer.setAttribute('style', 'display: none;');
+
+    const footer = Doc.find('.footer');
     footer.setAttribute('style', 'display: none;');
 
-    const div = document.querySelector('.setting-container');
-    div.setAttribute('style', 'display: block;');
+    const settingContainer = Doc.find('.setting-container');
+    settingContainer.setAttribute('style', 'display: block;');
   });
 }

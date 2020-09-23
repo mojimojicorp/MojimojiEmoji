@@ -5,27 +5,12 @@ import { autocopy } from './copy/autocopy.mjs';
 import { onecopy } from './copy/onecopy.mjs';
 import copyEvent from './copy/copyEvent.mjs';
 import renderRecent from './recent/renderRecent.mjs';
+import emojis from '../emojis/emojis.js';
 
 const copySetting = localStorage.getItem('copy');
 
-// Emoji JSON파일 불러오기
-const getJSON = (path, success, error) => {
-  const xhr = new XMLHttpRequest();
-  xhr.onreadystatechange = () => {
-    if (xhr.readyState === XMLHttpRequest.DONE) {
-      if (xhr.status === 200) {
-        if (success) success(JSON.parse(xhr.responseText));
-      } else if (error) {
-        error(xhr);
-      }
-    }
-  };
-  xhr.open('GET', path, true);
-  xhr.send();
-};
-
-const attachEmoji = (emoji, groups) => {
-  emoji.forEach((data) => {
+const attachEmoji = (groups) => {
+  emojis.forEach((data) => {
     const span = Doc.create('span');
     span.setAttribute('class', 'emoji-span');
     span.setAttribute('title', data.name);
@@ -62,27 +47,18 @@ const attachEmoji = (emoji, groups) => {
   });
 };
 
-getJSON(
-  '../emoji.json',
-  (data) => {
-    const EMOJI = data;
-    const groups = Doc.findAll('.emoji-span-container');
+const groups = Doc.findAll('.emoji-span-container');
 
-    attachEmoji(EMOJI, groups);
-    setGrid();
+attachEmoji(groups);
+setGrid();
 
-    renderRecent();
+renderRecent();
 
-    // 각 emoji마다 eventlistener 추가 & copy 버튼, reset 버튼 eventlistener 추가
-    copyEvent();
+// 각 emoji마다 eventlistener 추가 & copy 버튼, reset 버튼 eventlistener 추가
+copyEvent();
 
-    if (copySetting === 'auto') {
-      autocopy();
-    } else if (copySetting === 'manual') {
-      onecopy();
-    }
-  },
-  (xhr) => {
-    console.error(xhr);
-  }
-);
+if (copySetting === 'auto') {
+  autocopy();
+} else if (copySetting === 'manual') {
+  onecopy();
+}

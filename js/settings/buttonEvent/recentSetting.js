@@ -1,32 +1,9 @@
-import Doc from '../service/doc.js';
-import renderRecent from '../recent/renderRecent.mjs';
+import Doc from '../../service/doc.js';
+import renderRecent from '../../recent/renderRecent.mjs';
 
 const recentBtns = Doc.findAll('.recentBtn');
 
-function setRecentBtn() {
-  setCss();
-  addRecentEvent();
-}
-
-function setCss() {
-  const recentSetting = localStorage.getItem('recentNum');
-  switch (recentSetting) {
-    case '0':
-      recentBtns[0].classList.add('active');
-      break;
-    case '10':
-      recentBtns[1].classList.add('active');
-      break;
-    case '20':
-      recentBtns[2].classList.add('active');
-      break;
-    case '30':
-      recentBtns[3].classList.add('active');
-      break;
-  }
-}
-
-function addRecentEvent() {
+function addRecentSettingButtonEvent() {
   recentBtns[0].addEventListener('click', () => {
     localStorage.setItem('recentNum', 0);
 
@@ -74,4 +51,4 @@ function addRecentEvent() {
   });
 }
 
-export default setRecentBtn;
+export default addRecentSettingButtonEvent;
