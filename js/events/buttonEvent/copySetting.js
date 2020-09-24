@@ -1,8 +1,12 @@
-import Doc from '../../service/doc.js';
-import removeAutoCopy from '../../copy/removeAutoCopy.mjs';
-import { autocopy } from '../../copy/autocopy.mjs';
-import { onecopy } from '../../copy/onecopy.mjs';
-import removeCopy from '../../copy/removeCopy.mjs';
+import Doc from '../../utils/doc.js';
+import {
+  addAutoCopyOffEvent,
+  removeAutoCopyOffEvent,
+} from '../emojiEvent/autoCopyOff.js';
+import {
+  addAutoCopyOnEvent,
+  removeAutoCopyOnEvent,
+} from '../emojiEvent/autoCopyOn.js';
 
 const copybtn = Doc.findAll('.autocopyBtn');
 
@@ -18,8 +22,8 @@ function addCopySettingButtonEvent() {
     copybtn[0].classList.add('active');
     copybtn[1].classList.remove('active');
     btnReset();
-    removeCopy();
-    autocopy();
+    removeAutoCopyOffEvent();
+    addAutoCopyOnEvent();
   });
 
   copybtn[1].addEventListener('click', () => {
@@ -28,8 +32,8 @@ function addCopySettingButtonEvent() {
     copybtn[0].classList.remove('active');
     copybtn[1].classList.add('active');
     btnReset();
-    removeAutoCopy();
-    onecopy();
+    removeAutoCopyOnEvent();
+    addAutoCopyOffEvent();
   });
 }
 

@@ -1,6 +1,6 @@
 /* eslint-disable no-param-reassign */
 /* eslint-disable no-undef */
-import Doc from '../../service/doc.js';
+import Doc from '../../utils/doc.js';
 
 export default function addSkintoneButtonEvent() {
   const skintoneButtonsContainer = Doc.find('.color');

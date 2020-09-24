@@ -1,5 +1,5 @@
 /* eslint-disable no-param-reassign */
-import Doc from '../../service/doc.js';
+import Doc from '../../utils/doc.js';
 
 const sizeBtns = Doc.findAll('.sizeBtn');
 

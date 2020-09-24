@@ -1,11 +1,10 @@
-import Doc from '../service/doc.js';
-import copyBtn from '../copy/copyBtn.mjs';
-import { clipboard } from '../copy/autocopy.mjs';
+/* eslint-disable no-undef */
+import Doc from '../utils/doc.js';
 
 let recentSetting = localStorage.getItem('recentNum');
 const sizeSetting = localStorage.getItem('emojiSize');
 
-function renderRecent(status) {
+function renderRecent() {
   const groups = Doc.findAll('.emoji-span-container');
   const recentGroup = groups[0];
 
@@ -32,40 +31,6 @@ function renderRecent(status) {
 
       recentGroup.appendChild(span);
     });
-  }
-
-  const list = Doc.findAll(
-    '.recent_group .emoji-span-container .emoji-span .emoji'
-  );
-
-  addRecentEvent(list, status);
-}
-
-function addRecentEvent(list, status) {
-  if (list.length > 0) {
-    list.forEach((e) => {
-      e.addEventListener('click', (ee) => {
-        let content = Doc.find('#copy_group').value;
-        content = content.concat(ee.target.alt);
-        Doc.find('#copy_group').value = content;
-
-        if (status === 'autocopy') {
-          copyBtn();
-        }
-      });
-    });
-
-    if (status === 'autocopy') {
-      list.forEach((e) => {
-        clipboard.push(
-          new Clipboard(e, {
-            text() {
-              return Doc.find('#copy_group').value;
-            },
-          })
-        );
-      });
-    }
   }
 }
 

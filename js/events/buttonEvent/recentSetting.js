@@ -1,4 +1,4 @@
-import Doc from '../../service/doc.js';
+import Doc from '../../utils/doc.js';
 import renderRecent from '../../recent/renderRecent.js';
 
 const recentBtns = Doc.findAll('.recentBtn');

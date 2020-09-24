@@ -1,5 +1,5 @@
 /* eslint-disable no-undef */
-import Doc from '../service/doc.js';
+import Doc from '../utils/doc.js';
 
 const skintones = [
   { code: '1F3FB', name: 'light-skin-tone' },

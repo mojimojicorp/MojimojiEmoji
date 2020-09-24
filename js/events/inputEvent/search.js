@@ -1,5 +1,5 @@
 /* eslint-disable no-param-reassign */
-import Doc from '../../service/doc.js';
+import Doc from '../../utils/doc.js';
 
 export default function addSearchInputEvent() {
   Doc.find('#searchInput').addEventListener('change', (e) => {
