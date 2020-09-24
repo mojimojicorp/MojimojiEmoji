@@ -1,32 +1,38 @@
+/* eslint-disable func-names */
 import Util from './service/util.js';
 
-import initalSetting from './settings/init.js';
-// import setCopyBtn from './settings/copySetting';
-import setSizeBtn from './settings/sizeSetting.js';
-import setRecentBtn from './settings/recentSetting.js';
-import makeNav from './components/nav.js';
+import initialSetting from './init.js';
 import makeEmojiContainers from './components/emojiContainers.js';
-import addButtonEvents from './settings/buttonEvent/index.js';
+import {
+  addInitialButtonEvents,
+  addSettingButtonEvents,
+} from './events/buttonEvent/index.js';
+import addSearchInputEvents from './events/inputEvent/search.js';
+import makeInitialView from './components/index.js';
+import addSkintoneButtonEvent from './events/buttonEvent/skintone.js';
 
-function afterRendering() {
+(function () {
+  makeInitialView();
+  initialSetting();
+  addInitialButtonEvents();
+})();
+
+function attachEmojis() {
   Util.includeJS('../js/getEmoji.js');
-  Util.includeJS('../js/skintone.js');
 
-  Util.includeJS('../js/search.js');
-  Util.includeJS('../js/panel.js');
+  // Util.includeJS('../js/panel.js');
 }
 
-function setSetting() {
-  // setCopyBtn();
-  setSizeBtn();
-  setRecentBtn();
+function addEventsRelatedEmoji() {
+  addSkintoneButtonEvent();
+  addSearchInputEvents();
+  addSettingButtonEvents();
 }
 
-makeNav();
-makeEmojiContainers();
+async function main() {
+  await makeEmojiContainers();
+  await attachEmojis();
+  addEventsRelatedEmoji();
+}
 
-initalSetting();
-addButtonEvents();
-
-afterRendering();
-setSetting();
+main();

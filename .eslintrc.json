@@ -8,7 +8,7 @@
   ],
   "plugins": ["prettier", "import"],
   "rules": {
-    "indent": ["error", 2],
+    "indent": ["error", 2, { "SwitchCase": 1 }],
     "semi": ["error", "always"],
     "quotes": ["error", "single"],
     "no-console": ["error", { "allow": ["warn", "error"] }],
@@ -25,7 +25,7 @@
     "SharedArrayBuffer": "readonly"
   },
   "parserOptions": {
-    "ecmaVersion": 6,
+    "ecmaVersion": 2018,
     "sourceType": "module"
   }
 }

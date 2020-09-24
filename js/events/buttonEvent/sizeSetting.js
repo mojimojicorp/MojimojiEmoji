@@ -1,29 +1,9 @@
-import Doc from '../service/doc.js';
-import setGrid from '../setGrid.mjs';
+import Doc from '../../service/doc.js';
+import setGrid from '../../setGrid.mjs';
 
 const sizeBtns = Doc.findAll('.sizeBtn');
 
-function setSizeBtn() {
-  setCss();
-  addSizeEvent();
-}
-
-function setCss() {
-  const sizeSetting = localStorage.getItem('emojiSize');
-  switch (sizeSetting) {
-    case 'small':
-      sizeBtns[0].classList.add('active');
-      break;
-    case 'normal':
-      sizeBtns[1].classList.add('active');
-      break;
-    case 'big':
-      sizeBtns[2].classList.add('active');
-      break;
-  }
-}
-
-function addSizeEvent() {
+function addSizeSettingButtonEvent() {
   sizeBtns[0].addEventListener('click', () => {
     localStorage.setItem('emojiSize', 'small');
 
@@ -61,4 +41,4 @@ function addSizeEvent() {
   });
 }
 
-export default setSizeBtn;
+export default addSizeSettingButtonEvent;
