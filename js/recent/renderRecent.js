@@ -1,6 +1,6 @@
 import Doc from '../service/doc.js';
 import copyBtn from '../copy/copyBtn.mjs';
-import { autocopy, enhancedElements2, clipboard } from '../copy/autocopy.mjs';
+import { clipboard } from '../copy/autocopy.mjs';
 
 let recentSetting = localStorage.getItem('recentNum');
 const sizeSetting = localStorage.getItem('emojiSize');
@@ -22,23 +22,15 @@ function renderRecent(status) {
       localStorage.setItem('recent', JSON.stringify(recent));
     }
 
-    let imgSize;
-
     // localstorage에 있는 recent를 html에 붙여주기
     recent.forEach((data) => {
       const span = Doc.create('span');
-      span.setAttribute('class', 'emoji-span');
+      span.setAttribute('class', `emoji-span ${sizeSetting}`);
       span.setAttribute('title', data.name);
-
-      imgSize = setRecentSize(span);
-
       span.textContent = data.char;
       twemoji.parse(span);
 
-      // emoji 붙여넣기
       recentGroup.appendChild(span);
-      // size setting
-      $(span).children().css('height', imgSize);
     });
   }
 
@@ -47,22 +39,6 @@ function renderRecent(status) {
   );
 
   addRecentEvent(list, status);
-}
-
-// Recent size setting
-function setRecentSize(span) {
-  const sizeSetting = localStorage.getItem('emojiSize');
-  switch (sizeSetting) {
-    case 'small':
-      span.setAttribute('style', 'height: 20px;');
-      return '15px';
-    case 'normal':
-      span.setAttribute('style', 'height: 40px;');
-      return '30px';
-    case 'big':
-      span.setAttribute('style', 'height: 80px;');
-      return '60px';
-  }
 }
 
 function addRecentEvent(list, status) {

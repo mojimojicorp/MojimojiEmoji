@@ -1,6 +1,6 @@
 import Doc from '../service/doc.js';
 import autocopied from './autocopied.mjs';
-import renderRecent from '../recent/renderRecent.mjs';
+import renderRecent from '../recent/renderRecent.js';
 
 const enhancedElements2 = [];
 const clipboard = [];

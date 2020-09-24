@@ -1,18 +1,22 @@
+/* eslint-disable no-undef */
 /* eslint-disable import/extensions */
 import Doc from './service/doc.js';
-import setGrid from './setGrid.mjs';
+// import setGrid from './setGrid.mjs';
 import { autocopy } from './copy/autocopy.mjs';
 import { onecopy } from './copy/onecopy.mjs';
 import copyEvent from './copy/copyEvent.mjs';
-import renderRecent from './recent/renderRecent.mjs';
+import renderRecent from './recent/renderRecent.js';
 import emojis from '../emojis/emojis.js';
 
 const copySetting = localStorage.getItem('copy');
+const sizeSetting = localStorage.getItem('emojiSize');
 
-const attachEmoji = (groups) => {
+const groups = Doc.findAll('.emoji-span-container');
+
+const attachEmoji = () => {
   emojis.forEach((data) => {
     const span = Doc.create('span');
-    span.setAttribute('class', 'emoji-span');
+    span.setAttribute('class', `emoji-span ${sizeSetting}`);
     span.setAttribute('title', data.name);
     span.textContent = data.char;
     twemoji.parse(span);
@@ -21,11 +25,11 @@ const attachEmoji = (groups) => {
       if (data.name.includes('skin-tone')) {
         const size = localStorage.getItem('emojiSize');
         if (size === 'small') {
-          span.setAttribute('style', 'height: 20px; display:none;');
+          span.setAttribute('style', 'display:none;');
         } else if (size === 'normal') {
-          span.setAttribute('style', 'height: 40px; display:none;');
+          span.setAttribute('style', 'display:none;');
         } else if (size === 'big') {
-          span.setAttribute('style', 'height: 80px; display:none;');
+          span.setAttribute('style', 'display:none;');
         }
       }
       groups[1].appendChild(span);
@@ -47,10 +51,7 @@ const attachEmoji = (groups) => {
   });
 };
 
-const groups = Doc.findAll('.emoji-span-container');
-
-attachEmoji(groups);
-setGrid();
+attachEmoji();
 
 renderRecent();
 

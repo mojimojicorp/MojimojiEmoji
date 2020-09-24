@@ -25,9 +25,7 @@ export default function makeEmojiContainers() {
     const emojiContainer = Doc.create('div');
     emojiContainer.className = 'emoji-span-container';
     if (index !== 1) {
-      emojiContainer.style.display = 'grid';
-      emojiContainer.style.justifyItems = 'center';
-      emojiContainer.style.alignItems = 'center';
+      emojiContainer.style.display = 'flex';
       emojiContainer.style.width = '100%';
       emojiContainer.style.cursor = 'pointer';
     }

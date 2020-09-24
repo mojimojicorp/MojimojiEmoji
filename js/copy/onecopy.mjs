@@ -1,6 +1,6 @@
 import Doc from '../service/doc.js';
 import copied from './copied.mjs';
-import renderRecent from '../recent/renderRecent.mjs';
+import renderRecent from '../recent/renderRecent.js';
 
 const enhancedElements1 = [];
 
