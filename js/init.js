@@ -1,4 +1,4 @@
-import Doc from '../service/doc.js';
+import Doc from './service/doc.js';
 
 function setSettingButtonsCss() {
   const copybtns = Doc.findAll('.autocopyBtn');
@@ -46,7 +46,7 @@ function setSettingButtonsCss() {
   }
 }
 
-export default function initalSetting() {
+export default function initialSetting() {
   // 프로그램 첫 로드 시 Localstorage setting
   if (localStorage.getItem('firstLoad') == null) {
     localStorage.setItem('firstLoad', false);
