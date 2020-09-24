@@ -22,9 +22,9 @@ function addEventsRelatedEmoji() {
   addSettingButtonEvents();
 }
 
-async function main() {
-  await makeEmojiContainers();
-  await getEmoji();
+function main() {
+  makeEmojiContainers();
+  getEmoji();
   addEventsRelatedEmoji();
 }
 
