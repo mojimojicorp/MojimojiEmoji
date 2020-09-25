@@ -1,5 +1,5 @@
-import Doc from '../service/doc.js';
-import Cons from '../service/const.js';
+import Doc from '../utils/doc.js';
+import Cons from '../utils/const.js';
 
 export default function makeNav() {
   const nav = Doc.find('.emoji-nav');

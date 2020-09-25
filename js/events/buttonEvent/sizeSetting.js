@@ -1,7 +1,19 @@
-import Doc from '../../service/doc.js';
-import setGrid from '../../setGrid.mjs';
+/* eslint-disable no-param-reassign */
+import Doc from '../../utils/doc.js';
 
 const sizeBtns = Doc.findAll('.sizeBtn');
+
+function setEmojiSize(newSize) {
+  const emojiSpans = Doc.findAll('.emoji-span');
+
+  emojiSpans.forEach((emoji) => {
+    const size = emoji.classList.item(1);
+    if (size !== null) {
+      emoji.classList.remove(size);
+      emoji.classList.add(newSize);
+    }
+  });
+}
 
 function addSizeSettingButtonEvent() {
   sizeBtns[0].addEventListener('click', () => {
@@ -13,7 +25,7 @@ function addSizeSettingButtonEvent() {
     sizeBtns[2].classList.remove('active');
 
     // emoji size 조정
-    setGrid();
+    setEmojiSize('small');
   });
 
   sizeBtns[1].addEventListener('click', () => {
@@ -25,7 +37,7 @@ function addSizeSettingButtonEvent() {
     sizeBtns[2].classList.remove('active');
 
     // emoji size 조정
-    setGrid();
+    setEmojiSize('normal');
   });
 
   sizeBtns[2].addEventListener('click', () => {
@@ -37,7 +49,7 @@ function addSizeSettingButtonEvent() {
     sizeBtns[2].classList.add('active');
 
     // emoji size 조정
-    setGrid();
+    setEmojiSize('big');
   });
 }
 

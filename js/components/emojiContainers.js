@@ -1,5 +1,5 @@
-import Doc from '../service/doc.js';
-import Cons from '../service/const.js';
+import Doc from '../utils/doc.js';
+import Cons from '../utils/const.js';
 
 export default function makeEmojiContainers() {
   const emojiGroup = Doc.find('.emoji-list .groups');
@@ -25,9 +25,7 @@ export default function makeEmojiContainers() {
     const emojiContainer = Doc.create('div');
     emojiContainer.className = 'emoji-span-container';
     if (index !== 1) {
-      emojiContainer.style.display = 'grid';
-      emojiContainer.style.justifyItems = 'center';
-      emojiContainer.style.alignItems = 'center';
+      emojiContainer.style.display = 'flex';
       emojiContainer.style.width = '100%';
       emojiContainer.style.cursor = 'pointer';
     }

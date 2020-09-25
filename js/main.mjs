@@ -1,6 +1,4 @@
 /* eslint-disable func-names */
-import Util from './service/util.js';
-
 import initialSetting from './init.js';
 import makeEmojiContainers from './components/emojiContainers.js';
 import {
@@ -10,6 +8,7 @@ import {
 import addSearchInputEvents from './events/inputEvent/search.js';
 import makeInitialView from './components/index.js';
 import addSkintoneButtonEvent from './events/buttonEvent/skintone.js';
+import getEmoji from './getEmoji.js';
 
 (function () {
   makeInitialView();
@@ -17,21 +16,15 @@ import addSkintoneButtonEvent from './events/buttonEvent/skintone.js';
   addInitialButtonEvents();
 })();
 
-function attachEmojis() {
-  Util.includeJS('../js/getEmoji.js');
-
-  // Util.includeJS('../js/panel.js');
-}
-
 function addEventsRelatedEmoji() {
   addSkintoneButtonEvent();
   addSearchInputEvents();
   addSettingButtonEvents();
 }
 
-async function main() {
-  await makeEmojiContainers();
-  await attachEmojis();
+function main() {
+  makeEmojiContainers();
+  getEmoji();
   addEventsRelatedEmoji();
 }
 

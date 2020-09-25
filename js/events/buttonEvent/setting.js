@@ -1,4 +1,4 @@
-import Doc from '../../service/doc.js';
+import Doc from '../../utils/doc.js';
 
 export default function addGoSettingButtonEvent() {
   const settingButton = Doc.find('.setting');
