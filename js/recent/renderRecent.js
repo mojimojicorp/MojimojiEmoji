@@ -1,23 +1,17 @@
-/* eslint-disable no-undef */
 import Doc from '../utils/doc.js';
 
-let recentSetting = localStorage.getItem('recentNum');
-const sizeSetting = localStorage.getItem('emojiSize');
-
 function renderRecent() {
-  const groups = Doc.findAll('.emoji-span-container');
-  const recentGroup = groups[0];
+  const recentGroup = Doc.find('.recent-group .emoji-span-container');
+  const recent = JSON.parse(localStorage.getItem('recent'));
+  const recentNum = localStorage.getItem('recentNum');
+  const sizeSetting = localStorage.getItem('emojiSize');
 
-  // recentGroup 초기화
   recentGroup.textContent = '';
 
-  const recent = JSON.parse(localStorage.getItem('recent'));
-  recentSetting = localStorage.getItem('recentNum');
-
   if (recent !== null) {
-    // recentSetting보다 길이가 길면 잘라서 localstorage에 저장
-    if (recent.length > recentSetting) {
-      recent.splice(recentSetting);
+    // recentNum보다 길이가 길면 잘라서 localstorage에 저장
+    if (recent.length > recentNum) {
+      recent.splice(recentNum);
       localStorage.setItem('recent', JSON.stringify(recent));
     }
 
@@ -28,7 +22,6 @@ function renderRecent() {
       span.setAttribute('title', data.name);
       span.textContent = data.char;
       twemoji.parse(span);
-
       recentGroup.appendChild(span);
     });
   }

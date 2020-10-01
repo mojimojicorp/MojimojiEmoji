@@ -48,7 +48,7 @@ function setSettingButtonsCss() {
 
 export default function initialSetting() {
   // 프로그램 첫 로드 시 Localstorage setting
-  if (localStorage.getItem('firstLoad') == null) {
+  if (localStorage.getItem('firstLoad') === null) {
     localStorage.setItem('firstLoad', false);
 
     localStorage.setItem('copy', 'auto');

@@ -1,6 +1,7 @@
 import removeDuplicate from '../service/removeDuplicate.mjs';
+import renderRecent from './renderRecent.js';
 
-function store(name, char) {
+function updateRecent(name, char) {
   const recentStorage = localStorage.getItem('recent');
 
   let charArr = new Array();
@@ -15,6 +16,8 @@ function store(name, char) {
   charArr.unshift({ name, char });
   charArr = removeDuplicate(charArr);
   localStorage.setItem('recent', JSON.stringify(charArr));
+
+  renderRecent();
 }
 
-export default store;
+export default updateRecent;

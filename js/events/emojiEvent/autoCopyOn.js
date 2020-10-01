@@ -1,7 +1,6 @@
 import Doc from '../../utils/doc.js';
 import copy from '../../service/copy.js';
-import store from '../../recent/store.js';
-import renderRecent from '../../recent/renderRecent.js';
+import updateRecent from '../../recent/updateRecent.js';
 
 const groups = Doc.find('.groups');
 
@@ -12,8 +11,7 @@ function autoCopyOn(e) {
 
   copyGroup.value = content.concat(e.target.alt);
   copy();
-  store(e.target.title, e.target.alt);
-  renderRecent('autocopy');
+  updateRecent(e.target.title, e.target.alt);
 }
 
 function addAutoCopyOnEvent() {
