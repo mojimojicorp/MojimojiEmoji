@@ -3,9 +3,7 @@ import Doc from '../../utils/doc.js';
 
 const sizeBtns = Doc.findAll('.sizeBtn');
 
-function setEmojiSize(newSize) {
-  const emojiSpans = Doc.findAll('.emoji-span');
-
+function setEmojiSize(newSize, emojiSpans) {
   emojiSpans.forEach((emoji) => {
     const size = emoji.classList.item(1);
     if (size !== null) {
@@ -16,6 +14,8 @@ function setEmojiSize(newSize) {
 }
 
 function addSizeSettingButtonEvent() {
+  const emojiSpans = Doc.findAll('.emoji-span');
+
   sizeBtns[0].addEventListener('click', () => {
     localStorage.setItem('emojiSize', 'small');
 
@@ -25,7 +25,7 @@ function addSizeSettingButtonEvent() {
     sizeBtns[2].classList.remove('active');
 
     // emoji size 조정
-    setEmojiSize('small');
+    setEmojiSize('small', emojiSpans);
   });
 
   sizeBtns[1].addEventListener('click', () => {
@@ -37,7 +37,7 @@ function addSizeSettingButtonEvent() {
     sizeBtns[2].classList.remove('active');
 
     // emoji size 조정
-    setEmojiSize('normal');
+    setEmojiSize('normal', emojiSpans);
   });
 
   sizeBtns[2].addEventListener('click', () => {
@@ -49,7 +49,7 @@ function addSizeSettingButtonEvent() {
     sizeBtns[2].classList.add('active');
 
     // emoji size 조정
-    setEmojiSize('big');
+    setEmojiSize('big', emojiSpans);
   });
 }
 
