@@ -23,6 +23,8 @@ function addRecentSettingButtonEvent() {
     recentBtns[1].classList.add('active');
     recentBtns[2].classList.remove('active');
     recentBtns[3].classList.remove('active');
+
+    renderRecent();
   });
 
   recentBtns[2].addEventListener('click', () => {
@@ -32,6 +34,8 @@ function addRecentSettingButtonEvent() {
     recentBtns[1].classList.remove('active');
     recentBtns[2].classList.add('active');
     recentBtns[3].classList.remove('active');
+
+    renderRecent();
   });
 
   recentBtns[3].addEventListener('click', () => {
@@ -41,6 +45,8 @@ function addRecentSettingButtonEvent() {
     recentBtns[1].classList.remove('active');
     recentBtns[2].classList.remove('active');
     recentBtns[3].classList.add('active');
+
+    renderRecent();
   });
 }
 
