@@ -12,7 +12,6 @@ function addRecentSettingButtonEvent() {
     recentBtns[2].classList.remove('active');
     recentBtns[3].classList.remove('active');
 
-    // recent 변경
     localStorage.removeItem('recent');
     renderRecent();
   });
@@ -25,7 +24,7 @@ function addRecentSettingButtonEvent() {
     recentBtns[2].classList.remove('active');
     recentBtns[3].classList.remove('active');
 
-    // recent 변경
+    renderRecent();
   });
 
   recentBtns[2].addEventListener('click', () => {
@@ -36,7 +35,7 @@ function addRecentSettingButtonEvent() {
     recentBtns[2].classList.add('active');
     recentBtns[3].classList.remove('active');
 
-    // recent 변경
+    renderRecent();
   });
 
   recentBtns[3].addEventListener('click', () => {
@@ -47,7 +46,7 @@ function addRecentSettingButtonEvent() {
     recentBtns[2].classList.remove('active');
     recentBtns[3].classList.add('active');
 
-    // recent 변경
+    renderRecent();
   });
 }
 
