@@ -4,10 +4,9 @@ import Doc from '../../utils/doc.js';
 
 export default function addSkintoneButtonEvent() {
   const skintoneButtonsContainer = Doc.find('.color');
+  const emojiSpans = Doc.findAll('.emoji-span');
 
   skintoneButtonsContainer.addEventListener('click', (e) => {
-    const emojiSpans = Doc.findAll('.emoji-span');
-
     if (e.target.tagName !== 'IMG') return;
     const color = e.target.parentNode.classList[1];
 

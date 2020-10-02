@@ -1,31 +1,40 @@
-/* eslint-disable func-names */
 import initialSetting from './init.js';
 import makeEmojiContainers from './components/emojiContainers.js';
-import {
-  addInitialButtonEvents,
-  addSettingButtonEvents,
-} from './events/buttonEvent/index.js';
+import addButtonEvents from './events/buttonEvent/index.js';
 import addSearchInputEvents from './events/inputEvent/search.js';
 import makeInitialView from './components/index.js';
 import addSkintoneButtonEvent from './events/buttonEvent/skintone.js';
 import getEmoji from './getEmoji.js';
+import { addAutoCopyOnEvent } from './events/emojiEvent/autoCopyOn.js';
+import { addAutoCopyOffEvent } from './events/emojiEvent/autoCopyOff.js';
 
-(function () {
+function setInit() {
   makeInitialView();
   initialSetting();
-  addInitialButtonEvents();
-})();
+}
 
 function addEventsRelatedEmoji() {
   addSkintoneButtonEvent();
   addSearchInputEvents();
-  addSettingButtonEvents();
+
+  const copySetting = localStorage.getItem('copy');
+  if (copySetting === 'auto') {
+    addAutoCopyOnEvent();
+  } else if (copySetting === 'manual') {
+    addAutoCopyOffEvent();
+  }
 }
 
-function main() {
+async function setEmoji() {
   makeEmojiContainers();
-  getEmoji();
+  await getEmoji();
   addEventsRelatedEmoji();
+}
+
+async function main() {
+  await setInit();
+  await setEmoji();
+  addButtonEvents();
 }
 
 main();

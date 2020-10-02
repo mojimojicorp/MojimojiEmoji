@@ -1,15 +1,11 @@
 /* eslint-disable no-undef */
-/* eslint-disable import/extensions */
 import Doc from './utils/doc.js';
-import { addAutoCopyOnEvent } from './events/emojiEvent/autoCopyOn.js';
-import { addAutoCopyOffEvent } from './events/emojiEvent/autoCopyOff.js';
 import renderRecent from './recent/renderRecent.js';
 import emojis from '../emojis/emojis.js';
 
-const copySetting = localStorage.getItem('copy');
-const sizeSetting = localStorage.getItem('emojiSize');
-
 const attachEmoji = (groups) => {
+  const sizeSetting = localStorage.getItem('emojiSize');
+
   emojis.forEach((data) => {
     const span = Doc.create('span');
     span.setAttribute('class', `emoji-span ${sizeSetting}`);
@@ -48,14 +44,12 @@ const attachEmoji = (groups) => {
 };
 
 export default function getEmoji() {
-  const groups = Doc.findAll('.emoji-span-container');
+  return new Promise((resolve) => {
+    const groups = Doc.findAll('.emoji-span-container');
 
-  attachEmoji(groups);
-  renderRecent();
+    attachEmoji(groups);
+    renderRecent();
 
-  if (copySetting === 'auto') {
-    addAutoCopyOnEvent();
-  } else if (copySetting === 'manual') {
-    addAutoCopyOffEvent();
-  }
+    resolve();
+  });
 }

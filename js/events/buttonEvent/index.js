@@ -7,18 +7,15 @@ import addCopySettingButtonEvent from './copySetting.js';
 import addRecentSettingButtonEvent from './recentSetting.js';
 import addSizeSettingButtonEvent from './sizeSetting.js';
 
-const addInitialButtonEvents = () => {
+const addButtonEvents = () => {
   addResetBtnEvent();
   addCopyBtnEvent();
   addGoSettingBtnEvent();
   addGithubBtnEvent();
   addGobackBtnEvent();
-};
-
-const addSettingButtonEvents = () => {
   addCopySettingButtonEvent();
   addRecentSettingButtonEvent();
   addSizeSettingButtonEvent();
 };
 
-export { addInitialButtonEvents, addSettingButtonEvents };
+export default addButtonEvents;

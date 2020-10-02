@@ -2,8 +2,9 @@
 import Doc from '../../utils/doc.js';
 
 export default function addSearchInputEvent() {
+  const emojiElements = Doc.findAll('.emoji-span');
+
   Doc.find('#searchInput').addEventListener('change', (e) => {
-    const emojiElements = Doc.findAll('.emoji-span');
     const searchInput = e.target.value.toUpperCase();
 
     emojiElements.forEach((emoji) => {

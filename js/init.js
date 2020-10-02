@@ -47,13 +47,17 @@ function setSettingButtonsCss() {
 }
 
 export default function initialSetting() {
-  // 프로그램 첫 로드 시 Localstorage setting
-  if (!localStorage.getItem('hasInitialSetting')) {
-    localStorage.setItem('hasInitialSetting', true);
-    localStorage.setItem('copy', 'auto');
-    localStorage.setItem('emojiSize', 'normal');
-    localStorage.setItem('recentNum', 20);
-    localStorage.setItem('windowState', 'popup');
-  }
-  setSettingButtonsCss();
+  return new Promise((resolve) => {
+    // 프로그램 첫 로드 시 Localstorage setting
+    if (!localStorage.getItem('hasInitialSetting')) {
+      localStorage.setItem('hasInitialSetting', true);
+      localStorage.setItem('copy', 'auto');
+      localStorage.setItem('emojiSize', 'normal');
+      localStorage.setItem('recentNum', 20);
+      localStorage.setItem('windowState', 'popup');
+     }
+    setSettingButtonsCss();
+
+    resolve();
+  });
 }
