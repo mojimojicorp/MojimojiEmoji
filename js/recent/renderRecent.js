@@ -8,23 +8,24 @@ function renderRecent() {
 
   recentGroup.textContent = '';
 
-  if (recent !== null) {
-    // recentNum보다 길이가 길면 잘라서 localstorage에 저장
-    if (recent.length > recentNum) {
-      recent.splice(recentNum);
-      localStorage.setItem('recent', JSON.stringify(recent));
-    }
+  if (!recent) return;
 
-    // localstorage에 있는 recent를 html에 붙여주기
-    recent.forEach((data) => {
-      const span = Doc.create('span');
-      span.setAttribute('class', `emoji-span ${sizeSetting}`);
-      span.setAttribute('title', data.name);
-      span.textContent = data.char;
-      twemoji.parse(span);
-      recentGroup.appendChild(span);
-    });
+  // recentNum보다 길이가 길면 잘라서 localstorage에 저장
+  if (recent.length > recentNum) {
+    recent.splice(recentNum);
+    localStorage.setItem('recent', JSON.stringify(recent));
   }
+
+  // localstorage에 있는 recent를 html에 붙여주기
+  recent.forEach((data) => {
+    const span = Doc.create('span');
+    span.setAttribute('class', `emoji-span ${sizeSetting}`);
+    span.setAttribute('title', data.name);
+    span.textContent = data.char;
+    twemoji.parse(span);
+    recentGroup.appendChild(span);
+  });
+  
 }
 
 export default renderRecent;
