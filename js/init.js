@@ -48,8 +48,8 @@ function setSettingButtonsCss() {
 
 export default function initialSetting() {
   // 프로그램 첫 로드 시 Localstorage setting
-  if (!localStorage.getItem('firstLoad')) {
-    localStorage.setItem('firstLoad', true);
+  if (!localStorage.getItem('hasInitialSetting')) {
+    localStorage.setItem('hasInitialSetting', true);
     localStorage.setItem('copy', 'auto');
     localStorage.setItem('emojiSize', 'normal');
     localStorage.setItem('recentNum', 20);
