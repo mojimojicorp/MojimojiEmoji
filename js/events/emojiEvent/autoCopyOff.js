@@ -9,7 +9,7 @@ function autoCopyOff(e) {
   const content = copyGroup.value;
 
   copyGroup.value = content.concat(e.target.alt);
-  updateRecent(e.target.title, e.target.alt);
+  updateRecent(e.target.parentElement.title, e.target.alt);
 }
 
 function addAutoCopyOffEvent() {

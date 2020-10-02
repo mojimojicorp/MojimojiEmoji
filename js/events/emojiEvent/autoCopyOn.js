@@ -11,7 +11,7 @@ function autoCopyOn(e) {
 
   copyGroup.value = content.concat(e.target.alt);
   copy();
-  updateRecent(e.target.title, e.target.alt);
+  updateRecent(e.target.parentElement.title, e.target.alt);
 }
 
 function addAutoCopyOnEvent() {
