@@ -6,6 +6,7 @@ import addGobackBtnEvent from './goback.js';
 import addCopySettingButtonEvent from './copySetting.js';
 import addRecentSettingButtonEvent from './recentSetting.js';
 import addSizeSettingButtonEvent from './sizeSetting.js';
+import addPanelButtonEvent from './panel.js';
 
 const addButtonEvents = () => {
   addResetBtnEvent();
@@ -16,6 +17,7 @@ const addButtonEvents = () => {
   addCopySettingButtonEvent();
   addRecentSettingButtonEvent();
   addSizeSettingButtonEvent();
+  addPanelButtonEvent();
 };
 
 export default addButtonEvents;
