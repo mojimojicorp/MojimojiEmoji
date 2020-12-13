@@ -1,4 +1,4 @@
-import Doc from './utils/doc.js';
+import Doc from '../../utils/doc.js';
 
 function setSettingButtonsCss() {
   const copybtns = Doc.findAll('.autocopyBtn');
@@ -55,7 +55,7 @@ export default function initialSetting() {
       localStorage.setItem('emojiSize', 'normal');
       localStorage.setItem('recentNum', 20);
       localStorage.setItem('windowState', 'popup');
-     }
+    }
     setSettingButtonsCss();
 
     resolve();

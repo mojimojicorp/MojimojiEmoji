@@ -1,5 +1,5 @@
-import initialSetting from './init.js';
-import makeEmojiContainers from './components/emojiContainers.js';
+import initialSetting from './pages/settings/init.js';
+import makeEmojiContainers from './pages/main/emojiContainers.js';
 import addButtonEvents from './events/buttonEvent/index.js';
 import addSearchInputEvents from './events/inputEvent/search.js';
 import makeInitialView from './components/index.js';

@@ -1,5 +1,5 @@
 import Doc from '../../utils/doc.js';
-import updateRecent from '../../recent/updateRecent.js';
+import updateRecent from '../../components/recent/updateRecent.js';
 
 const groups = Doc.find('.groups');
 

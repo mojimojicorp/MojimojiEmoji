@@ -1,6 +1,6 @@
 /* eslint-disable no-undef */
 import Doc from './utils/doc.js';
-import renderRecent from './recent/renderRecent.js';
+import renderRecent from './components/recent/renderRecent.js';
 import emojis from '../emojis/emojis.js';
 
 const attachEmoji = (groups) => {

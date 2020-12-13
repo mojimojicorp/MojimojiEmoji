@@ -1,4 +1,4 @@
-import copy from '../../service/copy.js';
+import copy from '../../pages/main/copy.js';
 import Doc from '../../utils/doc.js';
 
 const copyBtn = Doc.find('#copy_btn');

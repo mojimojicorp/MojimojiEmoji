@@ -1,4 +1,4 @@
-import removeDuplicate from '../service/removeDuplicate.js';
+import removeDuplicate from './removeDuplicate.js';
 import renderRecent from './renderRecent.js';
 
 function updateRecent(name, char) {

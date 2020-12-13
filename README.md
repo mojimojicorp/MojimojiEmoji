@@ -12,12 +12,27 @@ Extension application for whale browser.
 
 </center>
 
-```
-v.1.0.1 Update
+&nbsp;
+&nbsp;
+
+## 🆕Update
+
+&nbsp;
+
+### v.1.1.0 Update
+
+- 프로젝트 구조 변경
+- jquery, clipboard 라이브러리 제거
+- copy, recent 동작 개선
+  
+
+### v.1.0.1 Update
 
 - 누락된 이모티콘 추가 (표정, 동물-어류, 도구)
 - 오타 수정
-```
+
+&nbsp;
+&nbsp;
 
 ## 👾Getting Started
 
@@ -31,9 +46,15 @@ Whale Browser [설치](https://whale.naver.com/ko/download)가 필요합니다.
 npm install
 ```
 
+&nbsp;
+&nbsp;
+
 ## 🔌Running the tests
 
 로컬에 프로젝트 저장 후, 웨일 브라우저 [개발자 모드](whale://extensions/)에서 프로젝트를 설치하면 테스트 가능합니다.
+
+&nbsp;
+&nbsp;
 
 ## 🔨Built With
 
@@ -41,6 +62,46 @@ npm install
 - [Font Awesome](https://fontawesome.com/)
 - [Twemoji](https://twemoji.twitter.com)
 - [Clipboard.js](https://github.com/zenorocha/clipboard.js)
+
+&nbsp;
+&nbsp;
+
+## 📁File Structure
+
+```
+/app
+    index.html 👉 project html 구조
+/css
+    index.css
+/js
+    /utils
+        doc.js 👉 document methods
+        const.js 👉 const bundle
+    /pages
+        /main
+            emojiContainers.js 👉 emoji 불러올 html 구조 생성
+            copy.js 👉 copy button click 후 기능
+        /settings
+            init.js 👉 setting page 초기 값 설정
+    /components
+        index.js 
+        nav.js 👉 nav bar에 버튼 추가
+        skintoneButtons.js 👉 피부색 버튼 추가
+        /recent
+            renderRecent.js 👉 recent 요소 render
+            updateRecent.js 👉 update recent data
+            removeDuplicate.js 👉 중복 요소 제거
+    /events
+        /buttonEvent(button click 관련 event listener 등록)
+        /emojiEvent(emoji button click 관련 event listener 등록)
+        /inputEvent(input 관련 event listener 등록)
+```
+
+js 관련 폴더는 크게 utils / pages / components / events 로 나뉩니다.        
+events 폴더 내의 파일은 단순 eventlistener 등록 관련 파일입니다.
+
+&nbsp;
+&nbsp;
 
 ## 👥Contributing
 
