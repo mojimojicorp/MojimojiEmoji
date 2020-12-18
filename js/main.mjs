@@ -4,8 +4,7 @@ import getEmoji from './pages/main/getEmoji.js';
 import makeInitialView from './components/index.js';
 import addButtonEvents from './events/buttonEvent/index.js';
 import addSkintoneButtonEvent from './events/buttonEvent/skintone.js';
-import { addAutoCopyOnEvent } from './events/emojiEvent/autoCopyOn.js';
-import { addAutoCopyOffEvent } from './events/emojiEvent/autoCopyOff.js';
+import emojiEvent from './events/emojiEvent/index.js';
 import addSearchInputEvents from './events/inputEvent/search.js';
 
 function setInit() {
@@ -19,9 +18,9 @@ function addEventsRelatedEmoji() {
 
   const copySetting = localStorage.getItem('copy');
   if (copySetting === 'auto') {
-    addAutoCopyOnEvent();
+    emojiEvent.addAutoCopyOnEvent();
   } else if (copySetting === 'manual') {
-    addAutoCopyOffEvent();
+    emojiEvent.addAutoCopyOffEvent();
   }
 }
 

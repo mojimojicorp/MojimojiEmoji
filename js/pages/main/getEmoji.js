@@ -3,52 +3,62 @@ import Doc from '../../utils/doc.js';
 import renderRecent from '../../components/recent/renderRecent.js';
 import emojis from '../../../emojis/index.js';
 
-const attachEmoji = (containers) => {
+const attachEmoji = () => {
+  const containers = Doc.findAll('.emoji-span-container');
   const size = localStorage.getItem('emojiSize');
-
   emojis.forEach((emoji) => {
-    emoji.forEach((data) => {
-      const span = Doc.create('span');
-      span.setAttribute('class', `emoji-span ${size}`);
-      span.setAttribute('title', data.name);
-      span.textContent = data.char;
-      twemoji.parse(span);
+    if (window.Worker) {
+      const worker = new Worker('../js/worker.js');
+      
+      worker.postMessage(emoji);
 
-      if (data.category === 'people') {
-        if (data.name.includes('skin-tone')) {
-          if (size === 'small') {
-            span.setAttribute('style', 'display:none;');
-          } else if (size === 'normal') {
-            span.setAttribute('style', 'display:none;');
-          } else if (size === 'big') {
+      worker.onmessage = function (e) {
+        
+        let category = 0;
+        switch(e.data[0].category){
+          case 'skin-tone' :
+            category = 0; break;
+          case 'people':
+            category = 1; break;
+          case 'nature' :
+            category = 2; break;
+          case 'activity' :
+            category = 3;  break;
+          case 'foodAndDrink' :
+            category = 4; break;
+          case 'places' :
+            category = 5; break;
+          case 'objects' :
+            category = 6; break;
+          case 'symbols' :
+            category = 7; break;
+          case 'flags' :
+            category = 8; break;
+        }
+
+        e.data.map((emoji) => {
+          const span = Doc.create('span');
+          span.setAttribute('class', `emoji-span ${size}`);
+          span.setAttribute('title', emoji.name);
+          span.innerHTML = emoji.char;
+          
+          if(category === 0){
             span.setAttribute('style', 'display:none;');
           }
-        }
-        containers[1].appendChild(span);
-      } else if (data.category === 'nature') {
-        containers[2].appendChild(span);
-      } else if (data.category === 'foodAndDrink') {
-        containers[3].appendChild(span);
-      } else if (data.category === 'activity') {
-        containers[4].appendChild(span);
-      } else if (data.category === 'places') {
-        containers[5].appendChild(span);
-      } else if (data.category === 'objects') {
-        containers[6].appendChild(span);
-      } else if (data.category === 'symbols') {
-        containers[7].appendChild(span);
-      } else if (data.category === 'flags') {
-        containers[8].appendChild(span);
-      }
-    });
+          containers[category].appendChild(span);
+        });
+      };
+    } else {
+      console.log("Your browser doesn't support web workers.");
+    }   
   });
 };
 
 export default function getEmoji() {
   return new Promise((resolve) => {
-    const containers = Doc.findAll('.emoji-span-container');
+    
 
-    attachEmoji(containers);
+    attachEmoji();
     renderRecent();
 
     resolve();
