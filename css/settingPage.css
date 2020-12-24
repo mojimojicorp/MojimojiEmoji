@@ -1,0 +1,83 @@
+.setting {
+  cursor: pointer;
+}
+
+.setting-container {
+  display: none;
+  width: 100%;
+  padding: 20px;
+  font-size: 15px;
+  font-weight: 600;
+}
+
+.goback {
+  border: none;
+  cursor: pointer;
+}
+.goback span {
+  margin-left: 5px;
+  font-weight: 600;
+}
+
+.settingBtns {
+  margin-top: 30px;
+  padding-left: 20px;
+  font-size: 17px;
+}
+.settingBtns span {
+  margin-left: -8px;
+  cursor: default;
+}
+
+.btn-container {
+  margin-top: 15px;
+  margin-bottom: 40px;
+}
+
+.btn-container button {
+  width: 80px;
+  height: 40px;
+  margin-left: -6px;
+
+  border: 1px solid #bdc3c7;
+  border-radius: 2px;
+  background-color: white;
+  color: #bdc3c7;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.btn-container .active {
+  border: 1px solid #f1c40f;
+  background-color: #f1c40f;
+  color: black;
+  font-weight: 600;
+}
+
+.settingBtn:focus {
+  outline: 0;
+}
+.settingBtn:hover {
+  background-color: #f1c40fab;
+  color: black;
+  border: 1px solid #f1c40f;
+  -webkit-transition: width 0.5s;
+}
+
+.github hr {
+  width: 360px;
+  margin-bottom: 20px;
+  margin-left: 0px;
+}
+
+.github i {
+  cursor: pointer;
+  margin-left: 30px;
+  margin-right: 20px;
+  vertical-align: middle;
+}
+
+.github span {
+  font-size: 15px;
+  font-weight: 500;
+}

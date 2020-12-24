@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "extends": [
     "airbnb-base",
     "prettier",
@@ -33,3 +34,34 @@
     "sourceType": "module"
   }
 }
+=======
+    "extends": [
+        "airbnb-base", 
+        "prettier", 
+        "plugin:import/errors",
+        "plugin:import/warnings",
+        "eslint:recommended"
+    ],
+    "plugins": ["prettier", "import"],
+    "rules": {
+        "indent": ["error", 2],
+        "semi": ["error", "always"],
+        "quotes": ["error", "single"],
+        "no-console": ["error", { "allow": ["warn", "error"] }],
+        "default-case": 0,
+        "no-array-constructor": 0
+    },
+    "env": {
+        "browser": true,
+        "es6": true
+    },
+    "globals": {
+        "Atomics": "readonly",
+        "SharedArrayBuffer": "readonly"
+    },
+    "parserOptions": {
+        "ecmaVersion": 6,
+        "sourceType": "module"
+    }
+}
+>>>>>>> develop

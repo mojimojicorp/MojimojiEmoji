@@ -1,0 +1,45 @@
+const Cons = {
+  NAV_NAME_LIST: [
+    'recents',
+    'people',
+    'nature',
+    'foodAndDrink',
+    'activity',
+    'place',
+    'objects',
+    'symbols',
+    'flags',
+  ],
+  NAV_ICON_LIST: [
+    'fa-history',
+    'fa-smile',
+    'fa-paw',
+    'fa-utensils',
+    'fa-basketball-ball',
+    'fa-car',
+    'fa-lightbulb',
+    'fa-icons',
+    'fa-flag',
+  ],
+  NAV_TEXT_LIST: [
+    'Recents',
+    'People',
+    'Nature',
+    'Food & Drink',
+    'Activity',
+    'Place',
+    'Objects',
+    'Symbols',
+    'Flags',
+  ],
+  SKINTONE_COLOR_LIST: ['1F3FB', '1F3FC', '1F3FD', '1F3FE', '1F3FF'],
+  SKINTONE_LIST: [
+    'light-skin-tone',
+    'medium-light-skin-tone',
+    'medium-skin-tone',
+    'medium-dark-skin-tone',
+    'dark-skin-tone',
+  ],
+};
+
+export default Cons;
