@@ -1,4 +1,4 @@
-import Doc from '../../utils/doc.js';
+import Doc from '../../../utils/doc.js';
 
 const group = Doc.find('#copy_group');
 const copyBtn = Doc.find('#copy_btn');

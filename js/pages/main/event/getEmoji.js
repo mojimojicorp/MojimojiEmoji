@@ -1,7 +1,7 @@
 /* eslint-disable no-undef */
-import Doc from '../../utils/doc.js';
-import renderRecent from '../../components/recent/renderRecent.js';
-import emojis from '../../../emojis/index.js';
+import Doc from '../../../utils/doc.js';
+import renderRecent from '../../../components/recent/renderRecent.js';
+import emojis from '../../../../emojis/index.js';
 
 const attachEmoji = () => {
   const containers = Doc.findAll('.emoji-span-container');
@@ -15,7 +15,7 @@ const attachEmoji = () => {
       worker.onmessage = function (e) {
         
         let category = 0;
-        switch(e.data[0].category){
+        switch (e.data[0].category){
           case 'skin-tone' :
             category = 0; break;
           case 'people':

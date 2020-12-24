@@ -1,4 +1,4 @@
-import Doc from '../../utils/doc.js';
+import Doc from '../../../utils/doc.js';
 
 function setSettingButtonsCss() {
   const copybtns = Doc.findAll('.autocopyBtn');
