@@ -124,8 +124,9 @@ p {
 
 .emoji-span-container {
   width: 100%;
-  display: flex;
-  flex-wrap: wrap;
+  display: grid;
+  justify-items: center;
+  align-items: center;
   cursor: pointer;
 }
 
@@ -270,31 +271,4 @@ p {
 .github span {
   font-size: 15px;
   font-weight: 500;
-}
-
-.big {
-  height: 60px;
-  padding: 10px;
-}
-
-.big img {
-  height: 60px;
-}
-
-.normal {
-  height: 30px;
-  padding: 5px;
-}
-
-.normal img {
-  height: 30px;
-}
-
-.small {
-  height: 15px;
-  padding: 5px;
-}
-
-.small img {
-  height: 15px;
 }

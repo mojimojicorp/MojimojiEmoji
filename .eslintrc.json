@@ -1,35 +1,20 @@
 {
-  "extends": [
-    "airbnb-base",
-    "prettier",
-    "plugin:import/errors",
-    "plugin:import/warnings",
-    "eslint:recommended"
-  ],
-  "plugins": ["prettier", "import"],
-  "rules": {
-    "indent": ["error", 2, { "SwitchCase": 1 }],
-    "semi": ["error", "always"],
-    "quotes": ["error", "single"],
-    "no-console": ["error", { "allow": ["warn", "error"] }],
-    "default-case": 0,
-    "no-array-constructor": 0,
-    "import/extensions": ["error", "always"],
-    "keyword-spacing": ["error", { "before": true }],
-    "eqeqeq": ["error", "always"],
-    "comma-spacing": ["error", { "before": false, "after": true }],
-    "block-spacing": ["error", "always"]
-  },
-  "env": {
-    "browser": true,
-    "es6": true
-  },
-  "globals": {
-    "Atomics": "readonly",
-    "SharedArrayBuffer": "readonly"
-  },
-  "parserOptions": {
-    "ecmaVersion": 2018,
-    "sourceType": "module"
-  }
+    "env": {
+        "browser": true,
+        "es6": true
+    },
+    "extends": [
+        "airbnb-base"
+    ],
+    "globals": {
+        "Atomics": "readonly",
+        "SharedArrayBuffer": "readonly"
+    },
+    "parserOptions": {
+        "ecmaVersion": 2018,
+        "sourceType": "module"
+    },
+    "rules": {
+        "indent": ["error", 4]
+    }
 }
