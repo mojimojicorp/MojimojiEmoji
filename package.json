@@ -1,6 +1,6 @@
 {
   "name": "emojibyeternal",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Emoji keyboard extension for Whale",
   "main": "index.js",
   "scripts": {
@@ -16,13 +16,16 @@
     "url": "https://github.com/soyoungjeong/EmojiByEternal/issues"
   },
   "homepage": "https://github.com/soyoungjeong/EmojiByEternal#readme",
-  "dependencies": {},
+  "dependencies": {
+    "twemoji": "^12.1.2"
+  },
   "devDependencies": {
     "eslint": "^6.3.0",
     "eslint-config-airbnb-base": "^14.0.0",
     "eslint-config-prettier": "^6.11.0",
     "eslint-plugin-import": "^2.21.1",
     "eslint-plugin-prettier": "^3.1.3",
-    "prettier": "^2.0.5"
+    "prettier": "^2.0.5",
+    "jsdom-quokka-plugin": "^1.0.16"
   }
 }

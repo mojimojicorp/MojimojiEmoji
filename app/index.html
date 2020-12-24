@@ -4,16 +4,13 @@
     <meta charset="utf-8" />
     <title>MojiMoji Emoji</title>
     <link rel="stylesheet" href="../css/index.css" />
-    <link rel="stylesheet" href="../css/header.css" />
-    <link rel="stylesheet" href="../css/copyStatus.css" />
-    <link rel="stylesheet" href="../css/emojiContainer.css" />
-    <link rel="stylesheet" href="../css/settingPage.css" />
     <link rel="stylesheet" href="../css/fontawesome/all.css" />
   </head>
 
   <body>
     <div class="container">
-      <div class="header">
+      <!-- header -->
+      <header class="header">
         <div class="grid-logo">
           <p>MojiMoji? Emoji!</p>
         </div>
@@ -23,7 +20,7 @@
         <div class="grid-setting">
           <i class="setting fas fa-cog fa-2x"></i>
         </div>
-      </div>
+      </header>
 
       <div class="emoji-container">
         <div class="emoji-nav"></div>
@@ -38,7 +35,7 @@
               autofocus
             />
           </div>
-          <div class="color-container"></div>
+          <div class="color"></div>
         </div>
 
         <!-- emoji list -->
@@ -46,18 +43,19 @@
           <div class="groups"></div>
         </div>
       </div>
+
       <!-- footer -->
-      <div class="footer">
+      <footer class="footer">
         <!--<div class="keyboard"></div>-->
-        <div class="copyStatus">
+        <div class="status">
           <input type="text" id="copy_group" />
           <button type="button" id="reset_btn">
-            <img src="../images/reset.png" id="reset_img" />
+            <img src="../reset.png" id="reset_img" />
           </button>
 
           <input type="button" id="copy_btn" value="copy!" />
         </div>
-      </div>
+      </footer>
 
       <!-- setting page -->
       <div class="setting-container">
@@ -103,7 +101,7 @@
       </div>
     </div>
 
-    <script type="module" src="../js/components/load.js"></script>
-    <script type="module" src="../js/components/afterLoad.js"></script>
+    <script type="text/javascript" src="../js/dist/twemoji.min.js"></script>
+    <script type="module" src="../js/main.mjs"></script>
   </body>
 </html>
