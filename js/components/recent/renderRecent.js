@@ -1,4 +1,5 @@
-import Doc from '../utils/doc.js';
+/* eslint-disable no-undef */
+import Doc from '../../utils/doc.js';
 
 function renderRecent() {
   const recentGroup = Doc.find('.recent-group .emoji-span-container');

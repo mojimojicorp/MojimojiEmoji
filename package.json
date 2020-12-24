@@ -1,6 +1,6 @@
 {
   "name": "emojibyeternal",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Emoji keyboard extension for Whale",
   "main": "index.js",
   "scripts": {
@@ -17,7 +17,6 @@
   },
   "homepage": "https://github.com/soyoungjeong/EmojiByEternal#readme",
   "dependencies": {
-    "clipboard": "^2.0.4",
     "twemoji": "^12.1.2"
   },
   "devDependencies": {
