@@ -45,6 +45,10 @@ const attachEmoji = () => {
           if(category === 0){
             span.setAttribute('style', 'display:none;');
           }
+
+          if(category === 1 && emoji.name.includes('skin-tone')){
+            span.setAttribute('style', 'display:none;');
+          }
           containers[category].appendChild(span);
         });
       };
