@@ -1,6 +1,6 @@
 # 모지모지 이모지(MojiMoji Emoji)
 
-![](https://img.shields.io/badge/language-javascript-red.svg) ![](https://img.shields.io/badge/version-1.0.1-orange) ![](https://img.shields.io/badge/license-MIT-green)
+![](https://img.shields.io/badge/language-javascript-red.svg) ![](https://img.shields.io/badge/version-1.0.2-orange) ![](https://img.shields.io/badge/license-MIT-green)
 
 <center>
 <img src="https://user-images.githubusercontent.com/30452963/69117857-76298b00-0ad4-11ea-9243-17ad4805c9eb.png" width="250" height="250"><br></br>
@@ -19,14 +19,14 @@ Extension application for whale browser.
 
 &nbsp;
 
-### v.1.1.0 Update
+### v1.0.2 Update
 
 - 프로젝트 구조 변경
 - jquery, clipboard 라이브러리 제거
 - copy, recent 동작 개선
   
 
-### v.1.0.1 Update
+### v1.0.1 Update
 
 - 누락된 이모티콘 추가 (표정, 동물-어류, 도구)
 - 오타 수정
