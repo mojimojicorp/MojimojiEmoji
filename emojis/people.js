@@ -1725,7 +1725,7 @@ export default [
   {
     codes: '1F468 1F3FD 200D 1F4BB',
     char: '👨🏽‍💻',
-    name: 'man technologist: medium skin tone',
+    name: 'man technologist: medium-skin-tone',
     category: 'people',
   },
   {
