@@ -6,6 +6,7 @@
     "plugin:import/warnings",
     "eslint:recommended"
   ],
+  "parser": "babel-eslint",
   "plugins": ["prettier", "import"],
   "rules": {
     "indent": ["error", 2, { "SwitchCase": 1 }],

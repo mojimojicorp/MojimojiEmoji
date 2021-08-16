@@ -1,18 +1,18 @@
 /* eslint-disable no-undef */
 import Doc from '../../../utils/doc.js';
 import renderRecent from '../../../components/recent/renderRecent.js';
-import emojis from '../../../../emojis/index.js';
+import emojis from '../../../../assets/emojis/index.js';
 
 const attachEmoji = () => {
   const containers = Doc.findAll('.emoji-span-container');
   const size = localStorage.getItem('emojiSize');
   emojis.forEach((emoji) => {
     if (window.Worker) {
-      const worker = new Worker('../js/worker.js');
+      const worker = new Worker(new URL('../../../../worker.js', import.meta.url));
       
       worker.postMessage(emoji);
 
-      worker.onmessage = function (e) {
+      worker.onmessage = (e) => {
         
         let category = 0;
         switch (e.data[0].category){
@@ -36,24 +36,24 @@ const attachEmoji = () => {
             category = 8; break;
         }
 
-        e.data.map((emoji) => {
+        e.data.forEach((data) => {
           const span = Doc.create('span');
           span.setAttribute('class', `emoji-span ${size}`);
-          span.setAttribute('title', emoji.name);
-          span.innerHTML = emoji.char;
+          span.setAttribute('title', data.name);
+          span.innerHTML = data.char;
           
-          if(category === 0){
+          if (category === 0){
             span.setAttribute('style', 'display:none;');
           }
 
-          if(category === 1 && emoji.name.includes('skin-tone')){
+          if (category === 1 && data.name.includes('skin-tone')){
             span.setAttribute('style', 'display:none;');
           }
           containers[category].appendChild(span);
         });
       };
     } else {
-      console.log("Your browser doesn't support web workers.");
+      // console.log('Your browser doesn\'t support web workers.');
     }   
   });
 };
