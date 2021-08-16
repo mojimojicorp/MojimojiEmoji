@@ -1,15 +1,15 @@
 {
   "manifest_version": 2,
   "name": "모지모지 이모지",
-  "version": "1.0.2",
+  "version": "1.0.4",
 
   "description": "모지모지 이모지로 컴퓨터에서도 쉽게 이모티콘을 입력해보세요!",
 
   "browser_action": {
-    "default_popup": "app/index.html",
+    "default_popup": "./src/index.html",
     "default_icon": {
-      "16": "icon.png",
-      "32": "icon.png"
+      "16": "./src/assets/images/icon.png",
+      "32": "./src/assets/images/icon.png"
     }
   },
   "permissions": ["tabs"]
